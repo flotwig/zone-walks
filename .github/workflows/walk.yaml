@@ -1,4 +1,4 @@
-name: 'Scan TLDs'
+name: 'Walk zones'
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  scan:
+  walk:
     if: "contains(github.event.head_commit.message, 'Update walkable zones')"
     runs-on: ubuntu-20.04
     strategy:
@@ -57,7 +57,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        ssh-key: $
+        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
     - run: apt-get install ldnsutils
     - run: ldns-walk

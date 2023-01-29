@@ -8,11 +8,14 @@ on:
     - cron: '* */12 * * *' # every 12 hours
 
 jobs:
-  scan:
+  update_walkable_zones:
     if: "!contains(github.event.head_commit.message, 'Update walkable zones') && !contains(github.event.head_commit.message, 'Zone walk')"
     runs-on: ubuntu-20.04
     steps:
     - uses: actions/checkout@v3
+      with:
+        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+        persist-credentials: true
     - run: ./build-walkable-zones.sh
     - uses: actions/setup-python@v4
       with:
