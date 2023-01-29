@@ -1,4 +1,4 @@
-name: 'Walk zones'
+name: 'Scan TLDs'
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  walk:
+  scan:
     if: "contains(github.event.head_commit.message, 'Update walkable zones')"
     runs-on: ubuntu-20.04
     strategy:
@@ -57,14 +57,15 @@ jobs:
     steps:
     - uses: actions/checkout@v3
       with:
-        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+        ssh-key: $
         persist-credentials: true
     - run: apt-get install ldnsutils
-    - run: ldns-walk
+    - run: ldns-walk $ | cut -d " " -f1 | cut -f1 > ./zones/$
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
         git config --local user.name "Zone Walks GitHub Action"
         git add zones
         git commit -m "Zone walk ($(date -u +"%x %H:%M"))"
+        git pull --rebase
         git push || (git pull --rebase && git push) || (sleep 15 && git pull --rebase && git push) || (sleep 30 && git pull --rebase && git push)
