@@ -22,7 +22,7 @@ jobs:
         python-version: '2.7.18'
         cache: 'pip'
     - run: pip install -r requirements.txt
-    - run: chevron -d ./walkable-zones.json ./.github/workflows/walk.yaml.template > ./.github/workflows/walk.yaml
+    - run: chevron -l "[[" -r "]]" -d ./walkable-zones.json ./.github/workflows/walk.yaml.template > ./.github/workflows/walk.yaml
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
