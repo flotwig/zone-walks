@@ -1,0 +1,130 @@
+{
+  "zones": [
+    {
+      "zone": "arpa"
+    },
+    {
+      "zone": "audio"
+    },
+    {
+      "zone": "auto"
+    },
+    {
+      "zone": "ax"
+    },
+    {
+      "zone": "br"
+    },
+    {
+      "zone": "bt"
+    },
+    {
+      "zone": "car"
+    },
+    {
+      "zone": "cars"
+    },
+    {
+      "zone": "christmas"
+    },
+    {
+      "zone": "ci"
+    },
+    {
+      "zone": "cy"
+    },
+    {
+      "zone": "diet"
+    },
+    {
+      "zone": "dz"
+    },
+    {
+      "zone": "ee"
+    },
+    {
+      "zone": "flowers"
+    },
+    {
+      "zone": "game"
+    },
+    {
+      "zone": "gdn"
+    },
+    {
+      "zone": "gn"
+    },
+    {
+      "zone": "guitars"
+    },
+    {
+      "zone": "hosting"
+    },
+    {
+      "zone": "id"
+    },
+    {
+      "zone": "kg"
+    },
+    {
+      "zone": "kz"
+    },
+    {
+      "zone": "lb"
+    },
+    {
+      "zone": "lk"
+    },
+    {
+      "zone": "lol"
+    },
+    {
+      "zone": "lr"
+    },
+    {
+      "zone": "mom"
+    },
+    {
+      "zone": "nu"
+    },
+    {
+      "zone": "pics"
+    },
+    {
+      "zone": "pr"
+    },
+    {
+      "zone": "ruhr"
+    },
+    {
+      "zone": "se"
+    },
+    {
+      "zone": "sl"
+    },
+    {
+      "zone": "tn"
+    },
+    {
+      "zone": "tz"
+    },
+    {
+      "zone": "ve"
+    },
+    {
+      "zone": "xn--80ao21a"
+    },
+    {
+      "zone": "xn--fzc2c9e2c"
+    },
+    {
+      "zone": "xn--l1acc"
+    },
+    {
+      "zone": "xn--pgbs0dh"
+    },
+    {
+      "zone": "xn--xkc2al3hye2a"
+    }
+  ]
+}

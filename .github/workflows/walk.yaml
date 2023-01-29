@@ -1,0 +1,70 @@
+name: 'Scan TLDs'
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  scan:
+    if: "contains(github.event.head_commit.message, 'Update walkable zones')"
+    runs-on: ubuntu-20.04
+    strategy:
+      matrix:
+        zone:
+        - arpa
+        - audio
+        - auto
+        - ax
+        - br
+        - bt
+        - car
+        - cars
+        - christmas
+        - ci
+        - cy
+        - diet
+        - dz
+        - ee
+        - flowers
+        - game
+        - gdn
+        - gn
+        - guitars
+        - hosting
+        - id
+        - kg
+        - kz
+        - lb
+        - lk
+        - lol
+        - lr
+        - mom
+        - nu
+        - pics
+        - pr
+        - ruhr
+        - se
+        - sl
+        - tn
+        - tz
+        - ve
+        - xn--80ao21a
+        - xn--fzc2c9e2c
+        - xn--l1acc
+        - xn--pgbs0dh
+        - xn--xkc2al3hye2a
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        ssh-key: $
+        persist-credentials: true
+    - run: apt-get install ldnsutils
+    - run: ldns-walk
+    - name: Commit files
+      run: |
+        git config --local user.email "zone-walks@chary.us"
+        git config --local user.name "Zone Walks GitHub Action"
+        git add zones
+        git commit -m "Zone walk ($(date -u +"%x %H:%M"))"
+        git push || (git pull --rebase && git push) || (sleep 15 && git pull --rebase && git push) || (sleep 30 && git pull --rebase && git push)
