@@ -1,4 +1,4 @@
-name: 'Scan TLDs'
+name: 'Walk zones'
 
 on:
   push:
