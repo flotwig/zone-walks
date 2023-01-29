@@ -28,5 +28,5 @@ jobs:
         git config --local user.email "zone-walks@chary.us"
         git config --local user.name "Zone Walks GitHub Action"
         git add ./walkable-zones.json ./.github/workflows/walk.yaml
-        git commit -m "Update walkable zones ($(date -u +"%x %H:%M"))"
+        git commit -m "Update walkable zones ($(date -u +"%x %H:%M"))" --allow-empty
         git push
