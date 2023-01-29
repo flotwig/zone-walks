@@ -20,13 +20,15 @@ jobs:
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
-    - run: sudo apt-get install ldnsutils
-    - run: ldns-walk @1.1.1.1 ${{ matrix.zone }} | cut -d " " -f1 | cut -f1 > ./lists/${{ matrix.zone }}.txt
+    - run: sudo apt-get install ldnsutils dnsmasq
+    - run: |
+        sudo dnsmasq --no-hosts --no-resolv --listen-address 127.0.0.1 -S 1.1.1.1 -S 1.0.0.1 -S 8.8.8.8 -S 8.8.4.4 -S 208.67.222.222 -S 208.67.220.220 -S 9.9.9.9 -S 149.112.112.112 -S 2620:fe::fe -S 2620:fe::9 -S 9.9.9.11 -S 149.112.112.11 -S 2620:fe::11 -S 2620:fe::fe:11 -S 84.200.69.80 -S 84.200.70.40 -S 2001:1608:10:25::1c04:b12f -S 2001:1608:10:25::9249:d69b -S 2606:4700:4700::1111 -S 2606:4700:4700::1001
+        ldns-walk @127.0.0.1 ${{ matrix.zone }} | cut -d " " -f1 | cut -f1 > ./lists/${{ matrix.zone }}.txt
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
         git config --local user.name "Zone Walks GitHub Action"
         git add lists
-        git commit -m "${{ matrix.zone }} zone walk ($(date -u +"%x %H:%M"))" --allow-empty
+        git commit -m "${{ matrix.zone }} zone walk ($(date -u +"%x %H:%M"))"
         git pull --rebase
         git push || (git pull --rebase && git push) || (sleep 15 && git pull --rebase && git push) || (sleep 30 && git pull --rebase && git push)
