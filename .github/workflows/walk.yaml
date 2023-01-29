@@ -60,7 +60,7 @@ jobs:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
     - run: sudo apt-get install ldnsutils
-    - run: ldns-walk ${{ matrix.zone }} | cut -d " " -f1 | cut -f1 > ./zones/${{ matrix.zone }}
+    - run: ldns-walk @1.1.1.1 ${{ matrix.zone }} | cut -d " " -f1 | cut -f1 > ./zones/${{ matrix.zone }}.zone
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
