@@ -22,10 +22,9 @@ jobs:
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
-    - run: sudo apt-get install ldnsutils
+    - run: sudo apt-get install libgetdns-dev
     - run: |
-        NS=$(dig NS ${{ matrix.zone }} +short | head -n1)
-        ldns-walk @$NS ${{ matrix.zone }} | cut -d " " -f1 | cut -f1 > ./lists/${{ matrix.zone }}.txt
+        npx zone-walker ${{ matrix.zone }}. > ./lists/${{ matrix.zone }}.txt
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
