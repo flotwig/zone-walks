@@ -24,7 +24,7 @@ jobs:
         persist-credentials: true
     - run: sudo apt-get install libgetdns-dev
     - run: |
-        npx zone-walker ${{ matrix.zone }}. > ./lists/${{ matrix.zone }}.txt
+        npx https://github.com/flotwig/zone-walker ${{ matrix.zone }}. > ./lists/${{ matrix.zone }}.txt
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
