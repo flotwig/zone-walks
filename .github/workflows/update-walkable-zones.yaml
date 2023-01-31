@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '* 0 * * *' # every day
+    - cron: '0 0 * * *' # every day
 
 jobs:
   update_walkable_zones:
