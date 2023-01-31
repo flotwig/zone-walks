@@ -6,3 +6,10 @@ game
 # More possible rate-limited TLDs?
 # https://github.com/flotwig/zone-walks/actions/runs/4049641710/jobs/6966238462
 kz
+# zone-walker gets stuck on these, but ldns-walk works...
+# https://github.com/flotwig/zone-walks/actions/runs/4049694748/jobs/6966909076
+sl
+xn--fzc2c9e2c
+xn--xkc2al3hye2a
+# Gets stuck in an infinite loop, but ldns-walk works...
+xn--pgbs0dh
