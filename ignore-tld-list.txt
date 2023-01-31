@@ -1,0 +1,5 @@
+# TLDs in this file will not be walked automatically due to known issues.
+# ===
+# Seems to get stuck on disneymobile.game, discovery.game, maybe rate limit kicks in around "D"?
+# https://github.com/flotwig/zone-walks/actions/runs/4049476500/jobs/6965960792
+game
