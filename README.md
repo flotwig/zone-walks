@@ -13,6 +13,6 @@ Zone walking is a method of enumerating domain names that takes advantage of a q
 
 ## See Also
 
-* [`zone-walker`] is the tool this repo uses to collect the lists.
+* [`zone-walker`](https://github.com/flotwig/zone-walker) is the tool this repo uses to collect the lists.
 * [TLDR-2](https://github.com/flotwig/TLDR-2) - a collection of successful zone transfers (AXFRs) against TLDs. Auto-updated.
 * @monoidic's [TLDR2](https://github.com/monoidic/TLDR2) - an extension of TLDR that collects information about which zones are walkable. This is the inspiration for `zone-walks`, and `zone-walks` even uses the `walkable_zones.md` data from TLDR2 as a seed.
