@@ -1286,7 +1286,6 @@ jakarta.hosting
 java.hosting
 javascript.hosting
 jekyll.hosting
-jelastic.hosting
 jem.hosting
 jetpack.hosting
 jetpulp.hosting
@@ -1669,7 +1668,6 @@ nextcloud.hosting
 nft.hosting
 ngit.hosting
 nic.hosting
-nirigo.hosting
 nitrado.hosting
 nix.hosting
 nl.hosting
@@ -2370,7 +2368,6 @@ tbt4solutions.hosting
 teams.hosting
 teamspeak.hosting
 teamviewer.hosting
-tech.hosting
 techhaus.hosting
 techhouse.hosting
 technip-energies.hosting
