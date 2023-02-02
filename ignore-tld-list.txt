@@ -13,6 +13,3 @@ xn--fzc2c9e2c
 xn--xkc2al3hye2a
 # Gets stuck in an infinite loop, but ldns-walk works...
 xn--pgbs0dh
-# gdn returns invalid responses after a certain point
-# https://github.com/flotwig/zone-walks/actions/runs/4050077361/jobs/6967228839
-gdn
