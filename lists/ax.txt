@@ -1047,7 +1047,6 @@ domains.ax
 domum.ax
 donalds.ax
 doneriet.ax
-donning.ax
 doristanner.ax
 dot.ax
 doubleclick.ax
@@ -1102,8 +1101,10 @@ eckeroskola.ax
 eco.ax
 ecofood.ax
 ecooking.ax
+ecredovisning.ax
 ed.ax
 eden.ax
+edgars.ax
 edge.ax
 edgeprint.ax
 edit.ax
@@ -1261,7 +1262,6 @@ fakturering.ax
 family.ax
 fant.ax
 fantasticservices.ax
-fareata.ax
 fargtapet.ax
 fast.ax
 fastigheter.ax
@@ -2256,6 +2256,7 @@ lom.ax
 london.ax
 lonnqvist.ax
 looksm.ax
+loop.ax
 lor.ax
 lost-inn.ax
 lotsberget.ax
@@ -3782,6 +3783,7 @@ vateknik.ax
 vatten.ax
 vattenskydd.ax
 vazkepa.ax
+vc.ax
 vclub.ax
 ve.ax
 vecte.ax
@@ -3949,7 +3951,6 @@ woody.ax
 woodybygghandel.ax
 worklandia.ax
 workspace.ax
-worksystem.ax
 wp.ax
 wr.ax
 wra.ax
