@@ -624,7 +624,6 @@ blockchain.audio
 blog.audio
 blownpixel.audio
 blox.audio
-blue.audio
 blue-moon.audio
 bluecube.audio
 bluedio.audio
@@ -1325,7 +1324,6 @@ edmrecords.audio
 edouard.audio
 edu.audio
 education.audio
-edward.audio
 egger.audio
 egli.audio
 eichler.audio
@@ -2172,7 +2170,6 @@ jvc.audio
 jvr.audio
 jwsound.audio
 kabelart.audio
-kaboom.audio
 kahlina.audio
 kahm.audio
 kaiju.audio
@@ -2576,7 +2573,6 @@ mbsr.audio
 mccullough.audio
 mcguganator.audio
 mcmillan.audio
-mdlab.audio
 meck.audio
 medel.audio
 mediacomm.audio
@@ -3053,6 +3049,7 @@ olo.audio
 ome.audio
 omegaf2k.audio
 omgsoundboard.audio
+omni.audio
 omniverse.audio
 omniwave.audio
 omusic.audio
@@ -3977,6 +3974,7 @@ sparkplug.audio
 spat.audio
 spatial.audio
 spatial-3d.audio
+spatialize.audio
 speakercorrection.audio
 speakerfactory.audio
 speakfree.audio
