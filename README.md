@@ -3,6 +3,15 @@
 
 A collection of domain lists obtained from zone-walking TLDs. Updated daily.
 
+## What's zone walking?
+
+Zone walking is a method of enumerating domain names that takes advantage of a quirk in DNSSEC. To learn more, see the following resources:
+
+- [Authenticating NXDOMAIN responses and NSEC - Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions#Authenticating_NXDOMAIN_responses_and_NSEC)
+- [Economical With The Truth: Making DNSSEC Answers Cheap - Cloudflare](https://blog.cloudflare.com/black-lies/)
+
+## Current Stats
+
 TLD | Domain Count
 --- | ---
 [`se`][se] [(raw)][se-raw] | <div align="right">1442976</div>
@@ -33,23 +42,14 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">550</div>
 [`auto`][auto] [(raw)][auto-raw] | <div align="right">494</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">480</div>
-[`xn--`][xn--] [(raw)][xn---raw] | <div align="right">475</div>
+[`xn--80ao21a`][xn--80ao21a] [(raw)][xn--80ao21a-raw] | <div align="right">475</div>
 [`car`][car] [(raw)][car-raw] | <div align="right">328</div>
 [`cars`][cars] [(raw)][cars-raw] | <div align="right">297</div>
-[`xn--l`][xn--l] [(raw)][xn--l-raw] | <div align="right">155</div>
+[`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">155</div>
 [`ve`][ve] [(raw)][ve-raw] | <div align="right">46</div>
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
 **Total** | <div align="right">2331712</div>
-
-See [`./lists`](./lists) for all of the domain lists obtained by this project.
-
-## What's zone walking?
-
-Zone walking is a method of enumerating domain names that takes advantage of a quirk in DNSSEC. To learn more, see the following resources:
-
-- [Authenticating NXDOMAIN responses and NSEC - Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions#Authenticating_NXDOMAIN_responses_and_NSEC)
-- [Economical With The Truth: Making DNSSEC Answers Cheap - Cloudflare](https://blog.cloudflare.com/black-lies/)
 
 ## See Also
 
@@ -113,14 +113,14 @@ Zone walking is a method of enumerating domain names that takes advantage of a q
 [auto-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/auto.txt
 [lr]: ./lists/lr.txt
 [lr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lr.txt
-[xn--]: ./lists/xn--.txt
-[xn---raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--.txt
+[xn--80ao21a]: ./lists/xn--80ao21a.txt
+[xn--80ao21a-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--80ao21a.txt
 [car]: ./lists/car.txt
 [car-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/car.txt
 [cars]: ./lists/cars.txt
 [cars-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/cars.txt
-[xn--l]: ./lists/xn--l.txt
-[xn--l-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--l.txt
+[xn--l1acc]: ./lists/xn--l1acc.txt
+[xn--l1acc-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--l1acc.txt
 [ve]: ./lists/ve.txt
 [ve-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ve.txt
 [arpa]: ./lists/arpa.txt
