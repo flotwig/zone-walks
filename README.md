@@ -10,27 +10,27 @@ TLD | Domain Count
 [`kz`][kz] [(raw)][kz-raw] | <div align="right">159360</div>
 [`lol`][lol] [(raw)][lol-raw] | <div align="right">66855</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">49534</div>
-[`pics`][pics] [(raw)][pics-raw] | <div align="right">32410</div>
-[`mom`][mom] [(raw)][mom-raw] | <div align="right">23397</div>
-[`dz`][dz] [(raw)][dz-raw] | <div align="right">13344</div>
-[`ci`][ci] [(raw)][ci-raw] | <div align="right">12427</div>
-[`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">11973</div>
-[`kg`][kg] [(raw)][kg-raw] | <div align="right">10919</div>
-[`cy`][cy] [(raw)][cy-raw] | <div align="right">8133</div>
-[`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">5216</div>
-[`audio`][audio] [(raw)][audio-raw] | <div align="right">4784</div>
+[`pics`][pics] [(raw)][pics-raw] | <div align="right">32464</div>
+[`mom`][mom] [(raw)][mom-raw] | <div align="right">23424</div>
+[`dz`][dz] [(raw)][dz-raw] | <div align="right">13351</div>
+[`ci`][ci] [(raw)][ci-raw] | <div align="right">12648</div>
+[`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">11975</div>
+[`kg`][kg] [(raw)][kg-raw] | <div align="right">10929</div>
+[`cy`][cy] [(raw)][cy-raw] | <div align="right">8149</div>
+[`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">5218</div>
+[`audio`][audio] [(raw)][audio-raw] | <div align="right">4785</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">4143</div>
-[`ax`][ax] [(raw)][ax-raw] | <div align="right">4138</div>
-[`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2795</div>
-[`pr`][pr] [(raw)][pr-raw] | <div align="right">2089</div>
-[`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">2015</div>
+[`ax`][ax] [(raw)][ax-raw] | <div align="right">4139</div>
+[`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2797</div>
+[`pr`][pr] [(raw)][pr-raw] | <div align="right">2091</div>
+[`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">2014</div>
 [`br`][br] [(raw)][br-raw] | <div align="right">1349</div>
-[`diet`][diet] [(raw)][diet-raw] | <div align="right">1248</div>
+[`diet`][diet] [(raw)][diet-raw] | <div align="right">1247</div>
 [`bt`][bt] [(raw)][bt-raw] | <div align="right">1186</div>
-[`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1061</div>
-[`tz`][tz] [(raw)][tz-raw] | <div align="right">1048</div>
+[`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1060</div>
+[`tz`][tz] [(raw)][tz-raw] | <div align="right">1050</div>
 [`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">730</div>
-[`gn`][gn] [(raw)][gn-raw] | <div align="right">549</div>
+[`gn`][gn] [(raw)][gn-raw] | <div align="right">550</div>
 [`auto`][auto] [(raw)][auto-raw] | <div align="right">494</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">480</div>
 [`xn--`][xn--] [(raw)][xn---raw] | <div align="right">475</div>
@@ -40,7 +40,7 @@ TLD | Domain Count
 [`ve`][ve] [(raw)][ve-raw] | <div align="right">46</div>
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
-**TOTAL** | <div align="right">2513800</div>
+**Total** | <div align="right">2584514</div>
 
 See [`./lists`](./lists) for all of the domain lists obtained by this project.
 
@@ -63,10 +63,6 @@ Zone walking is a method of enumerating domain names that takes advantage of a q
 [tn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/tn.txt
 [kz]: ./lists/kz.txt
 [kz-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/kz.txt
-[id]: ./lists/id.txt
-[id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
-[nu]: ./lists/nu.txt
-[nu-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/nu.txt
 [lol]: ./lists/lol.txt
 [lol-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lol.txt
 [lk]: ./lists/lk.txt

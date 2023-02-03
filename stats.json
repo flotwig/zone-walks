@@ -13,12 +13,12 @@
       "zone": "kz"
     },
     {
-      "domains": "114115",
-      "zone": "id"
+      "domains": "138686",
+      "zone": "nu"
     },
     {
-      "domains": "68317",
-      "zone": "nu"
+      "domains": "114115",
+      "zone": "id"
     },
     {
       "domains": "66855",
@@ -29,39 +29,39 @@
       "zone": "lk"
     },
     {
-      "domains": "32410",
+      "domains": "32464",
       "zone": "pics"
     },
     {
-      "domains": "23397",
+      "domains": "23424",
       "zone": "mom"
     },
     {
-      "domains": "13344",
+      "domains": "13351",
       "zone": "dz"
     },
     {
-      "domains": "12427",
+      "domains": "12648",
       "zone": "ci"
     },
     {
-      "domains": "11973",
+      "domains": "11975",
       "zone": "gdn"
     },
     {
-      "domains": "10919",
+      "domains": "10929",
       "zone": "kg"
     },
     {
-      "domains": "8133",
+      "domains": "8149",
       "zone": "cy"
     },
     {
-      "domains": "5216",
+      "domains": "5218",
       "zone": "ruhr"
     },
     {
-      "domains": "4784",
+      "domains": "4785",
       "zone": "audio"
     },
     {
@@ -69,19 +69,19 @@
       "zone": "game"
     },
     {
-      "domains": "4138",
+      "domains": "4139",
       "zone": "ax"
     },
     {
-      "domains": "2795",
+      "domains": "2797",
       "zone": "hosting"
     },
     {
-      "domains": "2089",
+      "domains": "2091",
       "zone": "pr"
     },
     {
-      "domains": "2015",
+      "domains": "2014",
       "zone": "christmas"
     },
     {
@@ -89,7 +89,7 @@
       "zone": "br"
     },
     {
-      "domains": "1248",
+      "domains": "1247",
       "zone": "diet"
     },
     {
@@ -97,11 +97,11 @@
       "zone": "bt"
     },
     {
-      "domains": "1061",
+      "domains": "1060",
       "zone": "flowers"
     },
     {
-      "domains": "1048",
+      "domains": "1050",
       "zone": "tz"
     },
     {
@@ -109,7 +109,7 @@
       "zone": "guitars"
     },
     {
-      "domains": "549",
+      "domains": "550",
       "zone": "gn"
     },
     {
@@ -149,5 +149,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2513800"
+  "total": "2584514"
 }
