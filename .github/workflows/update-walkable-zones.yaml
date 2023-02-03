@@ -16,13 +16,12 @@ jobs:
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
-    - run: ./build-walkable-zones.sh
     - uses: actions/setup-python@v4
       with:
         python-version: '2.7.18'
         cache: 'pip'
     - run: pip install -r requirements.txt
-    - run: chevron -l "[[" -r "]]" -d ./walkable-zones.json ./.github/workflows/walk.yaml.template > ./.github/workflows/walk.yaml
+    - run: ./build-walkable-zones.sh
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
