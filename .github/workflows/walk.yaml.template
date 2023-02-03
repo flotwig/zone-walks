@@ -42,6 +42,11 @@ jobs:
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '2.7.18'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
     - run: sudo apt-get install libgetdns-dev
     - run: git pull
     - run: ./build-stats.sh
