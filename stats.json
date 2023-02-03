@@ -1,0 +1,153 @@
+{
+  "zones": [
+    {
+      "domains": "1442976",
+      "zone": "se"
+    },
+    {
+      "domains": "465386",
+      "zone": "tn"
+    },
+    {
+      "domains": "159360",
+      "zone": "kz"
+    },
+    {
+      "domains": "114115",
+      "zone": "id"
+    },
+    {
+      "domains": "68317",
+      "zone": "nu"
+    },
+    {
+      "domains": "66855",
+      "zone": "lol"
+    },
+    {
+      "domains": "49534",
+      "zone": "lk"
+    },
+    {
+      "domains": "32410",
+      "zone": "pics"
+    },
+    {
+      "domains": "23397",
+      "zone": "mom"
+    },
+    {
+      "domains": "13344",
+      "zone": "dz"
+    },
+    {
+      "domains": "12427",
+      "zone": "ci"
+    },
+    {
+      "domains": "11973",
+      "zone": "gdn"
+    },
+    {
+      "domains": "10919",
+      "zone": "kg"
+    },
+    {
+      "domains": "8133",
+      "zone": "cy"
+    },
+    {
+      "domains": "5216",
+      "zone": "ruhr"
+    },
+    {
+      "domains": "4784",
+      "zone": "audio"
+    },
+    {
+      "domains": "4143",
+      "zone": "game"
+    },
+    {
+      "domains": "4138",
+      "zone": "ax"
+    },
+    {
+      "domains": "2795",
+      "zone": "hosting"
+    },
+    {
+      "domains": "2089",
+      "zone": "pr"
+    },
+    {
+      "domains": "2015",
+      "zone": "christmas"
+    },
+    {
+      "domains": "1349",
+      "zone": "br"
+    },
+    {
+      "domains": "1248",
+      "zone": "diet"
+    },
+    {
+      "domains": "1186",
+      "zone": "bt"
+    },
+    {
+      "domains": "1061",
+      "zone": "flowers"
+    },
+    {
+      "domains": "1048",
+      "zone": "tz"
+    },
+    {
+      "domains": "730",
+      "zone": "guitars"
+    },
+    {
+      "domains": "549",
+      "zone": "gn"
+    },
+    {
+      "domains": "494",
+      "zone": "auto"
+    },
+    {
+      "domains": "480",
+      "zone": "lr"
+    },
+    {
+      "domains": "475",
+      "zone": "xn--"
+    },
+    {
+      "domains": "328",
+      "zone": "car"
+    },
+    {
+      "domains": "297",
+      "zone": "cars"
+    },
+    {
+      "domains": "155",
+      "zone": "xn--l"
+    },
+    {
+      "domains": "46",
+      "zone": "ve"
+    },
+    {
+      "domains": "23",
+      "zone": "arpa"
+    },
+    {
+      "domains": "5",
+      "zone": "lb"
+    }
+  ],
+  "total": "2513800"
+}

@@ -24,13 +24,13 @@ jobs:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
     - run: sudo apt-get install libgetdns-dev
-    - run: |
-        npx https://github.com/flotwig/zone-walker ${{ matrix.zone }}. > ./lists/${{ matrix.zone }}.txt
+    - run: npx https://github.com/flotwig/zone-walker ${{ matrix.zone }} > ./lists/${{ matrix.zone }}.txt
+    - run: ./build-stats.sh
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
         git config --local user.name "Zone Walks GitHub Action"
-        git add lists
+        git add lists stats.json README.md
         git commit -m "${{ matrix.zone }} zone walk ($(date -u +"%x %H:%M"))" || exit 0
         git pull --rebase
         git push || (git pull --rebase && git push) || (sleep 15 && git pull --rebase && git push) || (sleep 30 && git pull --rebase && git push)
