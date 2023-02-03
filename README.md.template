@@ -3,21 +3,21 @@
 
 A collection of domain lists obtained from zone-walking TLDs. Updated daily.
 
-TLD | Domain Count
---- | ---
-{{#zones}}
-[`{{zone}}`][{{zone}}] [(raw)][{{zone}}-raw] | <div align="right">{{domains}}</div>
-{{/zones}}
-**Total** | <div align="right">{{total}}</div>
-
-See [`./lists`](./lists) for all of the domain lists obtained by this project.
-
 ## What's zone walking?
 
 Zone walking is a method of enumerating domain names that takes advantage of a quirk in DNSSEC. To learn more, see the following resources:
 
 - [Authenticating NXDOMAIN responses and NSEC - Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions#Authenticating_NXDOMAIN_responses_and_NSEC)
 - [Economical With The Truth: Making DNSSEC Answers Cheap - Cloudflare](https://blog.cloudflare.com/black-lies/)
+
+## Current Stats
+
+TLD | Domain Count
+--- | ---
+{{#zones}}
+[`{{zone}}`][{{zone}}] [(raw)][{{zone}}-raw] | <div align="right">{{domains}}</div>
+{{/zones}}
+**Total** | <div align="right">{{total}}</div>
 
 ## See Also
 
