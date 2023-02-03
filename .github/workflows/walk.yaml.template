@@ -23,8 +23,15 @@ jobs:
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '2.7.18'
+        cache: 'pip'
+    - run: pip install -r requirements.txt
     - run: sudo apt-get install libgetdns-dev
     - run: npx https://github.com/flotwig/zone-walker ${{ matrix.zone }} > ./lists/${{ matrix.zone }}.txt
+    - run: git pull
+    - run: ./build-stats.sh
     - name: Commit files
       run: |
         git config --local user.email "zone-walks@chary.us"
@@ -32,28 +39,4 @@ jobs:
         git add lists stats.json README.md
         git commit -m "${{ matrix.zone }} zone walk ($(date -u +"%x %H:%M"))" || exit 0
         git pull --rebase
-        git push || (git pull --rebase && git push) || (sleep 15 && git pull --rebase && git push) || (sleep 30 && git pull --rebase && git push)
-  stats:
-    if: ${{ always() }}
-    needs: [walk]
-    runs-on: ubuntu-20.04
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
-        persist-credentials: true
-    - uses: actions/setup-python@v4
-      with:
-        python-version: '2.7.18'
-        cache: 'pip'
-    - run: pip install -r requirements.txt
-    - run: sudo apt-get install libgetdns-dev
-    - run: git pull
-    - run: ./build-stats.sh
-    - name: Commit files
-      run: |
-        git config --local user.email "zone-walks@chary.us"
-        git config --local user.name "Zone Walks GitHub Action"
-        git add lists
-        git commit -m "Stats update ($(date -u +"%x %H:%M"))" || exit 0
         git push || (git pull --rebase && git push) || (sleep 15 && git pull --rebase && git push) || (sleep 30 && git pull --rebase && git push)
