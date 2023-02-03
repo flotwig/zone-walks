@@ -13,14 +13,6 @@
       "zone": "kz"
     },
     {
-      "domains": "138686",
-      "zone": "nu"
-    },
-    {
-      "domains": "114115",
-      "zone": "id"
-    },
-    {
       "domains": "66855",
       "zone": "lol"
     },
@@ -61,7 +53,7 @@
       "zone": "ruhr"
     },
     {
-      "domains": "4785",
+      "domains": "4784",
       "zone": "audio"
     },
     {
@@ -149,5 +141,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2584514"
+  "total": "2331712"
 }
