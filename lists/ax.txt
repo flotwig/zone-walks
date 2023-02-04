@@ -284,7 +284,6 @@ alandsfolkrace.ax
 alandsframtid.ax
 alandsguider.ax
 alandshandel.ax
-alandshandelsmassa.ax
 alandshugg.ax
 alandsidrott.ax
 alandskdemokrati.ax
@@ -372,7 +371,6 @@ ambetsverket.ax
 amhm.ax
 ami.ax
 amk.ax
-amnas.ax
 amoena.ax
 amp.ax
 ams.ax
@@ -1531,7 +1529,6 @@ gr.ax
 grabandgo.ax
 granbergs.ax
 graner.ax
-granit.ax
 granlundagard.ax
 grannas.ax
 granntanden.ax
@@ -2916,7 +2913,6 @@ primabil.ax
 primalube.ax
 prime.ax
 primebroadband.ax
-privacy.ax
 pro.ax
 proans.ax
 proax.ax
@@ -3363,6 +3359,7 @@ sotare.ax
 sottunga.ax
 sovy.ax
 sp.ax
+space.ax
 sparhallen.ax
 sparky.ax
 sparm.ax
