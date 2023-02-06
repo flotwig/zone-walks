@@ -195,10 +195,12 @@
 34.ci
 34n.ci
 3592.ci
+360.ci
 360auto.ci
 360health.ci
 360security.ci
 3631.ci
+365.ci
 36951.ci
 3863.ci
 3897.ci
@@ -2175,6 +2177,7 @@ byzah.ci
 bz.ci
 bzt.ci
 c-360.ci
+c-37.ci
 c-8.ci
 c-sgroup.ci
 c-suite.ci
@@ -2781,14 +2784,12 @@ clipscan.ci
 cloo.ci
 closeup.ci
 cloud.ci
-cloud-temple.ci
 cloud4africa.ci
 cloudassur.ci
 cloudcenter.ci
 clouded.ci
 cloudsmith.ci
 cloudstudio.ci
-cloudtemple.ci
 cls.ci
 club.ci
 clubauto.ci
@@ -4286,6 +4287,7 @@ dysfamily.ci
 dystech.ci
 dz.ci
 e-16.ci
+e-25.ci
 e-68.ci
 e-72.ci
 e-actes.ci
@@ -4415,7 +4417,6 @@ ecoindustry.ci
 ecolaser.ci
 ecole.ci
 ecole-de-commerce-de-lyon.ci
-ecoledesfinances.ci
 ecoledupetitbaobab.ci
 ecoleinternet.ci
 ecolelasource.ci
@@ -4821,8 +4822,6 @@ enviroprotect.ci
 enyx.ci
 eo.ci
 eolis.ci
-eolisco.ci
-eolistf.ci
 eoptions.ci
 ep.ci
 epargne.ci
@@ -6963,6 +6962,7 @@ juwil.ci
 jvv.ci
 jw.ci
 jx.ci
+k-62.ci
 k-immobilier.ci
 k-invest.ci
 k-nanou.ci
@@ -8279,7 +8279,6 @@ ming.ci
 mini.ci
 minime.ci
 ministere-construction.ci
-mint.ci
 mirah.ci
 mirah-csp.ci
 mirassouconsulting.ci
@@ -10303,7 +10302,6 @@ rust.ci
 ruthysplus.ci
 rvtt.ci
 rx.ci
-ry.ci
 rycapharma.ci
 s-press.ci
 s2.ci
@@ -11220,7 +11218,6 @@ sourceinfo.ci
 soutarahgroup.ci
 southernit.ci
 soutra.ci
-soutrali.ci
 sovapro.ci
 sovici.ci
 soyafemme.ci
@@ -11456,6 +11453,7 @@ systec.ci
 systemes-intelligents.ci
 sytelis.ci
 syza.ci
+t-53.ci
 t1.ci
 t2.ci
 t3.ci
@@ -12450,6 +12448,7 @@ xxx.ci
 xypex.ci
 xz.ci
 y-26.ci
+y-85.ci
 y3.ci
 ya.ci
 yaaba.ci
