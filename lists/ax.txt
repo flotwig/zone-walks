@@ -371,6 +371,7 @@ ambetsverket.ax
 amhm.ax
 ami.ax
 amk.ax
+amnas.ax
 amoena.ax
 amp.ax
 ams.ax
@@ -620,6 +621,7 @@ bilskador.ax
 biltvatt.ax
 biltvatten.ax
 bilwebben.ax
+bimelix.ax
 binary.ax
 bio.ax
 biodlarna.ax
@@ -708,6 +710,7 @@ bomarsundssallskapet.ax
 bomarsundtrailrun.ax
 bomec.ax
 bonas.ax
+bonnsfotklinik.ax
 bonusmannen.ax
 boo.ax
 booking.ax
@@ -1528,6 +1531,7 @@ gr.ax
 grabandgo.ax
 granbergs.ax
 graner.ax
+granit.ax
 granlundagard.ax
 grannas.ax
 granntanden.ax
@@ -1760,6 +1764,7 @@ ice.ax
 icm.ax
 id.ax
 idc.ax
+idealista.ax
 idme.ax
 idrott.ax
 idrottsgalan.ax
@@ -2212,6 +2217,7 @@ lindfors.ax
 lindholm.ax
 lindman.ax
 lindqvist.ax
+lindro.ax
 lindstrom.ax
 lingua.ax
 link.ax
@@ -2221,6 +2227,7 @@ lions.ax
 lisco.ax
 litteratur.ax
 litteraturdagarna.ax
+litteraturtur.ax
 livalandia.ax
 livetv.ax
 living.ax
@@ -3285,7 +3292,6 @@ smartabyar.ax
 smartenergy.ax
 smartlandsbygd.ax
 smartpark.ax
-smartvillage.ax
 smc.ax
 smeeting.ax
 smelektro.ax
