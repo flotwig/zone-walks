@@ -65,7 +65,7 @@
       "zone": "ax"
     },
     {
-      "domains": "2796",
+      "domains": "2797",
       "zone": "hosting"
     },
     {
@@ -141,5 +141,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2334526"
+  "total": "2334527"
 }
