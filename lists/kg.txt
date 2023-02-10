@@ -250,7 +250,6 @@ activegroup.kg
 activity.kg
 acufs.kg
 ad.kg
-adabiyat.kg
 adal.kg
 adal-sooda.kg
 adam.kg
@@ -263,6 +262,7 @@ addinol.kg
 addpower.kg
 adel.kg
 adelina.kg
+aden.kg
 adep.kg
 adi.kg
 adidas.kg
@@ -353,6 +353,7 @@ agrofermer.kg
 agrofinance.kg
 agrofood.kg
 agrofoodtech.kg
+agrokush.kg
 agrolife.kg
 agroline.kg
 agromarket.kg
@@ -582,6 +583,7 @@ alfa-wpn.kg
 alfabit.kg
 alfaleader.kg
 alfalombard.kg
+alfamebel01.kg
 alfamotors.kg
 alfapetroleum.kg
 alfatranslation.kg
@@ -872,6 +874,7 @@ aqualand.kg
 aqualife.kg
 aqualine.kg
 aqualink.kg
+aqualite.kg
 aquamaris.kg
 aquamedtek.kg
 aquameel.kg
@@ -1194,6 +1197,7 @@ autoben.kg
 autocanada.kg
 autodiscover.kg
 autoelektrik.kg
+autoeuro.kg
 autoexpert.kg
 autoforum.kg
 autogas.kg
@@ -1409,7 +1413,6 @@ baidyikan.kg
 baielim.kg
 baihouse.kg
 baika.kg
-baikazan.kg
 baikhan.kg
 baikonur.kg
 baisel.kg
@@ -1699,6 +1702,7 @@ bibuild.kg
 bicamc.kg
 bicis.kg
 bicredit.kg
+bicrypto.kg
 biexpo.kg
 bif.kg
 biff.kg
@@ -1768,6 +1772,7 @@ biotoilet.kg
 biovit.kg
 biplane.kg
 biprofi.kg
+biqube.kg
 bir.kg
 birds.kg
 birduino.kg
@@ -1855,6 +1860,7 @@ blive.kg
 blockchain.kg
 blockchain-developer.kg
 blog.kg
+blogger.kg
 blogspot.kg
 bloom.kg
 bloomberg.kg
@@ -1889,6 +1895,7 @@ board.kg
 bobbystore.kg
 bobotik.kg
 bodo.kg
+bodymassage.kg
 bodysolid.kg
 boffo.kg
 bohemia.kg
@@ -2503,6 +2510,7 @@ crc.kg
 crdl.kg
 creality.kg
 create.kg
+createsite.kg
 creative.kg
 creative-academy.kg
 creator.kg
@@ -2746,7 +2754,6 @@ devinvest.kg
 devs.kg
 devx.kg
 dex.kg
-dez.kg
 dez-garant.kg
 dez-service.kg
 dezeffect.kg
@@ -2812,6 +2819,7 @@ dispatcher.kg
 distance.kg
 distr.kg
 diva.kg
+divan.kg
 dive.kg
 divera.kg
 diykandar.kg
@@ -3157,6 +3165,7 @@ elbase.kg
 elbepools.kg
 elbrok.kg
 elcard.kg
+elcargo.kg
 elcart.kg
 elcat.kg
 elcom.kg
@@ -3859,7 +3868,6 @@ frunzenets.kg
 frunzeshop.kg
 frutovit.kg
 fsa.kg
-fsd.kg
 fsds.kg
 fsg.kg
 fsi.kg
@@ -3909,6 +3917,7 @@ galazolin.kg
 galenpharm.kg
 galeon.kg
 galeonplus.kg
+galereya.kg
 gallery.kg
 gam.kg
 game.kg
@@ -3962,7 +3971,6 @@ gazpromneft-aero.kg
 gazpromschool.kg
 gazspecmontaj.kg
 gaztorg.kg
-gaztorgservise.kg
 gb.kg
 gbo.kg
 gc.kg
@@ -4911,8 +4919,8 @@ irida.kg
 irit.kg
 irols.kg
 iron.kg
+ironcorps.kg
 ironwood.kg
-irrigator.kg
 irsay.kg
 irsen.kg
 is.kg
@@ -5189,6 +5197,7 @@ jurist.kg
 jurok.kg
 just.kg
 justifico.kg
+jusupmamyr.kg
 juul.kg
 juullabs.kg
 juulpods.kg
@@ -5205,6 +5214,7 @@ k2.kg
 k2taxi.kg
 ka.kg
 kabai.kg
+kabak.kg
 kaban.kg
 kabar.kg
 kabarlar.kg
@@ -5395,6 +5405,7 @@ kenenbaev.kg
 kenesh.kg
 kenesha.kg
 kenguru.kg
+keno.kg
 kentoo.kg
 kenvue.kg
 kep.kg
@@ -6072,7 +6083,6 @@ lnelectronic.kg
 lnmc.kg
 loads-today.kg
 location.kg
-locator.kg
 loccitane.kg
 locinox.kg
 lock.kg
@@ -6882,6 +6892,7 @@ muza.kg
 muzstore.kg
 mv.kg
 mvd.kg
+mview.kg
 mvtp.kg
 mwork.kg
 mwp.kg
@@ -6957,6 +6968,7 @@ namiana.kg
 namo.kg
 namsun.kg
 naniko.kg
+nano.kg
 nanobalsam.kg
 naprokat.kg
 nardy.kg
@@ -8563,6 +8575,7 @@ royalbreed.kg
 royalflowers.kg
 royalinc.kg
 royalmed.kg
+royalservice.kg
 royaltrade.kg
 roza.kg
 rozetka.kg
@@ -8770,10 +8783,12 @@ screen.kg
 sd.kg
 sdbkg.kg
 sdc.kg
+sdelatsite.kg
 sdfinance.kg
 sdk.kg
 sdmanas.kg
 sdo.kg
+sdpk.kg
 sdts.kg
 se.kg
 sealy.kg
@@ -9181,6 +9196,7 @@ sooda01.kg
 soros.kg
 soskyrgyzstan.kg
 sot.kg
+sotabrend.kg
 sotengroup.kg
 sotsium.kg
 sou.kg
@@ -9196,6 +9212,7 @@ sovelmash.kg
 sovetnik.kg
 sovtransavto.kg
 soyuzmsu.kg
+sozdatsite.kg
 sp.kg
 spa.kg
 space.kg
@@ -9324,7 +9341,6 @@ stickerbot.kg
 stihl.kg
 stinscom.kg
 stio.kg
-stiralka312.kg
 stirka.kg
 sto.kg
 sto312.kg
@@ -9548,6 +9564,7 @@ talduu-bulak.kg
 talent.kg
 talents.kg
 talisman.kg
+talsu.kg
 tam.kg
 tamada.kg
 tamchy.kg
@@ -9764,6 +9781,7 @@ tesicom.kg
 teslacars.kg
 teslacenter.kg
 tesladoor.kg
+test.kg
 test-stroi.kg
 testing.kg
 tests.kg
@@ -10934,7 +10952,6 @@ zlata.kg
 zm.kg
 zmail.kg
 znakomstva.kg
-zobolo.kg
 zocdoc.kg
 zodiacrobots.kg
 zoetis.kg
