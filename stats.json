@@ -57,12 +57,12 @@
       "zone": "audio"
     },
     {
-      "domains": "4143",
-      "zone": "game"
+      "domains": "4145",
+      "zone": "ax"
     },
     {
-      "domains": "4139",
-      "zone": "ax"
+      "domains": "4143",
+      "zone": "game"
     },
     {
       "domains": "2796",
@@ -141,5 +141,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2335868"
+  "total": "2335874"
 }

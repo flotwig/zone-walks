@@ -276,12 +276,14 @@ alands.ax
 alands-omsesidiga.ax
 alandsbagarn.ax
 alandsbanken.ax
+alandsbaten.ax
 alandsbonden.ax
 alandsbostader.ax
 alandsbutiken.ax
 alandsbygg.ax
 alandsea.ax
 alandsfaret.ax
+alandsfarjan.ax
 alandsfolkrace.ax
 alandsframtid.ax
 alandsguider.ax
@@ -1005,7 +1007,6 @@ dentalcenter.ax
 design.ax
 designtothem.ax
 destiman.ax
-det.ax
 deutsch.ax
 dev.ax
 df.ax
@@ -1082,6 +1083,7 @@ e-meal.ax
 e-rent.ax
 e-tjanster.ax
 ea.ax
+earth.ax
 earw.ax
 easy.ax
 easyrent.ax
@@ -1350,7 +1352,6 @@ fma.ax
 fmakjsgrav.ax
 fmovie.ax
 fmovies.ax
-fn.ax
 foa.ax
 fogelberg.ax
 fogelvagen.ax
@@ -1588,6 +1589,7 @@ hager.ax
 hagers.ax
 haggblom.ax
 hagnaden.ax
+hagstrom.ax
 hairbyjulia.ax
 hakanlindberg.ax
 halif.ax
@@ -3315,6 +3317,7 @@ snorl.ax
 snowflake.ax
 so.ax
 soap.ax
+soap2day.ax
 socialdemokraterna.ax
 socis.ax
 soderby.ax
@@ -3978,6 +3981,7 @@ xdr.ax
 xe.ax
 xf.ax
 xflk.ax
+xh.ax
 xi.ax
 xj.ax
 xjoy.ax
@@ -4020,7 +4024,9 @@ xn--landboost-42a.ax
 xn--landhotels-05a.ax
 xn--landliving-05a.ax
 xn--landsbanken-w8a.ax
+xn--landsbten-42ag.ax
 xn--landsframtid-scb.ax
+xn--landsfrjan-v5af.ax
 xn--landshandel-w8a.ax
 xn--landsidrott-w8a.ax
 xn--landslagting-scb.ax
