@@ -1392,6 +1392,7 @@ linuxserver.hosting
 linz.hosting
 lionweb.hosting
 liquid.hosting
+lite.hosting
 lithium.hosting
 littledog.hosting
 lms.hosting
@@ -1556,7 +1557,6 @@ mirabella.hosting
 mister.hosting
 misysmanufacturing.hosting
 mittwald.hosting
-mitymoserver.hosting
 mizban.hosting
 mms.hosting
 mobile-made-in-germany.hosting
@@ -2191,7 +2191,6 @@ simplesite.hosting
 simpleweb.hosting
 simplewebsite.hosting
 simplify.hosting
-simulant.hosting
 sinapto.hosting
 singaporesme.hosting
 sinirsiz.hosting
@@ -2558,7 +2557,6 @@ villa.hosting
 villah.hosting
 vine.hosting
 viprinet.hosting
-virginia.hosting
 virtio.hosting
 virtual.hosting
 virtual-server.hosting
