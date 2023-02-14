@@ -537,6 +537,7 @@ alakol.kg
 alam.kg
 alaman.kg
 alampay.kg
+alamudun.kg
 alamudunlibrary.kg
 alan.kg
 alana-show.kg
@@ -1061,6 +1062,7 @@ ask.kg
 ask-locals.kg
 ask312.kg
 aska.kg
+aska-gt.kg
 askabail.kg
 askakurulush.kg
 asker.kg
@@ -1319,6 +1321,7 @@ avtopoliv.kg
 avtoprokat.kg
 avtoradio.kg
 avtorynok.kg
+avtoservice.kg
 avtoshina.kg
 avtoshkolaosh.kg
 avtostart.kg
@@ -1901,6 +1904,7 @@ boffo.kg
 bohemia.kg
 boi.kg
 boiler.kg
+boldbrands.kg
 bolot.kg
 bolotbekov.kg
 bolsun.kg
@@ -2108,6 +2112,7 @@ caib.kg
 caid.kg
 cakmakkoz.kg
 californiapsychics.kg
+calipso.kg
 call-waiter.kg
 callpro.kg
 calvinklein.kg
@@ -2360,7 +2365,6 @@ cleanetica.kg
 cleaning.kg
 cleaning-house.kg
 cleanwater.kg
-cleanworld.kg
 cleek.kg
 clever.kg
 clevercoffee.kg
@@ -2653,7 +2657,6 @@ ddm.kg
 ddp.kg
 de.kg
 de-dietrich.kg
-de-mail.kg
 dea.kg
 dearme.kg
 debet.kg
@@ -2666,6 +2669,7 @@ decathlon.kg
 decom.kg
 decor.kg
 decor-interier.kg
+decor-profi.kg
 decorall.kg
 dedietrich.kg
 deere.kg
@@ -3400,7 +3404,6 @@ esportscores.kg
 espumisan.kg
 esquire.kg
 esri.kg
-ess.kg
 essen.kg
 essens.kg
 essity.kg
@@ -3420,7 +3423,6 @@ etaj.kg
 etaji.kg
 etam.kg
 etamlingerie.kg
-etc.kg
 etech.kg
 etg.kg
 eth.kg
@@ -3677,6 +3679,7 @@ fincap.kg
 finconstruct.kg
 findir.kg
 findo.kg
+findostavka.kg
 finestra.kg
 finipay.kg
 finkmebel.kg
@@ -3820,7 +3823,6 @@ foxbox.kg
 foxmovies.kg
 foxsports.kg
 fp.kg
-fpi.kg
 fpk.kg
 fr.kg
 fracino.kg
@@ -4054,7 +4056,6 @@ gis.kg
 gismeteo.kg
 giss.kg
 givee.kg
-giz.kg
 giz-employment.kg
 giz-health.kg
 gk.kg
@@ -4190,6 +4191,7 @@ graboplast.kg
 graco.kg
 gradsovet.kg
 gradstyle.kg
+grammidin.kg
 granat.kg
 grancem.kg
 grand.kg
@@ -4284,7 +4286,6 @@ gubki.kg
 gucci.kg
 guccivault.kg
 gudini.kg
-guitar.kg
 gul.kg
 gul-med.kg
 gulfwestern.kg
@@ -4662,6 +4663,7 @@ ihlas-stone.kg
 ihn.kg
 ihrconsulting.kg
 ihsan.kg
+ii.kg
 iic.kg
 iiko.kg
 iip.kg
@@ -4772,6 +4774,7 @@ infotechkg.kg
 infotel.kg
 infox.kg
 ingaron.kg
+ingavirin.kg
 ingco.kg
 ingenico.kg
 ingenium.kg
@@ -4895,7 +4898,6 @@ ipnet.kg
 ipo.kg
 ipoint.kg
 ipoteka.kg
-ipoteka15.kg
 ipotekademir.kg
 ipp.kg
 ippon.kg
@@ -5608,7 +5610,6 @@ kolsun.kg
 koltaxi.kg
 kolumb.kg
 komanda-chistoty.kg
-komet.kg
 komfort.kg
 komfort-mebel.kg
 komod.kg
@@ -6070,6 +6071,7 @@ lk.kg
 lkw.kg
 lkw-walter.kg
 lkwcenter.kg
+ll.kg
 llcaurora.kg
 llg.kg
 llumar.kg
@@ -6626,7 +6628,6 @@ micoder.kg
 micro-t.kg
 microfinance.kg
 microinvest.kg
-microinvest-soft.kg
 microlab.kg
 microlife.kg
 microsoft.kg
@@ -7030,7 +7031,6 @@ ncdproject.kg
 ncg.kg
 ncn.kg
 ncokoit.kg
-ncomid.kg
 ncsjeans.kg
 nds.kg
 ne.kg
@@ -7326,7 +7326,6 @@ odk.kg
 ods.kg
 oe.kg
 oec.kg
-oelun.kg
 oes.kg
 ofa.kg
 ofd.kg
@@ -7361,6 +7360,9 @@ oimotash.kg
 oip2.kg
 oir.kg
 oit.kg
+oivo.kg
+oivocredit.kg
+oivokredit.kg
 ok.kg
 oka-market.kg
 okat.kg
@@ -7453,6 +7455,7 @@ ontv.kg
 onveon.kg
 onyx.kg
 onyxhotel.kg
+oo.kg
 ooba.kg
 oobamarket.kg
 ook.kg
@@ -7749,6 +7752,7 @@ pcapower.kg
 pcaskin.kg
 pcenter.kg
 pchela24.kg
+pchelovod.kg
 pd.kg
 pdc.kg
 pe.kg
@@ -8203,6 +8207,7 @@ protech.kg
 protei.kg
 protocol.kg
 proweb.kg
+proxy.kg
 prp.kg
 pryaja.kg
 psihoanaliz.kg
@@ -8453,7 +8458,6 @@ resume.kg
 retail.kg
 retest.kg
 retro-metro.kg
-retrofm.kg
 reup.kg
 revent.kg
 review.kg
@@ -8578,6 +8582,7 @@ rozetka.kg
 rpg.kg
 rpo.kg
 rps.kg
+rr.kg
 rrc.kg
 rsagroup.kg
 rsc.kg
@@ -8652,7 +8657,6 @@ salamabiz.kg
 salamander.kg
 salammedia.kg
 saland.kg
-sale.kg
 salesstudio.kg
 salexy.kg
 salih.kg
@@ -9133,7 +9137,6 @@ snob.kg
 snowleopard.kg
 snowreport.kg
 snt.kg
-sobachka.kg
 soc.kg
 soccer.kg
 socfond.kg
@@ -9144,6 +9147,7 @@ socialwork.kg
 socmarket.kg
 soda.kg
 soft.kg
+softclub.kg
 softech.kg
 softline.kg
 softmaker.kg
@@ -10118,6 +10122,7 @@ tunduk-hostel.kg
 tunduktravel.kg
 tuning.kg
 tunuke.kg
+tunuksuu.kg
 tupperware.kg
 tur.kg
 turagent.kg
@@ -10337,6 +10342,7 @@ uteplim.kg
 utrack.kg
 utrading.kg
 uts.kg
+uu.kg
 uucyc.kg
 uventa.kg
 uw.kg
@@ -10600,6 +10606,7 @@ vtel.kg
 vtorichka.kg
 vtorpriem.kg
 vtvoihrukah.kg
+vv.kg
 vveon.kg
 vw.kg
 vw-id.kg
