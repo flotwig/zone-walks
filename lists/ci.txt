@@ -423,7 +423,6 @@
 7668.ci
 77.ci
 777.ci
-78.ci
 7872.ci
 79.ci
 7a.ci
@@ -457,7 +456,6 @@
 8-t6.ci
 8-y6.ci
 8020.ci
-81.ci
 8159.ci
 8172.ci
 8239.ci
@@ -791,6 +789,7 @@ afnet.ci
 afor.ci
 afosuctoitrouge.ci
 afribache.ci
+afric-energy.ci
 africa.ci
 africa-socios-club.ci
 africa-trade.ci
@@ -936,6 +935,7 @@ agroforesterie.ci
 agromax.ci
 agrosane.ci
 agrosanemarketplace.ci
+agrotherapie.ci
 ags.ci
 agtrans.ci
 agts.ci
@@ -1564,7 +1564,6 @@ autos24.ci
 autoservicesplus.ci
 auziatech.ci
 auziatechenergie.ci
-av.ci
 av3y.ci
 av7y.ci
 ava.ci
@@ -1600,7 +1599,6 @@ axa.ci
 axa-assurances.ci
 axavie.ci
 axcenttechnology.ci
-axeberg.ci
 axelbrandactivation.ci
 axena.ci
 axes.ci
@@ -2031,6 +2029,7 @@ boe.ci
 bogazi.ci
 bognan.ci
 bogolan.ci
+bogson.ci
 boillon.ci
 boiron.ci
 boissacre.ci
@@ -2595,6 +2594,7 @@ chery.ci
 cherylgroup.ci
 chezlys.ci
 chezmarc.ci
+chezmoi.ci
 chiami.ci
 chic.ci
 chic-coin.ci
@@ -3649,6 +3649,7 @@ coteouest.ci
 cotevivriere.ci
 cotiplast.ci
 cotraf.ci
+cotti.ci
 couleurbois.ci
 couleurscacao.ci
 couleursdafrique.ci
@@ -4425,7 +4426,6 @@ ecgecole.ci
 echafaudage.ci
 echange.ci
 echosmedias.ci
-eci.ci
 eckbtpsa.ci
 ecl-fp.ci
 eclic.ci
@@ -5593,6 +5593,7 @@ gea-holding.ci
 gear.ci
 gebatec.ci
 geberit.ci
+gece.ci
 gecer.ci
 gecisarl.ci
 geco.ci
@@ -5904,6 +5905,7 @@ groupescolairelegrand.ci
 groupescolairelonnya.ci
 groupescolairelonya.ci
 groupeselecsa.ci
+groupesocietefamiliale-sarl.ci
 groupeswann.ci
 groupeterra.ci
 groupetopqualite.ci
@@ -6055,7 +6057,6 @@ helium-construction.ci
 heliumingenierie.ci
 hello.ci
 helloabidjan.ci
-helloconso.ci
 hellodoctor.ci
 hellooccaz.ci
 hempel.ci
@@ -6721,7 +6722,6 @@ ivoiredigitalconsulting.ci
 ivoiredoc.ci
 ivoiredocs.ci
 ivoireetude.ci
-ivoireferforge.ci
 ivoirefm.ci
 ivoireformation.ci
 ivoireformations.ci
@@ -7387,6 +7387,7 @@ laprocuredabidjan.ci
 laprovet.ci
 laptopsolus.ci
 laravel.ci
+lareference.ci
 laregionalenews.ci
 laresidence.ci
 largus.ci
@@ -7473,6 +7474,7 @@ lecarbone.ci
 lecesec.ci
 lecharpentier.ci
 leci.ci
+lecim-examens.ci
 lecnp.ci
 lecoincafe.ci
 lecoindebaby.ci
@@ -8396,7 +8398,6 @@ monallie.ci
 monantivirus.ci
 monartisan.ci
 monassistante.ci
-monasso.ci
 monassurance.ci
 monattieke.ci
 monautoecole.ci
@@ -9058,14 +9059,12 @@ oliviacom.ci
 oliviayace.ci
 olivierkonancoaching.ci
 olizair.ci
-ologroupeloko.ci
 olt.ci
 olymp.ci
 om.ci
 oman.ci
 omarche.ci
 omcg.ci
-ome.ci
 omedia.ci
 omegatelecom.ci
 omenu.ci
@@ -9320,6 +9319,7 @@ othentickenterprise.ci
 otojig.ci
 otomagic.ci
 otransport.ci
+ottawa.ci
 ottawaenergy.ci
 ouattara.ci
 ouestmedia.ci
@@ -9440,6 +9440,7 @@ pass-lib.ci
 passcado.ci
 passconcours.ci
 passdroit.ci
+passelec.ci
 passerel.ci
 passerelle.ci
 passlib.ci
@@ -9458,6 +9459,7 @@ patrimoineimmobilier.ci
 paul.ci
 pawa.ci
 pawapay.ci
+pawaplay.ci
 pay.ci
 payesha.ci
 payez.ci
@@ -9982,6 +9984,7 @@ qui-est-dominique-ouattara.ci
 quickbat.ci
 quickly.ci
 quiestdominiqueouattara.ci
+quincaillerie.ci
 quipuxafrique.ci
 qun.ci
 quoris.ci
@@ -10039,7 +10042,6 @@ ramps.ci
 ramtel.ci
 randa.ci
 randmerchantbank.ci
-rap.ci
 rapide-reparation.ci
 rapidesgrah.ci
 rapido.ci
@@ -10615,7 +10617,6 @@ senat.ci
 send.ci
 sendem.ci
 senetic.ci
-senetronco.ci
 sengager.ci
 senhasegura.ci
 senioresca.ci
@@ -11432,7 +11433,6 @@ superpromo.ci
 supersport.ci
 supersportbet.ci
 supersportbets.ci
-supertraduction.ci
 superweb.ci
 surcouf.ci
 surveys.ci
@@ -11493,6 +11493,7 @@ tacc.ci
 taconstruction.ci
 tai.ci
 taiforestlodges.ci
+takaful.ci
 takebet.ci
 takimoto.ci
 taksit.ci
@@ -11965,7 +11966,6 @@ unacoopec.ci
 unclesam.ci
 unda.ci
 undabidjan.ci
-undix.ci
 undiz.ci
 uneaffairedegout.ci
 unetel.ci
@@ -12604,6 +12604,7 @@ z2.ci
 zac.ci
 zai.ci
 zaity.ci
+zaka.ci
 zakkamultitec.ci
 zana.ci
 zandoo.ci
