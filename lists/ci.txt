@@ -140,6 +140,7 @@
 2abassociates.ci
 2adsi.ci
 2aleit.ci
+2amegroupe.ci
 2as.ci
 2atechnologies.ci
 2b.ci
@@ -917,6 +918,7 @@ agri-dev.ci
 agriandland.ci
 agriculture.ci
 agriculturecommerciale.ci
+agriform.ci
 agriline.ci
 agripedia.ci
 agriplus.ci
@@ -2001,6 +2003,7 @@ bme.ci
 bmi.ci
 bmi-group.ci
 bmigroup.ci
+bmm.ci
 bmod.ci
 bmolife.ci
 bms.ci
@@ -2423,6 +2426,7 @@ cbet.ci
 cbi.ci
 cbm.ci
 cc.ci
+cca.ci
 cca-consulting.ci
 ccacy.ci
 ccapc.ci
@@ -2853,7 +2857,6 @@ cn.ci
 cn-fif.ci
 cn-itie.ci
 cn-maep.ci
-cna-escom.ci
 cnac-cotedivoire.ci
 cnafaci.ci
 cnam.ci
@@ -3833,6 +3836,7 @@ daip.ci
 daloafm.ci
 dam.ci
 dama.ci
+damemature.ci
 dan.ci
 danane.ci
 dandlholding.ci
@@ -3946,6 +3950,7 @@ dependency.ci
 depingo.ci
 deploy.ci
 depromhy.ci
+depsanitaires.ci
 depse.ci
 deriksa.ci
 des.ci
@@ -4104,6 +4109,7 @@ dispovite.ci
 distec.ci
 distinctionboutique.ci
 distransexpress.ci
+distribution.ci
 districom.ci
 districomenergies.ci
 district.ci
@@ -4346,6 +4352,7 @@ e-sante.ci
 e-shop.ci
 e-stars-editions.ci
 e-tourisme.ci
+e-variete.ci
 e-voyage.ci
 e2t.ci
 ea.ci
@@ -4681,6 +4688,7 @@ eke.ci
 ekf.ci
 ekiptech.ci
 ekkou.ci
+eklectic.ci
 eklo.ci
 ekonett.ci
 ekosaf.ci
@@ -4713,6 +4721,7 @@ elephant.ci
 elephantech.ci
 elephone.ci
 elevage.ci
+eleveur40.ci
 eliah.ci
 eliakimvision.ci
 elicom.ci
@@ -5027,6 +5036,7 @@ evadict.ci
 evansgroup.ci
 evasion.ci
 evasion-vtt.ci
+evazat.ci
 evenement.ci
 evenementiel.ci
 evenements.ci
@@ -5048,6 +5058,7 @@ evolve.ci
 evotech.ci
 evtech.ci
 evulpo.ci
+ewa.ci
 ewarren.ci
 exact.ci
 examens-oeeci.ci
@@ -5361,7 +5372,6 @@ foherb.ci
 fohow.ci
 foienaction.ci
 foiredechine.ci
-fola.ci
 folishop.ci
 folloroux.ci
 fonbet.ci
@@ -6980,6 +6990,7 @@ jurisconseils.ci
 juristic.ci
 juru.ci
 just.ci
+justagri.ci
 justice.ci
 juul.ci
 juullabs.ci
@@ -7139,7 +7150,6 @@ kifal.ci
 kifal-auto.ci
 kignonetsenteurs.ci
 killianandpartners.ci
-kimbo.ci
 kimexfinances.ci
 kimjaly.ci
 kinantyscorporation.ci
@@ -7152,7 +7162,6 @@ kinesitherapie.ci
 king.ci
 kingdeco.ci
 kingdombeauty.ci
-kingdomk.ci
 kingmakers.ci
 kingsoloba.ci
 kinka.ci
@@ -7445,6 +7454,7 @@ le24clozel.ci
 le2minutes.ci
 le360.ci
 le8closdesbateaux.ci
+lead.ci
 lead-ivoire.ci
 leaddesign.ci
 leaderconstruction.ci
@@ -8241,6 +8251,7 @@ metea.ci
 metfpa-deep.ci
 methodexconsulting.ci
 metiers.ci
+metiersdici.ci
 metro.ci
 metropole.ci
 meuble.ci
@@ -8907,7 +8918,6 @@ nsiachapchap.ci
 nsiafinance.ci
 nsiassurances.ci
 nsiavieassurances.ci
-nsipc.ci
 nt.ci
 ntci.ci
 ntia.ci
@@ -8951,6 +8961,7 @@ oasis.ci
 oazis.ci
 obain.ci
 obaintechnologies.ci
+obanco.ci
 obato.ci
 obeynets.ci
 obf.ci
@@ -10099,6 +10110,7 @@ reddit.ci
 reddplus.ci
 redmi.ci
 redordead.ci
+redshield.ci
 redtube.ci
 reduction.ci
 reeseric.ci
@@ -10127,6 +10139,7 @@ registry.ci
 reglez.ci
 regtons.ci
 regus.ci
+rehoboth.ci
 reit.ci
 relais.ci
 relaxdays.ci
@@ -10188,6 +10201,7 @@ retre.ci
 rets.ci
 reup.ci
 rev.ci
+revagri.ci
 reve.ci
 revealschool.ci
 reveiloil.ci
@@ -10462,7 +10476,6 @@ sas.ci
 sasi.ci
 sask.ci
 sassandra.ci
-sat.ci
 satd.ci
 sate.ci
 satec.ci
@@ -10728,6 +10741,7 @@ shop.ci
 shop-pro.ci
 shop2babi.ci
 shopbaked.ci
+shopdici.ci
 shopify.ci
 shopifyplus.ci
 shopping.ci
