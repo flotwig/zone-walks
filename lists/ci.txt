@@ -1417,7 +1417,6 @@ assiland.ci
 assist.ci
 assist-it.ci
 assistancediaspora.ci
-assistanceinfo.ci
 assnat.ci
 association.ci
 association500membres.ci
@@ -2249,7 +2248,6 @@ cabingco.ci
 cabira.ci
 caboz.ci
 cacao.ci
-cacaodurable.ci
 cace.ci
 cadeau.ci
 cadeaux.ci
@@ -2675,6 +2673,7 @@ cidex.ci
 cidt.ci
 cie.ci
 cied.ci
+ciege.ci
 cieltmsa.ci
 ciemindus.ci
 cies.ci
@@ -3110,6 +3109,7 @@ coa.ci
 coabj2022.ci
 coachingpropmepmi.ci
 coachingsucces.ci
+coafid.ci
 cobaci.ci
 coc.ci
 coc6nelcom.ci
@@ -4421,7 +4421,6 @@ ebusiness.ci
 ebusupport.ci
 ebytel.ci
 ec.ci
-ec-construction.ci
 ecarassurances.ci
 ecb-construction.ci
 eccdiocese.ci
@@ -4631,7 +4630,6 @@ eect.ci
 ef.ci
 efa-multiservices.ci
 efapel.ci
-efc.ci
 efcaci.ci
 efci.ci
 efemme.ci
@@ -4759,6 +4757,7 @@ elma.ci
 elops.ci
 eloto.ci
 elservices.ci
+elshaddaiconstruction.ci
 elsolution.ci
 elston.ci
 elton.ci
@@ -4873,6 +4872,7 @@ epharmaciv.ci
 epicerie-epicure.ci
 epicesdegraces.ci
 epicure.ci
+episcrm.ci
 epistrophe.ci
 epitech.ci
 eplanification-gboguhe.ci
@@ -4884,6 +4884,7 @@ epvexcellence.ci
 equation.ci
 equatorenergy.ci
 equilibre.ci
+equinix.ci
 equiprotech.ci
 equitrol.ci
 equityconsulting.ci
@@ -5755,7 +5756,6 @@ glovostore.ci
 glow.ci
 glsmusic.ci
 gltc.ci
-gm.ci
 gma.ci
 gmail.ci
 gmc.ci
@@ -6824,7 +6824,6 @@ jadeimmo.ci
 jadex.ci
 jafa.ci
 jafci.ci
-jailecontrole.ci
 jaimeassinie.ci
 jaimebouafle.ci
 jaimejacko.ci
@@ -7031,7 +7030,6 @@ kaera.ci
 kaercher.ci
 kaferdgroup.ci
 kafolo.ci
-kafoudal.ci
 kageo.ci
 kahira.ci
 kahoot.ci
@@ -7059,6 +7057,8 @@ kambala-perc.ci
 kameleone.ci
 kametiegroupe.ci
 kamus.ci
+kandgroup.ci
+kandgroupe.ci
 kanegnon.ci
 kanequipements.ci
 kangaroos.ci
@@ -7425,6 +7425,7 @@ lavnet.ci
 lavoadzope.ci
 lavoiesainte.ci
 lavoixdoshoffa.ci
+law.ci
 laya.ci
 layher.ci
 lb.ci
@@ -7916,6 +7917,7 @@ magicsuite.ci
 magisdata.ci
 magletters.ci
 mahali.ci
+mahou-agri.ci
 mail.ci
 mailink.ci
 mailpro.ci
@@ -8272,6 +8274,7 @@ mhd-shop.ci
 mhdgroup.ci
 mhe.ci
 mi.ci
+miage-ufhb.ci
 miamland.ci
 miamland-express.ci
 mias.ci
@@ -9390,6 +9393,7 @@ pai.ci
 paiefacile.ci
 paiement.ci
 painbro.ci
+paincondiment225.ci
 pakouabo.ci
 pakpharma.ci
 palaisdelabeaute.ci
@@ -9884,7 +9888,6 @@ promo.ci
 promonova.ci
 promotionivoire.ci
 propertypro.ci
-propose-securite.ci
 proprietaire.ci
 proprietefonciere.ci
 proprio.ci
@@ -9915,6 +9918,7 @@ prudential.ci
 prudentialbelife.ci
 psac.ci
 psdat.ci
+psdi.ci
 psf.ci
 psgouv.ci
 psi.ci
@@ -10831,6 +10835,7 @@ sigcoges.ci
 sigecoges.ci
 sigel.ci
 sigem.ci
+sigema.ci
 sigep.ci
 siges.ci
 sigfox.ci
@@ -11564,7 +11569,6 @@ tchamantv.ci
 tchatche.ci
 tchedal.ci
 tchegbao.ci
-tchologo.ci
 tci.ci
 tcom.ci
 tcp.ci
@@ -12121,6 +12125,7 @@ vente.ci
 ventedeterrain.ci
 venteprive.ci
 ventesprivees.ci
+ventoo.ci
 venusfinance.ci
 venusfondation.ci
 venusinvest.ci
@@ -12269,7 +12274,6 @@ w8.ci
 waai.ci
 waaw.ci
 wabeh.ci
-wabo.ci
 waci.ci
 wadood.ci
 wafaassurance.ci
