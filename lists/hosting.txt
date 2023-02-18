@@ -920,7 +920,6 @@ functional.hosting
 fundy.hosting
 furry.hosting
 fused.hosting
-future.hosting
 fuzoku-server.hosting
 fwaas.hosting
 fxcloud.hosting
@@ -1349,7 +1348,6 @@ kundenserv.hosting
 la-it.hosting
 ladies.hosting
 landshut.hosting
-lanka.hosting
 lansec.hosting
 large.hosting
 larsendata.hosting
@@ -1383,7 +1381,6 @@ linnet.hosting
 linode.hosting
 linost.hosting
 linux.hosting
-linuxkadeh.hosting
 linuxkvm.hosting
 linuxserver.hosting
 linz.hosting
@@ -1872,6 +1869,7 @@ pixel.hosting
 pixelsoft.hosting
 pizza.hosting
 pki.hosting
+pladinum.hosting
 planet-ocean.hosting
 planetary.hosting
 planetcentral.hosting
