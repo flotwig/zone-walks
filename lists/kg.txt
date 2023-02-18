@@ -980,6 +980,7 @@ artauto.kg
 artclinic.kg
 arte.kg
 artel.kg
+artelgroup.kg
 arterium.kg
 artezian.kg
 artface.kg
@@ -1403,6 +1404,7 @@ badk.kg
 badoo.kg
 baek.kg
 bagira.kg
+bagyt.kg
 bahai.kg
 bahroma.kg
 bahtiiar.kg
@@ -2297,7 +2299,6 @@ chietoo.kg
 chigo.kg
 chigogroup.kg
 child.kg
-childberries.kg
 childprotection.kg
 children.kg
 childrensplace.kg
@@ -2643,6 +2644,7 @@ datagroup.kg
 datarecovery.kg
 datatime.kg
 datkagrand.kg
+datkai.kg
 davha.kg
 davhasokuluk.kg
 davidmaks.kg
@@ -3129,7 +3131,6 @@ educationfirst.kg
 edudos.kg
 edugate.kg
 eduhub.kg
-eduline.kg
 eduordo.kg
 edupress.kg
 eduroam.kg
@@ -3319,6 +3320,7 @@ endoidiab.kg
 endokrinolog.kg
 endomed.kg
 endosurgery.kg
+endress.kg
 enduro.kg
 enduroshop.kg
 ene-say.kg
@@ -3385,7 +3387,6 @@ erkekashka.kg
 erkin-too.kg
 erkinbek.kg
 erkindiklab.kg
-erlgroup.kg
 ermannoscervino.kg
 ermekov.kg
 ermex.kg
@@ -3767,6 +3768,7 @@ flowerburo.kg
 flowercastle.kg
 flowerhouse.kg
 flowerlab.kg
+flowers.kg
 flowersland.kg
 flsmidth.kg
 fluimucil.kg
@@ -4034,6 +4036,7 @@ geofox.kg
 geointellect.kg
 geokupol.kg
 geol.kg
+geolog.kg
 geology.kg
 geopark.kg
 geopost.kg
@@ -4839,7 +4842,6 @@ insurance.kg
 int.kg
 intant.kg
 intech.kg
-integra.kg
 intek.kg
 intel.kg
 intelmed.kg
@@ -4860,7 +4862,6 @@ intergroup.kg
 interhotel.kg
 interier.kg
 interior.kg
-interior-concept.kg
 interiorstroy.kg
 interlogistics.kg
 intermag.kg
@@ -4896,6 +4897,7 @@ investforum.kg
 investgaz.kg
 investholding.kg
 investlombard.kg
+investment.kg
 investmentcouncil.kg
 investor.kg
 investtrade.kg
@@ -5598,7 +5600,6 @@ knau.kg
 knauf.kg
 kned.kg
 knews.kg
-kng.kg
 kngboxer.kg
 kniga.kg
 knitism.kg
@@ -5788,6 +5789,7 @@ kurama-msu.kg
 kurenkeev.kg
 kurjun.kg
 kurmanbek-aimak.kg
+kurort.kg
 kurpuldek.kg
 kurs.kg
 kursat.kg
@@ -5990,6 +5992,7 @@ lerna.kg
 les.kg
 lesdrev.kg
 letai.kg
+leti.kg
 letoile.kg
 letsdance.kg
 letsgo.kg
@@ -6101,7 +6104,6 @@ llcaurora.kg
 llg.kg
 llumar.kg
 lm.kg
-lmnop.kg
 lms.kg
 lmz.kg
 ln.kg
@@ -6154,7 +6156,6 @@ lot.kg
 loto.kg
 lotto.kg
 love.kg
-loveberries.kg
 loveflowers.kg
 loveit.kg
 loveshop.kg
@@ -6301,6 +6302,7 @@ mangyt-aimak.kg
 mannol.kg
 manty.kg
 manual.kg
+manul.kg
 manultrade.kg
 map.kg
 map-digikonush.kg
@@ -6821,7 +6823,6 @@ motauto.kg
 motcpiu.kg
 motel.kg
 motexc.kg
-motivation.kg
 moto.kg
 motoadventures.kg
 motoblok.kg
@@ -7004,7 +7005,6 @@ namsun.kg
 naniko.kg
 nano.kg
 nanobalsam.kg
-naprokat.kg
 nardy.kg
 nargizafin.kg
 nariste.kg
@@ -7029,7 +7029,6 @@ nasos.kg
 nasos-rpa.kg
 natali-resort.kg
 natexis.kg
-natfield.kg
 natixis.kg
 natixis-kirghiszistan.kg
 natixis-kyrgyzstan.kg
@@ -7649,6 +7648,8 @@ otkryt-firmu.kg
 otkrytip.kg
 otkrytosoo.kg
 otomoto.kg
+otp.kg
+otpbank.kg
 otpusk.kg
 ots.kg
 otterbox.kg
@@ -8894,7 +8895,6 @@ servisuslug.kg
 setanta.kg
 setantasport.kg
 setantasports.kg
-setkagabion.kg
 setra.kg
 seven3d.kg
 sevenhotel.kg
@@ -9636,7 +9636,6 @@ tanit.kg
 tansu.kg
 tao.kg
 taobao.kg
-taoexpress.kg
 tapalak.kg
 tape.kg
 tapigo.kg
@@ -10103,7 +10102,6 @@ travelvision.kg
 travelwings.kg
 travelworld.kg
 travertine.kg
-trb.kg
 trcargo.kg
 treasure.kg
 trekking.kg
@@ -10217,7 +10215,6 @@ twinkl.kg
 twitter.kg
 twogo.kg
 twscorex.kg
-txt.kg
 tyc.kg
 tylolhot.kg
 tyn.kg
@@ -10733,6 +10730,7 @@ weekend.kg
 wehle.kg
 weidel.kg
 weitmann.kg
+welcome.kg
 welcomebot.kg
 welcometo.kg
 welder.kg
@@ -10884,6 +10882,7 @@ yarmarka.kg
 yaros.kg
 yaseen.kg
 yashar.kg
+yasin.kg
 yasintv.kg
 yatas.kg
 yataxi.kg
