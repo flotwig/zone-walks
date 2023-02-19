@@ -433,6 +433,7 @@ airproducts.kg
 airqon.kg
 airsoft.kg
 airsupport.kg
+airticket.kg
 airtickets.kg
 airways.kg
 airybaz.kg
@@ -738,7 +739,6 @@ amanatcity.kg
 amanatcredit.kg
 amanatexpress.kg
 amanatfly.kg
-amanatfund.kg
 amanatroad.kg
 amanattrans.kg
 amanbank.kg
@@ -1336,7 +1336,6 @@ avtoves.kg
 avtovokzal.kg
 avtovyshka.kg
 avtozapchast.kg
-avzur.kg
 awb.kg
 awesta.kg
 awli.kg
@@ -1456,7 +1455,6 @@ bambook.kg
 bamix.kg
 banan.kg
 bananarepublic.kg
-bandana-bish.kg
 bank.kg
 bank24.kg
 bankasia.kg
@@ -2307,7 +2305,6 @@ chinaland.kg
 chinanews.kg
 chinapro.kg
 chinashop.kg
-chinatown.kg
 chint.kg
 chint-global.kg
 chintglobal.kg
@@ -2911,6 +2908,7 @@ donsoft.kg
 dontsmoke.kg
 doolot.kg
 doolotfinance.kg
+door-asia.kg
 doorhan.kg
 doorhan-club.kg
 doormedia.kg
@@ -3274,7 +3272,6 @@ elsom.kg
 elsooda.kg
 elstroy.kg
 elsyor.kg
-elsyst.kg
 eltech.kg
 eltest.kg
 eltor.kg
@@ -3453,13 +3450,13 @@ etoro.kg
 etrade.kg
 etro.kg
 ets.kg
+ett.kg
 eu.kg
 euin.kg
 euprojects.kg
 eur-pallet.kg
 eura.kg
 euragroup.kg
-euraokna.kg
 eurasia.kg
 eurasia-group.kg
 eurasiacargo.kg
@@ -4289,6 +4286,7 @@ gruzotaxi.kg
 gruzovichkof.kg
 gruzovichkoff.kg
 gruzovichkov.kg
+gryb.kg
 gsho.kg
 gsk.kg
 gso.kg
@@ -4656,7 +4654,6 @@ idservice.kg
 idsports.kg
 ief.kg
 iek.kg
-iek-group.kg
 ielts.kg
 if.kg
 ifa.kg
@@ -5109,6 +5106,7 @@ jalal-abad.kg
 jalalabad.kg
 jalgroup.kg
 jalgroupasia.kg
+jalusi-centr.kg
 jaluzi-bishkek.kg
 jalyn.kg
 jamcy.kg
@@ -5962,7 +5960,6 @@ ledshow.kg
 leegl.kg
 leekunhee.kg
 legacy.kg
-legal.kg
 legal-consulting.kg
 legalbet.kg
 legaldocs.kg
@@ -6401,7 +6398,6 @@ maxis.kg
 maxlevel.kg
 maxline.kg
 maxmart.kg
-maxmetall.kg
 maxnet.kg
 maxprint.kg
 maxsoft.kg
@@ -6454,7 +6450,6 @@ medart.kg
 medart-bishkek.kg
 medayim.kg
 medbase.kg
-medblog.kg
 medcenter.kg
 medcheck.kg
 medcity.kg
@@ -7458,6 +7453,7 @@ omegalombard.kg
 omegasport.kg
 omk.kg
 omks.kg
+omks-store.kg
 omnitech.kg
 omoda.kg
 omya.kg
@@ -8090,7 +8086,6 @@ powertrade.kg
 pozharka.kg
 pp.kg
 pplo.kg
-ppo.kg
 ppp.kg
 ppz.kg
 pr.kg
@@ -8106,7 +8101,6 @@ prazdnik.kg
 prc.kg
 precedent.kg
 precedentinfo.kg
-predtechenkaao.kg
 prego.kg
 premiera.kg
 premio.kg
@@ -8165,7 +8159,6 @@ prodbaza.kg
 prodomo.kg
 prodsklad.kg
 producer.kg
-product.kg
 proekty.kg
 proex.kg
 prof.kg
@@ -8247,7 +8240,6 @@ prosus.kg
 prosv.kg
 prosystems.kg
 proteam.kg
-protech.kg
 protei.kg
 protocol.kg
 proweb.kg
@@ -8307,7 +8299,6 @@ quasar.kg
 quattro.kg
 quattromedia.kg
 queen.kg
-quelle.kg
 quickpay.kg
 quickresto.kg
 quizplease.kg
@@ -8795,7 +8786,6 @@ satu.kg
 saturn.kg
 sauna.kg
 sava.kg
-sawwa.kg
 sayakat.kg
 sayakat-tour.kg
 sayan.kg
@@ -8958,7 +8948,6 @@ sheratongrandbishkek.kg
 sheriff.kg
 sherikulov.kg
 shestarts.kg
-shesterenka.kg
 shex.kg
 shg1tolstoy.kg
 shiffa.kg
@@ -9023,7 +9012,6 @@ siger.kg
 sigma.kg
 sigmaplus.kg
 sih.kg
-sika.kg
 silicat.kg
 silicium.kg
 silkonway.kg
@@ -9111,7 +9099,6 @@ slast.kg
 slavyane.kg
 sleep.kg
 slegkim-parom.kg
-sleng.kg
 sliceofjoy.kg
 slogistic.kg
 slon.kg
@@ -9612,7 +9599,6 @@ talas.kg
 talas-sut.kg
 talascoppergold.kg
 talasdaamy.kg
-talasmeria.kg
 talaspolpred.kg
 talduu-bulak.kg
 talent.kg
@@ -9633,7 +9619,6 @@ tandyr.kg
 tangaroa-co.kg
 tangatarov.kg
 tanit.kg
-tansu.kg
 tao.kg
 taobao.kg
 tapalak.kg
@@ -10295,7 +10280,6 @@ under.kg
 underberg.kg
 undies.kg
 undiz.kg
-undp.kg
 unexgr.kg
 unger.kg
 unhcr.kg
@@ -10469,7 +10453,6 @@ velours-noir.kg
 veloursnoir.kg
 velux.kg
 vemastroy.kg
-vendor.kg
 venik.kg
 venom.kg
 vensta.kg
