@@ -1390,7 +1390,6 @@ lite.hosting
 lithium.hosting
 littledog.hosting
 live.hosting
-lms.hosting
 loadfront.hosting
 loading.hosting
 lobek.hosting
@@ -2713,6 +2712,7 @@ wow.hosting
 wp.hosting
 wp-sg.hosting
 wp-solutions.hosting
+wpad.hosting
 wpengine.hosting
 wpic.hosting
 wpmu.hosting
