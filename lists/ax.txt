@@ -635,8 +635,6 @@ bioenergi.ax
 bioenermart.ax
 biokol.ax
 biosavoy.ax
-biosteelnordics.ax
-biosteelnutrition.ax
 biprodukter.ax
 birka.ax
 birkacruises.ax
@@ -816,6 +814,7 @@ cancer.ax
 cannabis.ax
 canon.ax
 canva.ax
+capital.ax
 car.ax
 caravan.ax
 caravanclub.ax
@@ -2372,6 +2371,7 @@ maskinpartner.ax
 massage.ax
 massagecenter.ax
 massagenu.ax
+masterbrewer.ax
 mat.ax
 matd.ax
 matexpressen.ax
@@ -2506,6 +2506,7 @@ molnus.ax
 monaco.ax
 money.ax
 monitor.ax
+monks.ax
 monster.ax
 mormors.ax
 morn.ax
@@ -2942,6 +2943,7 @@ pt.ax
 pub.ax
 pubalbin.ax
 publiccorner.ax
+punkten.ax
 push.ax
 putlocker.ax
 puttescamping.ax
@@ -3042,7 +3044,6 @@ reservist.ax
 resmedgoran.ax
 restaurangcikada.ax
 restaurantbabista.ax
-retailcenter.ax
 rethinkcvrisk.ax
 retriever.ax
 reuma.ax
@@ -3350,6 +3351,7 @@ solceller.ax
 solel.ax
 solenergi.ax
 solfjadern.ax
+solhagen.ax
 solidcap.ax
 solklart.ax
 solkraft.ax
