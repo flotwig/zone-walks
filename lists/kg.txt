@@ -17,7 +17,6 @@
 10bena.kg
 11.kg
 110.kg
-111.kg
 1111.kg
 12.kg
 1200-yandextaxi.kg
@@ -250,7 +249,6 @@ active.kg
 activedesign.kg
 activegroup.kg
 activity.kg
-acufs.kg
 ad.kg
 adabiyat.kg
 adal.kg
@@ -793,6 +791,7 @@ anavg.kg
 anchor.kg
 android.kg
 androlog.kg
+andromeda.kg
 anekdot.kg
 anextour.kg
 angar.kg
@@ -2215,6 +2214,7 @@ cctld.kg
 cd.kg
 cdek.kg
 cdeksucta.kg
+cdk.kg
 cdl.kg
 cdlolymp.kg
 cds.kg
@@ -2672,6 +2672,7 @@ debtholding.kg
 debtholdingmedia.kg
 debut.kg
 decaro.kg
+decathlon.kg
 decom.kg
 decor.kg
 decor-interier.kg
@@ -3652,6 +3653,7 @@ ferre.kg
 ferring.kg
 ferroli.kg
 fes.kg
+festivals.kg
 festo.kg
 fey.kg
 feyafood.kg
@@ -4101,7 +4103,6 @@ globalgarment.kg
 globalink.kg
 globalmachinery.kg
 globalplast.kg
-globalprint.kg
 globalschool.kg
 globalshop.kg
 globaltaxi.kg
@@ -4346,6 +4347,7 @@ happyapps.kg
 happycake.kg
 happychild.kg
 happyjob.kg
+happyroom.kg
 happytour.kg
 haribo.kg
 harmonicaapp.kg
@@ -4626,6 +4628,7 @@ icredit.kg
 ics.kg
 ict.kg
 ictlab.kg
+id.kg
 idalgo.kg
 idalgo-clinic.kg
 idalgo-family.kg
@@ -5753,7 +5756,6 @@ kuhn.kg
 kuk.kg
 kukirin.kg
 kulanak.kg
-kulatov.kg
 kulikov.kg
 kulinaria.kg
 kultur-multur.kg
@@ -6102,6 +6104,7 @@ lnelectronic.kg
 lnmc.kg
 loads-today.kg
 location.kg
+locator.kg
 loccitane.kg
 locinox.kg
 lock.kg
@@ -6476,6 +6479,7 @@ medical-pro.kg
 medicalgroup.kg
 medicaltrade.kg
 medicana.kg
+mediclinic.kg
 mediconsultants.kg
 medik.kg
 medikal.kg
@@ -6556,7 +6560,6 @@ melady.kg
 melana.kg
 melis.kg
 meloman.kg
-membrana.kg
 men.kg
 meniki.kg
 menkargroup.kg
@@ -6723,7 +6726,6 @@ mk.kg
 mkassa.kg
 mkmc.kg
 mkp.kg
-mlsp.kg
 mm.kg
 mmc.kg
 mmediatrade.kg
@@ -6842,6 +6844,7 @@ mramornoe.kg
 mrc.kg
 mrdoors.kg
 mrf.kg
+mrfin.kg
 mrguru.kg
 mrkings.kg
 mrnice.kg
@@ -6994,6 +6997,7 @@ namsun.kg
 naniko.kg
 nano.kg
 nanobalsam.kg
+naprokat.kg
 nardy.kg
 nargizafin.kg
 nariste.kg
@@ -7062,6 +7066,7 @@ neb.kg
 nebo.kg
 nec.kg
 ned.kg
+nedviga.kg
 nedvijimost.kg
 nefely-academy.kg
 neirolife.kg
@@ -7198,6 +7203,7 @@ nomadsland.kg
 nomadsport.kg
 nomadtrading.kg
 nomadtravel.kg
+nomex.kg
 nonsi.kg
 nookat.kg
 nookat-bilimkana.kg
@@ -7347,7 +7353,6 @@ odin.kg
 odk.kg
 ods.kg
 oe.kg
-oec.kg
 oes.kg
 ofa.kg
 ofd.kg
@@ -7478,6 +7483,7 @@ ontv.kg
 onveon.kg
 onyx.kg
 onyxhotel.kg
+onza.kg
 oo.kg
 ooba.kg
 oobamarket.kg
@@ -7896,7 +7902,6 @@ pioneer.kg
 pioner.kg
 pique.kg
 pir.kg
-pirat.kg
 piromag.kg
 pistol.kg
 pit.kg
@@ -7958,6 +7963,7 @@ platforma.kg
 plath.kg
 platinka.kg
 platinum.kg
+platinumfitness.kg
 plaza.kg
 plazaclinic.kg
 plazahotel.kg
@@ -8870,7 +8876,6 @@ server.kg
 servers.kg
 service.kg
 service-center.kg
-service-geo.kg
 servicepak.kg
 servicepro.kg
 servisuslug.kg
@@ -8963,7 +8968,6 @@ shisha.kg
 shkaf.kg
 shkola.kg
 shkolaevrika.kg
-shkolnaya-mebel.kg
 shmotshop.kg
 shoeimporter.kg
 shoes.kg
@@ -9575,6 +9579,7 @@ tabylga.kg
 tabylgaonline.kg
 tabys.kg
 tachka.kg
+taekwondo.kg
 tagaytay.kg
 tagis.kg
 taic.kg
@@ -9611,6 +9616,7 @@ tandyr.kg
 tangaroa-co.kg
 tangatarov.kg
 tanit.kg
+tansu.kg
 tao.kg
 taobao.kg
 tapalak.kg
@@ -10127,7 +10133,6 @@ tsbes.kg
 tsh.kg
 tsiauca.kg
 tss.kg
-tstn.kg
 tsum.kg
 tsumcinema.kg
 tsunami.kg
@@ -10558,6 +10563,7 @@ vitrina.kg
 vitrovi.kg
 viva.kg
 vivaclinic.kg
+vivahotel.kg
 vivaro.kg
 vivarobet.kg
 vivasumki.kg
@@ -10783,6 +10789,7 @@ wood-pellets.kg
 woodstandard.kg
 woody-art.kg
 woonkly.kg
+woox.kg
 wordpress.kg
 work.kg
 worklab.kg
