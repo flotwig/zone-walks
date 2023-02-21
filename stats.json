@@ -125,7 +125,7 @@
       "zone": "cars"
     },
     {
-      "domains": "150",
+      "domains": "149",
       "zone": "xn--l1acc"
     },
     {
@@ -141,5 +141,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2340674"
+  "total": "2340673"
 }
