@@ -5,7 +5,6 @@
 01.ci
 02.ci
 03.ci
-0rangebank.ci
 0s.ci
 0x.ci
 0x0.ci
@@ -140,6 +139,7 @@
 2abassociates.ci
 2adsi.ci
 2aleit.ci
+2alogistics.ci
 2amegroupe.ci
 2as.ci
 2atechnologies.ci
@@ -765,6 +765,7 @@ aeropole.ci
 aes.ci
 aese.ci
 af.ci
+af-im.ci
 afa.ci
 afad.ci
 afb.ci
@@ -5030,6 +5031,7 @@ eurec.ci
 eurekaevents.ci
 eurodrive.ci
 eurofind.ci
+euroinnova.ci
 eurol.ci
 eurolait.ci
 eurolight.ci
@@ -5133,6 +5135,7 @@ fafah.ci
 fagroup.ci
 fagroupeloko.ci
 faire1don.ci
+fairepart.ci
 faireundon.ci
 fairphone.ci
 faischap.ci
@@ -5683,6 +5686,7 @@ gesco.ci
 gesfns.ci
 gesimmo.ci
 gesprod.ci
+gest-imm.ci
 gestafric.ci
 gestion-projets.ci
 gestionauto.ci
@@ -5762,7 +5766,6 @@ globexacfj.ci
 globrh.ci
 globuxtechnology.ci
 glodie.ci
-glogloe.ci
 gloris-conseil.ci
 glorycars.ci
 glovo.ci
@@ -6557,6 +6560,7 @@ integrale.ci
 intelafrique.ci
 intelcia.ci
 intelco.ci
+intellectueldjassaman.ci
 intelliabidjan.ci
 intelligence.ci
 intelligenz.ci
@@ -6648,6 +6652,7 @@ isp-edu.ci
 ispabobo.ci
 ispack.ci
 ispcarl.ci
+isports.ci
 isps.ci
 ispsarl.ci
 israel-immobilier.ci
@@ -6763,6 +6768,7 @@ ivoirelub.ci
 ivoiremail.ci
 ivoiremobile.ci
 ivoiremobiles.ci
+ivoiremoney.ci
 ivoiremotor.ci
 ivoirenetworkimmobiler.ci
 ivoirenewspaper.ci
@@ -7413,6 +7419,7 @@ lareference.ci
 laregionalenews.ci
 laresidence.ci
 largus.ci
+larhumerie.ci
 larit.ci
 laroche-posay.ci
 larocheposay.ci
@@ -8489,7 +8496,6 @@ monin.ci
 monlhale.ci
 monlivre.ci
 monlivreur.ci
-monmaillot.ci
 monmaitre.ci
 monmaquis.ci
 monmariage.ci
@@ -8521,6 +8527,7 @@ monvisa.ci
 monvoyageur.ci
 monwe.ci
 moo.ci
+moobicom.ci
 mood.ci
 moonlingerie.ci
 moonservices.ci
@@ -9712,6 +9719,7 @@ pmp.ci
 pmp-capm.ci
 pmp-pmo.ci
 pmrh.ci
+pmua.ci
 pncc.ci
 pnci.ci
 pndap.ci
@@ -9923,6 +9931,7 @@ proteina.ci
 protrading.ci
 proveto.ci
 providencetechnologie.ci
+providensshopping.ci
 provima.ci
 provision.ci
 proximiti.ci
