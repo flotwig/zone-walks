@@ -731,8 +731,6 @@ adih.ci
 adiqa.ci
 adis.ci
 adisa.ci
-adjamemarche.ci
-adjamemarket.ci
 adjola.ci
 adjuwa.ci
 admin.ci
@@ -774,6 +772,7 @@ afchem.ci
 afchemsofaco.ci
 afcom.ci
 afd.ci
+afeal.ci
 affacto.ci
 affairage.ci
 affaires.ci
@@ -1233,6 +1232,7 @@ anoumabo.ci
 anp.ci
 anrmp.ci
 ansamble.ci
+anstat.ci
 ansut.ci
 ant.ci
 antares.ci
@@ -1598,7 +1598,6 @@ awale-immo.ci
 awalecorp.ci
 awaleimmobilier.ci
 awalet.ci
-awaoule.ci
 awi.ci
 awif.ci
 ax.ci
@@ -1842,6 +1841,7 @@ benouattara.ci
 beone.ci
 beplus.ci
 beraka.ci
+berekyah.ci
 bergec.ci
 berghaus.ci
 bernabe.ci
@@ -1890,6 +1890,8 @@ bgce.ci
 bgfi.ci
 bgsp-securite.ci
 bhci.ci
+bhciimmo.ci
+bhcimmo.ci
 bi.ci
 biai.ci
 biao.ci
@@ -2080,6 +2082,7 @@ booztechnologies.ci
 bop-afrique.ci
 bor.ci
 bora.ci
+boreolam.ci
 boribana.ci
 boris.ci
 boroma.ci
@@ -2606,6 +2609,7 @@ chezmoi.ci
 chiami.ci
 chic.ci
 chic-coin.ci
+chic-coq.ci
 chicabeauty.ci
 chicafricabeauty.ci
 chicco.ci
@@ -3323,6 +3327,7 @@ holcim.com.ci
 hotel.com.ci
 hotels.com.ci
 hub2.com.ci
+huobi.com.ci
 immobilier.com.ci
 isuzu.com.ci
 isuzu-trucks.com.ci
@@ -3566,6 +3571,7 @@ conseilheveapalmier.ci
 conseiljuridique.ci
 conseilregionalbafing.ci
 conseilregionalsanpedro.ci
+conseilregionaltonkpi.ci
 conseilrse.ci
 conseilsud-comoe.ci
 consetat.ci
@@ -4378,6 +4384,7 @@ easy-tv.ci
 easyassur.ci
 easybreath.ci
 easycloud.ci
+easyevent.ci
 easygroup.ci
 easyhotel.ci
 easyinsurance.ci
@@ -4855,6 +4862,7 @@ entrenous.ci
 entreprendre.ci
 entrepreneuriatpiducas.ci
 entrepreneursp.ci
+entrepreuneuses225.ci
 entreprise.ci
 entrepriseberaka.ci
 entreprises.ci
@@ -5501,7 +5509,6 @@ frederick.ci
 free.ci
 free-exchange.ci
 freejob.ci
-freelances.ci
 freesoft.ci
 freeview.ci
 freezone.ci
@@ -5549,6 +5556,7 @@ fy.ci
 fyouzan.ci
 fz.ci
 g-conseils.ci
+g-nova.ci
 g2i.ci
 g2i-immobilier.ci
 g4r.ci
@@ -5791,6 +5799,7 @@ gnamienkonan.ci
 gnanguiad.ci
 gni.ci
 gnk.ci
+gnova.ci
 gnr.ci
 gnsarl.ci
 mef.go.ci
@@ -7702,7 +7711,6 @@ lionsabidjancalao.ci
 liora.ci
 lipidol.ci
 liqid.ci
-liquidation.ci
 lisp.ci
 listedemariage.ci
 listenoire.ci
@@ -8473,6 +8481,7 @@ mondealer.ci
 mondialmenage.ci
 mondialquincaillerie.ci
 mondialsport.ci
+mondialwebtv.ci
 mondoc.ci
 mondocteur.ci
 mondomaine.ci
@@ -9508,7 +9517,6 @@ payesha.ci
 payez.ci
 payi.ci
 paypal.ci
-paysan.ci
 paytm.ci
 payu.ci
 payzik.ci
@@ -9521,6 +9529,7 @@ pcelfi.ci
 pci.ci
 pcis.ci
 pcmarket.ci
+pco.ci
 pcs.ci
 pcsp.ci
 pcstore225.ci
@@ -10570,6 +10579,7 @@ scidiouma.ci
 science.ci
 scilamami.ci
 scilesoliviers.ci
+scilespalms.ci
 sciloryan.ci
 scimapholding.ci
 scinpa.ci
@@ -10643,6 +10653,7 @@ seigneurie.ci
 seigroupeloko.ci
 sejen.ci
 seka.ci
+sekelem.ci
 sel.ci
 selectionsprosuma.ci
 selectium.ci
@@ -11239,6 +11250,7 @@ sonam.ci
 sonapie.ci
 sonarc-inter.ci
 sonarci.ci
+sondage.ci
 sonder.ci
 sonetci.ci
 soniel.ci
@@ -11391,6 +11403,7 @@ stateless.ci
 stationnoire.ci
 stationyakrobnetd.ci
 statoil.ci
+stats.ci
 status.ci
 stbi-africa.ci
 stbo.ci
@@ -11768,6 +11781,7 @@ tiphara.ci
 tipharah.ci
 tiragelotobonheur.ci
 tis.ci
+tishi.ci
 tispir.ci
 titho-express.ci
 tiu.ci
@@ -11812,6 +11826,7 @@ topinformatique.ci
 topjob.ci
 topmariage.ci
 topmoteur.ci
+topwork.ci
 toshiba.ci
 total.ci
 total-energies.ci
@@ -11864,6 +11879,7 @@ transports.ci
 transtelecom.ci
 transtourauto.ci
 transvie.ci
+traoreousmane.ci
 tras.ci
 travail.ci
 travaux.ci
