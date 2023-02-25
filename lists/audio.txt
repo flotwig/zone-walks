@@ -99,6 +99,7 @@ actuate.audio
 acx.audio
 ad.audio
 ad1.audio
+adam.audio
 adamrobinson.audio
 adaptive.audio
 addepar.audio
@@ -242,7 +243,6 @@ ambient.audio
 ambiguous.audio
 ambisonic.audio
 ambisonicboom.audio
-ambisonics.audio
 ambrose.audio
 amc.audio
 americano.audio
@@ -814,6 +814,7 @@ ch-precision.audio
 chadwick.audio
 chair.audio
 chakras.audio
+chamsi.audio
 channel.audio
 channel1.audio
 channelone.audio
@@ -2300,7 +2301,6 @@ laurenceteixeira.audio
 lauten.audio
 lavaforgood.audio
 lawson.audio
-layer.audio
 layercake.audio
 lazarus.audio
 lazzaro.audio
@@ -2645,7 +2645,6 @@ microphones.audio
 microsoft.audio
 mid.audio
 middlecentre.audio
-midi.audio
 midnight.audio
 midori.audio
 midrs.audio
@@ -3340,7 +3339,6 @@ psilent.audio
 psm3.audio
 psound.audio
 psp.audio
-psych.audio
 psychedelic.audio
 psychic.audio
 psychology.audio
@@ -3779,6 +3777,7 @@ simpleway.audio
 simply-epic.audio
 sinatra.audio
 sine.audio
+sinewave.audio
 singer.audio
 singers.audio
 sinjen.audio
