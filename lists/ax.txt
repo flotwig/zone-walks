@@ -1355,7 +1355,6 @@ flygfoto.ax
 flygklubben.ax
 flyplay.ax
 fm.ax
-fma.ax
 fmakjsgrav.ax
 fmovie.ax
 fmovies.ax
@@ -2101,6 +2100,7 @@ konsten.ax
 konster.ax
 konsthantverk.ax
 konstmuseum.ax
+konsulten.ax
 kontoret.ax
 kop.ax
 koppargrytan.ax
@@ -2455,7 +2455,6 @@ metaworkplace.ax
 mfb.ax
 mh.ax
 mhd.ax
-mi.ax
 mia.ax
 miaslivsenergi.ax
 miaw.ax
@@ -2854,6 +2853,7 @@ pedago.ax
 pellas.ax
 pensionatsolhem.ax
 pepp.ax
+per.ax
 perinta.ax
 perintatoimisto.ax
 periskop.ax
