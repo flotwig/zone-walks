@@ -1,5 +1,6 @@
 -.kg
 0.kg
+00.kg
 001.kg
 007.kg
 01.kg
@@ -536,7 +537,6 @@ alabel.kg
 alabuka.kg
 aladdin.kg
 aladdinmachinery.kg
-alakel.kg
 alakol.kg
 alam.kg
 alaman.kg
@@ -1239,7 +1239,6 @@ autozaem.kg
 autozap.kg
 autozip.kg
 aux.kg
-auxkg.kg
 av.kg
 ava.kg
 avanco.kg
@@ -1533,6 +1532,7 @@ baytalaa.kg
 baytashgroup.kg
 baytik.kg
 baytiklux.kg
+baytiktower.kg
 baytur.kg
 baytur-build.kg
 baytur-resort.kg
@@ -1683,7 +1683,6 @@ bex.kg
 beyondairbnb.kg
 beyondbyairbnb.kg
 bf.kg
-bfet.kg
 bfgoodrich.kg
 bg.kg
 bga.kg
@@ -1717,6 +1716,7 @@ biff.kg
 biforce.kg
 bigben.kg
 bigbon.kg
+bigchina.kg
 bigdecor.kg
 bigdutchman.kg
 bigfarm.kg
@@ -3338,7 +3338,6 @@ energoflex.kg
 energoland.kg
 energoreestr.kg
 energy.kg
-energyholding.kg
 energyliveshere.kg
 energyltd.kg
 energysave.kg
@@ -3747,6 +3746,7 @@ flagman-print.kg
 flagmanhotel.kg
 flamp.kg
 flashka.kg
+flashpay.kg
 flashuppromo.kg
 flashwallet.kg
 flat.kg
@@ -3789,7 +3789,6 @@ flysky.kg
 flysmart.kg
 flyway.kg
 fm.kg
-fmfc.kg
 fmtg.kg
 fnt.kg
 fo.kg
@@ -4095,6 +4094,7 @@ glamourbaby.kg
 glamp.kg
 glamping.kg
 glass.kg
+glass-stroy.kg
 glassmarket.kg
 glassnas.kg
 glav-mebel.kg
@@ -4110,6 +4110,7 @@ glencore.kg
 glicerol.kg
 glo.kg
 global.kg
+global-balance.kg
 global-ex.kg
 global-print.kg
 global-rivers.kg
@@ -4717,7 +4718,6 @@ ilaw.kg
 ilbirs.kg
 ilbirstrade.kg
 ilbirsvet.kg
-ilgeri.kg
 ilim.kg
 ilimbox.kg
 ilimcompany.kg
@@ -5200,6 +5200,7 @@ jibekjolukafe.kg
 jimdo.kg
 jingdong.kg
 jiynagi.kg
+jj.kg
 jk.kg
 jkz.kg
 jnpartners.kg
@@ -5310,7 +5311,6 @@ kampa.kg
 kan.kg
 kanatgroup.kg
 kanc.kg
-kancmaster.kg
 kancservice.kg
 kangaroo-concurs.kg
 kangqiao.kg
@@ -5489,7 +5489,6 @@ kgb.kg
 kgbio.kg
 kgbox.kg
 kgclinic.kg
-kgfe.kg
 kggt.kg
 kghu.kg
 kginform.kg
@@ -5604,7 +5603,6 @@ klm.kg
 klmvz.kg
 kln.kg
 kloop.kg
-klp.kg
 kls.kg
 klv.kg
 kma.kg
@@ -6298,6 +6296,7 @@ mama.kg
 mamako.kg
 mamalak.kg
 mamapizza.kg
+mamatovaraad.kg
 mamaznaet.kg
 mamba.kg
 mamile.kg
@@ -6338,6 +6337,7 @@ marker.kg
 market.kg
 market24.kg
 marketing.kg
+marketplace.kg
 markirovka.kg
 markmonitor.kg
 marks-and-spencer.kg
@@ -6431,6 +6431,7 @@ mbe.kg
 mbe-franchise.kg
 mbegroup.kg
 mbf.kg
+mbonus.kg
 mbp.kg
 mbs.kg
 mbt.kg
@@ -6581,6 +6582,7 @@ melady.kg
 melana.kg
 melis.kg
 meloman.kg
+membrana.kg
 men.kg
 meniki.kg
 menkargroup.kg
@@ -6712,6 +6714,7 @@ miningshop.kg
 minjust.kg
 minoxidil.kg
 minus.kg
+minvest.kg
 mioma.kg
 mir.kg
 mir-instrumenta.kg
@@ -6858,6 +6861,7 @@ mp.kg
 mp3.kg
 mpay.kg
 mpk.kg
+mplus.kg
 mportal.kg
 mpz.kg
 mr.kg
@@ -7207,6 +7211,7 @@ nlkg.kg
 nlogistics.kg
 nm.kg
 nmt.kg
+nn.kg
 nobel.kg
 nobeledent.kg
 nobo.kg
@@ -7979,6 +7984,7 @@ plath.kg
 platinka.kg
 platinum.kg
 platinumfitness.kg
+platon.kg
 plaza.kg
 plazaclinic.kg
 plazahotel.kg
@@ -8695,7 +8701,6 @@ sait.kg
 saiyk.kg
 sakmektep.kg
 saksalamat.kg
-salam.kg
 salam24.kg
 salamabiz.kg
 salamander.kg
@@ -8766,7 +8771,6 @@ sapar.kg
 sapargul-smm.kg
 sapat.kg
 sapat-bruschatka.kg
-sapat-en.kg
 sapat-global.kg
 sapat-test.kg
 sapatasiatrade.kg
@@ -8926,6 +8930,7 @@ shahpalace.kg
 shahtea.kg
 shaini.kg
 shaman.kg
+shambala.kg
 shambesai.kg
 shamdagai.kg
 shampan.kg
@@ -9257,6 +9262,7 @@ sozdatsite.kg
 sp.kg
 spa.kg
 space.kg
+spacelogistics.kg
 spar.kg
 spark.kg
 spasibo.kg
@@ -9426,6 +9432,7 @@ stroydom.kg
 stroydvor.kg
 stroyka.kg
 stroylevel.kg
+stroymarket.kg
 stroyprice.kg
 stswb.kg
 student.kg
@@ -9942,6 +9949,7 @@ tl.kg
 tlnika.kg
 tm.kg
 tmall.kg
+tmavlynov11.kg
 tmg.kg
 tmin.kg
 tmobile.kg
@@ -10117,6 +10125,7 @@ triptop.kg
 trit.kg
 tritongear.kg
 trk.kg
+trm.kg
 tro-ya.kg
 trodat.kg
 troweprice.kg
@@ -10294,7 +10303,6 @@ undiz.kg
 unexgr.kg
 unger.kg
 unhcr.kg
-unibind.kg
 unibook.kg
 unicredit.kg
 unicredit-bank.kg
@@ -10311,7 +10319,6 @@ unident-online.kg
 unidom.kg
 unieuro.kg
 uniform.kg
-uniglass.kg
 unihelp.kg
 unilever.kg
 unilift.kg
@@ -10589,6 +10596,7 @@ vkusnoandpolezno.kg
 vkusnoitochka.kg
 vkvoil.kg
 vlast.kg
+vlata.kg
 vm.kg
 vmpolza.kg
 vmpromo.kg
@@ -10638,7 +10646,6 @@ vozovoz.kg
 vpdn.kg
 vpn.kg
 vr.kg
-vremya.kg
 vremyauborki.kg
 vsb.kg
 vse.kg
@@ -10854,6 +10861,7 @@ xpucmuane.kg
 xshop.kg
 xside.kg
 xtravel.kg
+xx.kg
 xxx.kg
 xypex.kg
 y.kg
@@ -10914,6 +10922,7 @@ yurtcampalay.kg
 yurtglamping.kg
 yuva.kg
 yves-rocher.kg
+yy.kg
 yyds.kg
 z.kg
 zabor.kg
