@@ -241,7 +241,6 @@ amazontap.audio
 ambient.audio
 ambiguous.audio
 ambisonic.audio
-ambisonicboom.audio
 ambrose.audio
 amc.audio
 americano.audio
@@ -1181,6 +1180,7 @@ digitalworld.audio
 digitialdesigns.audio
 dinosaur.audio
 dipolith.audio
+dipper.audio
 dirac.audio
 directory.audio
 discovermy.audio
@@ -1673,7 +1673,6 @@ genuss.audio
 georgehagstrand.audio
 german.audio
 german-voiceover.audio
-germinaterecords.audio
 gerrystinson.audio
 gerttaeymans.audio
 geschichten.audio
@@ -3083,6 +3082,7 @@ optimum.audio
 opus.audio
 orangerental.audio
 order.audio
+ordinals.audio
 orea.audio
 orelo.audio
 orig.audio
@@ -3211,7 +3211,6 @@ pinion.audio
 pinknoise.audio
 pinnacle.audio
 pioneer.audio
-pirate.audio
 pirates.audio
 pitchdokta.audio
 pittsburghpirates.audio
@@ -3650,7 +3649,6 @@ schalke04.audio
 schema.audio
 scheu.audio
 schiit.audio
-schillerfalter.audio
 schmidt.audio
 schmitt.audio
 schnalz.audio
@@ -4343,6 +4341,7 @@ trancendance.audio
 tranq.audio
 transcribe.audio
 transcricao.audio
+transcriptors.audio
 transform.audio
 transformer.audio
 transformers.audio
