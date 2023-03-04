@@ -1529,6 +1529,7 @@ autistan.ci
 auto.ci
 auto-moto.ci
 auto24.ci
+autobaked.ci
 autoblog.ci
 autocare.ci
 autochap.ci
@@ -2759,7 +2760,6 @@ cj.ci
 ck-energy.ci
 ckavocat.ci
 ckdconsulting.ci
-ckdokdo.ci
 ckgholding.ci
 ckivoufo.ci
 ckrgroup.ci
@@ -3667,6 +3667,7 @@ cpec.ci
 cpntic.ci
 cpsl.ci
 cpu.ci
+cpupme.ci
 cq.ci
 cqc.ci
 cr.ci
@@ -3766,6 +3767,7 @@ cumlaudelab.ci
 cuo.ci
 customcar.ci
 customers.ci
+cut.ci
 cuzzispa.ci
 cv.ci
 cvav.ci
@@ -4841,6 +4843,7 @@ envipur-sa.ci
 enviroprotect.ci
 enyx.ci
 eo.ci
+eolis.ci
 eolisco.ci
 eolistf.ci
 eoptions.ci
@@ -5395,6 +5398,7 @@ fonsdev.ci
 fonsi-climat.ci
 fonsti.ci
 fontainegroup.ci
+foodbaked.ci
 foodeals.ci
 foodforlifeglobalimpact.ci
 foodiz.ci
@@ -5791,6 +5795,7 @@ gom.ci
 gomagazine.ci
 gombo.ci
 goodcard.ci
+gooddealsservices.ci
 goodevent.ci
 goodies.ci
 goodis.ci
@@ -6217,7 +6222,6 @@ huub.ci
 hv.ci
 hw.ci
 hx.ci
-hy.ci
 hybrid.ci
 hybride.ci
 hybrideline.ci
@@ -6389,6 +6393,7 @@ imgh.ci
 imghcotedivoire.ci
 immauto.ci
 immo.ci
+immobaked.ci
 immobilierdereve.ci
 immobiliers.ci
 immobilisservice.ci
@@ -6771,6 +6776,7 @@ ivorian-economy.ci
 ivorybridgetransit.ci
 ivorycoast.ci
 ivorycoastdiaspora.ci
+ivorycocoa.ci
 ivorycocoaproducts.ci
 ivoryenergies.ci
 ivoryfoods.ci
@@ -7634,6 +7640,7 @@ lifebeautyfestival.ci
 lifeplay.ci
 liferadio.ci
 lifestyle.ci
+lifetv.ci
 lifi-led.ci
 ligdicash.ci
 lightbox.ci
@@ -11741,7 +11748,6 @@ tom.ci
 tomaci.ci
 tomoua.ci
 tondocteur.ci
-toner.ci
 tongoenergy.ci
 tonkpinihidaley.ci
 tontine.ci
@@ -12179,6 +12185,7 @@ visionressources.ci
 visionsmart.ci
 visitbassam.ci
 visitcotedivoire.ci
+visitecotedivoire.ci
 visiterman.ci
 visitetechnique.ci
 visu.ci
