@@ -245,7 +245,6 @@ act.kg
 act-building.kg
 actavis.kg
 actimove.kg
-action.kg
 actionbit.kg
 active.kg
 activedesign.kg
@@ -1251,7 +1250,6 @@ avangardsport.kg
 avangardstyle.kg
 avantage.kg
 avazkanova.kg
-avb.kg
 avd.kg
 aveno-oil.kg
 avent.kg
@@ -1376,7 +1374,6 @@ aziaplast.kg
 azimut.kg
 azius.kg
 azmed.kg
-azonclimat.kg
 azor.kg
 azs.kg
 azsk74.kg
@@ -3239,7 +3236,6 @@ elfbar.kg
 elfinance.kg
 elgezit.kg
 elife.kg
-elimbar.kg
 elita.kg
 elitaplus.kg
 elite.kg
@@ -3977,6 +3973,7 @@ garmin.kg
 garnizon.kg
 gas.kg
 gasenergy.kg
+gasgas.kg
 gasitaly.kg
 gastronom.kg
 gate.kg
@@ -4974,7 +4971,6 @@ ishenimtrading.kg
 ishker.kg
 ishtapp.kg
 ishte.kg
-isit.kg
 isito.kg
 isk.kg
 iskander-service-co.kg
@@ -5296,7 +5292,6 @@ kambarkan.kg
 kamen.kg
 kamera.kg
 kamexport.kg
-kami.kg
 kaminvest.kg
 kamip.kg
 kamkor.kg
@@ -5424,7 +5419,6 @@ kecb.kg
 kedis.kg
 keen.kg
 keenetic.kg
-kegetisut.kg
 keiin.kg
 keks.kg
 kel.kg
@@ -5815,7 +5809,6 @@ kutaalam.kg
 kutai.kg
 kutbilim.kg
 kutstroy.kg
-kuu.kg
 kuu-avn.kg
 kuvshin.kg
 kv.kg
@@ -7284,6 +7277,7 @@ nspk-povar.kg
 nsu.kg
 nt.kg
 ntek.kg
+ntex.kg
 ntrillion.kg
 nts.kg
 nuby.kg
@@ -7608,7 +7602,6 @@ os.kg
 osago.kg
 osce-academy.kg
 osgo.kg
-osh.kg
 osh-nuru.kg
 oshane.kg
 oshcci.kg
@@ -8630,7 +8623,6 @@ rsc.kg
 rsk.kg
 rsm.kg
 ru.kg
-ruba.kg
 rubetek.kg
 rubezh.kg
 rubikon.kg
@@ -9042,6 +9034,7 @@ sip-domokomplekt.kg
 sistem.kg
 sistema.kg
 site.kg
+sites.kg
 siwak.kg
 sixbox.kg
 sixt.kg
@@ -10469,7 +10462,6 @@ vensta.kg
 venstella.kg
 vent.kg
 ventclimat.kg
-ventcom.kg
 ventline.kg
 ventsan.kg
 ventura.kg
@@ -10791,7 +10783,6 @@ woe.kg
 woerwagpharma.kg
 wolf.kg
 wolflubes.kg
-wolta.kg
 women-in-tech.kg
 womeninenergy.kg
 womenintech.kg
@@ -10987,7 +10978,6 @@ zf.kg
 zh.kg
 zhaluzi-home.kg
 zherdev-sad.kg
-zibtrans.kg
 zic.kg
 zigzag.kg
 zil.kg
