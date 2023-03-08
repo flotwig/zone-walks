@@ -57,7 +57,6 @@
 222.gdn
 222diy.gdn
 223300.gdn
-2235695.gdn
 226600.gdn
 226688.gdn
 226699.gdn
@@ -65,9 +64,6 @@
 228800.gdn
 23037.gdn
 23516.gdn
-2356775.gdn
-2356859.gdn
-2395623.gdn
 24h.gdn
 25139.gdn
 253684.gdn
@@ -92,9 +88,7 @@
 30246.gdn
 303.gdn
 32268.gdn
-3256745.gdn
 32678.gdn
-3267849.gdn
 32917.gdn
 33183.gdn
 333.gdn
@@ -135,7 +129,6 @@
 45069.gdn
 45200.gdn
 454500.gdn
-4563273.gdn
 46250.gdn
 48645.gdn
 4bf.gdn
@@ -165,8 +158,6 @@
 555666.gdn
 55956.gdn
 56367.gdn
-5657436.gdn
-5678985.gdn
 56829.gdn
 56980.gdn
 56981.gdn
@@ -184,7 +175,6 @@
 6-6.gdn
 600.gdn
 606.gdn
-6542336.gdn
 658235.gdn
 658238.gdn
 65978.gdn
@@ -217,21 +207,15 @@
 73276.gdn
 73586.gdn
 73865.gdn
-7423682.gdn
 74623.gdn
 751865.gdn
-7536324.gdn
 75963.gdn
 75982.gdn
 770.gdn
 777.gdn
 777000.gdn
-7845329.gdn
-7854426.gdn
-7865235.gdn
 78888.gdn
 79834.gdn
-7984656.gdn
 79853.gdn
 7k7k.gdn
 7lw.gdn
@@ -257,7 +241,6 @@
 86297.gdn
 86327.gdn
 87083.gdn
-8723656.gdn
 87329.gdn
 87531.gdn
 885511.gdn
@@ -270,7 +253,6 @@
 88886.gdn
 88887.gdn
 88889.gdn
-8965258.gdn
 899.gdn
 8lll.gdn
 8n8.gdn
@@ -288,8 +270,6 @@
 965238.gdn
 96706.gdn
 97638.gdn
-9857827.gdn
-9865353.gdn
 98888.gdn
 989.gdn
 99632.gdn
@@ -2407,6 +2387,7 @@ chinesecuisine.gdn
 chinesefurniture.gdn
 chipdip.gdn
 chipmunk.gdn
+chips.gdn
 chiro.gdn
 chiropractor.gdn
 chirp.gdn
@@ -9003,7 +8984,6 @@ printingservices.gdn
 printstore.gdn
 prism.gdn
 privacy.gdn
-private.gdn
 privatejet.gdn
 privatelabel.gdn
 privatjet.gdn
@@ -10350,6 +10330,7 @@ sleeping.gdn
 sleeppillow.gdn
 slice.gdn
 slide.gdn
+sliders.gdn
 slight.gdn
 slightly.gdn
 slim.gdn
