@@ -1180,7 +1180,6 @@ imagine.hosting
 imap.hosting
 imo-online.hosting
 imo-terminology.hosting
-inbox.hosting
 incognito.hosting
 incredible.hosting
 indie.hosting
@@ -1418,7 +1417,6 @@ mail.hosting
 mail-connect.hosting
 mail-security.hosting
 mailarchiva.hosting
-mailbox.hosting
 mailcheck.hosting
 mailchimp.hosting
 mailconnect.hosting
@@ -1556,6 +1554,7 @@ mobile-made-in-germany.hosting
 mobileapp.hosting
 mobilephone.hosting
 mobilfunk.hosting
+mohr.hosting
 money.hosting
 monitor.hosting
 monmondeamoi.hosting
