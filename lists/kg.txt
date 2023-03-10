@@ -5,6 +5,7 @@
 007.kg
 01.kg
 01edu.kg
+01remonte.kg
 089.kg
 1.kg
 10.kg
@@ -126,7 +127,6 @@
 5element.kg
 5g.kg
 5manty.kg
-5tv.kg
 6.kg
 60.kg
 6132.kg
@@ -197,6 +197,7 @@ abbi.kg
 abc.kg
 abc-center.kg
 abdcapital.kg
+abdysh-ata.kg
 abdyshata.kg
 abi.kg
 abiturient.kg
@@ -356,6 +357,7 @@ agrolife.kg
 agroline.kg
 agromarket.kg
 agromir.kg
+agronomica.kg
 agronova.kg
 agroprod.kg
 agroproduct.kg
@@ -365,7 +367,6 @@ agroservice.kg
 agrosource.kg
 agrostyle.kg
 agrotech.kg
-agrotechnopark.kg
 agrotorf.kg
 agrotourism.kg
 agrovet.kg
@@ -532,6 +533,7 @@ alabel.kg
 alabuka.kg
 aladdin.kg
 aladdinmachinery.kg
+alakel.kg
 alakol.kg
 alam.kg
 alaman.kg
@@ -1366,7 +1368,6 @@ azattykplus.kg
 azbuka.kg
 azbukadoma.kg
 azharia.kg
-azi.kg
 aziaplast.kg
 azimut.kg
 azius.kg
@@ -1559,7 +1560,6 @@ bcode.kg
 bd.kg
 bdaexpress.kg
 bdi.kg
-bdo.kg
 bearbeer.kg
 bearing.kg
 bearingpoint.kg
@@ -2282,6 +2282,7 @@ cheese.kg
 chef.kg
 chekhov.kg
 chekit.kg
+chelpek.kg
 chemours.kg
 cherikov.kg
 chery.kg
@@ -2399,7 +2400,6 @@ cmg.kg
 cmgh.kg
 cmgpro.kg
 cn.kg
-cnc.kg
 cnn.kg
 co.kg
 coalcity.kg
@@ -2689,6 +2689,7 @@ dell.kg
 della.kg
 delo.kg
 deloitte.kg
+delovoisobesednik.kg
 delta.kg
 delta-profi.kg
 deltamedical.kg
@@ -2799,7 +2800,6 @@ diesel.kg
 dieta.kg
 dietcoke.kg
 diflucan.kg
-digi.kg
 digis.kg
 digital.kg
 digitalacademy.kg
@@ -2856,6 +2856,7 @@ doberman.kg
 dobro.kg
 dobryijuk.kg
 doc.kg
+doce.kg
 docke.kg
 doclinic.kg
 docrobot.kg
@@ -3041,7 +3042,6 @@ echamber.kg
 echefs.kg
 eckonom.kg
 eclectica.kg
-eco.kg
 eco-kids.kg
 eco-life.kg
 eco-service.kg
@@ -3634,6 +3634,8 @@ fc.kg
 fc-dordoi.kg
 fcaa.kg
 fccu.kg
+fcmu.kg
+fcmuras.kg
 fcuralsib.kg
 fd.kg
 fdoc.kg
@@ -3880,6 +3882,7 @@ frunze-dostavka.kg
 frunze-market.kg
 frunze-online.kg
 frunzeauto.kg
+frunzerest.kg
 frunzeshop.kg
 frutovit.kg
 fsa.kg
@@ -4642,6 +4645,7 @@ id.kg
 idalgo.kg
 idalgo-clinic.kg
 idalgo-family.kg
+idea.kg
 ideal.kg
 idealpharm.kg
 idealstirka.kg
@@ -4653,7 +4657,6 @@ idlogic.kg
 idoctor.kg
 idrink.kg
 idservice.kg
-idsports.kg
 ief.kg
 iek.kg
 ielts.kg
@@ -5012,7 +5015,6 @@ it-line.kg
 it-logistic.kg
 it-office.kg
 it911.kg
-itadis.kg
 italtherm.kg
 itamga.kg
 itc.kg
@@ -5140,6 +5142,7 @@ jash-jumush.kg
 jashilay.kg
 jashtar.kg
 jashylcha.kg
+jashylkalem.kg
 jasmin.kg
 jasmine.kg
 jasmu.kg
@@ -5247,7 +5250,6 @@ kabai.kg
 kabak.kg
 kaban.kg
 kabar.kg
-kabarlar.kg
 kabel.kg
 kabrita.kg
 kadam.kg
@@ -5319,7 +5321,6 @@ kapriz-ik.kg
 kaprizik.kg
 kaprizissykkul.kg
 kapsikam.kg
-kapu.kg
 kara.kg
 kara-alma.kg
 kara-bak.kg
@@ -6159,7 +6160,6 @@ lotto.kg
 love.kg
 loveflowers.kg
 loveshop.kg
-lovestore.kg
 lovestyle.kg
 lovetime.kg
 lovisa.kg
@@ -6170,7 +6170,6 @@ lpg.kg
 lpgroup.kg
 lrt.kg
 ls.kg
-lstudio.kg
 lt.kg
 ltd.kg
 lte.kg
@@ -6204,7 +6203,6 @@ luxstroydom.kg
 luzi.kg
 luzina.kg
 lvl.kg
-lyceumeverest.kg
 lyres.kg
 lysi.kg
 m.kg
@@ -6893,6 +6891,7 @@ mts.kg
 mts-bs.kg
 mts-italtherm.kg
 mtt.kg
+mu.kg
 muc.kg
 mucos.kg
 muermann.kg
@@ -6902,7 +6901,6 @@ mujnachas.kg
 muk.kg
 mukr.kg
 muller-markt.kg
-multi-cam.kg
 multi-sport.kg
 multicomfort-contest.kg
 multiservice.kg
@@ -6916,6 +6914,7 @@ muras-sertificat.kg
 murasdistr.kg
 murasmedia.kg
 murastelecom.kg
+murasunited.kg
 muraveinik.kg
 muravey.kg
 murella.kg
@@ -7461,6 +7460,7 @@ om.kg
 omarket.kg
 ombudsman.kg
 omega.kg
+omega3.kg
 omegacapital.kg
 omegacustody.kg
 omegalombard.kg
@@ -7514,6 +7514,7 @@ open.kg
 open-company.kg
 open24.kg
 open247.kg
+openai.kg
 openbusiness.kg
 opencompany.kg
 opendata.kg
@@ -7648,7 +7649,6 @@ ostor.kg
 ostore.kg
 ostrovok312.kg
 osuimf.kg
-osuu.kg
 ot.kg
 otis.kg
 otkryt-firmu.kg
@@ -7719,7 +7719,6 @@ pandaexpress.kg
 pandaspec.kg
 pandora.kg
 paneli.kg
-panorama.kg
 pantrade.kg
 panurtex.kg
 papajohns.kg
@@ -8683,6 +8682,7 @@ safekids.kg
 safety.kg
 saffran.kg
 sagynbaeva.kg
+sahna.kg
 sailing.kg
 saima.kg
 saima4g.kg
@@ -8791,6 +8791,7 @@ satcom.kg
 satel.kg
 satu.kg
 saturn.kg
+sauber.kg
 sauna.kg
 sava.kg
 sayakat.kg
@@ -8806,6 +8807,7 @@ sbg.kg
 sc.kg
 scania.kg
 scavolini.kg
+scene.kg
 schaeffler.kg
 schaeffler-aftermarket.kg
 schindler.kg
@@ -8836,6 +8838,7 @@ sdo.kg
 sdpk.kg
 sdts.kg
 se.kg
+sea.kg
 sealy.kg
 sear.kg
 search.kg
@@ -9145,7 +9148,6 @@ smartnet.kg
 smartpay.kg
 smartphone.kg
 smartpost.kg
-smartprice.kg
 smartpro.kg
 smartprof.kg
 smartrent.kg
@@ -9498,7 +9500,6 @@ super-pizza.kg
 superdry.kg
 superexpress.kg
 superjob.kg
-superlinza.kg
 supermarket.kg
 supermedia.kg
 superokna.kg
@@ -10210,6 +10211,7 @@ turmush.kg
 turnik.kg
 turnikman.kg
 tursunbaev.kg
+tursunbekov.kg
 tut.kg
 tutrabota.kg
 tuz.kg
@@ -10946,6 +10948,7 @@ zalkar.kg
 zaman.kg
 zaman-eventhall.kg
 zamanbap.kg
+zamandash.kg
 zamaninvest.kg
 zamat.kg
 zambaiti.kg
@@ -10990,13 +10993,13 @@ zerkalo.kg
 zerno.kg
 zernoresto.kg
 zeroshop.kg
-zerowaste.kg
 zest.kg
 zewa.kg
 zf.kg
 zh.kg
 zhaluzi-home.kg
 zherdev-sad.kg
+zhivoe.kg
 zic.kg
 zigzag.kg
 zil.kg
