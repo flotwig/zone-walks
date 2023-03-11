@@ -634,7 +634,6 @@ biltvatten.ax
 bilwebben.ax
 bimelix.ax
 binary.ax
-bio.ax
 biodlarna.ax
 bioenergi.ax
 bioenermart.ax
@@ -1014,6 +1013,7 @@ dentalcenter.ax
 design.ax
 designtothem.ax
 destiman.ax
+det.ax
 deutsch.ax
 dev.ax
 df.ax
@@ -1510,7 +1510,6 @@ godbyservice.ax
 godis.ax
 goertz.ax
 gogoanime.ax
-gojelppi.ax
 gold.ax
 golfclub.ax
 golfrestaurangen.ax
@@ -2890,9 +2889,10 @@ plats.ax
 platslageri.ax
 play.ax
 playgoogle.ax
+playmgmsport.ax
+playmgmsports.ax
 pleijel.ax
 pm.ax
-pod.ax
 pohjolasairaala.ax
 pokal.ax
 poker.ax
