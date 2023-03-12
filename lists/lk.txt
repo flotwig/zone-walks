@@ -5536,6 +5536,7 @@ bookanything.lk
 bookapp.lk
 bookbank.lk
 bookbinders.lk
+bookcart.lk
 bookcity.lk
 bookclub.lk
 bookdealers.lk
@@ -14693,12 +14694,13 @@ evceylon.lk
 evcharge.lk
 evclub.lk
 evconsultants.lk
+evdirect.lk
 evemall.lk
 event.lk
 eventa.lk
 eventart.lk
 eventbooking.lk
-eventc.lk
+www.eventc.lk
 eventcalendar.lk
 eventcasa.lk
 eventconcepts.lk
@@ -17938,6 +17940,7 @@ gracepererahome.lk
 graceproperties.lk
 gracewings.lk
 gradduosempire.lk
+grade.lk
 grade1.lk
 grade1to5.lk
 grade5.lk
@@ -20372,6 +20375,7 @@ ichizen.lk
 ichsstudy.lk
 icht.lk
 icicibank.lk
+icit.lk
 icitb.lk
 icitizen.lk
 icity.lk
@@ -21513,6 +21517,7 @@ ipas.lk
 ipay.lk
 ipayamex.lk
 ipaylater.lk
+ipbm.lk
 ipc.lk
 ipcamera.lk
 ipcart.lk
@@ -31874,6 +31879,7 @@ oriogreenlanka.lk
 orion.lk
 orionbeauty.lk
 orioncity.lk
+oriongarments.lk
 orionshipping.lk
 oriontech.lk
 orionxoxo.lk
@@ -35586,6 +35592,7 @@ reliancedigital.lk
 reliancehomes.lk
 relianceinvestments.lk
 relianceit.lk
+relianceresearch.lk
 relianceresidencies.lk
 reliancesecurities.lk
 reliancesquad.lk
@@ -37627,6 +37634,7 @@ scheringls.lk
 schindler.lk
 schokmanandsamerawickreme.lk
 schokmansamerawickreme.lk
+scholalify.lk
 scholar.lk
 scholarhub.lk
 scholario.lk
@@ -43571,8 +43579,7 @@ theblu.lk
 thebluefish.lk
 theblues.lk
 thebluewavehotel.lk
-admin-api-staging.theboardroom.lk
-admin-staging.theboardroom.lk
+theboardroom.lk
 thebobbingroup.lk
 thebodyshop.lk
 theboltshop.lk
