@@ -766,7 +766,6 @@ af.ci
 af-im.ci
 afa.ci
 afad.ci
-afb.ci
 afcar.ci
 afchem.ci
 afchemsofaco.ci
@@ -1516,7 +1515,6 @@ auparchemin.ci
 aupcn.ci
 aura.ci
 auriga.ci
-auromanagement.ci
 aurore.ci
 auroreassistantuniverselle.ci
 auroserv.ci
@@ -1684,6 +1682,7 @@ bal.ci
 balafon.ci
 balanceyogafitness.ci
 balezigroup.ci
+balhascommerce.ci
 balisagroup.ci
 baloon.ci
 bam.ci
@@ -2280,6 +2279,7 @@ camtech.ci
 camuse.ci
 can.ci
 can2023.ci
+can2024.ci
 canaanhills.ci
 canada.ci
 canal-boxpro.ci
@@ -2546,6 +2546,7 @@ cgrae.ci
 cgsanpedro.ci
 cgtoumodi.ci
 challenges.ci
+challenges-ivoire.ci
 chambragri.ci
 chames.ci
 championbet.ci
@@ -4073,7 +4074,6 @@ diocesedegrandbassam.ci
 dionysus.ci
 dioula.ci
 dipimo.ci
-dipnmiss.ci
 dir-energie.ci
 direct.ci
 directiongeneraleemploi.ci
@@ -4185,7 +4185,6 @@ documents.ci
 docusign.ci
 dodge.ci
 dodopizza.ci
-dograma.ci
 dogue-abbeyao.ci
 dohstore.ci
 doingbusiness.ci
@@ -5071,7 +5070,6 @@ expats.ci
 expedia.ci
 experimax.ci
 expertbatiment.ci
-expertfox.ci
 expertise.ci
 expertise-pdcp.ci
 experts-group.ci
@@ -5730,7 +5728,6 @@ glbgroup.ci
 glencoreagriculture.ci
 glo.ci
 global.ci
-globalaccess.ci
 globalconnection.ci
 globalenergy.ci
 globaleservices.ci
@@ -5815,6 +5812,7 @@ gool.ci
 gopharma.ci
 gorilla.ci
 gosat.ci
+goshenglobalgroup.ci
 goshenimmotec.ci
 gosofts.ci
 gospaces.ci
@@ -6079,6 +6077,7 @@ hercules.ci
 here.ci
 hermannandreyes.ci
 herve-coiffure.ci
+herve-diaz.ci
 hesfinances.ci
 hesperis.ci
 hespress.ci
@@ -6166,6 +6165,7 @@ hotel-montkorhogo.ci
 hotelcarrefour.ci
 hoteldesparlementaires.ci
 hoteldulac.ci
+hotelhanniel.ci
 hotelhibiscus.ci
 hotelhibiscus-abidjan.ci
 hotelhudson.ci
@@ -6247,7 +6247,6 @@ i2n.ci
 i2s.ci
 i2t.ci
 ia.ci
-iac.ci
 iac-tp.ci
 iacc.ci
 iaccessgroup.ci
@@ -7442,6 +7441,7 @@ ldg.ci
 le.ci
 le-batisseur.ci
 le-djassa.ci
+le-grain.ci
 le10decembre.ci
 le24boulevardclozel.ci
 le24clozel.ci
@@ -8099,6 +8099,7 @@ mazica.ci
 mazli.ci
 mba-audio.ci
 mbaboua.ci
+mbahiag.ci
 mbapub.ci
 mbartsetdecoration.ci
 mbc.ci
@@ -8284,6 +8285,7 @@ microdis.ci
 microivoire.ci
 microplanet.ci
 microsoftdynamics365.ci
+microtech.ci
 midas.ci
 midea.ci
 midh.ci
@@ -9002,6 +9004,7 @@ odexfo.ci
 odf.ci
 odic.ci
 odigo.ci
+odiscount.ci
 odish.ci
 oditech.ci
 odjassa.ci
@@ -10701,6 +10704,7 @@ sga2e.ci
 sgb.ci
 sgci.ci
 sgdi.ci
+sgdis.ci
 sgids.ci
 sgie.ci
 sgir.ci
@@ -10732,7 +10736,6 @@ sheikh.ci
 shein.ci
 shelec.ci
 shell.ci
-shephainvest-group.ci
 shi.ci
 shimano.ci
 shiningevents.ci
@@ -10843,6 +10846,7 @@ sighor.ci
 sigma-eng.ci
 sigma-telecom.ci
 sigma-web.ci
+signarama.ci
 sigobe.ci
 sigomap.ci
 sigonepci.ci
@@ -11525,6 +11529,7 @@ tamir.ci
 tamoil.ci
 tamponenligne.ci
 tamron.ci
+tamsystem.ci
 tamtam.ci
 tangerine.ci
 tangy.ci
@@ -12198,6 +12203,7 @@ vitamines.ci
 vitasante.ci
 vitemarket.ci
 viterra.ci
+vitnet-inter.ci
 vitropicafrica.ci
 vitu.ci
 viuuc.ci
@@ -12210,7 +12216,6 @@ vix.ci
 vizop.ci
 vj.ci
 vk.ci
-vke-groups.ci
 vlogistics.ci
 vmware.ci
 vn.ci
@@ -12488,6 +12493,7 @@ yachadconnexion.ci
 yadec.ci
 yadecdigital.ci
 yadi.ci
+yafigue.ci
 yafoy.ci
 yahindigo.ci
 yaislogistics.ci
