@@ -54,6 +54,9 @@ ale.tz
 alistairgroup.tz
 allesaussermainstream.tz
 allianz.tz
+allianz-sanlam.tz
+allianzsanlam.tz
+allianzsanlamtanzania.tz
 alphabet.tz
 alstom.tz
 amador.tz
@@ -178,6 +181,7 @@ buba.tz
 bulkpay.tz
 buy.tz
 bwin.tz
+cable.tz
 canny.tz
 carehealth.tz
 carglass.tz
@@ -811,6 +815,7 @@ que.tz
 quickmark.tz
 qwer.tz
 rafiki.tz
+rasef.tz
 raymond.tz
 readytowork.tz
 realestate.tz
@@ -854,6 +859,11 @@ salimahmedsalim.tz
 samsung.tz
 sanarhospitals.tz
 sanlam.tz
+sanlam-allianz.tz
+sanlamallianz.tz
+sanlamallianzgeneralinsurance.tz
+sanlamallianzlifeinsurance.tz
+sanlamallianztanzania.tz
 sanlamgeneralinsurance.tz
 sanlamlifeinsurance.tz
 savki.tz
@@ -931,6 +941,7 @@ soccer.tz
 soka.tz
 sokokuu.tz
 solocodes.tz
+somakwanza.tz
 somtan.tz
 soti.tz
 sottamining.tz
