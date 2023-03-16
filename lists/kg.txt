@@ -139,6 +139,7 @@
 7.kg
 70.kg
 71.kg
+74.kg
 77.kg
 777.kg
 777kukuruza.kg
@@ -169,6 +170,7 @@ a-1.kg
 a-2.kg
 a-consult.kg
 a-g.kg
+a-odin.kg
 a-p.kg
 a-print.kg
 a1.kg
@@ -810,7 +812,6 @@ angelini.kg
 angrekum.kg
 angstrem-mebel.kg
 animal.kg
-anime.kg
 ank.kg
 ankamedical.kg
 anketa.kg
@@ -1339,6 +1340,7 @@ avtoves.kg
 avtovokzal.kg
 avtovyshka.kg
 avtozapchast.kg
+avzur.kg
 awesta.kg
 awli.kg
 axis.kg
@@ -1601,6 +1603,7 @@ bel.kg
 belayareka.kg
 belbog.kg
 belcanto.kg
+belek.kg
 beles.kg
 belgi.kg
 belinda.kg
@@ -2376,7 +2379,6 @@ cleanwater.kg
 cleanworld.kg
 cleek.kg
 clever.kg
-clevercoffee.kg
 clevertouch.kg
 click.kg
 client.kg
@@ -2579,6 +2581,7 @@ cvetok.kg
 cvp.kg
 cyber.kg
 cyberpower.kg
+cybersec.kg
 cybersource.kg
 cyberweek.kg
 cyclone.kg
@@ -2592,6 +2595,7 @@ da.kg
 daam.kg
 daamduu.kg
 daclinic.kg
+dacs.kg
 dada.kg
 dae.kg
 daewoo.kg
@@ -2638,6 +2642,7 @@ dasmed.kg
 dasmia.kg
 dastan.kg
 dastanplast.kg
+data.kg
 dataccs.kg
 datacenter.kg
 datadome.kg
@@ -2762,6 +2767,7 @@ devbox.kg
 devcats.kg
 devcit.kg
 devcompany.kg
+develon.kg
 developer.kg
 development.kg
 device.kg
@@ -3654,6 +3660,7 @@ fcuralsib.kg
 fd.kg
 fdoc.kg
 fe.kg
+febgroup.kg
 federal.kg
 federalexpress.kg
 fedex.kg
@@ -4120,6 +4127,7 @@ global-rivers.kg
 globalaudit.kg
 globalcom.kg
 globaldialog.kg
+globalenergyeurasia.kg
 globalexltd.kg
 globalfashion.kg
 globalgarment.kg
@@ -4696,7 +4704,6 @@ ih.kg
 iheart.kg
 iheartradio.kg
 iherb.kg
-ihftnaskr.kg
 ihg.kg
 ihlas.kg
 ihlas-stone.kg
@@ -4764,7 +4771,6 @@ imperia.kg
 imperial.kg
 imperial-tobacco.kg
 imperialhall.kg
-imperiall.kg
 imperialtobacco.kg
 impgroup.kg
 implant-service.kg
@@ -5079,7 +5085,6 @@ iuk.kg
 ivision.kg
 ivoclar-vivadent.kg
 ivoclarvivadent.kg
-iw.kg
 iwa.kg
 iwabishkek.kg
 iwex.kg
@@ -5497,6 +5502,7 @@ kghu.kg
 kginform.kg
 kgjol.kg
 kgkampa.kg
+kglogistics.kg
 kgm.kg
 kgma.kg
 kgmtrade.kg
@@ -5591,6 +5597,7 @@ kkiac.kg
 kkk.kg
 kkm.kg
 kkm-online.kg
+kl.kg
 klafs-kyrgyzstan.kg
 klaus.kg
 kleber.kg
@@ -5849,6 +5856,7 @@ kyndryl.kg
 kyraan.kg
 kyrgyz.kg
 kyrgyz-el.kg
+kyrgyz-techno.kg
 kyrgyz-test.kg
 kyrgyz-tourism.kg
 kyrgyzaltyn.kg
@@ -6010,6 +6018,7 @@ leovegas.kg
 lerna.kg
 les.kg
 lesdrev.kg
+lesopoval.kg
 letai.kg
 leti.kg
 letoile.kg
@@ -6311,6 +6320,7 @@ manas-discovery.kg
 manasacademy.kg
 manasordo.kg
 manasrma.kg
+manastv.kg
 manchester.kg
 mands.kg
 mango.kg
@@ -6433,6 +6443,7 @@ mba.kg
 mbank.kg
 mbe.kg
 mbe-franchise.kg
+mbeauty.kg
 mbegroup.kg
 mbf.kg
 mbonus.kg
@@ -6625,6 +6636,7 @@ metal.kg
 metall.kg
 metall-ken.kg
 metall-nazar.kg
+metallisteurasia.kg
 metallken.kg
 metallkyrgyztemir.kg
 metallobaza.kg
@@ -6689,6 +6701,7 @@ mido.kg
 miele.kg
 mig.kg
 migom.kg
+migrant.kg
 migrantkabar.kg
 mike.kg
 mikroleasing.kg
@@ -6898,7 +6911,6 @@ mspos.kg
 mssduet.kg
 mssoft.kg
 mstore.kg
-mstroygroup.kg
 msu.kg
 mtb.kg
 mtk.kg
@@ -7006,6 +7018,7 @@ na.kg
 na-ahunbaeva.kg
 nabs.kg
 nabu.kg
+nadc.kg
 nadejda.kg
 nadezhda.kg
 nag.kg
@@ -7547,7 +7560,6 @@ operations.kg
 operator.kg
 oplata.kg
 oplati.kg
-opop.kg
 oppo.kg
 oppo-aed.kg
 opros.kg
@@ -7667,6 +7679,7 @@ ostore.kg
 ostrovok312.kg
 osuimf.kg
 ot.kg
+otdelochnik.kg
 otis.kg
 otkryt-firmu.kg
 otkrytip.kg
@@ -7705,6 +7718,7 @@ p2p.kg
 pa.kg
 paascompany.kg
 pacificator.kg
+pacificauto.kg
 pack.kg
 pack7.kg
 padysha.kg
@@ -7853,6 +7867,7 @@ perlator.kg
 persen.kg
 personagrata.kg
 pervomaiskiy.kg
+pervostroy.kg
 pesco.kg
 pesticide.kg
 peta.kg
@@ -8025,6 +8040,7 @@ podpitka.kg
 podrygka.kg
 podshipnik.kg
 podushka.kg
+pogrebok.kg
 pogruz.kg
 pohod.kg
 pohudet.kg
@@ -8370,7 +8386,6 @@ rashodnik.kg
 rasja.kg
 rassro4ka.kg
 rassrochka.kg
-rasta.kg
 rasul-akram.kg
 rasulakram-online.kg
 rating.kg
@@ -8466,6 +8481,7 @@ rembat.kg
 remkofe.kg
 remmers.kg
 remokno.kg
+remont.kg
 remont-computer.kg
 remont312.kg
 remontka.kg
@@ -8564,7 +8580,6 @@ rkk.kg
 rl.kg
 rmasla.kg
 rmconsult.kg
-rmdd.kg
 rmddaviation.kg
 rmg.kg
 rms.kg
@@ -8720,6 +8735,7 @@ salamabiz.kg
 salamander.kg
 salammedia.kg
 saland.kg
+sale.kg
 salesstudio.kg
 salexy.kg
 salih.kg
@@ -8778,6 +8794,7 @@ santehnikprofi.kg
 santehplast.kg
 santehprofi.kg
 santex.kg
+santo.kg
 sany.kg
 sanzhyra-group.kg
 sanzhyraexpress.kg
@@ -8861,7 +8878,6 @@ sdts.kg
 se.kg
 sea.kg
 sealy.kg
-sear.kg
 search.kg
 seasport.kg
 seb.kg
@@ -9051,6 +9067,7 @@ silkonway.kg
 silkplaster.kg
 silkroad.kg
 silkroadempires.kg
+silkroadeurasia.kg
 silkroadlodge.kg
 silkroadservices.kg
 silkwaytravel.kg
@@ -9227,6 +9244,7 @@ soda.kg
 soft.kg
 softclub.kg
 softech.kg
+softik.kg
 softline.kg
 softmaker.kg
 softprom.kg
@@ -9298,6 +9316,7 @@ specreportage.kg
 spectech.kg
 spectehnika.kg
 spectr.kg
+spectransburo.kg
 spekulyant.kg
 speleo.kg
 spey.kg
@@ -9673,6 +9692,7 @@ tartip.kg
 tash-komurkenesh.kg
 tash-kordo.kg
 tash-moinok.kg
+tash-nur.kg
 tash-temir.kg
 tashbolot.kg
 tashkordo.kg
@@ -9734,7 +9754,6 @@ tecdilog.kg
 tech.kg
 techcoworking.kg
 techmatte.kg
-technics.kg
 technikabishkek.kg
 techno.kg
 technoasia.kg
@@ -9772,6 +9791,8 @@ tegim.kg
 tegirmen.kg
 tegola.kg
 tehavto.kg
+tehinvest.kg
+tehkomplekt.kg
 tehno.kg
 tehno-nikol.kg
 tehnohol.kg
@@ -10062,7 +10083,6 @@ tour.kg
 tourexpert.kg
 tourism.kg
 tourist.kg
-touristalia.kg
 tours.kg
 tovarlar.kg
 town.kg
@@ -10284,7 +10304,6 @@ udobno.kg
 udobrenie.kg
 udom.kg
 ufcgym.kg
-ufkgmi.kg
 ug.kg
 ugee.kg
 ugonanet.kg
@@ -10406,7 +10425,6 @@ urta.kg
 uruu.kg
 usa.kg
 usb.kg
-usd.kg
 user.kg
 ushakov.kg
 ushakova.kg
@@ -10530,7 +10548,6 @@ vesti.kg
 vestnik.kg
 vestnikksucta.kg
 vet.kg
-vevi.kg
 vexillum.kg
 vezu.kg
 vf.kg
@@ -10637,6 +10654,7 @@ voda.kg
 vodafone.kg
 vodaphone.kg
 voelkl.kg
+voevoda.kg
 vogue.kg
 voice.kg
 voip.kg
@@ -10735,6 +10753,7 @@ weatherford.kg
 web.kg
 web-alliance.kg
 web-site.kg
+web3.kg
 webcam.kg
 weberlanguageschool.kg
 webformat.kg
@@ -10842,6 +10861,7 @@ workland.kg
 works.kg
 workshop.kg
 worktime.kg
+worktoday.kg
 world.kg
 worldclass.kg
 worldjobs.kg
