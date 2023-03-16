@@ -1076,6 +1076,7 @@ alliancesolidaire.ci
 alliancesun.ci
 alliancevoyages.ci
 allianz.ci
+allianz-sanlam.ci
 allieduniversal.ci
 allinonedigital.ci
 allinonesolution.ci
@@ -1089,7 +1090,6 @@ allodoc.ci
 allodocteur.ci
 alloecole.ci
 alloimmo.ci
-allonvoir.ci
 allopolice.ci
 alloschool.ci
 alloservice.ci
@@ -1100,6 +1100,7 @@ allstar.ci
 alltec.ci
 alltradecenter.ci
 almao.ci
+alpha-technologie.ci
 alphabet.ci
 alphabiolabs.ci
 alphablondyfm.ci
@@ -1157,7 +1158,6 @@ amexplo-rock.ci
 amg.ci
 ami.ci
 ami-sportif.ci
-amic.ci
 amicalelesamisduleao.ci
 amiga.ci
 amina-muaddi.ci
@@ -1673,7 +1673,6 @@ bahblessonfoods.ci
 bahleroux-avocats.ci
 bahservices.ci
 bahshop.ci
-baic.ci
 baidu.ci
 baiedesromances.ci
 baitex.ci
@@ -2004,6 +2003,7 @@ bnci.ci
 bneiyisraelshalom.ci
 bnetd.ci
 bnetdcct.ci
+bngroupe.ci
 bni.ci
 bnifinances.ci
 bnigestion.ci
@@ -2462,7 +2462,6 @@ cefatconsulting.ci
 cefatholding.ci
 cefatimmobilier.ci
 cefatlogistic.ci
-cefca.ci
 cefet-geometre.ci
 ceffage.ci
 cefgm.ci
@@ -2899,6 +2898,9 @@ africamagic.co.ci
 africaonline.co.ci
 afriluxe.co.ci
 allianz.co.ci
+allianz-sanlam.co.ci
+allianzsanlam.co.ci
+allianzsanlamcotedivoire.co.ci
 amazon.co.ci
 apple.co.ci
 arrow.co.ci
@@ -3045,6 +3047,11 @@ rmbbank.co.ci
 rsagroup.co.ci
 samsung.co.ci
 sanlam.co.ci
+sanlam-allianz.co.ci
+sanlamallianz.co.ci
+sanlamallianzassurancenon-vie.co.ci
+sanlamallianzassurancevie.co.ci
+sanlamallianzcotedivoire.co.ci
 senodia.co.ci
 sgs.co.ci
 shein.co.ci
@@ -3198,6 +3205,9 @@ africashop.com.ci
 airbnb.com.ci
 akwaba.com.ci
 allianz.com.ci
+allianz-sanlam.com.ci
+allianzsanlam.com.ci
+allianzsanlamcotedivoire.com.ci
 amazon.com.ci
 annonces.com.ci
 apple.com.ci
@@ -3412,6 +3422,11 @@ saepp.com.ci
 saint-gobain-africa.com.ci
 samsung.com.ci
 sanlam.com.ci
+sanlam-allianz.com.ci
+sanlamallianz.com.ci
+sanlamallianzassurancenon-vie.com.ci
+sanlamallianzassurancevie.com.ci
+sanlamallianzcotedivoire.com.ci
 sante.com.ci
 seat.com.ci
 shein.com.ci
@@ -3862,6 +3877,7 @@ dates-concours.ci
 dathangroup.ci
 daud.ci
 dav.ci
+davconsulting.ci
 david3em.ci
 davin.ci
 davtech.ci
@@ -4048,6 +4064,7 @@ digitalsante.ci
 digitalspace.ci
 digitalstore.ci
 digitalsun.ci
+digitaltransit.ci
 digitalubuntu.ci
 digitaly.ci
 digitapp.ci
@@ -4056,7 +4073,6 @@ digitaxcollect.ci
 digitcommunication.ci
 digitek.ci
 digitmoid.ci
-dih.ci
 dikouan.ci
 dil.ci
 dilaac.ci
@@ -4822,6 +4838,7 @@ enki.ci
 enkolayyurtdisina.ci
 enligne.ci
 enochgroup.ci
+enon.ci
 enov.ci
 enpab.ci
 ens.ci
@@ -5133,6 +5150,7 @@ fano.ci
 fanta.ci
 fantasyking.ci
 farandole.ci
+fareeda.ci
 farma.ci
 faseya.ci
 fashend.ci
@@ -6359,6 +6377,7 @@ ii.ci
 iiao.ci
 iii.ci
 iit.ci
+ij.ci
 ik.ci
 ikaaf.ci
 ikaso.ci
@@ -6658,6 +6677,7 @@ it-smart.ci
 ita.ci
 ita-educ.ci
 ita-education.ci
+ita-groupe.ci
 itaconseils.ci
 itaeducation.ci
 italproduit.ci
@@ -7103,6 +7123,7 @@ kedj-securite.ci
 keitatechnologies.ci
 kelio.ci
 kelio-nexans.ci
+kellanova.ci
 kelloggs.ci
 keniafrica.ci
 kennwall.ci
@@ -7308,6 +7329,7 @@ labmedical.ci
 labocentral.ci
 laboiteacrepe.ci
 laboiteacrepes.ci
+laboiteaidees.ci
 labonneaffaire.ci
 laboservices.ci
 laboussoleimmobilier.ci
@@ -7491,7 +7513,6 @@ lecomparateurdeprix.ci
 leconcierge.ci
 leconsultant.ci
 lecontinentsdesaffaires.ci
-lecoursier.ci
 lecube.ci
 led.ci
 ledcom.ci
@@ -8040,6 +8061,7 @@ marketmyx.ci
 marketonline.ci
 marketplace.ci
 marketys.ci
+markgemiel.ci
 markmonitor.ci
 marlboro.ci
 marlublog.ci
@@ -8257,6 +8279,7 @@ mevtic.ci
 mexc.ci
 mffe.ci
 mffe-unfpa.ci
+mfo.ci
 mfp.ci
 mgasps.ci
 mgb.ci
@@ -8417,7 +8440,6 @@ monavis.ci
 monavocat.ci
 monbadjo.ci
 monbarasseur.ci
-monbat.ci
 monbeaupays.ci
 monbebe.ci
 monbedou.ci
@@ -8569,7 +8591,6 @@ mrtic.ci
 ms.ci
 msa.ci
 msante.ci
-mservices.ci
 msg-africa.ci
 mshpcmu.ci
 mshpucpc2dsante.ci
@@ -8791,6 +8812,7 @@ nfts.ci
 nge-contracting.ci
 ngecontracting.ci
 ngh.ci
+ngi.ci
 ngoa.ci
 ngomory.ci
 ngotta.ci
@@ -9375,6 +9397,7 @@ pacir.ci
 packup.ci
 paco.ci
 pactilis.ci
+padelclub.ci
 padelzone.ci
 padfa.ci
 padleclub.ci
@@ -9677,6 +9700,7 @@ pmemag.ci
 pmermoz.ci
 pmndpe.ci
 pmnt.ci
+pmo-consulting.ci
 pmob.ci
 pmp.ci
 pmp-capm.ci
@@ -10114,7 +10138,6 @@ reeseric.ci
 ref.ci
 refer.ci
 referenceimmobiliere.ci
-refillmarket.ci
 refloat.ci
 regie.ci
 regieindenie.ci
@@ -10440,6 +10463,11 @@ sani.ci
 sania.ci
 sanko.ci
 sanlam.ci
+sanlam-allianz.ci
+sanlamallianz.ci
+sanlamallianzassurancenon-vie.ci
+sanlamallianzassurancevie.ci
+sanlamallianzcotedivoire.ci
 sanlamassurancevie.ci
 sanlishop.ci
 sanmarina.ci
@@ -10496,7 +10524,6 @@ sawr.ci
 sb.ci
 sba.ci
 sbc.ci
-sbcg.ci
 sbholding.ci
 sbn.ci
 sbtl.ci
@@ -10545,7 +10572,6 @@ scipaul.ci
 sciriv.ci
 scisages.ci
 scisourale.ci
-scivo.ci
 scm.ci
 scodi.ci
 scoop2at.ci
@@ -10998,10 +11024,10 @@ smart-case.ci
 smart-city.ci
 smart-gofac.ci
 smart-home.ci
+smart-rc.ci
 smart-systems.ci
 smart-technology.ci
 smarta.ci
-smartadvisor.ci
 smartbox.ci
 smartcar.ci
 smartcity.ci
@@ -11171,6 +11197,7 @@ soinexpert.ci
 soirinfo.ci
 sojaa.ci
 sokaf.ci
+sokama.ci
 sola.ci
 solapin.ci
 solarpak.ci
@@ -11330,7 +11357,6 @@ sta.ci
 stac.ci
 stadedabidjan.ci
 stake.ci
-stam.ci
 stanbic.ci
 stanchart.ci
 standard-chartered.ci
@@ -11682,6 +11708,7 @@ thesim.ci
 thessa.ci
 theteam.ci
 thetushirsjewelry.ci
+thevillage.ci
 thgroupeloko.ci
 thinktank.ci
 thomas.ci
@@ -12197,12 +12224,14 @@ visiterman.ci
 visitetechnique.ci
 visu.ci
 visvas.ci
-vit.ci
 vitamine.ci
 vitamines.ci
 vitasante.ci
 vitemarket.ci
 viterra.ci
+vitib.ci
+vitibcloud.ci
+vitibzonefranche.ci
 vitnet-inter.ci
 vitropicafrica.ci
 vitu.ci
