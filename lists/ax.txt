@@ -35,6 +35,7 @@
 1963.ax
 1h.ax
 1n.ax
+1x.ax
 2022.ax
 21.ax
 2138.ax
@@ -1342,7 +1343,6 @@ fiskkojan.ax
 fiskodlarna.ax
 fixarn.ax
 fixso.ax
-fixtjanst.ax
 fjader.ax
 fk.ax
 fl.ax
@@ -2338,6 +2338,7 @@ malo.ax
 man.ax
 mandalayoga.ax
 mandea.ax
+mani.ax
 manscaped.ax
 mar.ax
 marbibacken.ax
