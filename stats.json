@@ -13,6 +13,14 @@
       "zone": "kz"
     },
     {
+      "domains": "138686",
+      "zone": "nu"
+    },
+    {
+      "domains": "114115",
+      "zone": "id"
+    },
+    {
       "domains": "78138",
       "zone": "lol"
     },
@@ -37,7 +45,7 @@
       "zone": "ci"
     },
     {
-      "domains": "11965",
+      "domains": "11961",
       "zone": "gdn"
     },
     {
@@ -141,5 +149,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2356088"
+  "total": "2608885"
 }
