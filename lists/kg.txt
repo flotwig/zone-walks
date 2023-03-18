@@ -366,6 +366,7 @@ agroprod.kg
 agroproduct.kg
 agroprom.kg
 agropromeng.kg
+agroservice.kg
 agrosource.kg
 agrostyle.kg
 agrotech.kg
@@ -463,6 +464,7 @@ ak.kg
 ak-bashat.kg
 ak-bata.kg
 ak-jar-aimak.kg
+ak-jol.kg
 ak-muz-aimak.kg
 ak-say.kg
 ak-suu.kg
@@ -1054,6 +1056,7 @@ asiamall.kg
 asiamotors.kg
 asianalytics.kg
 asianmountains.kg
+asiapayment.kg
 asiaplus.kg
 asiapress.kg
 asiaretail.kg
@@ -1113,7 +1116,6 @@ asus.kg
 asusmarket.kg
 asv.kg
 asyltash.kg
-asystem.kg
 at.kg
 at-trade.kg
 ata.kg
@@ -1246,6 +1248,7 @@ autozaem.kg
 autozap.kg
 autozip.kg
 aux.kg
+auxkg.kg
 av.kg
 ava.kg
 avanco.kg
@@ -1339,6 +1342,7 @@ avtovokzal.kg
 avtovyshka.kg
 avtozapchast.kg
 avzur.kg
+awb.kg
 awesta.kg
 awli.kg
 axis.kg
@@ -1586,7 +1590,6 @@ beeline.kg
 beemarket.kg
 beepcar.kg
 beeplay.kg
-beer.kg
 beeshop.kg
 beewell.kg
 begemot.kg
@@ -2161,6 +2164,7 @@ carfax.kg
 carforrent.kg
 cargo.kg
 cargo-01.kg
+cargo-group.kg
 cargo-handling.kg
 cargocustoms.kg
 cargojet.kg
@@ -2266,6 +2270,7 @@ championhoney.kg
 championlubes.kg
 changan.kg
 changanauto.kg
+change.kg
 chapan.kg
 charba.kg
 charity.kg
@@ -3929,6 +3934,7 @@ funhouse.kg
 funtik.kg
 fura.kg
 furniture.kg
+futliga.kg
 future.kg
 futureleaders.kg
 futuro.kg
@@ -4097,12 +4103,12 @@ giz-employment.kg
 giz-health.kg
 gk.kg
 gknb.kg
+gkpen.kg
 gl.kg
 gladius.kg
 glamourbaby.kg
 glamp.kg
 glamping.kg
-glass.kg
 glass-stroy.kg
 glassmarket.kg
 glassnas.kg
@@ -4356,7 +4362,6 @@ hairestart.kg
 hairun.kg
 haktan.kg
 halal.kg
-halal-travel.kg
 halalcenter.kg
 halalindustry.kg
 halyk.kg
@@ -4401,7 +4406,6 @@ hc.kg
 hd.kg
 hdel.kg
 hdf.kg
-he.kg
 headhunter.kg
 headliner.kg
 health.kg
@@ -5054,7 +5058,6 @@ iticket.kg
 itilek.kg
 itive.kg
 itk.kg
-itk-system.kg
 itkb.kg
 itkitchen.kg
 itlab.kg
@@ -5395,10 +5398,12 @@ kastom.kg
 kat.kg
 katalog.kg
 katarakta.kg
+kato.kg
 katok.kg
 katri.kg
 kattar.kg
 kaufmann.kg
+kausar.kg
 kausar-building.kg
 kausarlogistics.kg
 kavrolex.kg
@@ -5438,6 +5443,7 @@ kecb.kg
 kedis.kg
 keen.kg
 keenetic.kg
+kegetisut.kg
 keiin.kg
 keks.kg
 kel.kg
@@ -5504,6 +5510,7 @@ kgkampa.kg
 kglogistics.kg
 kgm.kg
 kgma.kg
+kgmtrade.kg
 kgnavien.kg
 kgneomed.kg
 kgp.kg
@@ -5655,7 +5662,6 @@ kolesa.kg
 kolgo.kg
 kolgotki.kg
 kolibri.kg
-kolin.kg
 kolpos.kg
 koltaxi.kg
 kolumb.kg
@@ -6558,7 +6564,6 @@ megacom.kg
 megacompany.kg
 megacomtv.kg
 megadoors.kg
-megaexpress.kg
 megagen.kg
 megagold.kg
 megagroup.kg
@@ -6664,6 +6669,7 @@ metr.kg
 metrica.kg
 metrohm.kg
 mettransterminal.kg
+mex.kg
 meykingroup.kg
 meykinstroy.kg
 mezym.kg
@@ -6958,6 +6964,7 @@ musix.kg
 muslim.kg
 muslimtur.kg
 muslugi.kg
+musor.kg
 mutakallim.kg
 muz.kg
 muza.kg
@@ -7489,7 +7496,6 @@ olympic.kg
 om.kg
 omarket.kg
 ombudsman.kg
-omega.kg
 omega3.kg
 omegacapital.kg
 omegacustody.kg
@@ -7714,7 +7720,6 @@ ozgonnuru.kg
 ozon.kg
 ozonecenter.kg
 p.kg
-p-s.kg
 p2p.kg
 pa.kg
 paascompany.kg
@@ -7856,7 +7861,6 @@ pepsi.kg
 pereboi.kg
 pereezd.kg
 peregorodka.kg
-peregorodki.kg
 perekrestok.kg
 pereto.kg
 perevod.kg
@@ -7951,7 +7955,6 @@ pistol.kg
 pit.kg
 piu.kg
 piumotc.kg
-pivo.kg
 pixelstore.kg
 pizza.kg
 pizza-svidanie.kg
@@ -9005,7 +9008,6 @@ sheriff.kg
 sherikulov.kg
 shestarts.kg
 shg1tolstoy.kg
-shiffa.kg
 shik.kg
 shimano.kg
 shina.kg
@@ -9328,6 +9330,7 @@ spey.kg
 spikevax.kg
 spin.kg
 spitz.kg
+splash.kg
 splat.kg
 splus.kg
 spoly.kg
@@ -10051,8 +10054,10 @@ tomex.kg
 tomiko.kg
 tomiris.kg
 tommy.kg
+toner.kg
 tonirovka.kg
 tonk.kg
+tonus.kg
 too.kg
 toot.kg
 tootash.kg
@@ -10167,6 +10172,7 @@ triadaflex.kg
 triadaprint.kg
 triathlon.kg
 tribunakg.kg
+tribute.kg
 trievent.kg
 triod.kg
 triomining-company.kg
@@ -10188,6 +10194,7 @@ trud.kg
 trudnadzor.kg
 truniagen.kg
 trust-union.kg
+trustchain.kg
 trustex.kg
 trustpilot.kg
 trx.kg
@@ -10305,12 +10312,10 @@ uchet.kg
 uckr.kg
 ucon.kg
 uconcompany.kg
-udent.kg
 udobno.kg
 udobrenie.kg
 udom.kg
 ufcgym.kg
-ufkgmi.kg
 ug.kg
 ugee.kg
 ugonanet.kg
@@ -10662,6 +10667,7 @@ vodafone.kg
 vodaphone.kg
 voelkl.kg
 voevoda.kg
+vof.kg
 vogue.kg
 voice.kg
 voip.kg
