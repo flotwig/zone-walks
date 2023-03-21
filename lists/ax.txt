@@ -352,6 +352,7 @@ alliance.ax
 allianz.ax
 allmek.ax
 allt.ax
+alltech.ax
 allwinds.ax
 alm.ax
 almal.ax
@@ -625,7 +626,6 @@ bildoform.ax
 bildoktorn.ax
 bilhallen.ax
 bilimport.ax
-biljett.ax
 bilodelar.ax
 bilplat.ax
 bilskadecenter.ax
@@ -1593,7 +1593,9 @@ h4.ax
 h8.ax
 ha.ax
 habbo.ax
+hackberry.ax
 haga.ax
+hagens.ax
 hager.ax
 hagers.ax
 haggblom.ax
@@ -2295,7 +2297,6 @@ lum.ax
 lumparlab.ax
 lumparland.ax
 luna.ax
-lunch.ax
 lunchguiden.ax
 lunchkupong.ax
 lunchkuponger.ax
@@ -2375,6 +2376,7 @@ marstad.ax
 martha.ax
 martin.ax
 martinsresor.ax
+mask.ax
 maskinisterna.ax
 maskinpartner.ax
 massage.ax
@@ -2775,7 +2777,6 @@ orcas.ax
 ordet.ax
 org.ax
 organon.ax
-orientering.ax
 originalbysokoshotels.ax
 orsundet.ax
 os.ax
@@ -2969,6 +2970,7 @@ qc.ax
 qd.ax
 qom.ax
 qos.ax
+qpon.ax
 qq.ax
 qr.ax
 qs.ax
