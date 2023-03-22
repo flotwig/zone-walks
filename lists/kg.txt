@@ -1263,7 +1263,6 @@ avertpro.kg
 avevaselect.kg
 avg.kg
 avi-maks.kg
-avia.kg
 aviabilet.kg
 aviabileti.kg
 aviacenter.kg
@@ -1272,6 +1271,7 @@ aviakassa.kg
 avialogistics.kg
 aviamir.kg
 aviapoisk.kg
+aviasale.kg
 aviasales.kg
 aviastal.kg
 aviasteel.kg
@@ -1305,7 +1305,6 @@ avro.kg
 avrora.kg
 avt.kg
 avto.kg
-avtoakb.kg
 avtobus.kg
 avtoelektrik.kg
 avtogid.kg
@@ -1623,6 +1622,7 @@ bensonandhedges.kg
 benuta.kg
 bepanthen.kg
 berall.kg
+bereg.kg
 bereke.kg
 bereke-building.kg
 bereke-credit.kg
@@ -1653,6 +1653,7 @@ besthome.kg
 bestjobs.kg
 bestprice.kg
 bestway.kg
+bestwaycorp.kg
 bestwayelet.kg
 bestwestern.kg
 bet.kg
@@ -1811,7 +1812,6 @@ bishkekned.kg
 bishkekpark.kg
 bishkekpetroleum.kg
 bishkekservice.kg
-bishkekshop.kg
 bishkeksuukanal.kg
 bishkektsvetmet.kg
 bishkekwings.kg
@@ -1823,6 +1823,7 @@ bitaxi.kg
 bitbanker.kg
 bitcoin.kg
 bitcom.kg
+bitconstruct.kg
 bitherm.kg
 bitnrg.kg
 bitok.kg
@@ -2454,7 +2455,6 @@ complexbar.kg
 complexburenie.kg
 component.kg
 comportal.kg
-compservice.kg
 computerra.kg
 computers.kg
 comservice.kg
@@ -2961,7 +2961,6 @@ dp.kg
 dpd.kg
 dpi.kg
 dps.kg
-draft-service.kg
 draftkings.kg
 dreambrand.kg
 dremel.kg
@@ -3156,7 +3155,6 @@ ef.kg
 efca.kg
 efcelt.kg
 efres.kg
-eftar-forel.kg
 eftown.kg
 eg.kg
 egahall.kg
@@ -3323,6 +3321,7 @@ emotors.kg
 empire.kg
 empiretour.kg
 employment.kg
+empo.kg
 ems.kg
 emugalim.kg
 emw.kg
@@ -4902,6 +4901,7 @@ interpost.kg
 intersolution.kg
 intersport.kg
 interstone.kg
+interstyleplus.kg
 intertec.kg
 intertex.kg
 intertradelogistik.kg
@@ -5005,6 +5005,7 @@ ismaev.kg
 isman.kg
 ismankulov.kg
 isoc.kg
+isoft.kg
 isrc.kg
 issyk-kul.kg
 issyk-kul-bak.kg
@@ -5291,6 +5292,7 @@ kaikonder.kg
 kaimak.kg
 kainar.kg
 kainda.kg
+kainda-gk.kg
 kaindykant.kg
 kaiser.kg
 kaktus.kg
@@ -5504,7 +5506,6 @@ kgm.kg
 kgma.kg
 kgmtrade.kg
 kgnavien.kg
-kgneomed.kg
 kgp.kg
 kgpd.kg
 kgrk.kg
@@ -6156,6 +6157,7 @@ logoped.kg
 logos-school.kg
 logosgroup.kg
 logostravel.kg
+logoton.kg
 lol.kg
 lolita.kg
 lollipop.kg
@@ -7259,6 +7261,7 @@ nopaper.kg
 nord.kg
 norma.kg
 normobact.kg
+norris.kg
 norton.kg
 nosinov.kg
 not.kg
@@ -7884,7 +7887,6 @@ phaeton.kg
 pharm.kg
 pharmacademy.kg
 pharmacy.kg
-pharmimpex.kg
 pharmtrade.kg
 pharmunion.kg
 pharmznanie.kg
@@ -8279,6 +8281,7 @@ proteam.kg
 protech.kg
 protei.kg
 protocol.kg
+protorg.kg
 proweb.kg
 proxy.kg
 prp.kg
