@@ -627,7 +627,6 @@ bildoform.ax
 bildoktorn.ax
 bilhallen.ax
 bilimport.ax
-bilodelar.ax
 bilplat.ax
 bilskadecenter.ax
 bilskador.ax
@@ -3416,6 +3415,7 @@ ssl.ax
 st.ax
 st1.ax
 stablehost.ax
+stad.ax
 stadaaland.ax
 stadarn.ax
 stadforbundet.ax
@@ -3582,7 +3582,6 @@ tbmarin.ax
 tbs.ax
 tc.ax
 tca.ax
-tcbd.ax
 td.ax
 te.ax
 teamsportia.ax
@@ -3778,7 +3777,6 @@ uwu.ax
 ux.ax
 v3x.ax
 v5.ax
-v7.ax
 va.ax
 vaakunahotelli.ax
 vader.ax
@@ -3792,6 +3790,7 @@ vanvik.ax
 vappukukkakerays.ax
 vardilivet.ax
 vardo.ax
+vardobatvarv.ax
 vardoskola.ax
 varggropen.ax
 vari.ax
@@ -3906,6 +3905,7 @@ vvs-webbutik.ax
 vvsexperten.ax
 vvskylcenter.ax
 vvswebbutik.ax
+vw.ax
 vx.ax
 vz.ax
 w1.ax
@@ -4021,7 +4021,6 @@ xn--brgarn-bua.ax
 xn--brkraft-5wa.ax
 xn--bt-yia.ax
 xn--btfrvaring-15a0s.ax
-xn--bttvtten-3zag.ax
 xn--byggaitr-7za.ax
 xn--citytandvrden-xfb.ax
 xn--da-xia.ax
@@ -4159,7 +4158,6 @@ ziczac.ax
 zj.ax
 zl.ax
 zm.ax
-zn.ax
 zo.ax
 zodiaq.ax
 zomato.ax
