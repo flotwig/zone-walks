@@ -1230,6 +1230,7 @@ ant.ci
 antares.ci
 anticipservices.ci
 antiochesarl.ci
+anviso.ci
 anywr.ci
 ao.ci
 aolia.ci
@@ -1289,6 +1290,7 @@ aran.ci
 arboretum.ci
 arcelik.ci
 arcgis.ci
+archangel.ci
 archangevoyage.ci
 archedebouake.ci
 archiconcept.ci
@@ -1723,6 +1725,7 @@ bassam-express.ci
 bassamfm.ci
 bassamtourisme.ci
 bata.ci
+batcommunication.ci
 batconcept.ci
 bateaux.ci
 bati.ci
@@ -3729,6 +3732,7 @@ croubouake.ci
 croudaloa.ci
 croudeman.ci
 crowe.ci
+crporo.ci
 crs.ci
 crw.ci
 crypto.ci
@@ -4077,6 +4081,7 @@ dileo.ci
 dimas.ci
 dimbokro.ci
 dimecom.ci
+dimerl.ci
 dimora.ci
 dingouin.ci
 dinnerwithchrist.ci
@@ -4126,6 +4131,7 @@ divamintegra.ci
 divinatransport.ci
 divinedev.ci
 divinetrading.ci
+diy.ci
 diyi.ci
 djakatv.ci
 djambox.ci
@@ -4349,6 +4355,7 @@ e-recommande.ci
 e-sante.ci
 e-shop.ci
 e-stars-editions.ci
+e-store.ci
 e-tourisme.ci
 e-variete.ci
 e-voyage.ci
@@ -4459,7 +4466,6 @@ ecolemedia.ci
 ecoleweb.ci
 ecolewebsolution.ci
 ecomart.ci
-ecomet.ci
 ecomm.ci
 ecommerce.ci
 ecommune.ci
@@ -4920,6 +4926,7 @@ esavann.ci
 esavoo.ci
 esbingerville.ci
 esca.ci
+escao-edu.ci
 escape.ci
 esct.ci
 esea.ci
@@ -6016,6 +6023,7 @@ gushi.ci
 gv.ci
 gw.ci
 gwit.ci
+gycef.ci
 gymglish.ci
 gynecologue.ci
 gynecologues.ci
@@ -6216,6 +6224,7 @@ hrconsultingco.ci
 hrmotors.ci
 hroteon.ci
 hs.ci
+hs-usac-ephd.ci
 hsesecurite.ci
 hsms.ci
 hsn.ci
@@ -6555,6 +6564,7 @@ smemarkethub.int.ci
 integra.ci
 integral.ci
 integrale.ci
+integralresources.ci
 intelafrique.ci
 intelcia.ci
 intelco.ci
@@ -7550,7 +7560,6 @@ lemercier.ci
 lemetrodabidjan.ci
 lemobilier.ci
 lemondebusiness.ci
-lemoronou.ci
 lemot.ci
 lenecrologue.ci
 lenettoyeur.ci
@@ -7889,6 +7898,7 @@ madigital.ci
 madinves.ci
 madismart.ci
 madjik.ci
+madox.ci
 madstore.ci
 madys.ci
 mae.ci
@@ -8327,6 +8337,7 @@ mima.ci
 min-jeunesse.ci
 minac.ci
 minagri.ci
+minake.ci
 minapat.ci
 minashop.ci
 mind.ci
@@ -8699,6 +8710,7 @@ nanotic.ci
 nanouadou.ci
 naos.ci
 nappylocks.ci
+nar.ci
 naragroup.ci
 nasa.ci
 nasco.ci
@@ -8753,6 +8765,7 @@ neopay.ci
 nerola.ci
 nestle.ci
 nestpick.ci
+1win.net.ci
 africamagic.net.ci
 blearn.net.ci
 cbd.net.ci
@@ -10107,6 +10120,7 @@ rdvconsulat.ci
 re.ci
 reaci.ci
 reactnative.ci
+realisermonmariage.ci
 realiteservice.ci
 realiteservices.ci
 realmix.ci
@@ -10125,7 +10139,6 @@ reconomia.ci
 recq.ci
 recyclage.ci
 recyplast.ci
-red.ci
 redbull.ci
 reddit.ci
 reddplus.ci
@@ -10555,6 +10568,7 @@ scibeverly.ci
 scibiha.ci
 scidiouma.ci
 science.ci
+scikerlau.ci
 scilamami.ci
 scilesoliviers.ci
 scilespalms.ci
@@ -10739,6 +10753,7 @@ sgsn.ci
 sgt.ci
 sgte.ci
 sgti.ci
+sgtt-ci.ci
 sh.ci
 shacman.ci
 shang.ci
@@ -11166,6 +11181,7 @@ softconcept.ci
 softech.ci
 softeria.ci
 softplus.ci
+softsys.ci
 softsystem.ci
 software-world.ci
 sogb.ci
