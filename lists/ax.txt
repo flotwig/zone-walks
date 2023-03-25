@@ -626,6 +626,7 @@ bildoform.ax
 bildoktorn.ax
 bilhallen.ax
 bilimport.ax
+bilodelar.ax
 bilplat.ax
 bilskadecenter.ax
 bilskador.ax
@@ -1010,6 +1011,7 @@ demo.ax
 dentalcenter.ax
 design.ax
 designtothem.ax
+destiman.ax
 det.ax
 deutsch.ax
 dev.ax
@@ -1884,7 +1886,6 @@ itiden.ax
 itkonsult.ax
 itkonsulterna.ax
 its.ax
-iu.ax
 iv.ax
 ivcevidensia.ax
 iwa.ax
@@ -3788,6 +3789,7 @@ valcon.ax
 valo.ax
 valresultat.ax
 valvaka.ax
+vanvik.ax
 vappukukkakerays.ax
 vardilivet.ax
 vardo.ax
