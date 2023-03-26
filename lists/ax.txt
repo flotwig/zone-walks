@@ -2040,7 +2040,6 @@ ke.ax
 keittokirja.ax
 kela.ax
 kelantietotarjotin.ax
-kelly.ax
 kemp.ax
 key-systems.ax
 kfz.ax
@@ -2354,6 +2353,7 @@ mariehamn.ax
 mariehamndansarochler.ax
 mariehamnsbyggtjanst.ax
 mariehamnshamn.ax
+mariehamnsliberalerna.ax
 marievet.ax
 marin.ax
 marinahamnsundet.ax
@@ -3433,6 +3433,7 @@ stalldalen.ax
 stallhagen.ax
 starcreations.ax
 stargames.ax
+starm.ax
 start.ax
 startaeget.ax
 statist.ax
