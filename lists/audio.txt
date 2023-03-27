@@ -1199,6 +1199,7 @@ distorted.audio
 distortion.audio
 distribute.audio
 divergent.audio
+diversion.audio
 divineintimacy.audio
 diy-cables.audio
 diy-recipes.audio
@@ -2424,6 +2425,7 @@ lunacy.audio
 lunar.audio
 lundager.audio
 lundahl.audio
+luttenberger.audio
 lutter.audio
 lux.audio
 lvdt.audio
@@ -3476,6 +3478,7 @@ rendered.audio
 rentals.audio
 repairs.audio
 repeat.audio
+replay.audio
 replicant.audio
 resilience.audio
 resistors.audio
@@ -3950,7 +3953,6 @@ speakercorrection.audio
 speakerfactory.audio
 speakfree.audio
 speakingvolumesbooks.audio
-speeks.audio
 spell.audio
 spencerlee.audio
 spendor.audio
