@@ -9,6 +9,7 @@
 0x.ci
 0x0.ci
 1-e9.ci
+1-win.ci
 10.ci
 100.ci
 1000saveurs.ci
@@ -1060,7 +1061,6 @@ allaya-conseil.ci
 allcommoditiescompany.ci
 allegion.ci
 allemand24.ci
-allforsight.ci
 alliance.ci
 alliance-overseas.ci
 alliancesolidaire.ci
@@ -3880,7 +3880,6 @@ dbc.ci
 dbs-store.ci
 dc.ci
 dcat.ci
-dcchicks.ci
 dcdj.ci
 dcf.ci
 dcf-siges.ci
@@ -6446,7 +6445,6 @@ improci.ci
 ims.ci
 ims-sarl.ci
 ims-service.ci
-imsgplus.ci
 imssecurite.ci
 imviso.ci
 in-speed.ci
@@ -7326,7 +7324,6 @@ l-m.ci
 la.ci
 la-sape.ci
 lab-science.ci
-labasecourfamiliale.ci
 labelci.ci
 labelesca.ci
 labelexpert.ci
@@ -9415,7 +9412,6 @@ pagds.ci
 pagef.ci
 pagesjaunes.ci
 pagfic.ci
-pagim.ci
 pai.ci
 paiefacile.ci
 paiement.ci
@@ -9441,7 +9437,6 @@ pang.ci
 pango.ci
 pangollin.ci
 panini.ci
-pankart.ci
 pannac.ci
 panzani.ci
 papajohns.ci
@@ -10857,7 +10852,6 @@ sifcom.ci
 sifen.ci
 siffletbleu.ci
 sifob.ci
-sifres.ci
 sig.ci
 sig-malnutrition.ci
 sig-pnoev.ci
@@ -11095,6 +11089,7 @@ sngrc.ci
 snh.ci
 sni.ci
 snj.ci
+snpb.ci
 snph.ci
 sns.ci
 snsoad.ci
@@ -11424,7 +11419,6 @@ storeino.ci
 stormforger.ci
 stormgain.ci
 storybuz.ci
-stpp.ci
 stradiss-afrique.ci
 strapes.ci
 strategieetesperance.ci
