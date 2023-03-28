@@ -853,7 +853,6 @@ afromart.ci
 afropari.ci
 afs.ci
 afsatour.ci
-afstyles225.ci
 afy-immobilier.ci
 agaatest.ci
 agajmarket.ci
@@ -1011,6 +1010,7 @@ akwabamaps.ci
 akwabastream.ci
 akwabe.ci
 akwabet.ci
+akwaholding.ci
 akwalab.ci
 akwatic-hotel.ci
 akwavert.ci
@@ -1688,7 +1688,6 @@ bamoa.ci
 bamoubli.ci
 banaci.ci
 banador.ci
-banana.ci
 bananarepublic.ci
 bank-of-africa.ci
 bankalert.ci
@@ -2646,7 +2645,6 @@ cici.ci
 cicici.ci
 cicotrans.ci
 cidafrique.ci
-cidata.ci
 cidex.ci
 cidt.ci
 cie.ci
@@ -2671,7 +2669,6 @@ cimadprestige.ci
 cimaf.ci
 cimbelier.ci
 cimci.ci
-cimconsulting.ci
 cimeca.ci
 ciment.ci
 cimentguepard.ci
@@ -2856,8 +2853,6 @@ cneadh.ci
 cnf.ci
 cnf-ci.ci
 cnfci.ci
-cnfem.ci
-cnfif.ci
 cni-cosim.ci
 cnimemo.ci
 cnitie.ci
@@ -3611,6 +3606,7 @@ coqivoire.ci
 cordial.ci
 cordonbleu.ci
 corength.ci
+coressarl.ci
 corian.ci
 corif.ci
 coriginal.ci
@@ -4018,7 +4014,6 @@ diagbox.ci
 dialog.ci
 diamonds.ci
 dianox.ci
-dianys.ci
 diara.ci
 diasponewtv.ci
 diaspora.ci
@@ -4031,6 +4026,7 @@ digetic.ci
 digi-store.ci
 digibit.ci
 digicom.ci
+digima.ci
 digimix.ci
 digimmat.ci
 diginets.ci
@@ -4462,6 +4458,7 @@ ecolemedia.ci
 ecoleweb.ci
 ecolewebsolution.ci
 ecomart.ci
+ecomet.ci
 ecomm.ci
 ecommerce.ci
 ecommune.ci
@@ -4947,7 +4944,6 @@ espiscines.ci
 espoircyber.ci
 esport-cotedivoire.ci
 esportcotedivoire.ci
-esprit.ci
 espritdequipe.ci
 esri.ci
 essencek.ci
@@ -5615,7 +5611,6 @@ gea.ci
 gea-holding.ci
 gear.ci
 gebatec.ci
-geberit.ci
 gece.ci
 gecer.ci
 gecgroupeloko.ci
@@ -5903,6 +5898,7 @@ groupe-essor.ci
 groupe-ets-diarra.ci
 groupe-ita.ci
 groupe-magenta.ci
+groupe-nazarie.ci
 groupe-saintlouis.ci
 groupe-sma.ci
 groupeas.ci
@@ -5912,7 +5908,6 @@ groupebms.ci
 groupecefatinter.ci
 groupecefiat.ci
 groupecifc.ci
-groupeclis.ci
 groupeconstructionplus.ci
 groupeeba.ci
 groupeeniss.ci
@@ -5936,7 +5931,6 @@ groupeselecsa.ci
 groupesocietefamiliale-sarl.ci
 groupeswann.ci
 groupeterra.ci
-groupetopqualite.ci
 groupevictoria.ci
 groupevignon.ci
 groupeyessimo.ci
@@ -6471,6 +6465,7 @@ industry.ci
 ineq.ci
 inesis.ci
 inetum.ci
+infas.ci
 infasformation.ci
 infasnumeric.ci
 infaspresence.ci
@@ -6783,7 +6778,6 @@ ivoiretaxi.ci
 ivoiretechnocom.ci
 ivoireticdigital.ci
 ivoiretoner.ci
-ivoiretrader.ci
 ivoiretransport.ci
 ivoirevetconsulting.ci
 ivoirevolaille.ci
@@ -7257,6 +7251,7 @@ kontinental.ci
 konvergo.ci
 koodza.ci
 kora-communication.ci
+koreph.ci
 korhogo.ci
 koris.ci
 koritransport-scp.ci
@@ -7913,8 +7908,6 @@ magarantie.ci
 magasinscommunautaires.ci
 magasinshark.ci
 magazine.ci
-magazine-esprit.ci
-magazineesprit.ci
 magazines.ci
 magefci.ci
 magestionpro.ci
@@ -8417,6 +8410,7 @@ mohizi.ci
 moinschere.ci
 moja.ci
 mojapay.ci
+mokodo.ci
 molbak.ci
 moli.ci
 molo.ci
@@ -10057,6 +10051,7 @@ radiopaixsanwi.ci
 radiosamo.ci
 radiotreichville.ci
 radiozion.ci
+radis.ci
 radisson.ci
 radissonblu.ci
 radissonhotels.ci
@@ -10336,7 +10331,6 @@ royalbase.ci
 royalclass.ci
 royalfootballclub.ci
 royalhotel.ci
-royalmining.ci
 royalprestige.ci
 royalsca.ci
 royalservices-inter.ci
@@ -11048,6 +11042,7 @@ smartprof.ci
 smartretail.ci
 smartsc.ci
 smartservices.ci
+smartshopp.ci
 smartsolution.ci
 smarttransit.ci
 smartvideo24.ci
@@ -11624,7 +11619,6 @@ techniqueagricole-ujlog.ci
 technistone.ci
 technobank.ci
 technoboss.ci
-technomania.ci
 technomedia.ci
 technostore.ci
 technoworld.ci
@@ -11729,6 +11723,7 @@ tiama.ci
 tian.ci
 tibeny.ci
 tic.ci
+ticafrique.ci
 ticket.ci
 ticketevent.ci
 tickets.ci
@@ -12226,7 +12221,6 @@ visitecotedivoire.ci
 visiterman.ci
 visitetechnique.ci
 visu.ci
-visvas.ci
 vit.ci
 vitamine.ci
 vitamines.ci
@@ -12448,7 +12442,6 @@ wl.ci
 wo.ci
 wodana.ci
 woju.ci
-wokoo.ci
 wolflubes.ci
 wolfram.ci
 wolno.ci
@@ -12697,6 +12690,7 @@ zocdoc.ci
 zoeplus.ci
 zoetis.ci
 zone.ci
+zone4.ci
 zong.ci
 zoom.ci
 zoro.ci
