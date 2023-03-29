@@ -730,7 +730,6 @@ chorwerk.ruhr
 christen-in-volmarstein.ruhr
 christen-in-wetter.ruhr
 christian-schnaubelt.ruhr
-christmann.ruhr
 chrome.ruhr
 chronic-care.ruhr
 chronic-care-congress.ruhr
@@ -1077,7 +1076,6 @@ druckamt.ruhr
 druckbar-schroeer.ruhr
 druckerei-bochum.ruhr
 druckereien-dortmund.ruhr
-druckerzubehoer.ruhr
 drugis.ruhr
 drupal.ruhr
 drupalcamp.ruhr
@@ -1348,7 +1346,6 @@ fachanwalt-gesellschaftsrecht.ruhr
 fachanwalt-steuerstrafrecht.ruhr
 fachanwalt-wirtschaftsrecht.ruhr
 fachverlag.ruhr
-fachwerk.ruhr
 fachzahnaerzte.ruhr
 fachzahnarzt.ruhr
 fachzahnrad.ruhr
@@ -2352,9 +2349,6 @@ kessler.ruhr
 kettner.ruhr
 kettwig.ruhr
 kettwigander.ruhr
-kfo.ruhr
-kfo-fortbildung.ruhr
-kfo-herne.ruhr
 kfo-wolff.ruhr
 kfz.ruhr
 kfz-gutachter24.ruhr
@@ -2546,6 +2540,7 @@ kueppers.ruhr
 kues.ruhr
 kuester.ruhr
 kugelfisch.ruhr
+kugler.ruhr
 kuhl.ruhr
 kuhlma-it.ruhr
 kuhlmann.ruhr
@@ -2618,10 +2613,8 @@ laminat-depot.ruhr
 laminatdepot.ruhr
 lamprecht.ruhr
 land.ruhr
-landhausdielen.ruhr
 landschaftsarchitekten.ruhr
 landschaftspark.ruhr
-landsmann-parkett.ruhr
 lange.ruhr
 lange-koenig.ruhr
 langegutleben.ruhr
@@ -2647,7 +2640,6 @@ leenders.ruhr
 leg.ruhr
 legal.ruhr
 legasthenietrainer.ruhr
-lehmbau.ruhr
 lehnig.ruhr
 lehramt.ruhr
 lehrapotheke.ruhr
@@ -3284,12 +3276,7 @@ pape.ruhr
 papenmeier.ruhr
 pappert.ruhr
 parken.ruhr
-parkett-duesseldorf.ruhr
-parkett-duisburg.ruhr
-parkett-essen.ruhr
-parkett-muelheim.ruhr
 parkett-oberhausen.ruhr
-parkett-verlegung.ruhr
 parkettpflege.ruhr
 parkinson.ruhr
 parklandschaft.ruhr
@@ -3541,7 +3528,6 @@ radschnellweg.ruhr
 radstation.ruhr
 radstationen.ruhr
 radtourenplaner.ruhr
-radweg.ruhr
 radwegemaengel.ruhr
 raffelberger.ruhr
 rag.ruhr
@@ -3857,7 +3843,6 @@ schimmel.ruhr
 schimmel-pils.ruhr
 schimmelpils.ruhr
 schirmer.ruhr
-schlafmedizin.ruhr
 schlenz.ruhr
 schlitt.ruhr
 schloss-quelle.ruhr
@@ -4218,7 +4203,6 @@ streicher.ruhr
 strobo.ruhr
 strohscheer.ruhr
 strom-sparen.ruhr
-strucken.ruhr
 strunk.ruhr
 sts.ruhr
 stuckateure.ruhr
@@ -4290,7 +4274,6 @@ tanzhaus-muelheim.ruhr
 tarifrecht.ruhr
 tas.ruhr
 tas-agentur.ruhr
-tastatur.ruhr
 tatort.ruhr
 tattoo-bochum.ruhr
 taube-muelheim.ruhr
@@ -4584,7 +4567,6 @@ versicherungsagentur.ruhr
 versicherungsmakler-essen.ruhr
 verteidiger.ruhr
 vertikahl.ruhr
-vertrieb.ruhr
 vest.ruhr
 veu.ruhr
 vgz.ruhr
@@ -4595,7 +4577,6 @@ vier.ruhr
 vieten.ruhr
 villette.ruhr
 vinyasa.ruhr
-vinyl.ruhr
 virtual-office.ruhr
 virtualoffice.ruhr
 virtualtour.ruhr
@@ -5047,14 +5028,11 @@ youngticketplus.ruhr
 youtube.ruhr
 yvonne-schnuerle.ruhr
 zaepp.ruhr
-zahn-implantate.ruhr
 zahnaerzte-ueber.ruhr
 zahnarzt-bochum.ruhr
 zahnarzt-dr-specht.ruhr
 zahnarzt-essen.ruhr
 zahnarzt-ge.ruhr
-zahnarzt-herne.ruhr
-zahnarzt-in-herne.ruhr
 zahnarzt-kettwig.ruhr
 zahnarzt-luenen.ruhr
 zahnarzt-muelheim.ruhr
@@ -5072,12 +5050,10 @@ zahnimplantate.ruhr
 zahnimplantate-bochum.ruhr
 zahnklinik-bochum.ruhr
 zahnklinikbochum.ruhr
-zahnmedizin.ruhr
 zahnradfabrik.ruhr
 zahnschmiede.ruhr
 zahnspange.ruhr
 zahnspange-ge-buer.ruhr
-zander.ruhr
 zappos.ruhr
 zaq.ruhr
 zar.ruhr
