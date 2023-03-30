@@ -243,7 +243,6 @@ aco.kg
 acoria.kg
 acquadiparma.kg
 acres.kg
-acril.kg
 acrostone.kg
 acrymatt.kg
 act.kg
@@ -410,6 +409,7 @@ ailinmed.kg
 ails.kg
 aim.kg
 aimak.kg
+aimol.kg
 ainek.kg
 aio.kg
 air.kg
@@ -1109,11 +1109,13 @@ assanabil.kg
 assistent.kg
 assorti.kg
 aster.kg
+astergroup.kg
 astomin.kg
 astore.kg
 astrahim.kg
 astrakom.kg
 astralpool.kg
+astudio.kg
 astzweig.kg
 asu.kg
 asudexpert.kg
@@ -1237,6 +1239,7 @@ autoopt.kg
 autopapa.kg
 autopark.kg
 autoparts24.kg
+autopiter.kg
 autoprokat.kg
 autoray.kg
 autorazbor.kg
@@ -1295,6 +1298,7 @@ avito.kg
 avivo.kg
 avl.kg
 avn.kg
+avocado.kg
 avon.kg
 avon-kg.kg
 avon-kyrgyzstan.kg
@@ -1378,10 +1382,12 @@ azattykplus.kg
 azbuka.kg
 azbukadoma.kg
 azharia.kg
+azi.kg
 aziaplast.kg
 azimut.kg
 azius.kg
 azmed.kg
+azonclimat.kg
 azor.kg
 azs.kg
 azsk74.kg
@@ -1421,7 +1427,6 @@ baidar.kg
 baidu.kg
 baidyikan.kg
 baielim.kg
-baihouse.kg
 baika.kg
 baike.kg
 baike-foods.kg
@@ -2454,7 +2459,6 @@ companion.kg
 company.kg
 companyregister.kg
 compas.kg
-compass.kg
 compland.kg
 complexbar.kg
 complexburenie.kg
@@ -2571,7 +2575,6 @@ ct.kg
 ctechnology.kg
 ctmax.kg
 cts.kg
-ctv.kg
 culligan.kg
 curaden.kg
 curaprox.kg
@@ -3468,7 +3471,6 @@ etrade.kg
 etro.kg
 ets.kg
 ett.kg
-eu.kg
 euprojects.kg
 eur-pallet.kg
 eura.kg
@@ -3677,7 +3679,6 @@ ferma.kg
 fermaservis.kg
 fermer.kg
 feromon.kg
-ferre.kg
 ferring.kg
 ferroli.kg
 fes.kg
@@ -4038,7 +4039,6 @@ geektech.kg
 geely.kg
 geelyauto.kg
 gefest-building.kg
-gekabai.kg
 geksagon.kg
 gel.kg
 gelios.kg
@@ -5264,7 +5264,6 @@ juulvapor.kg
 jvk.kg
 jyldynmyktylary-1-tv.kg
 jypar.kg
-jyrgalan.kg
 k-a.kg
 k-jetigen.kg
 k-jets.kg
@@ -5720,6 +5719,7 @@ koshbulak.kg
 koshoi.kg
 kot.kg
 kotly.kg
+kotofey.kg
 kovaltry.kg
 kovcheg.kg
 kover-samolet.kg
@@ -6070,6 +6070,7 @@ license.kg
 licenzii.kg
 licey.kg
 licey19.kg
+licey49.kg
 lid.kg
 lider.kg
 lider-line.kg
@@ -6301,6 +6302,7 @@ mail.kg
 mailbox.kg
 mailuusuu.kg
 maimai.kg
+mainerstore.kg
 majorlingua.kg
 mak.kg
 makao.kg
@@ -6470,6 +6472,7 @@ mcd.kg
 mcdonalds.kg
 mdc.kg
 mdclinic.kg
+mdigital.kg
 mdm.kg
 mdn.kg
 mdregion.kg
@@ -7016,6 +7019,7 @@ myhome.kg
 myhost.kg
 mykarakol.kg
 myle.kg
+mymed.kg
 myoffice.kg
 mypet.kg
 mypets.kg
@@ -7125,6 +7129,7 @@ ncg.kg
 ncn.kg
 ncog.kg
 ncokoit.kg
+ncomid.kg
 ncsjeans.kg
 nds.kg
 ne.kg
@@ -7145,7 +7150,6 @@ neofiscal.kg
 neofit.kg
 neoline.kg
 neom.kg
-neomebel.kg
 neomed.kg
 neon.kg
 neoncar.kg
@@ -7387,6 +7391,7 @@ obed.kg
 obereg.kg
 oberon.kg
 oblaka.kg
+oblako.kg
 obmen.kg
 obnovis.kg
 obo.kg
@@ -7449,7 +7454,6 @@ ohrana.kg
 oil.kg
 oils.kg
 oimo.kg
-oimok.kg
 oimotash.kg
 oip2.kg
 oir.kg
@@ -7615,6 +7619,7 @@ oralhistory.kg
 orange.kg
 orangeprint.kg
 orator.kg
+orbita.kg
 orbitz.kg
 ordainvest.kg
 ordamed.kg
@@ -8123,7 +8128,6 @@ portertaxi.kg
 portwest.kg
 pos.kg
 pos-service.kg
-pos-vision.kg
 posh.kg
 posiflex.kg
 positano.kg
@@ -8159,6 +8163,7 @@ prazdnik.kg
 prc.kg
 precedent.kg
 precedentinfo.kg
+prego.kg
 premiera.kg
 premiumcup.kg
 present.kg
@@ -8818,6 +8823,7 @@ santehbulak.kg
 santehmarket.kg
 santehmaster.kg
 santehnik.kg
+santehnikbishkek.kg
 santehplast.kg
 santehprofi.kg
 santex.kg
@@ -9192,7 +9198,6 @@ smart-hr.kg
 smart-key.kg
 smart-kyzmat.kg
 smart-taxi.kg
-smart353.kg
 smartanalytics.kg
 smartbank.kg
 smartbuh.kg
@@ -9277,7 +9282,6 @@ softline.kg
 softmaker.kg
 softprom.kg
 softtech.kg
-softvision.kg
 software.kg
 sojmarket.kg
 sokol.kg
@@ -9320,6 +9324,7 @@ sound.kg
 sound-center.kg
 soundmaster.kg
 sous.kg
+southbeach.kg
 southinstrument.kg
 souvenir.kg
 souz.kg
@@ -10341,6 +10346,7 @@ ugonanet.kg
 ui.kg
 uk.kg
 ukrpersonal.kg
+uksus.kg
 uku.kg
 ukuk.kg
 ulak.kg
@@ -10540,6 +10546,7 @@ vegatour.kg
 vegatv.kg
 vegold.kg
 veikk.kg
+vektor-energy.kg
 velo.kg
 veloclub.kg
 velomesto.kg
@@ -10553,6 +10560,7 @@ vensta.kg
 venstella.kg
 vent.kg
 ventclimat.kg
+ventcom.kg
 ventline.kg
 ventsan.kg
 veon.kg
@@ -10748,7 +10756,6 @@ vw.kg
 vw-id.kg
 vyberi.kg
 vympelsecurity.kg
-vysota.kg
 vystrel.kg
 vzglyad.kg
 vzglyadriv.kg
@@ -10935,6 +10942,10 @@ xiaomi.kg
 xinbei.kg
 xl.kg
 xmail.kg
+xn--iasiainfo-vj5f.kg
+xn--q5h.kg
+xn--s28h.kg
+xn--y38h.kg
 xp-pen.kg
 xppen.kg
 xpucmuane.kg
@@ -10992,7 +11003,6 @@ youtube.kg
 youwanna.kg
 yoyo.kg
 yr.kg
-yrysstroy.kg
 yubico.kg
 yubikey.kg
 yugstroyservice.kg
