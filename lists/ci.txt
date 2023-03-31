@@ -1801,6 +1801,7 @@ belemploi.ci
 belidjo.ci
 belife.ci
 belkofinance.ci
+bella-shop.ci
 belle.ci
 bellegina.ci
 belleholandesa.ci
@@ -2253,6 +2254,7 @@ caic.ci
 caidp.ci
 caimpex.ci
 caisse.ci
+caissepargne.ci
 cajou.ci
 cak-avocats.ci
 cakebyama.ci
@@ -2764,7 +2766,6 @@ clark.ci
 clasoftmedia.ci
 classeisrael.ci
 clbconseil.ci
-clbconsulting.ci
 clci.ci
 cld.ci
 clean.ci
@@ -3573,12 +3574,12 @@ consulat-guineebissau.ci
 consulatbenin-abj.ci
 consulatindonesie.ci
 consulatrwanda.ci
-consultance.ci
 consultant-k9.ci
 consultech.ci
 contact.ci
 contentsquare.ci
 continentalauto.ci
+continentalrubber.ci
 continentalsecurity.ci
 continentaltravaux.ci
 contract.ci
@@ -3923,6 +3924,7 @@ defiholding.ci
 defilenaiguille.ci
 defisvoice.ci
 deheus.ci
+delia.ci
 delice.ci
 delicesbio.ci
 delinia.ci
@@ -4147,6 +4149,7 @@ djibo.ci
 djibouamarket.ci
 djilx.ci
 djokstore.ci
+djolo.ci
 djooman.ci
 djorcy.ci
 djossi.ci
@@ -4167,6 +4170,7 @@ dlh.ci
 dmacademy.ci
 dmb.ci
 dmc.ci
+dmdigital.ci
 dmdigitalwp.ci
 dmg.ci
 dmgroup.ci
@@ -4678,7 +4682,6 @@ eipsi.ci
 eirtel.ci
 eisiem.ci
 eka.ci
-ekamgroup.ci
 ekd-btp.ci
 ekdb.ci
 ekdsn.ci
@@ -5223,7 +5226,6 @@ festimob.ci
 festivalabidjanpagne.ci
 festivaldesgrillades.ci
 festivaldevie.ci
-festivalduriz.ci
 festivalroyaumeassinie.ci
 festo.ci
 fetedelamusique.ci
@@ -7853,7 +7855,6 @@ ma2e.ci
 maad.ci
 maarifaa.ci
 maas.ci
-maat-immobilier.ci
 mab.ci
 mabanque.ci
 mabilletterie.ci
@@ -7878,7 +7879,6 @@ macie.ci
 macieenligne.ci
 macite.ci
 maclassenligne.ci
-macollecte.ci
 maconcept.ci
 maconsole.ci
 macooperative.ci
@@ -9150,7 +9150,6 @@ ong-ad.ci
 ong-meres-enfants.ci
 ong-messi.ci
 ong-o2hc.ci
-ongamononcoeurblanc.ci
 ongb.ci
 ongdroitsdevoirseleve.ci
 ongeleeo.ci
@@ -9211,7 +9210,6 @@ optima.ci
 optimarchegouro.ci
 optimedia.ci
 optimium.ci
-optimum-associes.ci
 optimumconseil.ci
 optimusgroup.ci
 optioncarriere.ci
@@ -10325,7 +10323,6 @@ rodecconseils.ci
 rogci.ci
 roidesrois.ci
 rolex.ci
-rolilconseilservices.ci
 romanolodge.ci
 romashop.ci
 roney.ci
@@ -11219,6 +11216,7 @@ solfegeproduction.ci
 solibra.ci
 solibrachezvous.ci
 solidarite.ci
+solivoire.ci
 sollium.ci
 solognac.ci
 solosar.ci
@@ -11359,6 +11357,7 @@ squed.ci
 sra.ci
 src.ci
 srci.ci
+sreli.ci
 srewa.ci
 srv.ci
 ss.ci
@@ -11608,6 +11607,7 @@ tchamantv.ci
 tchatche.ci
 tchedal.ci
 tchegbao.ci
+tchoyaimmo.ci
 tci.ci
 tcom.ci
 tcp.ci
@@ -12391,7 +12391,6 @@ wenistore.ci
 wesafricacommodities.ci
 wesbank.ci
 wesecurity.ci
-westafconsulting.ci
 westafricacommodities.ci
 westafricasecurity.ci
 westafricatrade.ci
