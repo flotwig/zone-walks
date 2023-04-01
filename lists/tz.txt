@@ -190,7 +190,6 @@ canny.tz
 carehealth.tz
 carglass.tz
 cars.tz
-cars45.tz
 casino.tz
 casinobonus.tz
 casinogames.tz
@@ -229,7 +228,6 @@ coconutfm.tz
 coconuttv.tz
 cocotv.tz
 codeblock.tz
-coin.tz
 colla.tz
 collectorscorner.tz
 comirnatyeducation.tz
@@ -278,7 +276,6 @@ deltahotels.tz
 delubac.tz
 dentaltourism.tz
 dentons.tz
-deu.tz
 devops.tz
 diamondplatnumz.tz
 die.tz
@@ -317,7 +314,6 @@ ecco.tz
 ecoflow.tz
 edves.tz
 egatee.tz
-eggs.tz
 egpaf.tz
 egum.tz
 eib-dar.tz
@@ -395,7 +391,6 @@ gese.tz
 get.tz
 gga.tz
 glei.tz
-gli.tz
 glo.tz
 gmail.tz
 gmindustries.tz
@@ -415,12 +410,10 @@ googlemaps.tz
 googlepay.tz
 googleworkspace.tz
 gotv.tz
-gra.tz
 greenwheels.tz
 grene.tz
 greyhound.tz
 greyhounds.tz
-gri.tz
 grinta.tz
 grundfos.tz
 gsm.tz
@@ -726,7 +719,6 @@ netflix.tz
 news.tz
 nexlaw.tz
 next.tz
-nft.tz
 ngorongoro.tz
 nia.tz
 nic.tz
@@ -968,7 +960,6 @@ spa.tz
 spay.tz
 spencerlu.tz
 sphecho.tz
-spi.tz
 spike.tz
 splash.tz
 sportbet.tz
@@ -1134,8 +1125,10 @@ yellow.tz
 you.tz
 youtube.tz
 zalipop.tz
+zanzibarcab.tz
 zanzibarfurniture.tz
 zanzibarproperties.tz
+zanzibartaxi.tz
 zanzipesa.tz
 zesha.tz
 zff.tz
