@@ -114,7 +114,6 @@
 73.ax
 74.ax
 76.ax
-77.ax
 777.ax
 78.ax
 79.ax
@@ -245,7 +244,6 @@ alamo.ax
 aland.ax
 aland100.ax
 alandbanken.ax
-alandboost.ax
 alandevent.ax
 alandexpeditions.ax
 alandglimrar.ax
@@ -269,7 +267,6 @@ alandica.ax
 alandicabugg.ax
 alandicadebatt.ax
 alandicaevents.ax
-alandicart.ax
 alandicashippingacademy.ax
 alandindex.ax
 alandlive.ax
@@ -1478,7 +1475,6 @@ gen.ax
 gendigital.ax
 geocultor.ax
 geson.ax
-get.ax
 geta.ax
 getabetong.ax
 getabetongprodukter.ax
@@ -1667,7 +1663,6 @@ helenaflojt.ax
 helheten.ax
 heli.ax
 hellmansbygg.ax
-hello.ax
 hellorayo.ax
 helloworld123.ax
 helmer.ax
@@ -2229,7 +2224,6 @@ lin.ax
 linak.ax
 linda.ax
 lindberg.ax
-lindblom.ax
 linde.ax
 linden.ax
 linderback.ax
@@ -3163,7 +3157,6 @@ salt.ax
 saltshop.ax
 saltvik.ax
 saltviksforsamling.ax
-saltvikskommun.ax
 saluhallen.ax
 samba.ax
 samtal.ax
@@ -3509,7 +3502,6 @@ sundbloms.ax
 sundell.ax
 sundkultur.ax
 sundman.ax
-sundsskola.ax
 suninvest.ax
 sunmeks.ax
 sunnan.ax
@@ -3609,6 +3601,7 @@ teli.ax
 telia.ax
 tem.ax
 tema.ax
+terrieristens.ax
 territoni.ax
 tesser.ax
 test.ax
