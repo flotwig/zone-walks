@@ -165,7 +165,6 @@
 2j.ci
 2k.ci
 2khfu.ci
-2kmedservices.ci
 2kn.ci
 2l.ci
 2m.ci
@@ -1166,7 +1165,6 @@ amm.ci
 amonia.ci
 amoniamarket.ci
 amore.ci
-amour.ci
 amp.ci
 amr.ci
 amsci.ci
@@ -2748,7 +2746,6 @@ civ2023.ci
 civagrihack.ci
 civdjerba2022.ci
 civi.ci
-civitas.ci
 civix.ci
 cj.ci
 ck-energy.ci
@@ -3515,7 +3512,6 @@ common-lisp.ci
 commune-affery.ci
 communeduplateau.ci
 communes.ci
-communication-web.ci
 communitymanager.ci
 comnat-alpc.ci
 comoci.ci
@@ -5716,7 +5712,6 @@ gic.ci
 gicop.ci
 gidec.ci
 gie.ci
-gifi.ci
 gig.ci
 gigi.ci
 gigisfood.ci
@@ -6598,6 +6593,7 @@ invoi.ci
 io.ci
 ioa.ci
 iodi.ci
+ios.ci
 ip.ci
 ip-d.ci
 ip2s.ci
@@ -7446,7 +7442,6 @@ law.ci
 laya.ci
 layher.ci
 lb.ci
-lbexpertise.ci
 lbiprestations.ci
 lbsgroupe.ci
 lbt.ci
@@ -7644,6 +7639,7 @@ lga.ci
 lgbf.ci
 lgi.ci
 lgseeds.ci
+lh.ci
 lh-immo.ci
 lhgroup.ci
 lhotel.ci
@@ -7748,13 +7744,13 @@ loctore.ci
 lodjoukroufestival.ci
 loeildabidjan.ci
 lofty-solutions.ci
-log.ci
 logeco.ci
 logement.ci
 logements.ci
 loger.ci
 loggroupeloko.ci
 logibat.ci
+logirec-mfp.ci
 logiroad.ci
 logiscare.ci
 logiscoop.ci
@@ -7850,7 +7846,6 @@ m6.ci
 ma.ci
 ma2e.ci
 maad.ci
-maarifaa.ci
 maas.ci
 mab.ci
 mabanque.ci
@@ -8033,6 +8028,7 @@ mappingcontrol.ci
 mappy.ci
 maquis.ci
 mara.ci
+marahoue-mail.ci
 maranathamag.ci
 marathon.ci
 marcayekoe.ci
@@ -8788,6 +8784,7 @@ netser.ci
 netservicestransport.ci
 netsuite.ci
 nettelecom.ci
+netxspace.ci
 neuce.ci
 neurolec.ci
 neuros.ci
@@ -8857,6 +8854,7 @@ nk2h.ci
 nkny.ci
 nkprestige.ci
 nktechnologies.ci
+nl.ci
 nl-lifetv.ci
 nmci.ci
 nn.ci
@@ -8984,6 +8982,7 @@ nziriverlodges.ci
 nzoservice.ci
 nzue.ci
 o2careservices.ci
+oa.ci
 oarchitectes.ci
 oasis.ci
 oazis.ci
@@ -10158,7 +10157,6 @@ regiondutchologo.ci
 regionguemon.ci
 regionlame.ci
 regions.ci
-regionsdecotedivoire.ci
 regiontchologo.ci
 regionworodougou.ci
 registry.ci
@@ -10363,6 +10361,7 @@ ru.ci
 rubber.ci
 rubbertradingcoop.ci
 ruby.ci
+ruedubazar.ci
 run.ci
 rust.ci
 ruthysplus.ci
@@ -10833,7 +10832,6 @@ sidamdigital.ci
 sidamdigitale.ci
 sidcao.ci
 sidepa.ci
-sidewins.ci
 sidgaz.ci
 siditoure.ci
 sidra.ci
@@ -10871,7 +10869,6 @@ sigfox.ci
 sigfu.ci
 sighor.ci
 sigma-eng.ci
-sigma-web.ci
 signarama.ci
 sigobe.ci
 sigomap.ci
@@ -12442,6 +12439,7 @@ winnerservicepains.ci
 wino.ci
 winpart.ci
 wintec.ci
+wireless.ci
 wisdomconsulting.ci
 wisdomintelligence.ci
 wisesecurity.ci
@@ -12710,7 +12708,6 @@ zoumla.ci
 zpxpro.ci
 zr.ci
 zt.ci
-ztech.ci
 zuo.ci
 zuul.ci
 zvne.ci
