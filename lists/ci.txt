@@ -711,7 +711,6 @@ aderiz-ci.ci
 adern.ci
 adex.ci
 adf-group.ci
-adfma.ci
 adg.ci
 adgroupeloko.ci
 adhcnn.ci
@@ -805,7 +804,6 @@ africatechnology.ci
 africatrans.ci
 africatransport.ci
 africatrucks.ci
-africaveto.ci
 africaway.ci
 africaweb.ci
 africawestindustries.ci
@@ -2838,6 +2836,7 @@ cnac-cotedivoire.ci
 cnafaci.ci
 cnam.ci
 cname.ci
+cnatech.ci
 cncainfos.ci
 cncci.ci
 cncga.ci
@@ -2861,7 +2860,6 @@ cnlc.ci
 cnlvc.ci
 cnmaep.ci
 cnmci.ci
-cnn.ci
 cno-civ.ci
 cnoa.ci
 cnova.ci
@@ -3861,7 +3859,6 @@ datakit.ci
 dataprotect.ci
 datarecovery.ci
 datasat.ci
-datasoft.ci
 datavillage.ci
 datcom.ci
 dates-concours.ci
@@ -4130,7 +4127,6 @@ djakatv.ci
 djambox.ci
 djami.ci
 djamo.ci
-djassa.ci
 djazi.ci
 djazy.ci
 djekou.ci
@@ -4999,6 +4995,7 @@ etsbmo.ci
 etscapaciteplus.ci
 etscoulibaly.ci
 etsdh.ci
+etsdjessou.ci
 etsedenimmobilier.ci
 etsel-elyonnature.ci
 etskd.ci
@@ -8270,7 +8267,6 @@ metropole.ci
 meuble.ci
 mevtic.ci
 mexc.ci
-mffe.ci
 mffe-unfpa.ci
 mfo.ci
 mfp.ci
@@ -8552,7 +8548,6 @@ motorshall.ci
 motrio.ci
 motul.ci
 mouna.ci
-mounirvoyages.ci
 mountech.ci
 mousso.ci
 moutfitters.ci
@@ -9438,7 +9433,6 @@ pang.ci
 pango.ci
 pangollin.ci
 panini.ci
-pannac.ci
 panzani.ci
 papajohns.ci
 papan.ci
@@ -9642,7 +9636,6 @@ pigelec.ci
 pigier.ci
 pihda.ci
 pimentbleu.ci
-pimentsucre.ci
 pinkberry.ci
 pinterest.ci
 pip.ci
@@ -9655,6 +9648,7 @@ piscine.ci
 piscinedesjoyaux.ci
 piscineivoire.ci
 piscinnet.ci
+pisze.ci
 pitchoncorp.ci
 pitf.ci
 pivotal.ci
@@ -10712,7 +10706,6 @@ setrex.ci
 seva.ci
 sevci.ci
 seven.ci
-sevn.ci
 sew.ci
 sew-eurodrive.ci
 seweurodrive.ci
