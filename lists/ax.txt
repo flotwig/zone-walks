@@ -615,6 +615,7 @@ bibliotek.ax
 bibo.ax
 bid.ax
 bifa.ax
+bifabike.ax
 bifaboat.ax
 bifarent.ax
 big.ax
@@ -1004,7 +1005,6 @@ degamlashem.ax
 degerbygasthamn.ax
 degersand.ax
 dehaas.ax
-delicatessen.ax
 deluxe.ax
 delvik.ax
 demens.ax
@@ -1136,6 +1136,7 @@ ek.ax
 eklund.ax
 eklunds.ax
 eklyft.ax
+eko.ax
 ekokliniken.ax
 ekonomi.ax
 ekonomikompaniet.ax
@@ -2226,6 +2227,7 @@ lin.ax
 linak.ax
 linda.ax
 lindberg.ax
+lindblom.ax
 linde.ax
 linden.ax
 linderback.ax
@@ -2286,7 +2288,6 @@ lowvig.ax
 lp.ax
 lr.ax
 ls-mail.ax
-lsab.ax
 lt.ax
 luc.ax
 lucia.ax
