@@ -150,6 +150,7 @@
 7ata.kg
 7bena.kg
 7cvetov.kg
+7nebo.kg
 7tv.kg
 8.kg
 80.kg
@@ -1008,6 +1009,7 @@ artmax.kg
 artmodern.kg
 artmuseum.kg
 arto.kg
+artpro.kg
 artskin.kg
 artsoffio.kg
 artstore.kg
@@ -1293,6 +1295,7 @@ aviatravel.kg
 avicenna.kg
 avicenna-edu.kg
 avigeya.kg
+avisa.kg
 avita.kg
 avitafarma.kg
 avitapharma.kg
@@ -2216,6 +2219,7 @@ catering.kg
 catholic.kg
 caurus.kg
 cavis.kg
+cbdc.kg
 cbi.kg
 cbk.kg
 cbs.kg
@@ -2246,7 +2250,6 @@ centerit.kg
 centerkotlov.kg
 centerokon.kg
 centr.kg
-centradvokatov.kg
 central-asia.kg
 centralasia.kg
 centralasiastone.kg
@@ -2308,6 +2311,7 @@ chery.kg
 cheryauto.kg
 ches.kg
 chess.kg
+chessacademy.kg
 chesterfield.kg
 chestnyznak.kg
 chevrolet-auto.kg
@@ -2343,6 +2347,7 @@ chopa.kg
 chopard.kg
 christina.kg
 chryslerfiat.kg
+chsd.kg
 cht.kg
 chudo-chado.kg
 chuiguvd.kg
@@ -2502,6 +2507,7 @@ control.kg
 controlstroy.kg
 cook-book.kg
 cookstory.kg
+cooler.kg
 cooperativ.kg
 copart.kg
 copy.kg
@@ -3082,6 +3088,7 @@ ecobank.kg
 ecobee.kg
 ecober.kg
 ecobike.kg
+ecocars.kg
 ecocity.kg
 ecoclean.kg
 ecoclimat.kg
@@ -3572,6 +3579,7 @@ expertconsult.kg
 expertgroup.kg
 expertkresel.kg
 expertlogistics.kg
+experts.kg
 explast.kg
 explorer.kg
 export.kg
@@ -3628,6 +3636,7 @@ fanat.kg
 fanera.kg
 fansale.kg
 fanta.kg
+fantom.kg
 faq.kg
 fara.kg
 farfor.kg
@@ -3971,6 +3980,7 @@ gallery.kg
 gam.kg
 game.kg
 gamekey.kg
+gamer.kg
 gamespop.kg
 gamestore.kg
 gamezz.kg
@@ -4413,6 +4423,7 @@ headhunter.kg
 headliner.kg
 health.kg
 health-concept.kg
+hebelkraft.kg
 hedef.kg
 heiztechnik.kg
 helendoron.kg
@@ -4661,6 +4672,7 @@ icee.kg
 iceland.kg
 icemaster.kg
 ichat.kg
+ici.kg
 ick.kg
 icloud.kg
 icnlalliance.kg
@@ -4686,6 +4698,7 @@ idf.kg
 idlogic.kg
 idoctor.kg
 idrink.kg
+ids.kg
 idservice.kg
 idsports.kg
 ief.kg
@@ -4950,6 +4963,7 @@ iodomarin.kg
 iohotel.kg
 iot.kg
 ip.kg
+ip-silkway.kg
 ipar.kg
 iparbio.kg
 ipc.kg
@@ -5273,6 +5287,7 @@ juulvapor.kg
 jvk.kg
 jyldynmyktylary-1-tv.kg
 jypar.kg
+jyrgalan.kg
 k-a.kg
 k-jetigen.kg
 k-jets.kg
@@ -6519,6 +6534,7 @@ medex.kg
 medexpert.kg
 medexpo.kg
 medexpress.kg
+medexsolutions.kg
 medi.kg
 medi-salon.kg
 media.kg
@@ -6736,6 +6752,7 @@ migom.kg
 migrant.kg
 migrantkabar.kg
 mike.kg
+mikoir.kg
 mikroleasing.kg
 mikrotik.kg
 mil.kg
@@ -6852,6 +6869,7 @@ moloko.kg
 molotok.kg
 molproduct.kg
 moltur.kg
+mombekov.kg
 momondo.kg
 momsfood.kg
 monarch.kg
@@ -7065,6 +7083,7 @@ nak.kg
 nakleika.kg
 nakpkr.kg
 nakta.kg
+naktamat.kg
 nalogi.kg
 namaz.kg
 namba.kg
@@ -7661,7 +7680,6 @@ orlovka.kg
 ormatt.kg
 ormed.kg
 ormk.kg
-ormonhan.kg
 oro.kg
 orocaffe.kg
 oropay.kg
@@ -8155,6 +8173,7 @@ potolkoff.kg
 potolok.kg
 poultry.kg
 povarenok.kg
+povarenok-shop.kg
 power.kg
 powermax.kg
 powertrade.kg
@@ -8284,6 +8303,7 @@ proma.kg
 promalp.kg
 promavto.kg
 promed.kg
+promet.kg
 prometey.kg
 prometis.kg
 promexpert.kg
@@ -8514,6 +8534,7 @@ reinakench.kg
 reise.kg
 reiting.kg
 reklama.kg
+reklama1.kg
 rekord.kg
 rekpark.kg
 relaxy.kg
@@ -8681,7 +8702,6 @@ rosmetall.kg
 rosneft-oil.kg
 rossalut.kg
 rossiida.kg
-rosskeramika.kg
 rost.kg
 rotana.kg
 rotang.kg
@@ -8870,7 +8890,6 @@ saratan.kg
 saresep.kg
 sartbaev.kg
 sary-mogol.kg
-sarya.kg
 saryozon.kg
 sasa.kg
 sasa-plastic.kg
@@ -9182,6 +9201,7 @@ skybishkek.kg
 skycargo.kg
 skycloud.kg
 skydombishkek.kg
+skyfall.kg
 skyfly.kg
 skygroup.kg
 skyhome.kg
@@ -9203,6 +9223,7 @@ slast.kg
 slavyane.kg
 sleep.kg
 slegkim-parom.kg
+sleng.kg
 sliceofjoy.kg
 slogistic.kg
 slon.kg
@@ -9467,6 +9488,7 @@ start.kg
 start-company.kg
 startbusiness.kg
 startrade.kg
+startupnation.kg
 stat.kg
 statoil.kg
 status.kg
@@ -9693,6 +9715,7 @@ tachka.kg
 taekwondo.kg
 tagaytay.kg
 taic.kg
+taichi.kg
 taider.kg
 taimpex.kg
 takeawaytrade.kg
@@ -9710,7 +9733,6 @@ talents.kg
 talisman.kg
 talsu.kg
 tam.kg
-tamada.kg
 tamchy.kg
 tamga-ceramic.kg
 tamgasoft.kg
@@ -9878,6 +9900,7 @@ tena.kg
 tender.kg
 tenders.kg
 tengri.kg
+tenirtoo.kg
 tenirtravel.kg
 tennis.kg
 tennisacademy.kg
@@ -9950,6 +9973,7 @@ tezf.kg
 tezfin.kg
 tezfinance.kg
 tezgo.kg
+tezgruz.kg
 tezjet.kg
 tezmaster.kg
 tezsat.kg
@@ -10528,7 +10552,6 @@ vacancy.kg
 vagrant.kg
 vak.kg
 valemotors.kg
-valencia.kg
 valfex.kg
 valguspro.kg
 valtec.kg
