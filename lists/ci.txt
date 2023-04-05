@@ -674,7 +674,6 @@ acs.ci
 acsdk.ci
 act.ci
 actech.ci
-acteursdugospel.ci
 actia-sa.ci
 activemedia.ci
 activepharma2007.ci
@@ -2055,6 +2054,7 @@ bookingsuite.ci
 bookmaker.ci
 bookmakers.ci
 bookmakers225.ci
+boom.ci
 boostpme.ci
 booztechnologies.ci
 bop-afrique.ci
@@ -2103,6 +2103,7 @@ braids.ci
 braincom.ci
 brainstorming.ci
 brainstorming-capital.ci
+brainwaregroup.ci
 brajo.ci
 branch.ci
 brandconseils.ci
@@ -2219,7 +2220,6 @@ cabinetallegra.ci
 cabinetavocat-aenzakonate.ci
 cabinetbelievegroup.ci
 cabinetbokola.ci
-cabinetdentaireblessingf.ci
 cabinetelites.ci
 cabinetezzeddine.ci
 cabinetfofana.ci
@@ -2243,7 +2243,6 @@ cafecacao.ci
 caferimbaud.ci
 cafesbondin.ci
 caftic-istc.ci
-cag.ci
 cagrh.ci
 caic.ci
 caidp.ci
@@ -3722,7 +3721,6 @@ croua2.ci
 crouabidjan.ci
 crouabidjan1.ci
 croubouake.ci
-croudaloa.ci
 croudeman.ci
 crowe.ci
 crporo.ci
@@ -4044,6 +4042,7 @@ digitaldepanneur.ci
 digitaleagence.ci
 digitalhelp.ci
 digitalheroes.ci
+digitalhouses.ci
 digitalia.ci
 digitalkstudio.ci
 digitalland.ci
@@ -4266,7 +4265,6 @@ dreamcorporation.ci
 dreamhouse.ci
 dreamsagency.ci
 dreamscape.ci
-dreamsholding.ci
 dreamstore.ci
 dreamtv.ci
 drenaabidjan3.ci
@@ -6072,7 +6070,6 @@ he.ci
 health.ci
 healthprojectsafeguardb.ci
 heat.ci
-heavenstone.ci
 hebergementweb.ci
 hec.ci
 hecabidjan.ci
@@ -6096,7 +6093,6 @@ here.ci
 hermannandreyes.ci
 herve-coiffure.ci
 herve-diaz.ci
-hesfinances.ci
 hespress.ci
 hestia.ci
 hetec.ci
@@ -6266,6 +6262,7 @@ i2n.ci
 i2s.ci
 i2t.ci
 ia.ci
+iac.ci
 iac-tp.ci
 iacc.ci
 iaccessgroup.ci
@@ -6757,6 +6754,7 @@ ivoireformation.ci
 ivoireformations.ci
 ivoireforum.ci
 ivoiregames.ci
+ivoiregions.ci
 ivoiregolfclub.ci
 ivoiregranito.ci
 ivoirehumain.ci
@@ -6780,7 +6778,6 @@ ivoiresms.ci
 ivoiretaxi.ci
 ivoiretechnocom.ci
 ivoireticdigital.ci
-ivoiretoner.ci
 ivoiretransport.ci
 ivoirevetconsulting.ci
 ivoirevolaille.ci
@@ -6851,6 +6848,7 @@ jaimebouafle.ci
 jaimejacko.ci
 jaimejacqueville.ci
 jaimeman.ci
+jakgbeke2023.ci
 jalertelanp.ci
 jamu.ci
 janislab.ci
@@ -6881,6 +6879,7 @@ je.ci
 je-livre.ci
 jeanlacour.ci
 jeanlouisbillon.ci
+jeanmariekone.ci
 jeanmeganeboutique.ci
 jeberge.ci
 jecompare.ci
@@ -7063,7 +7062,6 @@ kalia.ci
 kaliwebservices.ci
 kamaholding.ci
 kamak.ci
-kamal.ci
 kamapay.ci
 kamatech.ci
 kamay.ci
@@ -7815,7 +7813,6 @@ luckybambou.ci
 ludshop.ci
 lugik.ci
 lulu.ci
-lumenaimmobilier.ci
 lumenainteragency.ci
 lumos.ci
 luna.ci
@@ -7899,6 +7896,7 @@ mae.ci
 maeci.ci
 maekr.ci
 maelimmobilier.ci
+maem.ci
 maersk.ci
 maersk-line.ci
 maerskdrilling.ci
@@ -8153,7 +8151,6 @@ me.ci
 meav.ci
 mecalux.ci
 mecano.ci
-meceneivoire.ci
 med.ci
 medcy.ci
 medecin.ci
@@ -8298,7 +8295,6 @@ mias.ci
 mib.ci
 mibem.ci
 mibi.ci
-michaud.ci
 mici.ci
 microcred.ci
 microdis.ci
@@ -8347,6 +8343,7 @@ ministere-construction.ci
 mirah.ci
 mirah-csp.ci
 mirassouconsulting.ci
+miri.ci
 misep.ci
 missbingerville.ci
 mission-immaculee.ci
@@ -9550,7 +9547,6 @@ penta.ci
 penticavallino.ci
 pentra.ci
 peopleandchangekpmg.ci
-pepsane.ci
 perfectionivoirienne.ci
 perfectorimmobilier.ci
 perfly.ci
@@ -10715,6 +10711,7 @@ setr-sn.ci
 setrex.ci
 seva.ci
 sevci.ci
+sevdietetiqueci.ci
 seven.ci
 sew.ci
 sew-eurodrive.ci
@@ -10731,6 +10728,7 @@ sfl.ci
 sfmobile.ci
 sft.ci
 sga2e.ci
+sgaexpertise.ci
 sgb.ci
 sgci.ci
 sgdi.ci
@@ -10848,6 +10846,7 @@ siemensenergy.ci
 sieth.ci
 sietravaux.ci
 sietta.ci
+sifab.ci
 sifca.ci
 sifcom.ci
 sifen.ci
@@ -11990,6 +11989,7 @@ uggcafrica.ci
 ugn.ci
 ugocreative.ci
 ugp.ci
+ugp-psf.ci
 uh.ci
 ui.ci
 uic-mev.ci
@@ -12026,6 +12026,7 @@ unetel.ci
 ung.ci
 ungestedart.ci
 uni-confortci.ci
+uniagro.ci
 uniconfortcotedivoire.ci
 uniconseil.ci
 unicornnetwork.ci
@@ -12345,6 +12346,7 @@ wattenergy.ci
 wave.ci
 wazimeet.ci
 wazup.ci
+wbh.ci
 wci.ci
 we.ci
 wealthtechinnovations.ci
