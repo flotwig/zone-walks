@@ -77,7 +77,6 @@
 1p.ci
 1q.ci
 1r.ci
-1radio.ci
 1s.ci
 1st.ci
 1t.ci
@@ -733,6 +732,7 @@ adonas-holding.ci
 adopt.ci
 adouarchitecte.ci
 adoukestore.ci
+adprevoyance.ci
 adrural.ci
 adrwebmarketing.ci
 ads.ci
@@ -925,6 +925,7 @@ agromax.ci
 agrosane.ci
 agrosanemarketplace.ci
 agrotherapie.ci
+agrotv.ci
 ags.ci
 agtrans.ci
 agts.ci
@@ -2055,6 +2056,7 @@ bookmaker.ci
 bookmakers.ci
 bookmakers225.ci
 boom.ci
+booming.ci
 boostpme.ci
 booztechnologies.ci
 bop-afrique.ci
@@ -3572,7 +3574,6 @@ contact.ci
 contentsquare.ci
 continentalauto.ci
 continentalrubber.ci
-continentalsecurity.ci
 continentaltravaux.ci
 contract.ci
 contractor.ci
@@ -3747,7 +3748,6 @@ csiafrica.ci
 csinformatique.ci
 csk.ci
 csltguineeb-abj.ci
-csm-ellibou.ci
 csp.ci
 csp-edu.ci
 csrs.ci
@@ -4634,6 +4634,7 @@ ega.ci
 egaim.ci
 egard.ci
 egbat.ci
+egbosarl.ci
 egfop.ci
 egkhr.ci
 eglceleste.ci
@@ -4727,6 +4728,7 @@ elissa-distribution.ci
 elite.ci
 elitebeton.ci
 elitec.ci
+elitecloud.ci
 eliteconnection.ci
 eliteconseil.ci
 elitecosmetic.ci
@@ -4747,6 +4749,7 @@ elixo.ci
 elle.ci
 ellesse.ci
 elma.ci
+elokate.ci
 elops.ci
 eloto.ci
 elservices.ci
@@ -6151,6 +6154,7 @@ hometextileturkey.ci
 homme.ci
 honda.ci
 honest-cashew.ci
+hong.ci
 honk.ci
 honneursaintesprit.ci
 honor.ci
@@ -6428,6 +6432,7 @@ impactcommunication.ci
 impactplus.ci
 impactpolytechs.ci
 impactrapide.ci
+imperial-english.ci
 impressionkdo.ci
 impressionrapide.ci
 impricom.ci
@@ -6740,6 +6745,7 @@ ivoirebutane.ci
 ivoirecasse.ci
 ivoirecasseauto.ci
 ivoirechannel.ci
+ivoirecleaning.ci
 ivoirecode.ci
 ivoireconsommables.ci
 ivoireconstruction.ci
@@ -7168,7 +7174,6 @@ kindji.ci
 kine.ci
 kineden.ci
 kinedorsal.ci
-kinesitherapie.ci
 king.ci
 kingdeco.ci
 kingdombeauty.ci
@@ -7323,6 +7328,7 @@ l-m.ci
 la.ci
 la-sape.ci
 lab-science.ci
+label.ci
 labelci.ci
 labelesca.ci
 labelexpert.ci
@@ -7675,6 +7681,7 @@ liguefoot7.ci
 lika.ci
 likasa.ci
 likebets.ci
+limprimeur.ci
 lin.ci
 lincognito-by-afflelou.ci
 lincognitobyafflelou.ci
@@ -7986,6 +7993,7 @@ mallbuddy.ci
 mamaafrica.ci
 mamacare.ci
 mamadoukone.ci
+mamairie.ci
 mamaison.ci
 mamaisonparfaite.ci
 maman.ci
@@ -8098,6 +8106,7 @@ matiereivoire.ci
 matlog.ci
 matmed.ci
 matos.ci
+matrixbanque.ci
 matt.ci
 mauvagroup-immobiler.ci
 mauvagroup-immobilier.ci
@@ -8272,6 +8281,7 @@ metropole.ci
 meuble.ci
 mevtic.ci
 mexc.ci
+mffe.ci
 mffe-unfpa.ci
 mfo.ci
 mfp.ci
@@ -8571,6 +8581,7 @@ mpeder.ci
 mpowerment.ci
 mpp.ci
 mps.ci
+mpub.ci
 mr.ci
 mr-bricolage.ci
 mr-materiaux.ci
@@ -8634,7 +8645,6 @@ mureka.ci
 murema.ci
 murielamichia.ci
 musamci.ci
-musarti.ci
 musclesstore.ci
 musicpro.ci
 musix.ci
@@ -8908,6 +8918,7 @@ nourassurance.ci
 nouria.ci
 nouriadeals.ci
 nourtechnologie.ci
+nous.ci
 nouvelimag.ci
 nouvelles.ci
 nouvellesaralu.ci
@@ -9954,6 +9965,7 @@ pua-ci.ci
 pub.ci
 publieditions.ci
 publika.ci
+publiticket.ci
 puissance-divine.ci
 pulse.ci
 pulsesports.ci
@@ -10765,6 +10777,7 @@ sheikh.ci
 shein.ci
 shelec.ci
 shell.ci
+shephainvest-group.ci
 shi.ci
 shimano.ci
 shiningevents.ci
@@ -11613,7 +11626,6 @@ tcom.ci
 tcp.ci
 tcs.ci
 tcsp.ci
-tda.ci
 tdinvest.ci
 tdm.ci
 tds.ci
@@ -11624,6 +11636,7 @@ team-assistance.ci
 teambi.ci
 teammagazine.ci
 tech.ci
+techdigital.ci
 techdomains.ci
 techmedia.ci
 technic-achat.ci
@@ -12207,7 +12220,6 @@ vin.ci
 vineriadebabi.ci
 vinividivi.ci
 vinko.ci
-vins.ci
 vintageboutique.ci
 vip.ci
 vip-slot.ci
@@ -12711,7 +12723,6 @@ zoetis.ci
 zone.ci
 zone4.ci
 zong.ci
-zoom.ci
 zoro.ci
 zoulgroup.ci
 zoumbak.ci
