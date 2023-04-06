@@ -583,6 +583,8 @@ arresa.cy
 ars-vitae.cy
 art.cy
 art-gallery.cy
+art-sqr.cy
+art-square.cy
 artemia.cy
 artenika.cy
 artesun.cy
@@ -785,6 +787,7 @@ balance.cy
 balance-sound.cy
 balansy.cy
 balendean.cy
+balloonbox.cy
 balticpetroleum.cy
 bambina.cy
 bambo.cy
@@ -2143,6 +2146,7 @@ diagbox.cy
 diakopes.cy
 dialando.cy
 dialectic.cy
+dialexis.cy
 dialogos.cy
 diamantakia.cy
 diamerisma.cy
@@ -2358,6 +2362,8 @@ dvn.cy
 dyslexia.cy
 e-aradippou.cy
 e-bags.cy
+e-bank.cy
+e-cars.cy
 e-carsgroup.cy
 e-catalog.cy
 e-charge.cy
@@ -3551,7 +3557,6 @@ halloumi.cy
 halloumi-cheese.cy
 halloumicheese.cy
 halloumicyprus.cy
-hammer.cy
 hampers.cy
 handmade.cy
 hands.cy
@@ -4688,6 +4693,7 @@ logosnet.cy
 loizides.cy
 loizou.cy
 loizouprints.cy
+lokimou.cy
 lol.cy
 loli.cy
 lomax.cy
@@ -5538,6 +5544,7 @@ nicolaou.cy
 nicolas.cy
 nicosia.cy
 nicosiacardiologypractice.cy
+nicosiacorporatecup.cy
 nicosiafurniture.cy
 nicosiagolf.cy
 nicosiahalfmarathon.cy
@@ -6491,7 +6498,6 @@ pv-solar.cy
 pvideo.cy
 pvoice.cy
 pxg.cy
-pyro.cy
 python.cy
 qatarairways.cy
 qcycle.cy
@@ -7964,7 +7970,6 @@ ulisses.cy
 ullapopken.cy
 ulm.cy
 ultimatetune.cy
-ultra.cy
 uma.cy
 umi.cy
 umi-power.cy
