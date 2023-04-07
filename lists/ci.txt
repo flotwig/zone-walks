@@ -167,7 +167,6 @@
 2kn.ci
 2l.ci
 2m.ci
-2mgc.ci
 2mi.ci
 2muta.ci
 2n.ci
@@ -726,6 +725,8 @@ admin.ci
 adminsys.ci
 adn.ci
 adn-communication.ci
+adnabidjan.ci
+adncotedivoire.ci
 adnh.ci
 ado.ci
 adonas-holding.ci
@@ -745,7 +746,6 @@ adventiste.ci
 adviceconsulting.ci
 adw.ci
 ae.ci
-ae2c.ci
 aeci.ci
 aeolus.ci
 aeria.ci
@@ -1048,7 +1048,6 @@ alfourquan.ci
 algest.ci
 alhoudavoyage.ci
 alibaba.ci
-alibazar.ci
 aliexpress.ci
 alimak-medical.ci
 alison.ci
@@ -2292,6 +2291,7 @@ canalsat.ci
 canalsat-afrique.ci
 canam.ci
 canaveral.ci
+cancer.ci
 canci.ci
 canciv2023.ci
 cancotedivoire2023.ci
@@ -2499,7 +2499,6 @@ cerkio.ci
 cerruti.ci
 cerruti1881.ci
 certification.ci
-certificatssl.ci
 certys.ci
 cervo.ci
 ces.ci
@@ -2579,7 +2578,6 @@ chic.ci
 chic-coin.ci
 chic-coq.ci
 chicabeauty.ci
-chicafricabeauty.ci
 chicco.ci
 chicking.ci
 chicpanier.ci
@@ -3831,7 +3829,6 @@ dama.ci
 damemature.ci
 dan.ci
 danane.ci
-dandlholding.ci
 danew.ci
 danfe.ci
 danistore.ci
@@ -5144,6 +5141,7 @@ fanianconsulting.ci
 fano.ci
 fanta.ci
 fantasyking.ci
+farafinahkanu.ci
 farandole.ci
 fareeda.ci
 farma.ci
@@ -6050,7 +6048,6 @@ happykidz.ci
 happyrun.ci
 happyteam.ci
 harbourabidjan.ci
-harrellgroup.ci
 hasson.ci
 hautdebit.ci
 hautesperformances-rh.ci
@@ -6627,6 +6624,7 @@ iqoption.ci
 iqvia.ci
 ir.ci
 ird.ci
+iribat.ci
 irin.ci
 iris.ci
 irma.ci
@@ -6933,12 +6931,10 @@ jfac.ci
 jg.ci
 jh.ci
 jhbmanc.ci
-jherm.ci
 ji.ci
 jia2022.ci
 jilx.ci
 jing.ci
-jinvestcorporate.ci
 jj.ci
 jka.ci
 jka-ci.ci
@@ -7303,6 +7299,7 @@ ksmfilms.ci
 ktaaquarium.ci
 ktek.ci
 ktower.ci
+ktvworkingdrone.ci
 ku.ci
 kuai.ci
 kube.ci
@@ -8127,6 +8124,7 @@ mbahiag.ci
 mbapub.ci
 mbartsetdecoration.ci
 mbc.ci
+mbcibanque.ci
 mbg.ci
 mbhservices.ci
 mblm.ci
@@ -8462,7 +8460,6 @@ monchauffeur.ci
 monchemoi.ci
 monchoix.ci
 monclienroi.ci
-moncoach.ci
 monconfort.ci
 moncourrier.ci
 moncoursier.ci
@@ -9154,7 +9151,6 @@ onetv.ci
 onews.ci
 ong.ci
 ong-ad.ci
-ong-meres-enfants.ci
 ong-messi.ci
 ong-o2hc.ci
 ongb.ci
@@ -9504,7 +9500,6 @@ pathe.ci
 patheo.ci
 patisserie.ci
 patouco-attieke.ci
-patrimoineimmobilier.ci
 paul.ci
 pauleetseshistoires.ci
 pawa.ci
@@ -10056,6 +10051,7 @@ radbug.ci
 radiant.ci
 radiantsecurity.ci
 radioalhikmah.ci
+radioalhouda.ci
 radiobienetre.ci
 radiobonheur.ci
 radiochandelier.ci
@@ -10451,7 +10447,6 @@ saloodo.ci
 salv.ci
 sam.ci
 sama.ci
-samabivoire.ci
 samamoney.ci
 saman.ci
 samara.ci
@@ -10502,6 +10497,7 @@ sapcca.ci
 saph.ci
 saphir-btp.ci
 saphirplus.ci
+saplame.ci
 saprim.ci
 saqara.ci
 sara.ci
@@ -11089,6 +11085,7 @@ smsecole.ci
 smspro24.ci
 smtb.ci
 sn.ci
+snagroup.ci
 snatlas.ci
 snatlassarl.ci
 snc-finances.ci
@@ -11804,7 +11801,6 @@ toa.ci
 tobee.ci
 toctoctoc.ci
 todo.ci
-toimoi.ci
 tokenisation.ci
 tom.ci
 tomaci.ci
@@ -11818,6 +11814,7 @@ toowa.ci
 top.ci
 topannonce.ci
 topannonces.ci
+topbureau.ci
 topchrono.ci
 topcontact.ci
 topengins.ci
@@ -12210,7 +12207,6 @@ viezcommunication.ci
 villa.ci
 villablanca.ci
 villagedepaques.ci
-villagemarket.ci
 villaon.ci
 villas.ci
 villayaba.ci
