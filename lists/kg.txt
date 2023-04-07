@@ -455,6 +455,7 @@ aistenok.kg
 aisys.kg
 ait.kg
 aiter.kg
+aitmatov.kg
 aitmatov69.kg
 aitube.kg
 aitv.kg
@@ -563,9 +564,7 @@ alatoologistic.kg
 alatown.kg
 alatv.kg
 alawar.kg
-alban.kg
 albion.kg
-albus.kg
 albus-m.kg
 albuss.kg
 alby.kg
@@ -1755,6 +1754,7 @@ bike.kg
 bikeandhike.kg
 bikers.kg
 bikes.kg
+bikfound.kg
 bikompozit.kg
 bilerman.kg
 bilesinbi.kg
@@ -2922,6 +2922,7 @@ dogovor.kg
 dogtas.kg
 doinggood.kg
 dokadveri.kg
+dolcevita.kg
 dolf-man.kg
 dolinka.kg
 dolon.kg
@@ -2950,6 +2951,7 @@ dontsmoke.kg
 doolot.kg
 doolotfinance.kg
 door-asia.kg
+doorexpo.kg
 doorhan.kg
 doorhan-club.kg
 doormedia.kg
@@ -3138,7 +3140,6 @@ ecopay.kg
 ecoplast.kg
 ecoproduct.kg
 ecoschool.kg
-ecosoft.kg
 ecosport.kg
 ecostan.kg
 ecostart.kg
@@ -3344,7 +3345,6 @@ emerec.kg
 emerek.kg
 emex.kg
 emfeuropa.kg
-emgek.kg
 emin.kg
 emio.kg
 emirates.kg
@@ -3518,7 +3518,6 @@ eurodrive.kg
 eurol.kg
 eurolab.kg
 eurolift.kg
-euroline.kg
 euromebel.kg
 euromultiservice.kg
 europa.kg
@@ -3540,7 +3539,6 @@ evakuator.kg
 evakuator23.kg
 evakuator24.kg
 evakuatorkg.kg
-evco.kg
 event.kg
 eventica.kg
 eventim.kg
@@ -4159,7 +4157,6 @@ global-ex.kg
 global-print.kg
 global-rivers.kg
 globalaudit.kg
-globalcom.kg
 globaldialog.kg
 globalenergyeurasia.kg
 globalexltd.kg
@@ -4548,6 +4545,7 @@ holst.kg
 home.kg
 home-comfort.kg
 homebasket.kg
+homecinema.kg
 homedorf.kg
 homefilter.kg
 homeland.kg
@@ -5079,7 +5077,6 @@ it-logistic.kg
 it-office.kg
 it911.kg
 italtherm.kg
-itamga.kg
 itc.kg
 itc-tech.kg
 itcenter.kg
@@ -5264,7 +5261,6 @@ jobst.kg
 johndeere.kg
 jolbolsun.kg
 joldo.kg
-joma.kg
 jonot.kg
 joomla.kg
 jordan.kg
@@ -5316,6 +5312,7 @@ kabai.kg
 kabak.kg
 kaban.kg
 kabar.kg
+kabarlar.kg
 kabel.kg
 kabi.kg
 kabrita.kg
@@ -5432,7 +5429,6 @@ kashkin.kg
 kaskad.kg
 kasmp.kg
 kaspersky.kg
-kaspi.kg
 kassa.kg
 kassa24.kg
 kassir.kg
@@ -5550,6 +5546,7 @@ kgclinic.kg
 kgcn.kg
 kggt.kg
 kghu.kg
+kghunter.kg
 kginform.kg
 kgjol.kg
 kgkampa.kg
@@ -5835,7 +5832,6 @@ ksuu.kg
 kswiss.kg
 kt.kg
 ktec.kg
-ktex.kg
 ktm.kg
 ktnet.kg
 ktpi.kg
@@ -5867,6 +5863,7 @@ kunduzai.kg
 kuntuu-aimak.kg
 kupi.kg
 kupiasia.kg
+kupicn.kg
 kupislona.kg
 kupuev.kg
 kurak.kg
@@ -6062,6 +6059,10 @@ leica-geosystems.kg
 lek.kg
 lekalo.kg
 lekar.kg
+lemano-pro.kg
+lemanopro.kg
+lemanopro-shop.kg
+lemanoproshop.kg
 lemur.kg
 lenin-aimak.kg
 lenovo.kg
@@ -6288,6 +6289,7 @@ luxson.kg
 luxstroydom.kg
 luzi.kg
 luzina.kg
+lvg.kg
 lvl.kg
 lyres.kg
 lysi.kg
@@ -7036,6 +7038,7 @@ mv.kg
 mvd.kg
 mview.kg
 mvtp.kg
+mwgroup.kg
 mwork.kg
 mwp.kg
 my.kg
@@ -7355,6 +7358,7 @@ novamebel.kg
 novanda.kg
 novartis.kg
 novasklad.kg
+novataxi.kg
 novatorpharma.kg
 noventiq.kg
 noventiqstore.kg
@@ -8052,7 +8056,6 @@ pl61.kg
 pl67.kg
 pl72.kg
 pl81.kg
-pl90.kg
 pl91.kg
 pl97.kg
 pl99.kg
@@ -8472,7 +8475,6 @@ rasulakram-online.kg
 rating.kg
 ratinovclinic.kg
 ratio.kg
-rausch.kg
 ravenol.kg
 ravenstvo.kg
 rawigaming.kg
@@ -8865,7 +8867,6 @@ samsungbusiness.kg
 samsunghealthcare.kg
 samsunghome.kg
 samsungkg.kg
-samsunglifestyle.kg
 samsungstore.kg
 samuraifood.kg
 san.kg
@@ -8918,6 +8919,7 @@ satalam.kg
 satam.kg
 satcom.kg
 satel.kg
+satellite.kg
 satigroup.kg
 satu.kg
 saturn.kg
@@ -9120,10 +9122,12 @@ shoes.kg
 sholchev.kg
 shooting.kg
 shop.kg
+shop-lemanopro.kg
 shopcasio.kg
 shopgid.kg
 shopify.kg
 shopifyplus.kg
+shoplemanopro.kg
 shopping.kg
 shops.kg
 shopsale.kg
@@ -9171,6 +9175,7 @@ silvertech.kg
 sim.kg
 sima-land.kg
 simiram.kg
+simple.kg
 simplekey.kg
 simraceroom.kg
 simsim.kg
@@ -9230,6 +9235,7 @@ skyhotel.kg
 skyjet.kg
 skylab.kg
 skylift.kg
+skyline.kg
 skymedia.kg
 skymobile.kg
 skynens.kg
@@ -9506,7 +9512,6 @@ staron-interior.kg
 stars.kg
 starshina.kg
 start.kg
-start-company.kg
 startbusiness.kg
 startrade.kg
 startupnation.kg
@@ -10160,6 +10165,7 @@ toptogolok.kg
 toptrade.kg
 toptur.kg
 tor.kg
+torg.kg
 torghim.kg
 tork.kg
 torken.kg
@@ -10168,7 +10174,6 @@ torrent.kg
 tort.kg
 tortgraf.kg
 toshiba.kg
-total.kg
 totalmed.kg
 totaltools.kg
 toto.kg
@@ -10254,9 +10259,11 @@ trendturkey.kg
 trendyol.kg
 treningi.kg
 treolan.kg
+trg.kg
 triadaflex.kg
 triadaprint.kg
 triathlon.kg
+triben.kg
 tribunakg.kg
 tribute.kg
 tricketticket.kg
@@ -10511,6 +10518,7 @@ upim.kg
 upjohn.kg
 upl.kg
 uplotniteli.kg
+upmarketing.kg
 upmodels.kg
 ups.kg
 uralactiv.kg
@@ -10572,6 +10580,7 @@ vacancy.kg
 vagrant.kg
 vak.kg
 valemotors.kg
+valencia.kg
 valfex.kg
 valguspro.kg
 valtec.kg
@@ -10848,7 +10857,6 @@ wanzl.kg
 warnerbros.kg
 wasabi.kg
 wasabipay.kg
-washservice.kg
 washtec.kg
 wastenet.kg
 watch.kg
