@@ -910,7 +910,6 @@ agriline.ci
 agripedia.ci
 agriplus.ci
 agristore.ci
-agrithink.ci
 agrivision.ci
 agro.ci
 agro-star.ci
@@ -1913,6 +1912,7 @@ binome.ci
 bio.ci
 bio-oil.ci
 biofield.ci
+biofield-cotedivoire.ci
 biogaz.ci
 biolabsarl.ci
 biologique-recherche.ci
@@ -2047,7 +2047,6 @@ bonticket.ci
 bonuscode.ci
 bonusmarket.ci
 bonzogroup.ci
-book.ci
 booking.ci
 bookings.ci
 bookingsuite.ci
@@ -4277,7 +4276,6 @@ drhsante.ci
 drigroupe.ci
 drive.ci
 drive-transport.ci
-drivego.ci
 driven.ci
 driver.ci
 drivoo.ci
@@ -6676,7 +6674,6 @@ isuzutrucks.ci
 isuzutrucks-abidjan.ci
 isv.ci
 isvp-facultetheologie.ci
-it.ci
 it-formations.ci
 it-mall.ci
 it-smart.ci
@@ -6814,7 +6811,6 @@ ivoryenergies.ci
 ivoryfoods.ci
 ivoryrubbercorporation.ci
 ivosep.ci
-ivoyage.ci
 ivtpsd.ci
 iw.ci
 iws.ci
@@ -8858,7 +8854,6 @@ nisconsulting.ci
 nissiprestige.ci
 nitro.ci
 nitshop.ci
-nix.ci
 njakabeauty.ci
 nk.ci
 nk2h.ci
@@ -9056,7 +9051,6 @@ odora.ci
 odylight.ci
 oe.ci
 oec.ci
-oeeci.ci
 oel.ci
 oenophile.ci
 oesg.ci
@@ -10598,7 +10592,6 @@ sda.ci
 sdbi.ci
 sde.ci
 sdequipements.ci
-sdma.ci
 sdol.ci
 sdoloptique.ci
 sdtm.ci
@@ -10937,7 +10930,6 @@ sipcatala.ci
 sipef.ci
 sipefci.ci
 sipf.ci
-sippec.ci
 sippecacademie.ci
 sipra.ci
 sipro.ci
@@ -11719,7 +11711,6 @@ the.ci
 the100.ci
 theagencygroup.ci
 thebeautybar.ci
-thechickenhouse.ci
 thedate.ci
 thefutureisnow.ci
 theguitarlab.ci
@@ -11956,7 +11947,6 @@ tynelacademie.ci
 typescript.ci
 tz.ci
 u-job.ci
-u-see.ci
 u2.ci
 u3.ci
 u5.ci
@@ -12665,7 +12655,6 @@ yv.ci
 yveo.ci
 yves-rocher.ci
 yvesrocher.ci
-yy.ci
 yz.ci
 z2.ci
 zac.ci
