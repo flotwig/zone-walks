@@ -200,6 +200,7 @@ allsorts.audio
 allstargame.audio
 allthatsounds.audio
 allvideo.audio
+ally.audio
 almando.audio
 almastudios.audio
 alpha-theta.audio
@@ -2218,6 +2219,7 @@ klein.audio
 kleinlaut.audio
 kling-freitag.audio
 klipsch.audio
+kniga.audio
 knigi.audio
 knihy.audio
 knit.audio
@@ -2779,7 +2781,6 @@ murgia.audio
 murmur.audio
 muse.audio
 muser.audio
-mush.audio
 music.audio
 music-and-arts.audio
 music-engine.audio
@@ -3426,6 +3427,7 @@ readbook.audio
 reader.audio
 readsound.audio
 ready.audio
+real.audio
 real-time.audio
 realestate.audio
 reality.audio
