@@ -211,6 +211,7 @@ auto.hosting
 autohaus.hosting
 automanaged.hosting
 automate.hosting
+ava.hosting
 avalon.hosting
 avamia.hosting
 away.hosting
@@ -1543,7 +1544,6 @@ mobileapp.hosting
 mobilephone.hosting
 mobilfunk.hosting
 mohr.hosting
-money.hosting
 monitor.hosting
 monmondeamoi.hosting
 monster.hosting
@@ -2661,7 +2661,6 @@ windows.hosting
 windowsvps.hosting
 windowsweb.hosting
 wintermute.hosting
-wired.hosting
 wirlieben.hosting
 wissen.hosting
 without.hosting
