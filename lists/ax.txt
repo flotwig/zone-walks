@@ -22,6 +22,7 @@
 111.ax
 112.ax
 12.ax
+123.ax
 123domain.ax
 13.ax
 1337.ax
@@ -412,7 +413,6 @@ annmade.ax
 annonsnytt.ax
 ansgar.ax
 anthr.ax
-anticlim.ax
 antons.ax
 antonsvanner.ax
 antpick.ax
@@ -864,6 +864,7 @@ charge.ax
 charlie.ax
 charlotte.ax
 chat.ax
+chatgpt.ax
 chax.ax
 check.ax
 chery.ax
@@ -1542,6 +1543,7 @@ gosh.ax
 gottbyskaniner.ax
 gov.ax
 government.ax
+gpt.ax
 gr.ax
 grabandgo.ax
 granbergs.ax
@@ -1565,6 +1567,7 @@ grelsby.ax
 grem.ax
 gretekhne.ax
 gretel.ax
+gridlink.ax
 grillit.ax
 grillmarket.ax
 gringo.ax
@@ -1773,6 +1776,7 @@ hyran.ax
 hyras.ax
 hyrhosclasohlson.ax
 hyris.ax
+hz.ax
 ia.ax
 ib.ax
 ibinder.ax
@@ -1801,7 +1805,6 @@ iherb.ax
 ii.ax
 iip.ax
 ij.ax
-ik.ax
 ikea.ax
 ikh.ax
 ikhtyokalut.ax
@@ -2156,6 +2159,7 @@ kyrkor.ax
 l1.ax
 l33th.ax
 la.ax
+lab.ax
 labambu.ax
 labelled.ax
 labs.ax
@@ -2603,6 +2607,7 @@ nc.ax
 nd.ax
 ne.ax
 neitzel.ax
+neo.ax
 neot.ax
 net.ax
 netflix.ax
@@ -2684,6 +2689,7 @@ nov.ax
 nova.ax
 novar.ax
 novav.ax
+npf.ax
 ns.ax
 nt.ax
 nu.ax
@@ -2866,8 +2872,10 @@ peterlindberg.ax
 pethealthclub.ax
 petra.ax
 pg.ax
+pgsoft.ax
 ph.ax
 phi.ax
+phm.ax
 photos.ax
 phposters.ax
 pi.ax
@@ -3160,6 +3168,7 @@ salt.ax
 saltshop.ax
 saltvik.ax
 saltviksforsamling.ax
+saltvikskommun.ax
 saluhallen.ax
 samba.ax
 samtal.ax
@@ -3448,7 +3457,6 @@ steelfmhjalpen.ax
 stef.ax
 stefan.ax
 stema.ax
-sten.ax
 stenbackakonditori.ax
 stenhuggeri.ax
 stenius.ax
@@ -3506,6 +3514,7 @@ sundbloms.ax
 sundell.ax
 sundkultur.ax
 sundman.ax
+sundsskola.ax
 suninvest.ax
 sunmeks.ax
 sunnan.ax
@@ -4051,7 +4060,6 @@ xn--kl-tr-kra.ax
 xn--klintvgenapartments-lwb.ax
 xn--land-poa.ax
 xn--landbanken-05a.ax
-xn--landboost-42a.ax
 xn--landhotels-05a.ax
 xn--landliving-05a.ax
 xn--landsbanken-w8a.ax
@@ -4122,6 +4130,7 @@ xx.ax
 xxx.ax
 xy.ax
 xylo.ax
+xyz.ax
 xz.ax
 ya.ax
 yachtservice.ax
