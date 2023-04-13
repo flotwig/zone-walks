@@ -475,6 +475,7 @@ cobalt.hosting
 codafish.hosting
 code.hosting
 code5.hosting
+codeme.hosting
 codeninja.hosting
 codesky.hosting
 cogito.hosting
@@ -645,7 +646,6 @@ digitalocean.hosting
 digitalsignage.hosting
 digitalwave.hosting
 dimac.hosting
-directnet.hosting
 directus.hosting
 dis.hosting
 discourse.hosting
@@ -1349,7 +1349,6 @@ ledamoslavueltaal.hosting
 ledger.hosting
 ledglow.hosting
 leftor.hosting
-legion.hosting
 legistics.hosting
 lehemosdadolavueltaal.hosting
 leo.hosting
