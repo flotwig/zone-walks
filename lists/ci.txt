@@ -749,6 +749,7 @@ adw.ci
 ae.ci
 ae2c.ci
 aeci.ci
+aeeci.ci
 aeolus.ci
 aeria.ci
 aeropole.ci
@@ -875,6 +876,7 @@ agenceemploijeunes.ci
 agenceprincipale.ci
 agencerevelation.ci
 agencesdaffairespmepmi.ci
+agencesuncom.ci
 agenceyanda.ci
 agencybar.ci
 agentsaccueilcmu.ci
@@ -1749,6 +1751,7 @@ bbbc.ci
 bbc.ci
 bboxx.ci
 bbsstore.ci
+bc.ci
 bcapdev.ci
 bcas.ci
 bcc.ci
@@ -1899,6 +1902,7 @@ billets.ci
 billon.ci
 billon2025.ci
 bim.ci
+bim-news.ci
 bimafrique.ci
 bimgroup.ci
 bimverse.ci
@@ -2116,6 +2120,7 @@ brassshopivoir.ci
 bravo.ci
 bresil.ci
 bricksci.ci
+bricodeco.ci
 bricolage.ci
 bricoman.ci
 bricomaster.ci
@@ -2321,7 +2326,6 @@ capro.ci
 capsa.ci
 capsarl.ci
 capstore.ci
-car.ci
 carbatci.ci
 carbon.ci
 carbon365.ci
@@ -3589,7 +3593,6 @@ cookielabs.ci
 coop-asi.ci
 coopasag.ci
 coopawebcoop-ca.ci
-coopca-djouman.ci
 coopcan.ci
 cooperpharma.ci
 cooprom.ci
@@ -3911,6 +3914,7 @@ decoratep.ci
 decoration.ci
 decorivoire.ci
 deep.ci
+deepcleaning.ci
 defi.ci
 defiepargne.ci
 defifoot.ci
@@ -4360,6 +4364,7 @@ eaa.ci
 eactes.ci
 eafrihotel.ci
 eagle.ci
+eagleelephantsecuritysarl.ci
 eaglesfinancial.ci
 eajsk.ci
 eam.ci
@@ -5071,6 +5076,7 @@ evtech.ci
 evulpo.ci
 ewa.ci
 ewarren.ci
+ewatch.ci
 exact.ci
 examens-oeeci.ci
 exat.ci
@@ -5640,7 +5646,6 @@ geely.ci
 gees-ci.ci
 geige.ci
 gektechservices.ci
-gelico.ci
 gemaconstruct.ci
 gemaconstuct.ci
 gemasa.ci
@@ -6185,7 +6190,6 @@ hotel-hibiscus.ci
 hotel-montkorhogo.ci
 hotelcarrefour.ci
 hoteldesparlementaires.ci
-hoteldulac.ci
 hotelhanniel.ci
 hotelhibiscus.ci
 hotelhibiscus-abidjan.ci
@@ -6403,7 +6407,6 @@ ilt.ci
 ilux.ci
 im.ci
 ima.ci
-image.ci
 imagen.ci
 imagin-plus.ci
 imagine.ci
@@ -6939,6 +6942,7 @@ jfac.ci
 jg.ci
 jh.ci
 jhbmanc.ci
+jherm.ci
 ji.ci
 jia2022.ci
 jilx.ci
@@ -7321,7 +7325,6 @@ kv.ci
 kwai.ci
 kwayo.ci
 kwinner.ci
-kyame.ci
 kylekrej.ci
 kymoo.ci
 kymservices.ci
@@ -7352,6 +7355,7 @@ laboutiquesarl.ci
 laboxlocale.ci
 laboxselfie.ci
 labrioche.ci
+labtic.ci
 lacasa.ci
 lacase.ci
 lacavedejonas.ci
@@ -7468,6 +7472,7 @@ lde.ci
 ldg.ci
 le.ci
 le-batisseur.ci
+le-dit-vin-abidjan.ci
 le-djassa.ci
 le-grain.ci
 le10decembre.ci
@@ -7887,6 +7892,7 @@ macvs.ci
 macys.ci
 maddis.ci
 madeincotedivoire.ci
+madeingbeke.ci
 madeleinedanielou.ci
 mademoisellem.ci
 madgi.ci
@@ -8710,7 +8716,6 @@ nanouadou.ci
 naos.ci
 nappylocks.ci
 nar.ci
-naragroup.ci
 nasa.ci
 nasco.ci
 nasuba.ci
@@ -8837,7 +8842,6 @@ nhv.ci
 ni.ci
 nic.ci
 nicci.ci
-nienetech.ci
 nieruchomos.ci
 nigt.ci
 nikao.ci
@@ -8969,7 +8973,6 @@ numerique.ci
 numeris.ci
 numerys.ci
 numigi.ci
-nvaulayconstruction.ci
 nvci.ci
 nvm.ci
 nw.ci
@@ -9354,6 +9357,7 @@ oscn.ci
 oseil.ci
 oser.ci
 osezvosdroits.ci
+oshdi.ci
 osicom.ci
 osonslerenouveau.ci
 oss.ci
@@ -9954,7 +9958,6 @@ psndea.ci
 psoles.ci
 pstaci.ci
 psychologuedabie.ci
-ptci.ci
 ptd.ci
 ptua.ci
 pu.ci
@@ -10306,7 +10309,6 @@ rmi.ci
 rmitechnologies.ci
 rmo.ci
 rmo-energyservices.ci
-rms.ci
 rn.ci
 rna.ci
 rnc.ci
@@ -10735,6 +10737,7 @@ sfdx.ci
 sfl.ci
 sfmobile.ci
 sft.ci
+sg-cevoiturage.ci
 sga2e.ci
 sgaexpertise.ci
 sgb.ci
@@ -11039,7 +11042,6 @@ smart-home.ci
 smart-rc.ci
 smart-systems.ci
 smart-technology.ci
-smarta.ci
 smartcar.ci
 smartcity.ci
 smartcity-abidjan.ci
@@ -11791,7 +11793,6 @@ tmsi.ci
 tntsatafrica.ci
 tnv.ci
 to.ci
-toa.ci
 tobee.ci
 toctoctoc.ci
 todo.ci
@@ -12365,6 +12366,7 @@ webit.ci
 webivoirgaz.ci
 weblogy.ci
 webmarketing.ci
+webmedias.ci
 webplus.ci
 webpro.ci
 webschool.ci
