@@ -4599,8 +4599,6 @@ dxi.gdn
 dxj.gdn
 dxl.gdn
 dxo.gdn
-dxtd.gdn
-dxtd1.gdn
 dxu.gdn
 dxw.gdn
 dxx.gdn
@@ -4721,6 +4719,8 @@ echosoundinginstruments.gdn
 ecig.gdn
 ecigs.gdn
 ecm.gdn
+ecn-broker.gdn
+ecnbroker.gdn
 ecollege.gdn
 ecommerce.gdn
 economical.gdn
@@ -5818,7 +5818,6 @@ garagedoors.gdn
 garbagedisposal.gdn
 gardener.gdn
 gardenfurniture.gdn
-gardens.gdn
 gari.gdn
 garland.gdn
 garman.gdn
@@ -8300,7 +8299,6 @@ mmkn.gdn
 mmm.gdn
 mmorpg.gdn
 mn.gdn
-mn82.gdn
 mnbv.gdn
 mnema.gdn
 mnemata.gdn
