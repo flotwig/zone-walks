@@ -533,7 +533,6 @@ axer.ax
 axfinans.ax
 axhiss.ax
 axis.ax
-axj.ax
 axla.ax
 axla-logistics.ax
 axoft.ax
@@ -2910,6 +2909,7 @@ playmgmsport.ax
 playmgmsports.ax
 pleijel.ax
 pm.ax
+pmh.ax
 pohjolasairaala.ax
 pokal.ax
 poker.ax
@@ -3165,7 +3165,6 @@ salong16.ax
 salongdelila.ax
 salongekoforia.ax
 salongen.ax
-salonlocky.ax
 salonmiri.ax
 salt.ax
 saltshop.ax
@@ -3174,7 +3173,6 @@ saltviksforsamling.ax
 saltvikskommun.ax
 saluhallen.ax
 samba.ax
-samtal.ax
 samtrans.ax
 sanctolof.ax
 sand.ax
