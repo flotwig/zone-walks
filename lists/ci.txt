@@ -1,5 +1,4 @@
 00.ci
-000.ci
 002.ci
 00225.ci
 01.ci
@@ -167,6 +166,7 @@
 2kn.ci
 2l.ci
 2m.ci
+2mgc.ci
 2mi.ci
 2muta.ci
 2n.ci
@@ -555,7 +555,6 @@ a2ztransit.ci
 a3.ci
 a8.ci
 aa.ci
-aac.ci
 aandc.ci
 aaph.ci
 aastudios.ci
@@ -1048,7 +1047,6 @@ alfourquan.ci
 algest.ci
 alibaba.ci
 aliexpress.ci
-alimak-medical.ci
 alison.ci
 aljamilevents.ci
 aljawad.ci
@@ -1814,7 +1812,6 @@ benicci.ci
 benicci-immobilier.ci
 benouattara.ci
 beone.ci
-beplus.ci
 beraka.ci
 berekyah.ci
 bergec.ci
@@ -2082,6 +2079,7 @@ boulanger.ci
 bourse.ci
 bourseagricole.ci
 bouta.ci
+boutique-premium.ci
 boutiquedefoot.ci
 boutiquepaysanne.ci
 boutiquepc.ci
@@ -2154,6 +2152,7 @@ btp.ci
 btpengsarl.ci
 btpex.ci
 btpmat.ci
+btse.ci
 btv.ci
 btwin.ci
 bu.ci
@@ -2410,7 +2409,6 @@ cca.ci
 cca-consulting.ci
 ccacy.ci
 ccapc.ci
-ccaz.ci
 ccb.ci
 ccc.ci
 cccciue.ci
@@ -2423,6 +2421,7 @@ ccici.ci
 ccif.ci
 cclbcft.ci
 ccm.ci
+ccp.ci
 ccrm.ci
 cd.ci
 cd-avocat.ci
@@ -2702,7 +2701,6 @@ cipm.ci
 cipme.ci
 ciprel.ci
 cipremci.ci
-cips.ci
 cirad.ci
 circet.ci
 circle.ci
@@ -3724,6 +3722,7 @@ croua2.ci
 crouabidjan.ci
 crouabidjan1.ci
 croubouake.ci
+croudaloa.ci
 croudeman.ci
 crowe.ci
 crporo.ci
@@ -4357,6 +4356,8 @@ e-tourisme.ci
 e-variete.ci
 e-voyage.ci
 e2t.ci
+e3.ci
+e3bat.ci
 ea.ci
 eaa.ci
 eactes.ci
@@ -4959,6 +4960,7 @@ esri.ci
 essencek.ci
 essentielcom.ci
 essilor.ci
+esst.ci
 esswell.ci
 estam.ci
 estb.ci
@@ -4983,7 +4985,6 @@ etel-power.ci
 eterrain.ci
 etfp.ci
 etg.ci
-eth.ci
 ethereum.ci
 ethica-group.ci
 ethicalfinance.ci
@@ -5692,7 +5693,6 @@ gesprod.ci
 gest-imm.ci
 gestafric.ci
 gestion-projets.ci
-gestionauto.ci
 gestionisa.ci
 gestmag.ci
 gestoci.ci
@@ -5788,7 +5788,6 @@ gmhdr.ci
 gmp.ci
 gmpp.ci
 gms.ci
-gmsi.ci
 gmsoft.ci
 gn.ci
 gna.ci
@@ -5931,7 +5930,6 @@ groupeitermi.ci
 groupeites.ci
 groupekibio.ci
 groupemedimage.ci
-groupemodulo.ci
 groupepierreangulaire.ci
 groupeprosuma.ci
 grouperostanislg.ci
@@ -7094,7 +7092,6 @@ kantis.ci
 kanvoo.ci
 kaod.ci
 kap-expertise.ci
-kapachiva.ci
 kapagrop.ci
 kapex.ci
 karacom.ci
@@ -7214,7 +7211,6 @@ kk.ci
 kkbox.ci
 kkcsarl.ci
 kl.ci
-kla-construction.ci
 klaconstruction.ci
 klaptonafrica.ci
 klaris-de-suisse.ci
@@ -7433,6 +7429,7 @@ laroche-posay.ci
 larocheposay.ci
 laroseblanche.ci
 larotisserie.ci
+lasfab.ci
 lasvegas.ci
 latek.ci
 latoutcoeur.ci
@@ -8053,6 +8050,7 @@ marathon.ci
 marcayekoe.ci
 marchandsdereve.ci
 marcheafrica.ci
+marchedigital.ci
 marcheivoirien.ci
 marchespublics.ci
 marcory.ci
@@ -8202,6 +8200,7 @@ medico.ci
 medicpharma.ci
 medimage.ci
 medinov.ci
+mediproxpert.ci
 mediumx.ci
 medivoire.ci
 medpharm.ci
@@ -8448,6 +8447,7 @@ monadressepostale.ci
 monallie.ci
 monantivirus.ci
 monartisan.ci
+monassistantadministratif.ci
 monassurance.ci
 monattieke.ci
 monautoecole.ci
@@ -9204,6 +9204,7 @@ openmedia.ci
 openmind.ci
 openmoise.ci
 openprobo.ci
+openstreetmap.ci
 opentechnologies.ci
 opentic.ci
 opes.ci
@@ -9280,6 +9281,7 @@ oranginawomenaward.ci
 orao.ci
 orbion.ci
 orca.ci
+orditic.ci
 ordredesavocats.ci
 ordremedecins.ci
 ordrepharmacien.ci
@@ -9431,7 +9433,6 @@ pagfic.ci
 pagim.ci
 pai.ci
 paiefacile.ci
-painbro.ci
 paincondiment225.ci
 pakpharma.ci
 palaisdelabeaute.ci
@@ -9616,6 +9617,7 @@ pharmacieduchateau.ci
 pharmaciedujubile.ci
 pharmacieenligne.ci
 pharmaciejubile.ci
+pharmacien.ci
 pharmacies.ci
 pharmaciesainteagathe.ci
 pharmacy.ci
@@ -9968,6 +9970,7 @@ pu.ci
 pua-ci.ci
 pub.ci
 publieditions.ci
+publika.ci
 publiticket.ci
 puissance-divine.ci
 pulse.ci
@@ -10242,7 +10245,6 @@ revagri.ci
 reve.ci
 revealschool.ci
 reveiloil.ci
-revelation.ci
 reverselinkage.ci
 reveye.ci
 revision.ci
@@ -10625,7 +10627,6 @@ secureit.ci
 securimax.ci
 securite.ci
 securiteelectronique.ci
-security.ci
 securnet.ci
 secusigne.ci
 secutic.ci
@@ -10903,6 +10904,7 @@ sii.ci
 siin.ci
 sika-finance.ci
 sikafinance.ci
+sikafrik.ci
 sikany.ci
 sikka.ci
 silam.ci
@@ -11468,7 +11470,6 @@ suc.ci
 sucaf.ci
 success-event.ci
 success-finance.ci
-succesteam.ci
 sucden.ci
 sucrivoire.ci
 sucso.ci
@@ -11686,6 +11687,7 @@ terrescotedivoire.ci
 terresdivoire.ci
 terresdunord.ci
 terresoleil.ci
+terrivoir.ci
 terrivoire.ci
 test.ci
 testbedipv6.ci
@@ -12414,7 +12416,6 @@ who.ci
 whois.ci
 whoswho.ci
 why.ci
-wi.ci
 wia.ci
 wic.ci
 wicsafrica.ci
@@ -12582,6 +12583,7 @@ yedess-construction.ci
 yedjap.ci
 yego.ci
 yelenba.ci
+yeli.ci
 yellior.ci
 yellovas.ci
 yem.ci
