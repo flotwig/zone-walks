@@ -702,6 +702,7 @@ alto.kg
 altospos.kg
 altria.kg
 altyn.kg
+altyn-azyk.kg
 altynbox.kg
 altynbulak.kg
 altyndoor.kg
@@ -822,6 +823,7 @@ ansari.kg
 antalyaplus.kg
 antares.kg
 antarex.kg
+antcar.kg
 antey.kg
 anti-klop.kg
 antiage.kg
@@ -1108,6 +1110,7 @@ asplus.kg
 assanabil.kg
 assistent.kg
 assorti.kg
+astellaspharma.kg
 aster.kg
 astergroup.kg
 astomin.kg
@@ -2163,6 +2166,7 @@ canva.kg
 caoc.kg
 capital.kg
 capital-group.kg
+capital-safe.kg
 capitalbank.kg
 capitalmotors.kg
 capitalplus.kg
@@ -2295,6 +2299,7 @@ championlubes.kg
 changan.kg
 changanauto.kg
 change.kg
+chapan.kg
 charba.kg
 charity.kg
 chart.kg
@@ -2680,6 +2685,7 @@ datarecovery.kg
 datatime.kg
 datkagrand.kg
 datkai.kg
+datkakurulush.kg
 davhasokuluk.kg
 davidmaks.kg
 davidoff-cigarettes.kg
@@ -4103,8 +4109,6 @@ gergert.kg
 gerik-plus.kg
 gerkules.kg
 germany.kg
-geroi.kg
-geront.kg
 gettravel.kg
 getvisa.kg
 gex.kg
@@ -4159,6 +4163,7 @@ glo.kg
 global.kg
 global-balance.kg
 global-ex.kg
+global-pharm.kg
 global-print.kg
 global-rivers.kg
 globalaudit.kg
@@ -4397,6 +4402,7 @@ hair.kg
 hairestart.kg
 hairun.kg
 haktan.kg
+haktan-pack.kg
 halal.kg
 halalcenter.kg
 halalindustry.kg
@@ -4496,6 +4502,7 @@ hibeta.kg
 hidayat.kg
 hidro-mek.kg
 hidromek.kg
+hifly.kg
 highgrade.kg
 highland.kg
 highpoint.kg
@@ -4807,6 +4814,7 @@ imei.kg
 imenu.kg
 imex.kg
 imexfarm.kg
+imexstore.kg
 imextl.kg
 imey.kg
 immergas.kg
@@ -5523,6 +5531,7 @@ kep.kg
 kerama-marazzi.kg
 keramika.kg
 keramin.kg
+kerasys.kg
 kerbentravel.kg
 kereez.kg
 kerege.kg
@@ -5816,6 +5825,7 @@ krisha.kg
 krjc.kg
 krka.kg
 krl.kg
+krm.kg
 krma.kg
 krocus.kg
 kroha.kg
@@ -6196,6 +6206,7 @@ lisei94.kg
 list.kg
 listerine.kg
 listovki.kg
+lit.kg
 lite.kg
 litech.kg
 literatura.kg
@@ -6405,6 +6416,7 @@ man.kg
 manas.kg
 manas-discovery.kg
 manasacademy.kg
+manasordo.kg
 manasrma.kg
 manastv.kg
 manchester.kg
@@ -7416,6 +7428,7 @@ ntrillion.kg
 nts.kg
 nuby.kg
 nuclear.kg
+nukura.kg
 nukurasert.kg
 null1.kg
 null2.kg
@@ -7974,7 +7987,6 @@ pfee.kg
 pfizer.kg
 pft.kg
 pg.kg
-pgsoft.kg
 phaeton.kg
 pharm.kg
 pharmacademy.kg
@@ -8654,6 +8666,7 @@ riberg.kg
 rich.kg
 richtown.kg
 rider.kg
+rieker.kg
 rielta.kg
 rifar.kg
 riha.kg
@@ -8966,6 +8979,7 @@ schueco.kg
 schweppes.kg
 science-journal.kg
 scoring.kg
+scorista.kg
 screen.kg
 sd.kg
 sdbg.kg
@@ -9663,6 +9677,7 @@ supershina.kg
 superslots.kg
 supertaxi.kg
 supertv.kg
+supplier.kg
 supply.kg
 support.kg
 support365.kg
@@ -9844,6 +9859,7 @@ tazasuu.kg
 tazhibay.kg
 tbc.kg
 tbcenter.kg
+tbi.kg
 tc.kg
 tcd.kg
 tcenter.kg
@@ -10465,6 +10481,7 @@ ummadesign.kg
 ummamag.kg
 ummapotolki.kg
 ummotors.kg
+umnyashka.kg
 umra.kg
 umrah.kg
 umraservice.kg
@@ -10797,6 +10814,7 @@ vodaphone.kg
 voelkl.kg
 voevoda.kg
 vof.kg
+vogt.kg
 vogue.kg
 voice.kg
 voip.kg
@@ -11003,7 +11021,6 @@ wordpress.kg
 work.kg
 worklab.kg
 workland.kg
-works.kg
 workshop.kg
 worktime.kg
 worktoday.kg
