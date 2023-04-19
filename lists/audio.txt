@@ -905,7 +905,6 @@ codecs.audio
 codycomposer.audio
 coherent.audio
 cohort.audio
-coin.audio
 coloradorockies.audio
 colorcord.audio
 combustion.audio
@@ -1336,6 +1335,7 @@ elevation.audio
 eleven.audio
 elf.audio
 elhilo.audio
+elias.audio
 elitecore.audio
 elk.audio
 elliot.audio
@@ -1721,6 +1721,7 @@ gorilla.audio
 gospel.audio
 gotham.audio
 gpb.audio
+gpt.audio
 gpu.audio
 graffiti.audio
 grant.audio
@@ -4188,6 +4189,7 @@ thanhtung.audio
 the100.audio
 thecommunistpig.audio
 thedk.audio
+thedog.audio
 thefairplay.audio
 thefobcast.audio
 theforgeproject.audio
