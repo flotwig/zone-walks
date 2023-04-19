@@ -1019,7 +1019,9 @@ blackfriday.cy
 blackjack.cy
 blackrose-sunglasses.cy
 blackrosesunglasses.cy
+blackstone.cy
 blackstuff.cy
+blackwater.cy
 blauberg.cy
 blauberg-ventilation.cy
 blauberg-ventilatoren.cy
@@ -1248,6 +1250,7 @@ cait.cy
 cake.cy
 cakemeup.cy
 calc.cy
+calculator.cy
 calendar.cy
 caliber.cy
 call.cy
@@ -1421,6 +1424,7 @@ centaurhealth.cy
 centaurmed.cy
 centaurs.cy
 centerdirect.cy
+centiva.cy
 centralbank.cy
 centralclub.cy
 centralvacuum.cy
@@ -1721,6 +1725,7 @@ copybet.cy
 coral.cy
 coral-bay.cy
 coralbay.cy
+coralbayclinic.cy
 coralcavemedia.cy
 corbelo.cy
 core.cy
@@ -2191,6 +2196,7 @@ digitalage.cy
 digitalagency.cy
 digitalapps.cy
 digitalbanking.cy
+digitaldata.cy
 digitaldentalcare.cy
 digitalforensics.cy
 digitalforms.cy
@@ -2425,6 +2431,7 @@ earthworks.cy
 east.cy
 east101.cy
 easy.cy
+easy-pharmacy.cy
 easydent.cy
 easydish.cy
 easyidd.cy
@@ -2432,6 +2439,7 @@ easyinsurance.cy
 easyinvoice.cy
 easylogic.cy
 easypay.cy
+easypharmacy.cy
 easypos.cy
 easyproperty.cy
 easystitch.cy
@@ -3602,6 +3610,7 @@ hao.cy
 happy.cy
 haralas.cy
 haravgi.cy
+harbourmedical.cy
 harbourpub.cy
 hardwarex.cy
 haris.cy
@@ -3625,6 +3634,7 @@ hauson.cy
 hauwaerts.cy
 hayu.cy
 hba.cy
+hcp.cy
 hdi.cy
 hdinsurance.cy
 healing.cy
@@ -3658,6 +3668,7 @@ helleniqenergy.cy
 hellim.cy
 hello.cy
 hellorayo.cy
+hellowork.cy
 help.cy
 helpdesk.cy
 helps.cy
@@ -5721,6 +5732,7 @@ odia.cy
 odintsov.cy
 odontiatros.cy
 odoo.cy
+odotechniki.cy
 odysseuspublishing.cy
 odyssey.cy
 odysseycoffee.cy
@@ -5740,6 +5752,7 @@ offitex.cy
 offroad.cy
 offsite.cy
 ogo.cy
+ohhira.cy
 ohlinscyprus.cy
 ohmvehicles.cy
 ohmydog.cy
@@ -7840,6 +7853,7 @@ tmec.cy
 tmh.cy
 tmobile.cy
 tnr.cy
+tns.cy
 toastedweb.cy
 tobacco.cy
 today.cy
@@ -7985,11 +7999,13 @@ truwiser.cy
 trw.cy
 try.cy
 tryfon.cy
+tshirtprint.cy
 tsielepis.cy
 tsiolakkihomes.cy
 tsioutis.cy
 tsokel.cy
 tsoukkas.cy
+tsp.cy
 ttsacyprus.cy
 tube.cy
 tudor.cy
@@ -8490,7 +8506,6 @@ worldgift.cy
 worldlinesix.cy
 worldofescapes.cy
 worldproperty.cy
-wornonce.cy
 worxsafe.cy
 wow365.cy
 wowwoman.cy
