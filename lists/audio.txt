@@ -1481,7 +1481,6 @@ feeling.audio
 feisty-dog.audio
 feldenkrais.audio
 felix.audio
-fenix.audio
 fenton.audio
 feri.audio
 fermax.audio
@@ -1771,6 +1770,7 @@ hafabra.audio
 hafler.audio
 halcyon.audio
 halftone.audio
+hallow.audio
 hamm.audio
 handcrafted.audio
 handys.audio
@@ -1914,6 +1914,8 @@ hubcast.audio
 hubspot.audio
 hues.audio
 huggins.audio
+human-made.audio
+humanmade.audio
 humanmastering.audio
 humansandcomputers.audio
 humble.audio
@@ -2081,7 +2083,6 @@ javelin.audio
 jbl.audio
 jeffmills.audio
 jensmueller.audio
-jeremyallred.audio
 jeremycorbett.audio
 jeremyreid.audio
 jeromy.audio
@@ -2524,7 +2525,6 @@ masslevel.audio
 masstamilan.audio
 mastering.audio
 masterlab.audio
-masterpiece.audio
 matrix.audio
 matt.audio
 mattah.audio
@@ -2917,7 +2917,6 @@ no-nonsense.audio
 noads.audio
 noah.audio
 noble.audio
-nockitaliaradio.audio
 nocturne.audio
 node.audio
 nodsic.audio
@@ -3544,6 +3543,7 @@ rollsroyce.audio
 rolly.audio
 romain.audio
 ronan.audio
+ronin.audio
 ronlevy.audio
 rooftop.audio
 rook.audio
@@ -3564,6 +3564,7 @@ rs237.audio
 rss.audio
 rsvp.audio
 ruark.audio
+rubin.audio
 rumble.audio
 rumiandsir.audio
 rumiandsircarter.audio
@@ -4433,7 +4434,6 @@ valves.audio
 vanbrienen.audio
 vancouver.audio
 vandersluis.audio
-vandervaart.audio
 vanveelen.audio
 varaprakash.audio
 variablej.audio
@@ -4656,6 +4656,7 @@ wwbw.audio
 wyrd.audio
 x.audio
 x-series.audio
+xact.audio
 xav.audio
 xbox.audio
 xboxmusic.audio
@@ -4700,6 +4701,7 @@ youtalk.audio
 youtube.audio
 youtune.audio
 youversion.audio
+ysf.audio
 ysl.audio
 yvessaintlaurent.audio
 zach.audio
