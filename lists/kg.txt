@@ -70,6 +70,7 @@
 21e-3.kg
 22.kg
 220.kg
+220v.kg
 220volt.kg
 23.kg
 24.kg
@@ -430,6 +431,7 @@ airkg.kg
 airkyrgyzstan.kg
 airline.kg
 airmanas.kg
+airmatic.kg
 airpik.kg
 airport.kg
 airproducts.kg
@@ -550,6 +552,7 @@ alana-show.kg
 alarm.kg
 alata.kg
 alatash.kg
+alato.kg
 alatoo-tg.kg
 alatoobuilding.kg
 alatooinvest.kg
@@ -773,6 +776,7 @@ amirmed.kg
 amisratrade.kg
 ammann-group.kg
 amocrm.kg
+amort.kg
 amour.kg
 amp.kg
 amrella.kg
@@ -1041,6 +1045,7 @@ asecourier.kg
 asfarma.kg
 asfinance.kg
 asg.kg
+asgard.kg
 asharmenenplus.kg
 asherb.kg
 ashu.kg
@@ -1421,7 +1426,6 @@ babyssimo.kg
 bac.kg
 baden.kg
 badge.kg
-badk.kg
 badoo.kg
 baek.kg
 bagira.kg
@@ -1446,6 +1450,7 @@ baiterek.kg
 baitushum.kg
 bak.kg
 bakai.kg
+bakaiata.kg
 bakaibank.kg
 bakertilly.kg
 bakr.kg
@@ -1543,6 +1548,7 @@ baybet.kg
 bayce.kg
 bayer.kg
 baykar.kg
+baymak.kg
 baysom.kg
 baystore.kg
 baytalaa.kg
@@ -1569,6 +1575,7 @@ bbs.kg
 bbu.kg
 bbva.kg
 bbwork.kg
+bbz.kg
 bc.kg
 bc-aurora.kg
 bc-avangard.kg
@@ -1660,7 +1667,6 @@ besh-kungei.kg
 beshikjon.kg
 besmart.kg
 besoft.kg
-besplatno.kg
 bespoke.kg
 besser.kg
 best.kg
@@ -1771,6 +1777,7 @@ bimar.kg
 bimarket.kg
 bimarkettech.kg
 bimed.kg
+bimi.kg
 bimi-edu.kg
 binance.kg
 binarka.kg
@@ -1780,7 +1787,6 @@ bing.kg
 bintech.kg
 binteq-group.kg
 bio.kg
-bio-market.kg
 bio-oil.kg
 bioderma.kg
 biogena.kg
@@ -1821,6 +1827,7 @@ bishkek-expo.kg
 bishkek-management-consalting.kg
 bishkek-market.kg
 bishkek-temir.kg
+bishkek-travel.kg
 bishkek24.kg
 bishkekart.kg
 bishkekcatering.kg
@@ -2498,6 +2505,7 @@ conference.kg
 confidence.kg
 connect.kg
 connecta.kg
+conokservice.kg
 consensus.kg
 conservatory.kg
 consigliere.kg
@@ -3068,6 +3076,7 @@ e-market.kg
 e-meria.kg
 e-mix.kg
 e-motion24.kg
+e-oku.kg
 e-sot.kg
 e-trade.kg
 e-zapis.kg
@@ -3343,6 +3352,7 @@ emag.kg
 email.kg
 emakom.kg
 emark.kg
+emark-group.kg
 emark-stroy.kg
 emark-turpanstroy.kg
 emarkgroup.kg
@@ -3430,6 +3440,7 @@ eppendorf.kg
 epsilon.kg
 epson.kg
 era.kg
+erabeton.kg
 eraconsulting.kg
 eragroup.kg
 erai.kg
@@ -3552,6 +3563,7 @@ evakuator.kg
 evakuator23.kg
 evakuator24.kg
 evakuatorkg.kg
+event.kg
 eventdeluxe.kg
 eventica.kg
 eventim.kg
@@ -4373,6 +4385,7 @@ gubki.kg
 gucci.kg
 guccivault.kg
 gudini.kg
+guestservice.kg
 gug.kg
 gul.kg
 gul-med.kg
@@ -5230,6 +5243,7 @@ jashylkalem.kg
 jasmin.kg
 jasmine.kg
 jasmu.kg
+jasu.kg
 jasuni.kg
 jatakana.kg
 java.kg
@@ -5410,7 +5424,6 @@ kapsikam.kg
 kara.kg
 kara-alma.kg
 kara-bak.kg
-kara-balta.kg
 kara-bermet.kg
 kara-bulak.kg
 kara-guz.kg
@@ -5456,6 +5469,7 @@ kassa.kg
 kassa24.kg
 kassir.kg
 kassy.kg
+kastom.kg
 kat.kg
 katalog.kg
 katarakta.kg
@@ -5969,6 +5983,7 @@ kyrgyztest.kg
 kyrgyztextile.kg
 kyrgyztoday.kg
 kyrgyztranstorg.kg
+kyrgyztrust.kg
 kyrgyztuusu.kg
 kyrgyzuna.kg
 kyrgyzupack.kg
@@ -6016,6 +6031,7 @@ laminam.kg
 laminat.kg
 lamoda.kg
 lamoena.kg
+lance.kg
 lanco.kg
 land-rover.kg
 landofrivers.kg
@@ -7187,6 +7203,7 @@ nature.kg
 naturel.kg
 naturepro.kg
 naturerepublic.kg
+naturesbounty.kg
 naturfarm.kg
 natv.kg
 nauka.kg
@@ -7778,6 +7795,7 @@ ospp.kg
 osram.kg
 osse.kg
 osseoptika.kg
+osteobiflex.kg
 osteopat.kg
 ostin.kg
 ostor.kg
@@ -8089,6 +8107,7 @@ plagiat.kg
 planbaby.kg
 planeta.kg
 planeta-sh.kg
+planetadoors.kg
 planetagsm.kg
 plant.kg
 plant-biotech.kg
@@ -8935,6 +8954,7 @@ saresep.kg
 sarkech.kg
 sartbaev.kg
 sary-mogol.kg
+sarya.kg
 saryozon.kg
 sasa.kg
 sasa-plastic.kg
@@ -8950,8 +8970,10 @@ saturn.kg
 sauber.kg
 sauna.kg
 sava.kg
+sawwa.kg
 sayakat.kg
 sayakat-tour.kg
+sayasat.kg
 sb.kg
 sbc.kg
 sber.kg
@@ -9384,6 +9406,7 @@ sokolov.kg
 sol.kg
 solana.kg
 solar.kg
+solaris.kg
 solartravel.kg
 solbi.kg
 solemar.kg
@@ -9733,6 +9756,7 @@ sxodim.kg
 syfy.kg
 symantec.kg
 synak.kg
+syndicate.kg
 synergy.kg
 synergygroup.kg
 synergyonline.kg
@@ -10242,6 +10266,7 @@ tradecorp.kg
 tradegof.kg
 trademachines.kg
 tradernet.kg
+tradestroy.kg
 tradeunion-ed.kg
 trading.kg
 tradingprominvest.kg
@@ -10254,6 +10279,7 @@ trane.kg
 transasia.kg
 transavia.kg
 transbusiness.kg
+transcaravan.kg
 transcargo.kg
 transfer.kg
 transfer-factor.kg
@@ -10459,6 +10485,7 @@ ukrpersonal.kg
 ukschuy.kg
 uksus.kg
 uku.kg
+ukuk.kg
 ulak.kg
 ulan-cholponbaev.kg
 ulay.kg
@@ -10855,6 +10882,7 @@ vpn.kg
 vr.kg
 vremyauborki.kg
 vsb.kg
+vsbrothers.kg
 vse.kg
 vsedlyapola.kg
 vsegazon.kg
