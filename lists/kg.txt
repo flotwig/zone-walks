@@ -48,7 +48,6 @@
 1c-integra.kg
 1c-kato.kg
 1c-list.kg
-1capteka.kg
 1ckato.kg
 1class.kg
 1fit.kg
@@ -96,6 +95,7 @@
 360.kg
 365farmnet.kg
 39.kg
+3917.kg
 3bena.kg
 3d.kg
 3dbishkek.kg
@@ -384,6 +384,7 @@ ahava.kg
 ahm.kg
 ai.kg
 ai-53375-kg.kg
+ai-jol.kg
 ai-ways.kg
 aiai.kg
 aiba.kg
@@ -575,7 +576,6 @@ aldanba.kg
 aldey.kg
 aldo.kg
 aldoshoes.kg
-ale.kg
 alef.kg
 aleksandrovka-aimak.kg
 alex.kg
@@ -1010,7 +1010,6 @@ article9.kg
 artistry.kg
 artlux.kg
 artmax.kg
-artmodern.kg
 artmuseum.kg
 arto.kg
 artpro.kg
@@ -1026,6 +1025,7 @@ aryshinvest.kg
 aryz.kg
 arz.kg
 arzan.kg
+arzanall.kg
 arzanapteka.kg
 arzanmag.kg
 arzanosh.kg
@@ -2940,6 +2940,7 @@ dogovor.kg
 dogtas.kg
 doinggood.kg
 dokadveri.kg
+dolbor-stroy.kg
 dolcevita.kg
 dolf-man.kg
 dolinka.kg
@@ -3173,7 +3174,6 @@ ecotour.kg
 ecotrek.kg
 ecourses.kg
 ecovanna.kg
-ecovannalux.kg
 ecowall.kg
 ecpostavki.kg
 ecv.kg
@@ -3623,6 +3623,7 @@ export.kg
 export-control.kg
 export-import.kg
 exportcontrol.kg
+expotrade.kg
 express.kg
 express-lombard.kg
 expresscargo.kg
@@ -3982,6 +3983,7 @@ ftx.kg
 fujitsu.kg
 fulfillment.kg
 fulfillmentleader.kg
+fulfilment.kg
 fullservice.kg
 fund-alliance-altyn.kg
 fundamental.kg
@@ -4010,6 +4012,7 @@ gabbtrade.kg
 gadalca-roksana.kg
 gadalka.kg
 gadget.kg
+gagarin.kg
 gagsmsu.kg
 galagroup.kg
 galan.kg
@@ -4262,7 +4265,6 @@ gorenje.kg
 gorespdigihaler.kg
 gorillagym.kg
 gorkenesh.kg
-gorod.kg
 gorodissky.kg
 gorodmasterov.kg
 gos.kg
@@ -4877,6 +4879,7 @@ indo.kg
 industry.kg
 inec.kg
 inecon.kg
+inerto.kg
 inesse.kg
 inet.kg
 inexport.kg
@@ -5979,6 +5982,7 @@ kyrgyzpost.kg
 kyrgyzprokat.kg
 kyrgyzstan.kg
 kyrgyzstantravel.kg
+kyrgyztek.kg
 kyrgyztest.kg
 kyrgyztextile.kg
 kyrgyztoday.kg
@@ -6414,6 +6418,7 @@ maksat.kg
 maksigroup.kg
 mal.kg
 malbazar.kg
+malc.kg
 malina.kg
 malinafood.kg
 malish.kg
@@ -6497,7 +6502,6 @@ master.kg
 master-bishkek.kg
 master-frost.kg
 master-kamen.kg
-master-krovlya.kg
 master-mebel.kg
 master-vann.kg
 mastera.kg
@@ -6794,6 +6798,7 @@ mg.kg
 mgc.kg
 mgt.kg
 mhi.kg
+mhtr.kg
 mi.kg
 mi-shop.kg
 mia.kg
@@ -6908,6 +6913,7 @@ mobiletv.kg
 mobilnik.kg
 mobimarket.kg
 mobiplus.kg
+mobis.kg
 mobitex.kg
 moccona.kg
 moda.kg
@@ -7549,6 +7555,7 @@ ogurchik.kg
 ohb.kg
 oho.kg
 ohrana.kg
+oikos-paint.kg
 oil.kg
 oils.kg
 oimo.kg
@@ -8009,6 +8016,7 @@ phaeton.kg
 pharm.kg
 pharmacademy.kg
 pharmacy.kg
+pharmimpex.kg
 pharmtrade.kg
 pharmunion.kg
 pharmznanie.kg
@@ -8944,6 +8952,7 @@ sapat-bruschatka.kg
 sapat-global.kg
 sapat-test.kg
 sapatasiatrade.kg
+sapatbilim.kg
 sapatdom.kg
 sapatlab.kg
 sapremo.kg
@@ -9027,6 +9036,7 @@ see.kg
 seebauer.kg
 sei.kg
 seico.kg
+seidikum.kg
 seismo.kg
 selfy3d.kg
 selicosm.kg
@@ -9534,6 +9544,7 @@ stalbekkupeshev.kg
 stalinit.kg
 stalker.kg
 stalkerdc.kg
+stalkon.kg
 stalmetural.kg
 stamp.kg
 stamps.kg
@@ -9726,7 +9737,6 @@ suus.kg
 suusamyr.kg
 suyor.kg
 suzak.kg
-suzak-rga.kg
 svadba.kg
 svarka.kg
 svarog.kg
@@ -11162,6 +11172,7 @@ yurievka-aimak.kg
 yurist.kg
 yurkaganat.kg
 yurta.kg
+yurtcampalay.kg
 yurtglamping.kg
 yuva.kg
 yves-rocher.kg
@@ -11266,6 +11277,7 @@ zombie3.kg
 zoo.kg
 zoodmall.kg
 zoom.kg
+zoomag.kg
 zoomlion.kg
 zor.kg
 zortv.kg
