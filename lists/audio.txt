@@ -140,7 +140,6 @@ aidan.audio
 aifc.audio
 aiia.audio
 aim.audio
-aio.audio
 airadio.audio
 airborne.audio
 aircore.audio
@@ -980,6 +979,7 @@ crystarhythm.audio
 csport.audio
 csstt.audio
 ctlab.audio
+ctrl.audio
 cubble.audio
 cubeatz.audio
 cubix.audio
