@@ -69,6 +69,7 @@
 21e-3.kg
 22.kg
 220.kg
+220city.kg
 220v.kg
 220volt.kg
 23.kg
@@ -258,6 +259,7 @@ activedesign.kg
 activegroup.kg
 activity.kg
 ad.kg
+ada.kg
 adabiyat.kg
 adal.kg
 adal-sooda.kg
@@ -524,6 +526,7 @@ aksuu.kg
 aksy.kg
 aktalaa.kg
 aktash.kg
+aktehnolodgy.kg
 aktek.kg
 aktilek.kg
 akun.kg
@@ -1065,14 +1068,12 @@ asiagroup.kg
 asiahotel.kg
 asiainfo.kg
 asiainvest.kg
-asiajet.kg
 asialliance.kg
 asiamall.kg
 asiamotors.kg
 asianalytics.kg
 asianmountains.kg
 asiapayment.kg
-asiaplus.kg
 asiapress.kg
 asiaretail.kg
 asiasat.kg
@@ -1187,7 +1188,6 @@ ats-group.kg
 atsgroup.kg
 att.kg
 attila.kg
-attrade.kg
 au.kg
 auca.kg
 aucaschool.kg
@@ -2464,7 +2464,6 @@ cocoon.kg
 code.kg
 coderbooks.kg
 codeum.kg
-coexsyrup.kg
 coffee.kg
 coffeeboom.kg
 coffeelover.kg
@@ -2509,6 +2508,7 @@ concert.kg
 condair.kg
 conference.kg
 confidence.kg
+conmodum.kg
 connect.kg
 connecta.kg
 conokservice.kg
@@ -2733,7 +2733,6 @@ debet.kg
 debra.kg
 debtholding.kg
 debtholdingmedia.kg
-debut.kg
 decathlon.kg
 decom.kg
 decor.kg
@@ -3205,6 +3204,7 @@ eduordo.kg
 edupress.kg
 eduroam.kg
 edus.kg
+eduviso.kg
 edwards.kg
 ee.kg
 eegroup.kg
@@ -3306,6 +3306,7 @@ elife.kg
 elim.kg
 elimbar.kg
 elita.kg
+elitaplus.kg
 elite.kg
 elite-bruschatka.kg
 elite-house.kg
@@ -3778,6 +3779,7 @@ findir.kg
 findo.kg
 findostavka.kg
 finestra.kg
+finex.kg
 finipay.kg
 finjust.kg
 finkmebel.kg
@@ -4301,6 +4303,7 @@ grajdanstvo.kg
 grammidin.kg
 grancem.kg
 grand.kg
+grand-atmos.kg
 grand-electronics.kg
 grand-gector.kg
 grandavto.kg
@@ -4961,6 +4964,7 @@ intensiveplus.kg
 inter-car.kg
 intera.kg
 interactive.kg
+interbilim.kg
 interbilimosh.kg
 intercert.kg
 intercitytaxi.kg
@@ -5592,6 +5596,7 @@ kg-ts.kg
 kgb.kg
 kgbio.kg
 kgbox.kg
+kgc.kg
 kgclinic.kg
 kgcn.kg
 kggt.kg
@@ -5720,6 +5725,7 @@ kls.kg
 klv.kg
 kma.kg
 kmed.kg
+kmedical.kg
 kmi.kg
 kmka.kg
 kmoney.kg
@@ -6009,6 +6015,7 @@ kyzyl-kiya.kg
 kyzyl-ozgorush.kg
 kyzyl-suu.kg
 kyzyl-tuu.kg
+kyzyltuu.kg
 kyzylunkur.kg
 kz.kg
 kzmc.kg
@@ -6141,6 +6148,7 @@ levan.kg
 levante.kg
 level.kg
 levelgo.kg
+levelup.kg
 levsha.kg
 lex.kg
 lexexpress.kg
@@ -6290,6 +6298,7 @@ lombard-lazurit.kg
 lombardbishkek.kg
 lomonosova.kg
 londonschool.kg
+longisolar.kg
 lonking.kg
 lookbook.kg
 looneytunes.kg
@@ -6476,7 +6485,6 @@ market.kg
 market24.kg
 marketing.kg
 marketplace.kg
-markirovka.kg
 markmonitor.kg
 marks-and-spencer.kg
 marksandspencer.kg
@@ -6595,6 +6603,7 @@ mebelgid.kg
 mebelin.kg
 mebelpl.kg
 mebels.kg
+mecalux.kg
 mechanic.kg
 mechta.kg
 mechta-lg.kg
@@ -7160,6 +7169,7 @@ nabs.kg
 nabu.kg
 nadc.kg
 nag.kg
+nagimamother-aitmatova.kg
 nagrada.kg
 naimi.kg
 nak.kg
@@ -7607,6 +7617,7 @@ olaplex.kg
 olc.kg
 oldnavy.kg
 olenka.kg
+oligarchchayhana.kg
 olimp.kg
 olimpbet.kg
 olimpiada.kg
@@ -8078,6 +8089,7 @@ pinupbet.kg
 pinupcasino.kg
 pioneer.kg
 pioner.kg
+pique.kg
 pir.kg
 pirat.kg
 piromag.kg
@@ -8521,6 +8533,7 @@ raev.kg
 raevsky-clinic.kg
 rafting.kg
 raheem.kg
+rahmat.kg
 raiantour.kg
 railcommerce.kg
 rainbow.kg
@@ -8607,6 +8620,7 @@ reformakerek.kg
 refsystem.kg
 region.kg
 register.kg
+registerbuild.kg
 registprofi.kg
 registr.kg
 registration.kg
@@ -8919,7 +8933,6 @@ sam1992.kg
 samarsky.kg
 samatplast.kg
 sambo.kg
-samimed.kg
 sams-club.kg
 samsaland.kg
 samsclub.kg
@@ -8942,6 +8955,7 @@ sandoz.kg
 sangyra.kg
 sanjyra.kg
 sanmarket.kg
+sanosan.kg
 santa.kg
 santehbish.kg
 santehbulak.kg
@@ -9566,6 +9580,7 @@ standardcom.kg
 standart.kg
 standartdevelopment.kg
 standartmebel.kg
+standartpark.kg
 stanislavsky.kg
 stanki.kg
 star.kg
@@ -9855,6 +9870,7 @@ tapigo.kg
 tapki.kg
 taplink.kg
 tapsell.kg
+taptaza.kg
 tara.kg
 tarakan.kg
 tarbia.kg
@@ -10146,6 +10162,7 @@ tim.kg
 tima-akimov.kg
 timaakimov.kg
 timber.kg
+timberica.kg
 time.kg
 times.kg
 timesbar.kg
@@ -10965,6 +10982,7 @@ wb.kg
 wbconf.kg
 wciec.kg
 wcskis.kg
+we.kg
 weatherford.kg
 web.kg
 web-alliance.kg
