@@ -961,6 +961,7 @@ creator.audio
 creators.audio
 crew.audio
 crimsoncraft.audio
+critical.audio
 crm.audio
 croon.audio
 crosshear.audio
@@ -1238,6 +1239,7 @@ doubleblind.audio
 downpour.audio
 draadlozeluidsprekers.audio
 draadlozespeakers.audio
+draft.audio
 dre.audio
 dream.audio
 dreame.audio
@@ -1904,7 +1906,6 @@ horens.audio
 horizon.audio
 horn.audio
 hornblower.audio
-horsformat.audio
 hosted.audio
 hotfm.audio
 houseofk.audio
@@ -3021,6 +3022,7 @@ omegaf2k.audio
 omgsoundboard.audio
 omni.audio
 omnibus.audio
+omnitune.audio
 omniverse.audio
 omniwave.audio
 omusic.audio
