@@ -380,7 +380,6 @@ atlassound.audio
 atmosphere.audio
 atoa.audio
 atomic.audio
-atomicsound.audio
 atomtickets.audio
 atvel.audio
 atx.audio
@@ -2673,7 +2672,6 @@ minilivre.audio
 minim.audio
 minimal.audio
 minimux.audio
-minipod.audio
 minnesotatwins.audio
 minted.audio
 misanthrop.audio
@@ -3359,6 +3357,7 @@ quadral.audio
 quadral-electronic.audio
 quadtwistedpair.audio
 quartz.audio
+qude.audio
 qudos.audio
 quebec.audio
 quest.audio
