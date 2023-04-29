@@ -923,6 +923,7 @@ agriplus.ci
 agristore.ci
 agrivision.ci
 agro.ci
+agro-home.ci
 agro-star.ci
 agro-transform.ci
 agro225.ci
@@ -1735,7 +1736,6 @@ batimpro.ci
 batinet.ci
 batipro.ci
 batir.ci
-batirenov.ci
 batirici.ci
 batis.ci
 batisecur.ci
@@ -2248,7 +2248,6 @@ cacaodurable.ci
 cace.ci
 cadir.ci
 cadresdirigeants.ci
-caemaci.ci
 caex.ci
 caf-consulting.ci
 cafecacao.ci
@@ -3347,6 +3346,8 @@ livescorebet.com.ci
 livescorepro.com.ci
 loca.com.ci
 loctore.com.ci
+longi.com.ci
+longisolar.com.ci
 loriginal.com.ci
 lottoking.com.ci
 maggi.com.ci
@@ -3622,6 +3623,7 @@ cordonbleu.ci
 corength.ci
 coressarl.ci
 corian.ci
+corif.ci
 coriginal.ci
 corijomarket.ci
 corisbank.ci
@@ -4352,7 +4354,6 @@ e-docsodefor.ci
 e-finity.ci
 e-garage.ci
 e-gna.ci
-e-habitat.ci
 e-inclusion.ci
 e-jober.ci
 e-lavandiere.ci
@@ -4800,6 +4801,7 @@ emergence-economique.ci
 emergim.ci
 emerginov.ci
 emergys.ci
+emeritus.ci
 emerson.ci
 emic.ci
 emilitant-rhdp.ci
@@ -6124,6 +6126,7 @@ heyz.ci
 hf.ci
 hh.ci
 hi.ci
+hienyacoubasie.ci
 hijab.ci
 hikvision.ci
 hilmann.ci
@@ -6678,6 +6681,7 @@ isports.ci
 isps.ci
 ispsarl.ci
 israel-immobilier.ci
+israelguebo.ci
 ist-iffou.ci
 istc.ci
 istcjf.ci
@@ -6919,6 +6923,7 @@ jelivre.ci
 jeloge.ci
 jelogo.ci
 jem-bonoua.ci
+jemassure.ci
 jemeprotegeenligne.ci
 jemos.ci
 jenkins.ci
@@ -7218,7 +7223,6 @@ kiwii.ci
 kj.ci
 kk.ci
 kkbox.ci
-kkcsarl.ci
 kl.ci
 klaconstruction.ci
 klaptonafrica.ci
@@ -7797,6 +7801,8 @@ lonaci-moja.ci
 lonacimagazine.ci
 lonacionline.ci
 lonacipay.ci
+longi.ci
+longisolar.ci
 longrich.ci
 loniya.ci
 lono.ci
@@ -7874,6 +7880,7 @@ ma2e.ci
 maad.ci
 maas.ci
 mab.ci
+mabanque.ci
 mabilletterie.ci
 maboutik.ci
 maboutique.ci
@@ -8146,7 +8153,6 @@ mbaboua.ci
 mbahiag.ci
 mbapub.ci
 mbartsetdecoration.ci
-mbc.ci
 mbcibanque.ci
 mbg.ci
 mbhservices.ci
@@ -8480,6 +8486,7 @@ monclienroi.ci
 monconfort.ci
 moncourrier.ci
 moncoursier.ci
+moncredit.ci
 monculte.ci
 monde-informatique.ci
 mondealer.ci
@@ -9766,7 +9773,6 @@ police-nationale.ci
 politique.ci
 poly.ci
 polycliniquegmp.ci
-polygamie.ci
 polymed.ci
 pompesfunebresdefrance.ci
 pong.ci
@@ -9906,6 +9912,7 @@ profession-juriste.ci
 professionneltransit.ci
 profi.ci
 profilegroup.ci
+profood.ci
 progalva.ci
 progitech.ci
 program.ci
@@ -10262,7 +10269,6 @@ rgl.ci
 rgm.ci
 rh.ci
 rh360.ci
-rhc.ci
 rhcomgroup.ci
 rhcomgroupeloko.ci
 rhconnect.ci
@@ -10907,6 +10913,7 @@ sigsef.ci
 sigui.ci
 sihii-tech.ci
 sii.ci
+siic.ci
 siin.ci
 sika-finance.ci
 sikafinance.ci
@@ -11396,7 +11403,6 @@ standardbank.ci
 standardchartered.ci
 standardcharteredbank.ci
 standers.ci
-star-auto.ci
 starafrica.ci
 staragro.ci
 starauto.ci
@@ -11473,6 +11479,7 @@ suc.ci
 sucaf.ci
 success-event.ci
 success-finance.ci
+successco.ci
 sucden.ci
 sucrivoire.ci
 sucso.ci
@@ -12072,6 +12079,7 @@ unppci.ci
 uns-if.ci
 unsola.ci
 untoici.ci
+uoc.ci
 up.ci
 upb.ci
 upendoconseils.ci
@@ -12132,6 +12140,7 @@ valeoservice.ci
 valise.ci
 valkola.ci
 vallesse.ci
+valnhood.ci
 van.ci
 vanrysel.ci
 vasetech.ci
@@ -12322,6 +12331,7 @@ wallo.ci
 wallonia.ci
 walmart.ci
 wamed.ci
+wamko.ci
 wams-immo.ci
 wandaloo.ci
 wandex.ci
