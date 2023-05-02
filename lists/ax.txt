@@ -115,6 +115,7 @@
 73.ax
 74.ax
 76.ax
+77.ax
 777.ax
 78.ax
 79.ax
@@ -1042,7 +1043,6 @@ djurlyckan.ax
 djurskydd.ax
 djurvik.ax
 dkco.ax
-dkh.ax
 dl.ax
 dm.ax
 dmz.ax
@@ -1482,6 +1482,7 @@ gen.ax
 gendigital.ax
 geocultor.ax
 geson.ax
+get.ax
 geta.ax
 getabetong.ax
 getabetongprodukter.ax
@@ -3942,7 +3943,6 @@ watski.ax
 watt.ax
 waze.ax
 wb.ax
-wbn.ax
 wct.ax
 we.ax
 web.ax
