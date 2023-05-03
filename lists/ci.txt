@@ -43,7 +43,6 @@
 15-63.ci
 1532.ci
 1543.ci
-16.ci
 16-37.ci
 1627.ci
 1645.ci
@@ -1033,6 +1032,7 @@ alainrichard-donwahi.ci
 alala.ci
 alani.ci
 alaska.ci
+alassane-ouattara.ci
 alba.ci
 albarakah.ci
 albayane.ci
@@ -1066,6 +1066,7 @@ allaya-conseil.ci
 allcommoditiescompany.ci
 allegion.ci
 allemand24.ci
+allforsight.ci
 alliance.ci
 alliance-overseas.ci
 alliancesolidaire.ci
@@ -1658,7 +1659,6 @@ bacademy.ci
 baci.ci
 backmarket.ci
 backmedia.ci
-badjan.ci
 badoo.ci
 badu.ci
 baeji.ci
@@ -2606,6 +2606,7 @@ chine.ci
 choco.ci
 chocolat.ci
 chocolatboutique.ci
+chocolatdedaloa.ci
 chocolate-academy.ci
 chocolateacademy.ci
 chocoplus.ci
@@ -2749,7 +2750,6 @@ citrat.ci
 citroen.ci
 citron.ci
 citv.ci
-cityads.ci
 citybeachauto.ci
 civ-climat.ci
 civ2023.ci
@@ -4065,6 +4065,7 @@ digitalia.ci
 digitalkstudio.ci
 digitalland.ci
 digitalmarket.ci
+digitalmath.ci
 digitalpay.ci
 digitalplus.ci
 digitalpro.ci
@@ -5025,7 +5026,6 @@ etsedenimmobilier.ci
 etsel-elyonnature.ci
 etskd.ci
 etskoffikonan.ci
-etssenteurdorient.ci
 etstraorenana.ci
 etsunicolor.ci
 etu.ci
@@ -5342,6 +5342,7 @@ fivoir.ci
 fivoirgroup.ci
 fix.ci
 fjmatic.ci
+fjn.ci
 fk.ci
 fkma.ci
 fkobon.ci
@@ -5632,6 +5633,7 @@ gcl.ci
 gcliniquedokui.ci
 gctgroupeloko.ci
 gd-immobilier.ci
+gd-services.ci
 gdfi.ci
 gdkci.ci
 ge.ci
@@ -5654,6 +5656,7 @@ gedsante.ci
 geducp-fe.ci
 geedo.ci
 geegroupeloko.ci
+geeks.ci
 geekstore.ci
 geely.ci
 gees-ci.ci
@@ -5941,7 +5944,6 @@ groupebms.ci
 groupecefatinter.ci
 groupecefiat.ci
 groupecifc.ci
-groupeconstructionplus.ci
 groupeeba.ci
 groupeeniss.ci
 groupefac.ci
@@ -6027,7 +6029,6 @@ guichet.ci
 guideacademique.ci
 guidelove.ci
 guidemariage.ci
-guidivoire.ci
 guihun.ci
 guillaumesoro.ci
 guimere.ci
@@ -6524,6 +6525,7 @@ initiativecacaoforets.ci
 injsabidjan.ci
 inka.ci
 inn.ci
+innaya-ts.ci
 innotech.ci
 innov4agri.ci
 innova-groupafrica.ci
@@ -6777,7 +6779,6 @@ ivoireformations.ci
 ivoireforum.ci
 ivoiregames.ci
 ivoiregions.ci
-ivoiregolfclub.ci
 ivoiregranito.ci
 ivoirehumain.ci
 ivoirehydrocarbure.ci
@@ -7172,6 +7173,7 @@ kiabi.ci
 kibor.ci
 kic.ci
 kick.ci
+kidh.ci
 kieski.ci
 kifal.ci
 kifal-auto.ci
@@ -7515,7 +7517,6 @@ lebrico.ci
 lecaiman225.ci
 lecarbone.ci
 lecesec.ci
-lecharpentier.ci
 leci.ci
 lecim-examens.ci
 lecnp.ci
@@ -7568,7 +7569,6 @@ lemanawacafe.ci
 lemanguier.ci
 lemarchand.ci
 lemediateur.ci
-lemedical.ci
 lemercier.ci
 lemetrodabidjan.ci
 lemobilier.ci
@@ -8330,6 +8330,7 @@ midh.ci
 midi.ci
 mienmoh.ci
 mifiani.ci
+miftah.ci
 migv.ci
 mikassa.ci
 mike.ci
@@ -8415,7 +8416,6 @@ mobilitepro.ci
 mobility-plus.ci
 mobisoft.ci
 moboo.ci
-mode-shop.ci
 modeapetitprix.ci
 modernatx.ci
 modernindustries.ci
@@ -9151,6 +9151,7 @@ onemart.ci
 onenoo.ci
 onepci.ci
 oneplus.ci
+oneradio.ci
 onesalam.ci
 onesecurity.ci
 onesystemsecurity.ci
@@ -9336,11 +9337,9 @@ original.ci
 originos.ci
 orijin.ci
 orizon.ci
-orizonapp.ci
 orkin.ci
 orman.ci
 oroks.ci
-orpheeprotection.ci
 orphelinatlamaintendue.ci
 orpi.ci
 orrick.ci
@@ -9393,6 +9392,7 @@ ox.ci
 oxacloud.ci
 oxahost.ci
 oxelo.ci
+oxiane.ci
 oxo.ci
 oxo-digital.ci
 oxygeo.ci
@@ -9757,6 +9757,7 @@ pol.ci
 poletechnocom.ci
 polexcellence.ci
 police-nationale.ci
+policenationale.ci
 politique.ci
 poly.ci
 polycliniquegmp.ci
@@ -9920,7 +9921,6 @@ promotionivoire.ci
 propertypro.ci
 proprietaire.ci
 proprietefonciere.ci
-proprio.ci
 prosac.ci
 prosecurite.ci
 prostar.ci
@@ -10164,6 +10164,7 @@ regionbelier.ci
 regioncavally.ci
 regiondelame.ci
 regiondugontougo.ci
+regionduguemon.ci
 regiondutchologo.ci
 regionguemon.ci
 regionlame.ci
@@ -10260,7 +10261,6 @@ rhconnect.ci
 rhdp-bouake.ci
 rhea.ci
 rhema.ci
-rhj.ci
 rhmag.ci
 rhoteon.ci
 ria.ci
@@ -10929,6 +10929,7 @@ sinergia.ci
 sinex.ci
 sinheytravel.ci
 sinitrans.ci
+sint.ci
 sinusite.ci
 sio.ci
 siontv.ci
@@ -11651,7 +11652,6 @@ teejet.ci
 teeshop.ci
 teintparfaitbynadegeparis.ci
 tekcom.ci
-teksi.ci
 telecharger1xbet.ci
 telecine.ci
 telecom.ci
@@ -12472,7 +12472,6 @@ woyo.ci
 woyoo.ci
 wpcloud.ci
 wplay.ci
-wplaza.ci
 wr.ci
 ws.ci
 wu.ci
