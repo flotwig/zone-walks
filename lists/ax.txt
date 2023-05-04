@@ -615,6 +615,7 @@ betonline.ax
 bettys.ax
 bf.ax
 bg.ax
+bgp.ax
 bh.ax
 bibliotek.ax
 bibo.ax
@@ -916,7 +917,6 @@ cm.ax
 cmx.ax
 cn.ax
 co.ax
-coclass.ax
 code.ax
 coffeebar.ax
 coffeehouse.ax
@@ -1029,6 +1029,7 @@ diabetes.ax
 diablo.ax
 diadora.ax
 diem.ax
+digital.ax
 dillen.ax
 dinfastighet.ax
 dio.ax
@@ -1443,7 +1444,6 @@ fv.ax
 fw.ax
 fx.ax
 fxcm.ax
-fyk.ax
 fyndet.ax
 fysioaland.ax
 fysioterapi.ax
@@ -1577,7 +1577,6 @@ gritlab.ax
 gronaudden.ax
 gronvitt.ax
 group.ax
-grt.ax
 grus.ax
 gsm.ax
 gt.ax
@@ -1946,6 +1945,7 @@ job.ax
 jobb.ax
 jobex.ax
 jobsource.ax
+jockesmekaniska.ax
 johan.ax
 johanehn.ax
 johannashembakta.ax
@@ -2262,6 +2262,7 @@ lk.ax
 ll.ax
 lm.ax
 lmj.ax
+lnk.ax
 lo.ax
 load-balance.ax
 load-balancer.ax
@@ -2911,6 +2912,7 @@ playgoogle.ax
 playmgmsport.ax
 playmgmsports.ax
 pleijel.ax
+plus.ax
 pm.ax
 pmh.ax
 pohjolasairaala.ax
@@ -3651,7 +3653,6 @@ tiny.ax
 tinyhousealand.ax
 tittis.ax
 tix.ax
-tjn.ax
 tk.ax
 tl.ax
 tld.ax
