@@ -565,6 +565,7 @@ a2s-plus.ci
 a2ztransit.ci
 a3.ci
 a8.ci
+a9.ci
 aa.ci
 aandc.ci
 aaph.ci
@@ -839,6 +840,7 @@ afrikfrais.ci
 afrikimmo.ci
 afrikservices.ci
 afrimarbre.ci
+afrimarket.ci
 afrimedis.ci
 afrimousses.ci
 afrindmarket.ci
@@ -890,7 +892,6 @@ agencerevelation.ci
 agencesdaffairespmepmi.ci
 agencesuncom.ci
 agenceyanda.ci
-agencybar.ci
 agentsaccueilcmu.ci
 agenumerique.ci
 agepe.ci
@@ -1301,6 +1302,7 @@ arcgis.ci
 archangel.ci
 archangevoyage.ci
 archedebouake.ci
+archibat.ci
 archiconcept.ci
 archipro.ci
 architecte.ci
@@ -4747,6 +4749,7 @@ elikouassi.ci
 elimservices.ci
 elion.ci
 elipso.ci
+eliredelices.ci
 elishama.ci
 elissa-distribution.ci
 elite.ci
@@ -5151,6 +5154,7 @@ fademci.ci
 fael.ci
 fagroup.ci
 fagroupeloko.ci
+fahadgroup.ci
 faire1don.ci
 fairepart.ci
 faireundon.ci
@@ -5745,6 +5749,7 @@ gigi.ci
 gigisfood.ci
 gingercorp.ci
 gingko.ci
+ginou.ci
 gipf.ci
 gipse.ci
 girisim.ci
@@ -5757,7 +5762,6 @@ github.ci
 gitlab.ci
 gitma.ci
 gitops.ci
-gixcor.ci
 gj.ci
 gk.ci
 gk-logistics.ci
@@ -5920,7 +5924,6 @@ greenyard.ci
 greniersolidaire.ci
 grest.ci
 grid.ci
-griffe.ci
 grkconsulting.ci
 grm.ci
 grossistevape.ci
@@ -6048,6 +6051,7 @@ gztaxisconnect.ci
 gztechnology.ci
 h-zprojects.ci
 h1cicmu.ci
+h24services.ci
 h2cicmu.ci
 h6.ci
 habg.ci
@@ -6225,7 +6229,6 @@ hotpackglobal.ci
 hotpoint.ci
 hotspot.ci
 houphouetisme.ci
-housking.ci
 hp.ci
 hp-ci.ci
 hp-resort.ci
@@ -7913,7 +7916,6 @@ madgi.ci
 madia.ci
 madigital.ci
 madigitale.ci
-madinves.ci
 madjik.ci
 madox.ci
 madstore.ci
@@ -8886,7 +8888,6 @@ node.ci
 noe.ci
 nokia.ci
 nic.nom.ci
-nom-de-domaine.ci
 nom-domaine.ci
 nomads.ci
 nomdedomaine.ci
@@ -9138,6 +9139,9 @@ omranestate.ci
 on.ci
 on-vend-tout.ci
 onad.ci
+onafriq.ci
+onafrique.ci
+onafriqx.ci
 onatestepourvous.ci
 onc.ci
 once.ci
@@ -10814,7 +10818,6 @@ siac.ci
 siag.ci
 sial.ci
 siap.ci
-siavirtuel.ci
 siavom.ci
 sib.ci
 sibag.ci
@@ -10844,6 +10847,7 @@ sicor.ci
 sicos.ci
 sicosa.ci
 sics.ci
+sicsarl.ci
 sicta.ci
 sidam.ci
 sidam-digital.ci
@@ -11181,7 +11185,6 @@ soditel.ci
 soez.ci
 sofaco.ci
 sofad.ci
-sofascore.ci
 sofdatacc.ci
 sofib.ci
 sofidec.ci
@@ -11378,7 +11381,6 @@ srv.ci
 ss.ci
 ssanmo.ci
 ssbet.ci
-ssci.ci
 sses-tech.ci
 ssgroup.ci
 ssoe.ci
@@ -11548,6 +11550,7 @@ systemes-intelligents.ci
 sytelis.ci
 syza.ci
 t-53.ci
+t-invest.ci
 t1.ci
 t2.ci
 t3.ci
@@ -11945,7 +11948,6 @@ tx.ci
 ty.ci
 tyc.ci
 tycoon.ci
-tynelacademie.ci
 typescript.ci
 tz.ci
 u-job.ci
