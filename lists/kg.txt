@@ -1295,6 +1295,7 @@ avevaselect.kg
 avg.kg
 avi-maks.kg
 avia.kg
+avia-parts.kg
 aviabilet.kg
 aviabileti.kg
 aviacenter.kg
@@ -2861,6 +2862,7 @@ diadema.kg
 diagnostic-group.kg
 dialabix.kg
 dialzero.kg
+diamed.kg
 diamond.kg
 diamondglass.kg
 diamondresort.kg
@@ -3547,7 +3549,6 @@ eurasia-group.kg
 eures.kg
 euro.kg
 euro-pallet.kg
-euroasia.kg
 euroasiaagro.kg
 euroasiamarket.kg
 eurobaget.kg
@@ -5507,6 +5508,7 @@ kastom.kg
 kat.kg
 katalog.kg
 katarakta.kg
+katel.kg
 kato.kg
 katok.kg
 katri.kg
@@ -5963,6 +5965,7 @@ kut-tourism.kg
 kutaalam.kg
 kutai.kg
 kutbilim.kg
+kutstroy.kg
 kuu.kg
 kuu-avn.kg
 kuvshin.kg
@@ -6379,6 +6382,7 @@ luzi.kg
 luzina.kg
 lvg.kg
 lvl.kg
+lyceumeverest.kg
 lyres.kg
 lysi.kg
 m.kg
@@ -7030,6 +7034,7 @@ moulinex.kg
 mountain.kg
 mountainair.kg
 mountainhub.kg
+mountains.kg
 movegreen.kg
 movie.kg
 moyka.kg
@@ -7568,6 +7573,7 @@ odin.kg
 odk.kg
 ods.kg
 oe.kg
+oec.kg
 oes.kg
 ofa.kg
 ofd.kg
@@ -7627,6 +7633,7 @@ okondvor.kg
 okradio.kg
 oktan.kg
 oktrans.kg
+oku.kg
 okubasma.kg
 okuma.kg
 okuu.kg
@@ -7827,7 +7834,6 @@ oshpirim.kg
 oshshamy.kg
 oshsu.kg
 oshtek.kg
-oshto.kg
 oshtu.kg
 oshtu-koreanstudy.kg
 oshtv.kg
@@ -8274,7 +8280,6 @@ pos-service.kg
 posh.kg
 posiflex.kg
 positano.kg
-positive.kg
 post.kg
 postech.kg
 poster.kg
@@ -8357,7 +8362,6 @@ probilet.kg
 processing.kg
 prochina.kg
 procolor.kg
-proctolog.kg
 procurement.kg
 prodam.kg
 prodbaza.kg
@@ -9488,6 +9492,7 @@ sommeliers.kg
 somo.kg
 somu.kg
 somyk.kg
+sonar-trade-engineering.kg
 sonax.kg
 sonaxshop.kg
 sonkol.kg
@@ -10659,6 +10664,7 @@ uplotniteli.kg
 upmarketing.kg
 upmodels.kg
 ups.kg
+upwork.kg
 uralactiv.kg
 uralairlines.kg
 urban.kg
