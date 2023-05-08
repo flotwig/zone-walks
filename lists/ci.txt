@@ -698,7 +698,6 @@ ad.ci
 ad-elitegroup.ci
 ad-logistics.ci
 ada.ci
-ada-group.ci
 adage.ci
 adalid.ci
 adam-logistics.ci
@@ -948,6 +947,7 @@ ahire.ci
 ahiwa.ci
 ahmadiyya.ci
 aho.ci
+ahondjon-nguessan.ci
 ahouabat.ci
 ahoula11.ci
 ahslabel.ci
@@ -1123,7 +1123,6 @@ aluminier.ci
 aluminier-technal.ci
 aluminiertechnal.ci
 alumni.ci
-alutrade.ci
 alwan.ci
 alya.ci
 alycartouche.ci
@@ -1244,7 +1243,6 @@ anviso.ci
 anywr.ci
 ao.ci
 ap.ci
-apatam.ci
 apc.ci
 apcci.ci
 ape.ci
@@ -1381,7 +1379,6 @@ ascens-services.ci
 ascoma.ci
 asconsulting.ci
 ascorp.ci
-ascot.ci
 asdm.ci
 aseabrownboveri.ci
 asec.ci
@@ -2100,7 +2097,6 @@ boutiquepc.ci
 bouygues-energies-services.ci
 bouygues-es.ci
 boxfresh.ci
-boxit.ci
 boxoffice.ci
 boya.ci
 boyia.ci
@@ -2514,7 +2510,6 @@ certification.ci
 certificatssl.ci
 certys.ci
 cervo.ci
-ces.ci
 cessi.ci
 cestici.ci
 cestmoinscher.ci
@@ -2549,7 +2544,6 @@ cgi.ci
 cgi-yop.ci
 cgip-co.ci
 cgir-sarl.ci
-cglgroup.ci
 cgrae.ci
 cgsanpedro.ci
 cgtoumodi.ci
@@ -3633,7 +3627,6 @@ corisbank.ci
 corlay.ci
 cornelder.ci
 cornerstone.ci
-coronavirustracking.ci
 correia.ci
 corsafor.ci
 corsair.ci
@@ -4129,7 +4122,6 @@ distransexpress.ci
 distribution.ci
 districom.ci
 districomenergies.ci
-district.ci
 districtabidjan.ci
 districtbassassandra.ci
 districtdelacomoe.ci
@@ -4197,7 +4189,6 @@ dmr.ci
 dms.ci
 dmstore.ci
 dn.ci
-dnacenter.ci
 dnacenterci.ci
 dnarboutique.ci
 dncprestationsservices.ci
@@ -6226,7 +6217,6 @@ hotelsantamonica.ci
 hotelsupreme.ci
 hotiland.ci
 hotmail.ci
-hotpachglobal.ci
 hotpackglobal.ci
 hotpoint.ci
 hotspot.ci
@@ -6370,7 +6360,6 @@ idylle-media.ci
 ie.ci
 ies.ci
 iesd.ci
-if.ci
 ifc.ci
 ifcci.ci
 ifciinternational.ci
@@ -6406,7 +6395,6 @@ ikea.ci
 ikevents.ci
 ikks.ci
 iknal.ci
-ilb.ci
 ilboursa.ci
 ilebleue.ci
 iledevitre.ci
@@ -7170,7 +7158,6 @@ keyo.ci
 kfc.ci
 kfcorporation.ci
 kfinter.ci
-kgci.ci
 kgsarl.ci
 kgsecurity.ci
 kh.ci
@@ -7936,7 +7923,6 @@ maestrac.ci
 mafible2.ci
 mafibremoov.ci
 mafop.ci
-maformationenligne.ci
 mag.ci
 magarantie.ci
 magasinscommunautaires.ci
@@ -8266,7 +8252,6 @@ merck-manuals.ci
 merckmanual.ci
 merckmanuals.ci
 mercury-labs.ci
-meri.ci
 merytechnology.ci
 mes.ci
 mes-annonces.ci
@@ -8384,7 +8369,6 @@ misterclean.ci
 mistersize.ci
 mistertic.ci
 misua.ci
-mit.ci
 mitec.ci
 mitraservices.ci
 mitre.ci
@@ -8658,13 +8642,13 @@ mudezo.ci
 mufaf.ci
 mugepci.ci
 muhasebe.ci
+mujva.ci
 mupartci.ci
 mureka.ci
 murema.ci
 murielamichia.ci
 musamci.ci
 musclesstore.ci
-musicpro.ci
 musix.ci
 muslimshop.ci
 mustela.ci
@@ -9104,6 +9088,7 @@ okam.ci
 okayan.ci
 okccommunication.ci
 okeygroup.ci
+okezholding.ci
 okpack.ci
 okto.ci
 oktoper.ci
@@ -10256,7 +10241,6 @@ revist.ci
 revservices.ci
 rexroth.ci
 rf.ci
-rfl.ci
 rfq.ci
 rg.ci
 rgl.ci
@@ -10666,7 +10650,6 @@ selectium.ci
 selective.ci
 selectivoiremultiservices.ci
 selectppe.ci
-selectrodeco.ci
 sell.ci
 sellercenter.ci
 seloger.ci
@@ -11053,7 +11036,6 @@ smaladreplab.ci
 smart.ci
 smart-case.ci
 smart-city.ci
-smart-gofac.ci
 smart-home.ci
 smart-rc.ci
 smart-systems.ci
@@ -11822,7 +11804,6 @@ topcontact.ci
 topengins.ci
 topicrem.ci
 topimmo-design.ci
-topinformatique.ci
 topjob.ci
 topmariage.ci
 topmoteur.ci
@@ -11902,7 +11883,6 @@ triic.ci
 triskelion-technologies.ci
 trituraf.ci
 trivago.ci
-troc.ci
 troiscerveaux.ci
 tron.ci
 tropicaletransit.ci
@@ -11985,7 +11965,6 @@ ufci.ci
 ufe.ci
 ufeci.ci
 ufra.ci
-ufrseg.ci
 ufrseg-univcocody.ci
 ufrspb.ci
 ug.ci
@@ -12041,7 +12020,6 @@ unikcgroupe.ci
 unilever.ci
 unipesca.ci
 unisat.ci
-uniskip.ci
 unisys.ci
 unite.ci
 unitec-sa.ci
@@ -12422,7 +12400,6 @@ wikimedia.ci
 wiko.ci
 wikomobile.ci
 wilaservices.ci
-wilfriedn.ci
 wilio.ci
 wilkmedia.ci
 williamhill.ci
@@ -12480,6 +12457,7 @@ wowcreamery.ci
 wowedjowobin.ci
 woyo.ci
 woyoo.ci
+woyovtc.ci
 wpcloud.ci
 wplay.ci
 wr.ci
