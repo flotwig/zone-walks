@@ -290,6 +290,7 @@ adixi.kg
 adkin.kg
 admax.kg
 admin.kg
+admissions.kg
 admix.kg
 admixer.kg
 adobe.kg
@@ -2300,7 +2301,6 @@ cerva.kg
 cesna.kg
 cfc.kg
 cfts.kg
-ch.kg
 chaarat.kg
 chaaratzaav.kg
 chabrec.kg
@@ -3307,6 +3307,7 @@ eles-pr.kg
 elet.kg
 eletcom.kg
 elevit.kg
+elexpress.kg
 elfbar.kg
 elfinance.kg
 elgezit.kg
@@ -4303,7 +4304,6 @@ gpnbonus.kg
 gps.kg
 gpspirtzavod.kg
 gpstech.kg
-gr.kg
 gr8auto.kg
 graboplast.kg
 graco.kg
@@ -4729,6 +4729,7 @@ ibao.kg
 ibaza.kg
 ibc.kg
 ibilim.kg
+ibm.kg
 ibs.kg
 ibufen.kg
 ic.kg
@@ -5118,6 +5119,7 @@ ismankulov.kg
 isoc.kg
 isoft.kg
 isrc.kg
+issyk-kul.kg
 issyk-kul-sad.kg
 issyk-kul-tour.kg
 issykcenter.kg
@@ -5144,7 +5146,6 @@ it911.kg
 italtherm.kg
 itc.kg
 itc-tech.kg
-itcenter.kg
 itcom.kg
 itcraft.kg
 itctech.kg
@@ -5198,6 +5199,7 @@ iwp.kg
 ix.kg
 ixobit.kg
 iyman.kg
+iz.kg
 izde.kg
 izi.kg
 izi-finance.kg
@@ -5432,7 +5434,6 @@ kancmaster.kg
 kancservice.kg
 kangaroo-concurs.kg
 kangqiao.kg
-kant.kg
 kantcement.kg
 kantoil.kg
 kantslate.kg
@@ -5476,7 +5477,6 @@ karavan.kg
 karavanidet.kg
 karcher.kg
 karchershop.kg
-kardex.kg
 kardiocentr.kg
 kareta.kg
 kargitl.kg
@@ -6345,7 +6345,6 @@ ltd.kg
 lte.kg
 lts.kg
 ltv.kg
-lu.kg
 lubidom.kg
 lubricants-oil.kg
 luch.kg
@@ -6773,6 +6772,7 @@ meridian.kg
 meridiangold.kg
 merinaturel.kg
 merkat.kg
+mes.kg
 mesauda.kg
 meshki.kg
 meta.kg
@@ -7213,6 +7213,7 @@ narod.kg
 narujka.kg
 naryn.kg
 naryn-kenesh.kg
+naryn-med.kg
 naryn-region.kg
 naryncity.kg
 naryncorp.kg
@@ -7392,7 +7393,6 @@ nkb.kg
 nkgroup.kg
 nkk.kg
 nks-pro.kg
-nl.kg
 nlkg.kg
 nlogistics.kg
 nm.kg
@@ -8469,7 +8469,6 @@ pss.kg
 psw.kg
 psy.kg
 psy-health.kg
-pt.kg
 pto.kg
 pts.kg
 publicis.kg
@@ -8703,7 +8702,6 @@ republic.kg
 repxpert.kg
 research.kg
 reserv.kg
-residence2.kg
 resident.kg
 resistingvawinca.kg
 resmed.kg
@@ -9120,6 +9118,7 @@ service.kg
 service-geo.kg
 servicepak.kg
 servicepro.kg
+session.kg
 setanta.kg
 setantasport.kg
 setantasports.kg
@@ -9466,7 +9465,6 @@ solar.kg
 solaris.kg
 solartravel.kg
 solbi.kg
-solemar.kg
 solenis.kg
 solgar.kg
 solid.kg
@@ -10794,6 +10792,7 @@ veselyi-molochnik.kg
 vesovaya.kg
 vesta.kg
 vestel.kg
+vesti.kg
 vestnik.kg
 vestnikksucta.kg
 vet.kg
@@ -10894,7 +10893,6 @@ vkvoil.kg
 vlast.kg
 vlata.kg
 vleto.kg
-vm.kg
 vmpolza.kg
 vmpromo.kg
 vms.kg
@@ -11144,6 +11142,7 @@ wwg.kg
 wwgroup.kg
 wwgrp.kg
 www.kg
+www138.kg
 x.kg
 x-can.kg
 xado.kg
