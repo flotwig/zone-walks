@@ -82,6 +82,7 @@
 50.ax
 51.ax
 5132.ax
+5138.ax
 52.ax
 53.ax
 54.ax
@@ -314,7 +315,6 @@ alandsradio.ax
 alandsradiotv.ax
 alandsresor.ax
 alandssenap.ax
-alandssjodagar.ax
 alandsstadservice.ax
 alandstaxi.ax
 alandstidningen.ax
@@ -1379,7 +1379,6 @@ for-rent.ax
 fordon.ax
 fordonmyndigheten.ax
 fordonsmyndigheten.ax
-forest.ax
 foretagare.ax
 foretagarna.ax
 foretagsbyran.ax
@@ -1440,6 +1439,7 @@ fv.ax
 fw.ax
 fx.ax
 fxcm.ax
+fynda.ax
 fyndet.ax
 fysioaland.ax
 fysioterapi.ax
@@ -2372,6 +2372,7 @@ maritimeacademy.ax
 maritimesafety.ax
 marjasmassage.ax
 mark.ax
+mark-six.ax
 market.ax
 marketmedia.ax
 markmonitor.ax
@@ -2463,7 +2464,6 @@ mfb.ax
 mh.ax
 mhd.ax
 mi.ax
-mia.ax
 miaslivsenergi.ax
 miaw.ax
 michael.ax
@@ -3071,6 +3071,7 @@ renharmoni.ax
 rep.ax
 repvvs.ax
 resa.ax
+reservist.ax
 resmedgoran.ax
 restaurangcikada.ax
 restaurantbabista.ax
@@ -3138,6 +3139,7 @@ rv.ax
 rw.ax
 rx.ax
 ry.ax
+ryans.ax
 ryssklapp.ax
 rz.ax
 s-card.ax
@@ -3273,7 +3275,6 @@ size.ax
 sjalvklar.ax
 sjalvstyrtlarande.ax
 sjhlm.ax
-sjodagar.ax
 sjoentreprenad.ax
 sjofart.ax
 sjofartsakademin.ax
@@ -3404,7 +3405,6 @@ sparm.ax
 speeding.ax
 sphh.ax
 spiceup.ax
-spid.ax
 spike.ax
 spis.ax
 spoly.ax
