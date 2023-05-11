@@ -9,7 +9,6 @@
 0x0.ci
 1-e9.ci
 1-win.ci
-10.ci
 1000saveurs.ci
 101domain.ci
 101domains.ci
@@ -46,7 +45,6 @@
 1627.ci
 1645.ci
 1677.ci
-17.ci
 1702.ci
 18.ci
 1869.ci
@@ -141,7 +139,6 @@
 2alogistics.ci
 2amegroupe.ci
 2as.ci
-2atechnologies.ci
 2b.ci
 2baboux.ci
 2bintec.ci
@@ -717,6 +714,7 @@ aderiz.ci
 aderiz-ci.ci
 adern.ci
 adex.ci
+adf-group.ci
 adg.ci
 adgroupeloko.ci
 adhcnn.ci
@@ -768,6 +766,7 @@ aese.ci
 af.ci
 af-im.ci
 afa.ci
+afad.ci
 afcar.ci
 afchem.ci
 afchemsofaco.ci
@@ -1121,6 +1120,7 @@ aluminier.ci
 aluminier-technal.ci
 aluminiertechnal.ci
 alumni.ci
+alupron.ci
 alwan.ci
 alya.ci
 alycartouche.ci
@@ -1643,6 +1643,7 @@ babiken.ci
 babiloto.ci
 babimall.ci
 babimarket.ci
+babiminute.ci
 babinounou.ci
 babitravelservices.ci
 babiwin.ci
@@ -1995,6 +1996,7 @@ bms.ci
 bmw.ci
 bn.ci
 bnci.ci
+bneelstore.ci
 bneiyisraelshalom.ci
 bnetd.ci
 bnetdcct.ci
@@ -2396,7 +2398,6 @@ castelli1892.ci
 casumo.ci
 cat.ci
 catalog.ci
-catalogue.ci
 cataloguedeco.ci
 catana-expertise.ci
 cateci.ci
@@ -2481,6 +2482,7 @@ cemedo.ci
 centif.ci
 centos.ci
 centrale-distribution.ci
+centralindustrie.ci
 centraltech.ci
 centreadn.ci
 centremedicalchenal.ci
@@ -2701,7 +2703,6 @@ cinetcore.ci
 cinetechfestival.ci
 cinetpay.ci
 cinews.ci
-cinfci.ci
 cinn.ci
 cipaad.ci
 cipemsa.ci
@@ -3127,6 +3128,7 @@ codef.ci
 codelab.ci
 codelec.ci
 codepromo.ci
+coderlife.ci
 codesabarres.ci
 codestrab.ci
 codestudio.ci
@@ -4344,6 +4346,7 @@ e-colis.ci
 e-commerce.ci
 e-control.ci
 e-docsodefor.ci
+e-enfant.ci
 e-finity.ci
 e-garage.ci
 e-gna.ci
@@ -4614,6 +4617,7 @@ usp.edu.ci
 uvci.edu.ci
 w2c.edu.ci
 www.edu.ci
+edu-consulting.ci
 edu-soft.ci
 educ.ci
 educagri.ci
@@ -5856,6 +5860,7 @@ goshenglobalgroup.ci
 goshenimmotec.ci
 gosofts.ci
 gospaces.ci
+gossansecuriteservices.ci
 gotic.ci
 gotickets.ci
 gotrack.ci
@@ -6044,6 +6049,7 @@ h1cicmu.ci
 h24services.ci
 h2cicmu.ci
 h6.ci
+habg.ci
 habitatafricain.ci
 habiter.ci
 haca.ci
@@ -6406,9 +6412,7 @@ imaginecom.ci
 imaginefair.ci
 imanex.ci
 imans-hotel.ci
-imbabusinesschool.ci
 imbs.ci
-imc.ci
 imcci.ci
 imcotrans.ci
 ime.ci
@@ -6613,6 +6617,7 @@ ipeda.ci
 ipek.ci
 ipf.ci
 ipi.ci
+ipif.ci
 iplast.ci
 ipmservices.ci
 ipnetp.ci
@@ -6973,6 +6978,7 @@ jobchain.ci
 jobdoor.ci
 jobizer.ci
 jobpoint.ci
+jobstation.ci
 joedel.ci
 jolibity.ci
 jolietete.ci
@@ -7157,7 +7163,6 @@ kgsecurity.ci
 kh.ci
 kh-immoservice.ci
 khimane.ci
-ki.ci
 ki-pass.ci
 kiabi.ci
 kibor.ci
@@ -7624,6 +7629,7 @@ lesvoyageurs.ci
 lesyndicat.ci
 letempledufoot.ci
 leterroir.ci
+letheoricien.ci
 leticmarcket.ci
 leticmarket.ci
 lets.ci
@@ -7789,6 +7795,7 @@ lono.ci
 lookoabooster.ci
 lookvast.ci
 loop.ci
+lope.ci
 lopogo.ci
 lopportunite.ci
 loquelabuisnesscenter.ci
@@ -8005,7 +8012,6 @@ mamba-btp.ci
 mamifresh.ci
 mammamia.ci
 mamudeb.ci
-man.ci
 manaf.ci
 managementproperties.ci
 manageo.ci
@@ -8210,7 +8216,6 @@ megasit.ci
 mei.ci
 meijibunka.ci
 meiway.ci
-mekids.ci
 mel-bet.ci
 melbet.ci
 melianekuny.ci
@@ -9066,6 +9071,7 @@ ohmdesign.ci
 ohs.ci
 oi.ci
 oia.ci
+oia-anacarde.ci
 oic.ci
 oilibya.ci
 oipc.ci
@@ -9775,6 +9781,8 @@ postesante.ci
 postgres.ci
 pouletlocal.ci
 poulivoire.ci
+pourelle.ci
+pourlui.ci
 pourluigaf.ci
 pourtoi.ci
 poussindor.ci
@@ -10009,7 +10017,6 @@ quebec.ci
 quechua.ci
 queenmely.ci
 qui-est-dominique-ouattara.ci
-quickbat.ci
 quickly.ci
 quiestdominiqueouattara.ci
 quincaillerie.ci
@@ -10246,6 +10253,7 @@ ria.ci
 ric.ci
 ric-ci.ci
 rich.ci
+richbond.ci
 richelieu.ci
 rici.ci
 ricom.ci
@@ -11106,6 +11114,7 @@ socim.ci
 socimaty.ci
 socimy.ci
 sociprim.ci
+socirh.ci
 socitech.ci
 sociti.ci
 socitici.ci
@@ -11156,6 +11165,7 @@ sofidec.ci
 sofinco.ci
 sofresh.ci
 sofrun.ci
+soft4all.ci
 softcare.ci
 softcomputer.ci
 softconcept.ci
@@ -12580,7 +12590,6 @@ yoroba.ci
 yotech-africa.ci
 youcan.ci
 yougo.ci
-youpiland.ci
 yourplan.ci
 youscribe.ci
 youse.ci
