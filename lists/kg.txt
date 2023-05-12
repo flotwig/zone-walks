@@ -1316,6 +1316,7 @@ aviatravel.kg
 avicenna.kg
 avicenna-edu.kg
 avigeya.kg
+avior.kg
 avisa.kg
 avita.kg
 avitafarma.kg
@@ -1353,7 +1354,6 @@ avtokredit.kg
 avtolombard.kg
 avtomalyar.kg
 avtomarket.kg
-avtomaster.kg
 avtonalog.kg
 avtopapa.kg
 avtoplus.kg
@@ -1366,7 +1366,6 @@ avtoshina.kg
 avtostart.kg
 avtotop.kg
 avtousta.kg
-avtoves.kg
 avtovokzal.kg
 avtovyshka.kg
 avtozapchast.kg
@@ -1418,6 +1417,7 @@ azsk74.kg
 azure.kg
 b.kg
 b-expert.kg
+b-stirka.kg
 b-t.kg
 b-win.kg
 b1.kg
@@ -2473,6 +2473,7 @@ cocoon.kg
 code.kg
 coderbooks.kg
 codeum.kg
+coexsyrup.kg
 coffee.kg
 coffeeboom.kg
 coffeelover.kg
@@ -3834,6 +3835,7 @@ fix-master.kg
 fix-price.kg
 fixletty.kg
 fkb.kg
+fl-shop.kg
 flag.kg
 flagman.kg
 flagman-print.kg
@@ -4041,7 +4043,6 @@ gadget.kg
 gagarin.kg
 gagsmsu.kg
 galagroup.kg
-galan.kg
 galanttrade.kg
 galanz.kg
 galazolin.kg
@@ -4630,7 +4631,6 @@ hop.kg
 horeca.kg
 horecafoods.kg
 horecamarket.kg
-horizon.kg
 hospice.kg
 hospital.kg
 hospitality.kg
@@ -4764,6 +4764,7 @@ icredit.kg
 ics.kg
 ict.kg
 ictlab.kg
+icv.kg
 id.kg
 idalgo.kg
 idalgo-clinic.kg
@@ -5045,7 +5046,6 @@ investor.kg
 investtrade.kg
 investwithconfidence.kg
 invitro.kg
-invitrofarm.kg
 invivo.kg
 invoiceplus.kg
 io.kg
@@ -5404,6 +5404,7 @@ kadk.kg
 kaea.kg
 kaesun.kg
 kafe.kg
+kafesoft.kg
 kaflu.kg
 kaganat-dev.kg
 kaganatfc.kg
@@ -5494,6 +5495,7 @@ karkas.kg
 karnaval.kg
 karusel.kg
 karven.kg
+karvenfourseasons.kg
 karvenissykkul.kg
 karvensportclub.kg
 kas-impuls.kg
@@ -5651,7 +5653,6 @@ khantengri.kg
 khantengriexp.kg
 khbc.kg
 khimpromtreid.kg
-ki.kg
 kia.kg
 kia-bishkek.kg
 kiber-one.kg
@@ -5759,7 +5760,6 @@ knauf.kg
 kned.kg
 knews.kg
 kng.kg
-kngboxer.kg
 kniga.kg
 knitism.kg
 knitu.kg
@@ -5770,6 +5770,7 @@ knu.kg
 kochevnik.kg
 kochkarov.kg
 kochkor.kg
+kochkorata.kg
 kochkorbaev-aimak.kg
 kodak.kg
 kofe.kg
@@ -6484,8 +6485,10 @@ manas-discovery.kg
 manasacademy.kg
 manasordo.kg
 manasrma.kg
+manastour.kg
 manastv.kg
 manchester.kg
+mancho.kg
 mands.kg
 mango.kg
 mangyt-aimak.kg
@@ -6621,7 +6624,6 @@ mdigital.kg
 mdm.kg
 mdn.kg
 mdregion.kg
-mdv.kg
 me.kg
 meadi.kg
 meanwell.kg
@@ -8037,7 +8039,6 @@ pellet.kg
 pellets.kg
 pena.kg
 penoblok.kg
-penoplast.kg
 penoplex.kg
 penz.kg
 peoplehostel.kg
@@ -8106,6 +8107,7 @@ pikir-klub.kg
 pikovit.kg
 pikstroy.kg
 pilot.kg
+pilotticket.kg
 pin-ap.kg
 pin-ap-bet.kg
 pin-ap-casino.kg
@@ -8375,6 +8377,7 @@ probilet.kg
 processing.kg
 prochina.kg
 procolor.kg
+proctolog.kg
 procurement.kg
 prodam.kg
 prodbaza.kg
@@ -8777,6 +8780,7 @@ ringo.kg
 ringobet.kg
 ringotrade.kg
 rinnai.kg
+rinoplastika.kg
 riolit.kg
 riom.kg
 riostore.kg
@@ -9340,6 +9344,7 @@ skoda-auto.kg
 skodaauto.kg
 skorohod.kg
 skp.kg
+skrentacar.kg
 skullcandy.kg
 skupka.kg
 sky-line.kg
@@ -9704,6 +9709,7 @@ stroidvor.kg
 stroimetall.kg
 stroka.kg
 strong.kg
+stroy-grand.kg
 stroycentr.kg
 stroydom.kg
 stroydvor.kg
@@ -9714,6 +9720,7 @@ stroytehnika.kg
 stswb.kg
 student.kg
 studex.kg
+studio-love.kg
 studiobeton.kg
 studkgreen.kg
 study.kg
@@ -10056,6 +10063,7 @@ temesist.kg
 temir.kg
 temir-businesscard.kg
 temir-tash.kg
+tempo.kg
 temzik.kg
 tena.kg
 tender.kg
@@ -10187,6 +10195,7 @@ tica.kg
 ticket.kg
 ticketon.kg
 tickets.kg
+tiens.kg
 tienshanlegend.kg
 tiffany.kg
 tigerauto.kg
@@ -10890,7 +10899,6 @@ vit.kg
 vitaball.kg
 vitamax.kg
 vitamed.kg
-vitamedltd.kg
 vitamin.kg
 vitaminy.kg
 vitiligo.kg
