@@ -832,6 +832,7 @@ afrikbtp.ci
 afrikfashion.ci
 afrikfrais.ci
 afrikimmo.ci
+afrikimmomag.ci
 afrikservices.ci
 afrimarbre.ci
 afrimarket.ci
@@ -1089,6 +1090,7 @@ allodoc.ci
 allodocteur.ci
 alloecole.ci
 alloimmo.ci
+allonsauchamp.ci
 allopolice.ci
 alloschool.ci
 alloservice.ci
@@ -1343,7 +1345,6 @@ artci.ci
 artci-sign.ci
 artcibis.ci
 artdevie.ci
-artemis-construction.ci
 artengo.ci
 artenika.ci
 artens.ci
@@ -1376,6 +1377,7 @@ ascens-services.ci
 ascoma.ci
 asconsulting.ci
 ascorp.ci
+ascot.ci
 asdm.ci
 aseabrownboveri.ci
 asec.ci
@@ -1460,6 +1462,7 @@ athleta.ci
 atieke.ci
 atiko.ci
 atinkou.ci
+atl.ci
 atlah.ci
 atlanta.ci
 atlanta-assurance.ci
@@ -1504,6 +1507,7 @@ au.ci
 auchan.ci
 auchan-retail.ci
 auchanretail.ci
+aucoeurdumonde.ci
 audi.ci
 audiotexci.ci
 audirec.ci
@@ -1551,7 +1555,6 @@ automotives.ci
 automoto.ci
 autonomie.ci
 autonomy.ci
-autoprof.ci
 autoris.ci
 autoritedeprotection.ci
 autos24.ci
@@ -1630,7 +1633,6 @@ b2bdigitalday.ci
 b2m.ci
 ba.ci
 baab.ci
-baabashop.ci
 baanaa.ci
 baanaalogistics.ci
 baanaamotors.ci
@@ -1827,7 +1829,6 @@ bernabe.ci
 berthefruit.ci
 bertuc.ci
 bespoke.ci
-bespokepaints.ci
 best.ci
 best-bets.ci
 best-imprimerie.ci
@@ -2068,7 +2069,6 @@ bop-afrique.ci
 bor.ci
 bora.ci
 boreolam.ci
-boribana.ci
 boris.ci
 boroma.ci
 bos.ci
@@ -2212,7 +2212,6 @@ c-suite.ci
 c0.ci
 c2.ci
 c2bgroup.ci
-c2e.ci
 c2i.ci
 c2sr.ci
 c360.ci
@@ -2246,7 +2245,6 @@ cace.ci
 cadir.ci
 cadresdirigeants.ci
 caex.ci
-caf-consulting.ci
 cafecacao.ci
 caferimbaud.ci
 cafesbondin.ci
@@ -2697,6 +2695,7 @@ cimporcotedivoire.ci
 cin.ci
 cine18.ci
 cinema.ci
+cinema225.ci
 cinergies.ci
 cines.ci
 cinetcore.ci
@@ -4188,6 +4187,7 @@ dmr.ci
 dms.ci
 dmstore.ci
 dn.ci
+dnacenter.ci
 dnacenterci.ci
 dnarboutique.ci
 dncprestationsservices.ci
@@ -4296,6 +4296,7 @@ drive-transport.ci
 driven.ci
 driver.ci
 drivoo.ci
+drmodeliterie.ci
 drogba.ci
 drone.ci
 droneacademie.ci
@@ -4754,6 +4755,7 @@ elitecloud.ci
 eliteconnection.ci
 eliteconseil.ci
 elitecosmetic.ci
+elitefitness.ci
 elitegroup.ci
 elitegroupe.ci
 eliteinterim.ci
@@ -4834,6 +4836,7 @@ encar.ci
 encheres.ci
 enerci.ci
 energy-pool.ci
+energyxipi.ci
 enerson.ci
 enertel.ci
 engelconsulting.ci
@@ -5950,6 +5953,7 @@ groupeitermi.ci
 groupeites.ci
 groupekibio.ci
 groupemedimage.ci
+groupeprodis.ci
 groupeprosuma.ci
 grouperostanislg.ci
 groupesalem.ci
@@ -6366,6 +6370,7 @@ ifciinternational.ci
 ifdtm.ci
 ifec.ci
 ifm.ci
+ifobs.ci
 iforas.ci
 ifran.ci
 ifservira.ci
@@ -6820,6 +6825,7 @@ ivorycoast.ci
 ivorycoastdiaspora.ci
 ivorycocoa.ci
 ivorycocoaproducts.ci
+ivorycontractors.ci
 ivoryenergies.ci
 ivoryfoods.ci
 ivoryrubbercorporation.ci
@@ -7124,7 +7130,6 @@ kaunan.ci
 kaurisconsulting.ci
 kaviar.ci
 kayak.ci
-kayo.ci
 kazedmotors.ci
 kbeautyafrica.ci
 kbhservices.ci
@@ -7138,6 +7143,7 @@ kd-securite.ci
 kdm.ci
 kdprestige.ci
 ke.ci
+kedeshgroupeentreprise.ci
 kedj-securite.ci
 keletick.ci
 kelio.ci
@@ -7598,7 +7604,6 @@ les-olives-sarl.ci
 les3dms.ci
 lesacacias.ci
 lesaffre.ci
-lesaladdins.ci
 lesamisdesaintjoseph.ci
 lesamispauvres.ci
 lesartisans.ci
@@ -8068,7 +8073,6 @@ marinemarchande.ci
 marinenationale.ci
 mark-six.ci
 market.ci
-marketing-digital.ci
 marketing-expert.ci
 marketmyx.ci
 marketonline.ci
@@ -9027,7 +9031,6 @@ ocl.ci
 oconfort.ci
 oconsulting.ci
 octa.ci
-octogonegroup.ci
 octopusstudios.ci
 od.ci
 odafrique.ci
@@ -9273,6 +9276,7 @@ orao.ci
 orbion.ci
 orca.ci
 orditic.ci
+ordredesavocats.ci
 ordremedecins.ci
 ordrepharmacien.ci
 orea.ci
@@ -9404,6 +9408,7 @@ pacci.ci
 pacie.ci
 pacificsarl.ci
 pacir.ci
+pacivoire-solidarite.ci
 packup.ci
 paco.ci
 pactilis.ci
@@ -9476,6 +9481,7 @@ paroissesaintebernadettebingerville.ci
 paroissesaintkizito.ci
 parquetgeneral-cs.ci
 participationcitoyenne.ci
+partisans.ci
 party.ci
 pasp.ci
 pass-lib.ci
@@ -9990,6 +9996,7 @@ qesiytah.ci
 qh.ci
 qi.ci
 qid.ci
+qls.ci
 qm.ci
 qmi.ci
 qnetafrique.ci
@@ -10247,6 +10254,7 @@ rhconnect.ci
 rhdp-bouake.ci
 rhea.ci
 rhema.ci
+rhmag.ci
 rhoteon.ci
 rhs.ci
 ria.ci
@@ -10558,6 +10566,7 @@ scikerlau.ci
 scilamami.ci
 scilespalms.ci
 sciloryan.ci
+scimadia.ci
 scimapholding.ci
 scinpa.ci
 scipaul.ci
@@ -11241,6 +11250,7 @@ sonarc-inter.ci
 sonarci.ci
 sondage.ci
 sonder.ci
+sondzkt.ci
 sonetci.ci
 soniel.ci
 sonitra.ci
@@ -11453,6 +11463,7 @@ sucrivoire.ci
 sucso.ci
 sudconstruction.ci
 sudo.ci
+sudosu.ci
 suez.ci
 sumo.ci
 sun.ci
@@ -11721,7 +11732,9 @@ ti2e.ci
 tiacom.ci
 tiama.ci
 tian.ci
+tibaco.ci
 tibeny.ci
+tic.ci
 tic-academy.ci
 ticafrique.ci
 ticket.ci
@@ -12220,6 +12233,7 @@ vix.ci
 vizop.ci
 vj.ci
 vk.ci
+vkcosmos.ci
 vlogistics.ci
 vmware.ci
 vn.ci
@@ -12682,6 +12696,7 @@ zoumla.ci
 zpxpro.ci
 zr.ci
 zt.ci
+ztech.ci
 zuul.ci
 zvne.ci
 zy.ci
