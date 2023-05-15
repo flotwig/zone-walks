@@ -691,7 +691,6 @@ ad-elitegroup.ci
 ad-logistics.ci
 ada.ci
 adage.ci
-adalid.ci
 adam-logistics.ci
 adamabictogo.ci
 adamlogistics.ci
@@ -974,7 +973,6 @@ airedan.ci
 airfrance.ci
 airmauritanie.ci
 airp.ci
-airtop.ci
 airwell.ci
 aisw.ci
 aiwa.ci
@@ -1887,9 +1885,7 @@ bilebrizoua.ci
 biletbank.ci
 bilgisayar.ci
 bilgrity.ci
-billet.ci
 billetic.ci
-billets.ci
 billon.ci
 billon2025.ci
 bim.ci
@@ -1968,7 +1964,6 @@ bloosat.ci
 blua.ci
 bluebiz.ci
 bluecom.ci
-bluecube.ci
 bluemind.ci
 blum.ci
 bm.ci
@@ -3494,6 +3489,7 @@ comarassurances.ci
 comatec.ci
 comdigital.ci
 comedyetmedia.ci
+comef.ci
 cometivoire.ci
 comexas.ci
 comexmap.ci
@@ -4124,7 +4120,6 @@ djazy.ci
 djekou.ci
 djeks.ci
 djela.ci
-djelifaso.ci
 djembey.ci
 djeni-market.ci
 djibieco.ci
@@ -4256,7 +4251,6 @@ dr.ci
 dramacool9.ci
 drbmgp.ci
 dream-trading.ci
-dreamcometrue.ci
 dreamcorporation.ci
 dreamhouse.ci
 dreamsagency.ci
@@ -4356,7 +4350,6 @@ eagle.ci
 eagleelephantsecuritysarl.ci
 eaglesfinancial.ci
 eaglestore.ci
-eajsk.ci
 eam.ci
 eanointing.ci
 eas.ci
@@ -4525,7 +4518,6 @@ croukorhogo.edu.ci
 curat-gmesafrica.edu.ci
 cyberteaching.edu.ci
 dizanpaul.edu.ci
-ecommerce.edu.ci
 ensea.edu.ci
 epcci.edu.ci
 esaa.edu.ci
@@ -4980,7 +4972,6 @@ etec.ci
 etec-education.ci
 etel-power.ci
 eterrain.ci
-etfp.ci
 etg.ci
 ethereum.ci
 ethica-group.ci
@@ -5045,9 +5036,7 @@ evansgroup.ci
 evasion.ci
 evasion-vtt.ci
 evazat.ci
-evenement.ci
 evenementiel.ci
-evenements.ci
 event.ci
 event-ticket.ci
 event225.ci
@@ -5080,7 +5069,6 @@ excellence.ci
 excellfinances.ci
 exchange.ci
 exciv.ci
-exclusivite.ci
 exel.ci
 exfi.ci
 exness.ci
@@ -5165,7 +5153,6 @@ fastlane.ci
 fastresponse.ci
 fat.ci
 fat-holding.ci
-fatoukeita.ci
 fau.ci
 faw.ci
 fawtrucks.ci
@@ -5247,7 +5234,6 @@ fi.ci
 fiamc.ci
 fiat.ci
 fiatprofessional.ci
-fibad.ci
 fibb.ci
 fibm.ci
 fibonac.ci
@@ -6057,7 +6043,6 @@ happyteam.ci
 harbourabidjan.ci
 hasson.ci
 hautdebit.ci
-hautesperformances-rh.ci
 haval.ci
 havas.ci
 havilah.ci
@@ -7345,7 +7330,6 @@ lacasa.ci
 lacase.ci
 lacavedejonas.ci
 lachatte.ci
-laclass.ci
 laconception.ci
 lacoste.ci
 lacotedivoireagricole.ci
@@ -7733,7 +7717,6 @@ locanto.ci
 location-voitures.ci
 locatrack.ci
 locktonimmo.ci
-loctore.ci
 lodjoukroufestival.ci
 loeildabidjan.ci
 lofty-solutions.ci
@@ -7906,7 +7889,6 @@ magarantie.ci
 magasinscommunautaires.ci
 magasinshark.ci
 magazine.ci
-magazines.ci
 magefci.ci
 magestionpro.ci
 maggi.ci
@@ -8270,7 +8252,6 @@ mgb.ci
 mgci.ci
 mgeups.ci
 mgpgroupeloko.ci
-mgtelecom.ci
 mgtic.ci
 mh.ci
 mhd-shop.ci
@@ -9505,7 +9486,6 @@ pde.ci
 pdp.ci
 pdu.ci
 pe.ci
-peage.ci
 pec.ci
 pecc.ci
 peci.ci
@@ -9779,7 +9759,6 @@ prd.ci
 pre.ci
 pre-commit.ci
 preciousbody.ci
-precix-sarl.ci
 precommit.ci
 prefa-immobilier.ci
 premier6.ci
@@ -11134,6 +11113,7 @@ soditel.ci
 soez.ci
 sofaco.ci
 sofad.ci
+sofascore.ci
 sofdatacc.ci
 sofib.ci
 sofidec.ci
@@ -11971,7 +11951,6 @@ undabidjan.ci
 undiz.ci
 uneaffairedegout.ci
 unetel.ci
-ung.ci
 ungestedart.ci
 uni-confortci.ci
 uniagro.ci
@@ -12310,7 +12289,6 @@ webup.ci
 webuycars.ci
 wecom.ci
 wedze.ci
-weekend.ci
 weenovit.ci
 wehrt.ci
 weichai.ci
@@ -12491,6 +12469,7 @@ yamsgroup.ci
 yana.ci
 yandalux.ci
 yandex.ci
+yang.ci
 yango.ci
 yanka.ci
 yanniservices.ci
