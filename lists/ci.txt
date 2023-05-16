@@ -662,7 +662,6 @@ achatfacile.ci
 achatvente.ci
 acheterivoirien.ci
 achetezvotrevoiture.ci
-aci.ci
 acibadem.ci
 acino.ci
 acipac.ci
@@ -923,6 +922,7 @@ agro225.ci
 agrobio.ci
 agroci.ci
 agrodeveloppementdurable.ci
+agroexpertise.ci
 agroexpertises.ci
 agroforesterie.ci
 agromax.ci
@@ -1259,7 +1259,6 @@ app.ci
 app-immo.ci
 appartement.ci
 appartements.ci
-appcenter.ci
 appeldoffres.ci
 apple.ci
 apple-shop.ci
@@ -1437,6 +1436,7 @@ aswg.ci
 at.ci
 at225.ci
 ata.ci
+atafai-info.ci
 atalian.ci
 atamabou.ci
 atasolution.ci
@@ -2196,6 +2196,7 @@ c2.ci
 c2bgroup.ci
 c2i.ci
 c2sr.ci
+c2tl.ci
 c360.ci
 ca.ci
 cabco.ci
@@ -2756,6 +2757,7 @@ clean.ci
 clean-eburnie.ci
 cleaneburnie.ci
 cleanexpo-abidjan.ci
+cleanmaster.ci
 cleannet.ci
 cleapet.ci
 clertech.ci
@@ -2783,6 +2785,7 @@ clipscan.ci
 cloo.ci
 closeup.ci
 cloud.ci
+cloud225.ci
 cloud4africa.ci
 cloudassur.ci
 cloudcenter.ci
@@ -2932,6 +2935,7 @@ easyhotel.co.ci
 easyview.co.ci
 edited.co.ci
 elipso.co.ci
+esim.co.ci
 eviden.co.ci
 evidian.co.ci
 experimac.co.ci
@@ -3676,11 +3680,9 @@ crbc-cnctpc.ci
 crdi4capec.ci
 crea.ci
 creative.ci
-creative-visuel.ci
 creativeengineering.ci
 creativeintell.ci
 creativejuice.ci
-creativlab.ci
 creditaccess.ci
 creditplus.ci
 credits.ci
@@ -4006,6 +4008,7 @@ diemsante.ci
 dieze.ci
 difin.ci
 digetic.ci
+digi-eye.ci
 digi-store.ci
 digibit.ci
 digicom.ci
@@ -4431,6 +4434,7 @@ ecobiz.ci
 ecocir-abidjan.ci
 ecocuisine.ci
 ecod.ci
+ecodim.ci
 ecoeburnie.ci
 ecofarm.ci
 ecofermedelokoli.ci
@@ -4518,6 +4522,7 @@ croukorhogo.edu.ci
 curat-gmesafrica.edu.ci
 cyberteaching.edu.ci
 dizanpaul.edu.ci
+ecole.edu.ci
 ensea.edu.ci
 epcci.edu.ci
 esaa.edu.ci
@@ -4740,6 +4745,7 @@ elitium.ci
 elitoon.ci
 elixir.ci
 elixo.ci
+ellacouture.ci
 elle.ci
 ellesse.ci
 ellogneeba.ci
@@ -5129,6 +5135,7 @@ fairphone.ci
 faischap.ci
 fajardogroup.ci
 fal.ci
+famien.ci
 famiravoyages.ci
 fan.ci
 fanianbtp.ci
@@ -5153,6 +5160,7 @@ fastlane.ci
 fastresponse.ci
 fat.ci
 fat-holding.ci
+fatoufit.ci
 fau.ci
 faw.ci
 fawtrucks.ci
@@ -5341,6 +5349,7 @@ flyingblue.ci
 flyth.ci
 flywave.ci
 fm-transit.ci
+fmci.ci
 fmmi.ci
 fmovies.ci
 fmp.ci
@@ -5352,7 +5361,6 @@ fnj.ci
 fnls.ci
 fns.ci
 fo.ci
-foa-sarl.ci
 foamtec.ci
 foani.ci
 fobara.ci
@@ -5626,6 +5634,7 @@ geely.ci
 gees-ci.ci
 geige.ci
 gektechservices.ci
+gemacare.ci
 gemaconstruct.ci
 gemaconstuct.ci
 gemasa.ci
@@ -6063,6 +6072,7 @@ health.ci
 healthprojectsafeguardb.ci
 heat.ci
 hebergementweb.ci
+hebotech.ci
 hec.ci
 hecabidjan.ci
 heetch.ci
@@ -6113,6 +6123,7 @@ hitachiaircon.ci
 hitradio.ci
 hj.ci
 hk.ci
+hk2y.ci
 hl.ci
 hlb-construction.ci
 hls.ci
@@ -6154,7 +6165,6 @@ hopitaux.ci
 hopmed.ci
 hora.ci
 horatiu.ci
-horizon.ci
 host.ci
 hostafrica.ci
 hosting.ci
@@ -6435,7 +6445,6 @@ incognitobyafflelou.ci
 incomm.ci
 indabaxcotedivoire.ci
 indexmedia.ci
-india.ci
 indianbynature.ci
 indicametrie.ci
 indice.ci
@@ -6449,6 +6458,7 @@ inetum.ci
 infas.ci
 infasformation.ci
 infasnumeric.ci
+infaspresence.ci
 infirmiers.ci
 influencemag.ci
 influencers.ci
@@ -6740,6 +6750,7 @@ ivoiregranito.ci
 ivoirehumain.ci
 ivoirehydrocarbure.ci
 ivoireken.ci
+ivoirelite.ci
 ivoirelivre.ci
 ivoirelub.ci
 ivoiremail.ci
@@ -7560,6 +7571,7 @@ les-olives-sarl.ci
 les3dms.ci
 lesacacias.ci
 lesaffre.ci
+lesaladdins.ci
 lesamisdesaintjoseph.ci
 lesamispauvres.ci
 lesartisans.ci
@@ -7846,6 +7858,7 @@ macasse.ci
 macave.ci
 macgrae.ci
 machineryline.ci
+machini.ci
 maci.ci
 macie.ci
 macieenligne.ci
@@ -8401,6 +8414,7 @@ monautoecole.ci
 monavis.ci
 monavocat.ci
 monbadjo.ci
+monbara.ci
 monbarasseur.ci
 monbeaupays.ci
 monbebe.ci
@@ -8448,6 +8462,7 @@ monhabitat.ci
 monhotel.ci
 moni.ci
 monicash.ci
+monimmobilier.ci
 monin.ci
 monlhale.ci
 monlivre.ci
@@ -8566,6 +8581,7 @@ msr.ci
 mstb.ci
 mt-solutions.ci
 mtarget.ci
+mtci.ci
 mtco.ci
 mtd.ci
 mtick.ci
@@ -8641,6 +8657,7 @@ mypcs.ci
 mypro.ci
 myprofs.ci
 mys.ci
+mysi.ci
 mysol.ci
 myspace.ci
 mywebsolution.ci
@@ -8822,7 +8839,6 @@ nmci.ci
 nn.ci
 no.ci
 noblemultiservices.ci
-nocash.ci
 node.ci
 noe.ci
 nokia.ci
@@ -9094,7 +9110,6 @@ oneci.ci
 oneconnect.ci
 onemarket.ci
 onemart.ci
-onenoo.ci
 onepci.ci
 oneplus.ci
 oneradio.ci
@@ -9453,6 +9468,7 @@ pathe.ci
 patheo.ci
 patisserie.ci
 patouco-attieke.ci
+patrimoineimmobilier.ci
 paul.ci
 pauleetseshistoires.ci
 pawa.ci
@@ -9759,6 +9775,7 @@ prd.ci
 pre.ci
 pre-commit.ci
 preciousbody.ci
+precix-sarl.ci
 precommit.ci
 prefa-immobilier.ci
 premier6.ci
@@ -10085,6 +10102,7 @@ reconomia.ci
 recq.ci
 recyclage.ci
 recyplast.ci
+red.ci
 redbull.ci
 reddplus.ci
 redmi.ci
@@ -10166,6 +10184,7 @@ resilience.ci
 resiplus.ci
 reso-cotedivoire.ci
 resp.ci
+ressource-recovery-lounge.ci
 restau.ci
 restaurant.ci
 restaurantbanian.ci
@@ -10579,6 +10598,7 @@ seformerautrement.ci
 segc.ci
 segencapital.ci
 segh.ci
+segici.ci
 sehi.ci
 sehiconstructions.ci
 seifa.ci
@@ -10734,7 +10754,6 @@ shopdici.ci
 shopify.ci
 shopifyplus.ci
 shopping.ci
-shoppingdays.ci
 shopservice.ci
 shopway.ci
 shorts.ci
@@ -10994,6 +11013,7 @@ smarthometechnology.ci
 smartic.ci
 smartloggroupe.ci
 smartmarket.ci
+smartmysi.ci
 smartpiscine.ci
 smartprof.ci
 smartretail.ci
@@ -11760,7 +11780,6 @@ totalindustries.ci
 totalmall.ci
 touax.ci
 toubasarl.ci
-touchplusservices.ci
 toumodi.ci
 toupah.ci
 tourex.ci
@@ -12514,6 +12533,7 @@ yeswecange.ci
 yet.ci
 yet-entreprise.ci
 yeyolai.ci
+ygs.ci
 yh.ci
 yhenin.ci
 yi.ci
