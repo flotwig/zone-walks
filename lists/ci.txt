@@ -556,6 +556,7 @@ a-plusivoire.ci
 a0.ci
 a2.ci
 a2gc.ci
+a2kimmobilier.ci
 a2mconseil.ci
 a2s-plus.ci
 a2ztransit.ci
@@ -1120,7 +1121,6 @@ alumni.ci
 alupron.ci
 alwan.ci
 alya.ci
-alycartouche.ci
 alycartouchedigitale.ci
 alycartouches.ci
 alycartourche.ci
@@ -1362,6 +1362,7 @@ asacitechnologies.ci
 asafo.ci
 asafoandco.ci
 asbtp.ci
+ascad.ci
 ascelearning.ci
 ascens-services.ci
 ascoma.ci
@@ -1892,6 +1893,7 @@ billon.ci
 billon2025.ci
 bim.ci
 bim-news.ci
+bima.ci
 bimafrique.ci
 bimgroup.ci
 bimverse.ci
@@ -2541,6 +2543,9 @@ chames.ci
 championbet.ci
 championlubes.ci
 championsacademy.ci
+chancellerie.ci
+chancellerie-federale.ci
+chancelleriefederale.ci
 changanauto.ci
 changecrypto.ci
 chantier.ci
@@ -3272,6 +3277,7 @@ elipso.com.ci
 elpais.com.ci
 entrepreneurs.com.ci
 esavann.com.ci
+esim.com.ci
 etam.com.ci
 etam-lingerie.com.ci
 etamlingerie.com.ci
@@ -6404,7 +6410,6 @@ immo.ci
 immobaked.ci
 immobilierdereve.ci
 immobiliers.ci
-immoci.ci
 immoformation.ci
 immoplus.ci
 imoney.ci
@@ -7063,7 +7068,6 @@ kamay.ci
 kambala-perc.ci
 kameleone.ci
 kametiegroupe.ci
-kamus.ci
 kandgroup.ci
 kandgroupe.ci
 kanegnon.ci
@@ -7372,6 +7376,7 @@ lajfo-uao.ci
 lalanterne.ci
 lalibellule-emploi.ci
 lalorraine.ci
+lamaison.ci
 lamaisondumeuble.ci
 lamaisonpalmier.ci
 lamaisonplus.ci
@@ -7612,6 +7617,7 @@ lets.ci
 letsgo.ci
 letspay.ci
 levci.ci
+levelup.ci
 lever.ci
 levidangeur.ci
 levieperetudiant.ci
@@ -8091,7 +8097,6 @@ matmed.ci
 matos.ci
 matrixbanque.ci
 matt.ci
-mauvagroup-immobilier.ci
 mauvilac.ci
 mavoiturecash.ci
 max.ci
@@ -10476,7 +10481,6 @@ saritel.ci
 sarlmac.ci
 sartem.ci
 sas.ci
-sasi.ci
 sask.ci
 sassandra.ci
 satd.ci
@@ -11866,7 +11870,6 @@ trs-immobilier.ci
 truecar.ci
 truniagen.ci
 trustsign.ci
-trx.ci
 tsa.ci
 tse.ci
 tskstudios.ci
@@ -11980,6 +11983,7 @@ unetel.ci
 ungestedart.ci
 uni-confortci.ci
 uniagro.ci
+unicharl.ci
 uniconfortcotedivoire.ci
 uniconseil.ci
 unicornnetwork.ci
@@ -12091,6 +12095,7 @@ vbs.ci
 vcdi.ci
 vdservices.ci
 ve.ci
+vectis.ci
 vee.ci
 vehiculesadministratifs.ci
 veille-digitale.ci
@@ -12409,6 +12414,7 @@ woodoo.ci
 wordtech.ci
 workcloud.ci
 world.ci
+worldcoin.ci
 worldev.ci
 worldgift.ci
 worldhotel.ci
@@ -12564,7 +12570,6 @@ yop.ci
 yopcitymall.ci
 yoplait.ci
 yopougon.ci
-yoroba.ci
 yotech-africa.ci
 yougo.ci
 yourplan.ci
