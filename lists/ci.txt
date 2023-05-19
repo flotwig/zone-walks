@@ -1244,7 +1244,6 @@ apeme.ci
 apex.ci
 apexmarket.ci
 api.ci
-api-doc.ci
 api-sa.ci
 apicodiv.ci
 apie.ci
@@ -1504,7 +1503,6 @@ audi.ci
 audiotexci.ci
 audirec.ci
 auditinter.ci
-audyshop.ci
 auici.ci
 aupadis.ci
 auparchemin.ci
@@ -3905,7 +3903,6 @@ decoivoire.ci
 decoratep.ci
 decoration.ci
 decorivoire.ci
-deep.ci
 deepcleaning.ci
 defi.ci
 defiepargne.ci
@@ -4351,7 +4348,6 @@ e-stars-editions.ci
 e-store.ci
 e-tourisme.ci
 e-variete.ci
-e-voyage.ci
 e2t.ci
 e3.ci
 e3bat.ci
@@ -5665,6 +5661,7 @@ genietechimmobilier.ci
 genius.ci
 geniusbet.ci
 geniuscompany.ci
+geniusgroups.ci
 gensolutions.ci
 gentleman.ci
 genuis.ci
@@ -7498,7 +7495,6 @@ lecnp.ci
 lecoincafe.ci
 lecoinchicdumoment.ci
 lecoindebaby.ci
-lecoinimmobilier.ci
 lecommercant.ci
 lecommercial.ci
 lecommunicateur.ci
@@ -7715,6 +7711,7 @@ livronschezvous.ci
 ljastore.ci
 lkelectronics.ci
 lkmdigital.ci
+lkms.ci
 lksbtp.ci
 ll.ci
 lm.ci
@@ -8646,7 +8643,6 @@ mycanal.ci
 mycarflix.ci
 myclean.ci
 mycwt.ci
-myfdg.ci
 myfeedback.ci
 myfiducia.ci
 myfitness.ci
@@ -10156,7 +10152,6 @@ renault.ci
 rendeavour.ci
 renergy4all.ci
 renova.ci
-renovaservices.ci
 renovbtp.ci
 rental-car.ci
 rental-cars.ci
