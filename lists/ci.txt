@@ -1086,7 +1086,6 @@ alloconso.ci
 allodoc.ci
 allodocteur.ci
 alloecole.ci
-alloimmo.ci
 allonsauchamp.ci
 allopolice.ci
 alloservice.ci
@@ -1239,7 +1238,6 @@ ao.ci
 ap.ci
 apc.ci
 apcci.ci
-ape.ci
 apeme.ci
 apex.ci
 apexmarket.ci
@@ -2234,6 +2232,7 @@ cafecacao.ci
 caferimbaud.ci
 cafesbondin.ci
 cafopyakro.ci
+caftan.ci
 caftic-istc.ci
 cagrh.ci
 caic.ci
@@ -2495,6 +2494,7 @@ certification.ci
 certificatssl.ci
 certys.ci
 cervo.ci
+cesam.ci
 cessi.ci
 cestici.ci
 cestmoinscher.ci
@@ -2737,7 +2737,6 @@ citv.ci
 citybeachauto.ci
 civ-climat.ci
 civ2023.ci
-civagrihack.ci
 civdjerba2022.ci
 civi.ci
 civix.ci
@@ -2775,6 +2774,7 @@ clickimmo.ci
 clikodoc.ci
 clim225.ci
 climatech.ci
+climatisation.ci
 clindoeiloptique.ci
 clinerience.ci
 clinik.ci
@@ -2812,7 +2812,6 @@ cmamanvi.ci
 cmao.ci
 cmbellevue.ci
 cmci.ci
-cmcs.ci
 cmecespoir.ci
 cmed.ci
 cmgc.ci
@@ -3728,7 +3727,6 @@ crporo.ci
 crs.ci
 crw.ci
 crypto.ci
-crypto-exchange.ci
 cryptomonnaie.ci
 cryptos.ci
 cryptoway.ci
@@ -3902,6 +3900,7 @@ decoci.ci
 decoivoire.ci
 decoratep.ci
 decoration.ci
+decorex.ci
 decorivoire.ci
 deepcleaning.ci
 defi.ci
@@ -4877,6 +4876,7 @@ epea.ci
 eperlan.ci
 epermis.ci
 epharmaciv.ci
+epi.ci
 epicerie-epicure.ci
 epicesdegraces.ci
 epicure.ci
@@ -5271,6 +5271,8 @@ file.ci
 fillesdafrique.ci
 film.ci
 filtisac.ci
+fimda.ci
+fimthai.ci
 fin.ci
 fin-invest.ci
 fin-market.ci
@@ -5602,7 +5604,6 @@ gborogbata.ci
 gbrsarl.ci
 gbs.ci
 gbtp.ci
-gccn.ci
 gci-vision.ci
 gcl.ci
 gcliniquedokui.ci
@@ -5891,7 +5892,6 @@ greatwall.ci
 green-app.ci
 greendays.ci
 greenenergy.ci
-greenhouse.ci
 greenlight.ci
 greenmotion.ci
 greenn.ci
@@ -6145,6 +6145,7 @@ holan.ci
 holcim.ci
 hollywood.ci
 holytech.ci
+holyvision.ci
 home.ci
 homedepot.ci
 homega.ci
@@ -6213,6 +6214,7 @@ hrconsultingco.ci
 hrmotors.ci
 hs.ci
 hs-usac-ephd.ci
+hse.ci
 hsesecurite.ci
 hsms.ci
 hstudios.ci
@@ -7627,7 +7629,6 @@ lexterra.ci
 lexways.ci
 leycom.ci
 lf.ci
-lfg.ci
 lg.ci
 lga.ci
 lgbf.ci
@@ -8002,6 +8003,9 @@ mangrove.ci
 manhattans.ci
 manika.ci
 manioc.ci
+mannequin.ci
+mannequinat.ci
+mannequins.ci
 mano.ci
 manod.ci
 manoelectric.ci
@@ -8259,6 +8263,7 @@ metiers.ci
 metiersdici.ci
 metro.ci
 metropole.ci
+meubles.ci
 mevtic.ci
 mexc.ci
 mexico.ci
@@ -9837,6 +9842,7 @@ prixkdo.ci
 prizen.ci
 pro.ci
 pro-fond.ci
+pro-juriste.ci
 pro-neo.ci
 proactive.ci
 probo.ci
@@ -10145,7 +10151,6 @@ relaxdays.ci
 relux.ci
 remediumdoloris.ci
 rems.ci
-remuci.ci
 ren.ci
 renaissancefarms.ci
 renault.ci
@@ -10285,7 +10290,6 @@ roborock.ci
 roche.ci
 rockrider.ci
 rockstone-gold.ci
-rodecconseils.ci
 rogci.ci
 roidesrois.ci
 rolex.ci
@@ -10437,6 +10441,7 @@ sanfe.ci
 sangafowa.ci
 sani.ci
 sania.ci
+sanko.ci
 sanlam.ci
 sanlam-allianz.ci
 sanlamallianz.ci
@@ -11309,6 +11314,7 @@ spikevax.ci
 spiral.ci
 spitec.ci
 spoc.ci
+spolecznos.ci
 spoly.ci
 sport.ci
 sport-ivoire.ci
@@ -11664,6 +11670,7 @@ teyliom.ci
 tezie.ci
 tf.ci
 tfa.ci
+tgmpanel.ci
 tgr.ci
 tgtx.ci
 th.ci
@@ -11777,6 +11784,7 @@ topimmo-design.ci
 topjob.ci
 topmariage.ci
 topmoteur.ci
+topographie.ci
 topwork.ci
 toshiba.ci
 total-energies.ci
@@ -11983,6 +11991,7 @@ uniconfortcotedivoire.ci
 uniconseil.ci
 unicornnetwork.ci
 unieveem.ci
+unifab-abidjan.ci
 unifood.ci
 unifund.ci
 unikcgroupe.ci
@@ -12093,7 +12102,6 @@ ve.ci
 vectis.ci
 vee.ci
 vehiculesadministratifs.ci
-veille-digitale.ci
 veillesanitaire.ci
 vektor.ci
 velma-sas.ci
@@ -12420,6 +12428,7 @@ wowedjowobin.ci
 woyo.ci
 woyoo.ci
 woyovtc.ci
+wp.ci
 wpcloud.ci
 wplay.ci
 wr.ci
@@ -12602,7 +12611,6 @@ zaity.ci
 zaka.ci
 zakat.ci
 zakkamultitec.ci
-zandoo.ci
 zanzan.ci
 zao.ci
 zaouli.ci
