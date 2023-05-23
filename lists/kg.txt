@@ -321,6 +321,7 @@ aeg.kg
 aeg-electrolux.kg
 aek.kg
 aero.kg
+aeroadv.kg
 aerokassa.kg
 aerokyrgyzstan.kg
 aerolab.kg
@@ -371,6 +372,7 @@ agrokush.kg
 agrolife.kg
 agroline.kg
 agromaidan.kg
+agromarket.kg
 agronomica.kg
 agronova.kg
 agroprod.kg
@@ -618,6 +620,7 @@ alimcapital.kg
 alina.kg
 alipolicy.kg
 alisport.kg
+alivewater.kg
 alivewaters.kg
 aliya.kg
 aliyafurs.kg
@@ -902,7 +905,6 @@ aquamaris.kg
 aquamedtek.kg
 aquameel.kg
 aquaplast.kg
-aquaservice.kg
 aquastars.kg
 aquastroy.kg
 aquastyle.kg
@@ -1064,6 +1066,7 @@ asiabrend.kg
 asiacapital.kg
 asiaclear.kg
 asiaconsulting.kg
+asiaes.kg
 asiaexpress.kg
 asiagoal.kg
 asiagroup.kg
@@ -1365,6 +1368,7 @@ avtostart.kg
 avtotop.kg
 avtousta.kg
 avtovokzal.kg
+avtovorota.kg
 avtovyshka.kg
 avtozapchast.kg
 avzur.kg
@@ -1638,9 +1642,12 @@ belek.kg
 beles.kg
 belgi.kg
 belinda.kg
+belisimo.kg
 belisimopizza.kg
+belissimo.kg
 belissimopizza.kg
 belkompost.kg
+bellisimo.kg
 bellisimopizza.kg
 bellissimo.kg
 bellissimopizza.kg
@@ -1888,6 +1895,7 @@ biz-jenebiz.kg
 bizall.kg
 bizdin.kg
 bizexpert.kg
+bizlaw.kg
 bizmaster.kg
 biznes.kg
 biznes-plan.kg
@@ -2969,6 +2977,7 @@ dodopizza.kg
 dogaltrm.kg
 dogovor.kg
 dogtas.kg
+dogtash.kg
 doinggood.kg
 dokadveri.kg
 doke.kg
@@ -3285,6 +3294,7 @@ elcargo.kg
 elcars-club.kg
 elcart.kg
 elcat.kg
+elchytrans.kg
 elcom.kg
 elcrypto.kg
 eldemi.kg
@@ -3699,6 +3709,7 @@ faiza.kg
 fakir.kg
 fakt.kg
 falcon.kg
+falcon-railas.kg
 falconlogistic.kg
 falkor.kg
 family.kg
@@ -4306,6 +4317,7 @@ gorenje.kg
 gorespdigihaler.kg
 gorillagym.kg
 gorkenesh.kg
+gorod.kg
 gorodissky.kg
 gorodmasterov.kg
 gos.kg
@@ -4834,6 +4846,7 @@ iiko.kg
 iikosoftware.kg
 iip.kg
 ik-muras.kg
+ika.kg
 ikassa.kg
 ikea.kg
 ikgolf.kg
@@ -4883,6 +4896,7 @@ imey.kg
 immergas.kg
 immobilien.kg
 imo.kg
+imomo.kg
 imomohub.kg
 imou.kg
 imperator.kg
@@ -5127,8 +5141,6 @@ ishte.kg
 isito.kg
 isk.kg
 iskander-service-co.kg
-iskender.kg
-iskenderov.kg
 iskushenie.kg
 islam-kurulush.kg
 islamdini.kg
@@ -6298,7 +6310,6 @@ lnelectronic.kg
 lnmc.kg
 loads-today.kg
 local.kg
-location.kg
 locator.kg
 loccitane.kg
 locinox.kg
@@ -6515,6 +6526,7 @@ marcopolo.kg
 marcosantoni.kg
 mardan.kg
 marella.kg
+marinemenkar.kg
 mark.kg
 mark-six.kg
 marka-audit.kg
@@ -7363,7 +7375,6 @@ newsline.kg
 newstar.kg
 newton.kg
 newtravel.kg
-newtv.kg
 newyork.kg
 newyorker.kg
 nex.kg
@@ -7598,6 +7609,7 @@ ofd24.kg
 off-road.kg
 office.kg
 office-expert.kg
+office-spa.kg
 officeexpert.kg
 officehr.kg
 officepoint.kg
@@ -7607,6 +7619,7 @@ offspring24.kg
 ogmap.kg
 ogo.kg
 ogogo.kg
+ogogoacademy.kg
 ogpi.kg
 ogurchik.kg
 ohb.kg
@@ -8101,6 +8114,7 @@ piano.kg
 piazzadoro.kg
 pickwick.kg
 pie.kg
+pik.kg
 pikir.kg
 pikir-klub.kg
 pikovit.kg
@@ -8160,6 +8174,7 @@ pl18.kg
 pl23.kg
 pl26.kg
 pl31.kg
+pl33.kg
 pl34.kg
 pl37.kg
 pl43.kg
@@ -8168,7 +8183,7 @@ pl57.kg
 pl59.kg
 pl61.kg
 pl65.kg
-pl67.kg
+pl91.kg
 pl97.kg
 plagiat.kg
 planbaby.kg
@@ -8182,6 +8197,7 @@ plantronics.kg
 plasform.kg
 plastic.kg
 plastic-surgery.kg
+plastilux.kg
 platform.kg
 platforma.kg
 plath.kg
@@ -8196,7 +8212,6 @@ plazahotel.kg
 plazmamarket.kg
 plg.kg
 plomba.kg
-ploskostopie.kg
 plov.kg
 pls47.kg
 pls98.kg
@@ -8502,7 +8517,6 @@ putevka.kg
 puzzle.kg
 pvc.kg
 pwc.kg
-pyramida.kg
 q.kg
 q-matic.kg
 qalife.kg
@@ -8613,6 +8627,7 @@ rct.kg
 rctoys.kg
 rcut.kg
 rd.kg
+rdevice.kg
 rdf.kg
 rdfgroup.kg
 rdfmap.kg
@@ -8976,6 +8991,7 @@ samarsky.kg
 samatplast.kg
 sambo.kg
 samimed.kg
+samokat.kg
 sams-club.kg
 samsaland.kg
 samsclub.kg
@@ -9111,7 +9127,6 @@ seico.kg
 seidikum.kg
 seismo.kg
 selfcarespace.kg
-selfy3d.kg
 selicosm.kg
 selim.kg
 selin.kg
@@ -10581,6 +10596,7 @@ uk.kg
 ukrpersonal.kg
 ukschuy.kg
 uksus.kg
+uku.kg
 ukuk.kg
 ulak.kg
 ulan-cholponbaev.kg
@@ -10796,6 +10812,7 @@ vegatv.kg
 vegold.kg
 veikk.kg
 vektor-energy.kg
+velleahome.kg
 velo.kg
 veloclub.kg
 velomesto.kg
@@ -10968,9 +10985,11 @@ volvotrucks.kg
 vonage.kg
 voopoo.kg
 vorota.kg
+vorotahouse.kg
 vosmerochka.kg
 vosst.kg
 vostok-7.kg
+vostok-invest-group.kg
 vostok7.kg
 vostokelectro.kg
 vostokmed.kg
@@ -11078,7 +11097,6 @@ welcometo.kg
 welder.kg
 welding.kg
 wellastore.kg
-wellmat.kg
 wellservice.kg
 wellsfargo.kg
 weniger.kg
@@ -11237,6 +11255,7 @@ yasin.kg
 yasintv.kg
 yatas.kg
 yataxi.kg
+ydoc.kg
 yealink.kg
 yel.kg
 yes.kg
