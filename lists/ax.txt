@@ -1004,6 +1004,7 @@ degamlashem.ax
 degerbygasthamn.ax
 degersand.ax
 dehaas.ax
+dekoora.ax
 delicatessen.ax
 deluxe.ax
 delvik.ax
@@ -1937,6 +1938,7 @@ jk.ax
 jl.ax
 jm.ax
 jmp.ax
+jmpr.ax
 jn.ax
 jo.ax
 joan.ax
@@ -2111,6 +2113,7 @@ konsulten.ax
 kontoret.ax
 kop.ax
 koppargrytan.ax
+kortrutt.ax
 korttelikeittio.ax
 korttelikeittiot.ax
 kosttillskott.ax
@@ -2364,6 +2367,7 @@ marievet.ax
 marin.ax
 marinahamnsundet.ax
 marinan.ax
+marinbolaget.ax
 marineparts.ax
 marineshop.ax
 maritime.ax
@@ -2485,6 +2489,7 @@ minafrimarken.ax
 mini-taxi.ax
 minim.ax
 minimax.ax
+minm.ax
 minna.ax
 minsida.ax
 minska.ax
@@ -2749,6 +2754,7 @@ olsen.ax
 om.ax
 omakanta.ax
 omalleys.ax
+omaolo.ax
 ombudsman.ax
 omgh.ax
 omniserv.ax
@@ -2933,6 +2939,7 @@ post.ax
 postcrossingforening.ax
 posten.ax
 postit.ax
+postochtullhuset.ax
 ppmclean.ax
 pr.ax
 pr-media.ax
@@ -3274,6 +3281,7 @@ sittkoffs.ax
 sittkoffska.ax
 size.ax
 sjalvklar.ax
+sjalvstyrtlarande.ax
 sjhlm.ax
 sjoentreprenad.ax
 sjofart.ax
@@ -3597,7 +3605,6 @@ taxklubben.ax
 taycan.ax
 tb.ax
 tbmarin.ax
-tc.ax
 tca.ax
 td.ax
 te.ax
@@ -4036,6 +4043,7 @@ xn--bt-yia.ax
 xn--btfrvaring-15a0s.ax
 xn--byggaitr-7za.ax
 xn--citytandvrden-xfb.ax
+xn--con-tla.ax
 xn--da-xia.ax
 xn--elnt-noa.ax
 xn--fglwrdshus-t5a6sc.ax
