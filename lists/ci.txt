@@ -555,12 +555,14 @@ a-plus-ivoire.ci
 a-plusivoire.ci
 a0.ci
 a2.ci
+a2a.ci
 a2gc.ci
 a2kimmobilier.ci
 a2mconseil.ci
 a2s-plus.ci
 a2ztransit.ci
 a3.ci
+a6a.ci
 a8.ci
 a9.ci
 aa.ci
@@ -1140,7 +1142,6 @@ amazongo.ci
 amazonprintz.ci
 amb.ci
 ambacongo.ci
-ambalg.ci
 ambaliban.ci
 ambitioncompany.ci
 amcc.ci
@@ -1236,6 +1237,7 @@ anviso.ci
 anywr.ci
 ao.ci
 ap.ci
+apatam.ci
 apc.ci
 apcci.ci
 apeme.ci
@@ -1409,9 +1411,15 @@ assougboetassocies.ci
 assoya.ci
 assoyacar.ci
 assoyemi-showroom.ci
+assurance-auto.ci
 assurance-comar.ci
+assurance-digitale.ci
+assuranceauto.ci
+assuranceautodigitale.ci
 assurancecomar.ci
+assurancedigitale.ci
 assurances-comar.ci
+assurancesauto.ci
 assurancescomar.ci
 assurancevoyage.ci
 assureus.ci
@@ -1555,6 +1563,7 @@ av7y.ci
 ava.ci
 avancix.ci
 avatclaims.ci
+aveclecoeur.ci
 avedis.ci
 avedist.ci
 avene.ci
@@ -1943,6 +1952,7 @@ blaastrom.ci
 blablacar.ci
 blackandbrawn.ci
 blackdiamond.ci
+blackhawk.ci
 blackmarket.ci
 blackpepper.ci
 blackscorpions.ci
@@ -3755,6 +3765,7 @@ csuite.ci
 csylla.ci
 ctc.ci
 ctech.ci
+cten.ci
 ctimmobiliers.ci
 ctrl.ci
 cu.ci
@@ -4413,7 +4424,6 @@ eburtis-dev.ci
 ebusupport.ci
 ebytel.ci
 ec.ci
-ecarassurances.ci
 ecb-construction.ci
 ecco.ci
 ecfa.ci
@@ -4624,6 +4634,7 @@ eect.ci
 ef.ci
 efa-multiservices.ci
 efapel.ci
+efc.ci
 efcaci.ci
 efci.ci
 efemme.ci
@@ -4744,6 +4755,7 @@ elitemodels.ci
 elitemultimedia.ci
 eliteprint.ci
 elitesat.ci
+eliteservices.ci
 elitexpress.ci
 elitium.ci
 elitoon.ci
@@ -5363,6 +5375,7 @@ fnac.ci
 fninfo.ci
 fnj.ci
 fnls.ci
+fnpdcp.ci
 fns.ci
 fo.ci
 foamtec.ci
@@ -6092,6 +6105,7 @@ hellomoto.ci
 hellooccaz.ci
 hempel.ci
 henricartan.ci
+herassou.ci
 herbstore.ci
 herc.ci
 hercules.ci
@@ -6157,7 +6171,6 @@ honda.ci
 honest-cashew.ci
 hong.ci
 honk.ci
-honneursaintesprit.ci
 honor.ci
 honorimmobilier.ci
 hope-clean.ci
@@ -6583,6 +6596,7 @@ invoi.ci
 io.ci
 ioa.ci
 iodi.ci
+iom-int.ci
 ios.ci
 iot.ci
 ip.ci
@@ -6668,6 +6682,7 @@ it-formations.ci
 it-smart.ci
 ita.ci
 ita-educ.ci
+ita-education.ci
 ita-groupe.ci
 itaconseils.ci
 itaeducation.ci
@@ -6695,7 +6710,6 @@ itscotedivoire.ci
 itsgb.ci
 itsgroup.ci
 itshop.ci
-itsm.ci
 itsp.ci
 itswa.ci
 itunesexpress.ci
@@ -6759,6 +6773,7 @@ ivoiremail.ci
 ivoiremobile.ci
 ivoiremobiles.ci
 ivoiremoney.ci
+ivoiremotor.ci
 ivoirenetworkimmobiler.ci
 ivoirenewspaper.ci
 ivoireprudentsecurite.ci
@@ -6850,6 +6865,7 @@ janislab.ci
 jaquar.ci
 jardingourmandplus.ci
 jardinpro.ci
+jassuremonauto.ci
 jasystore.ci
 javascript.ci
 javsub.ci
@@ -6920,6 +6936,7 @@ jexporte.ci
 jexprim.ci
 jf.ci
 jfac.ci
+jfp-award.ci
 jg.ci
 jh.ci
 jhbmanc.ci
@@ -7339,6 +7356,7 @@ lacasa.ci
 lacase.ci
 lacavedejonas.ci
 lachatte.ci
+laclass.ci
 laconception.ci
 lacoste.ci
 lacotedivoireagricole.ci
@@ -7483,6 +7501,7 @@ lebrico.ci
 lecaiman225.ci
 lecarbone.ci
 lecesec.ci
+lecharpentier.ci
 leci.ci
 lecim-examens.ci
 lecnp.ci
@@ -7785,6 +7804,7 @@ loxea.ci
 lp.ci
 lq.ci
 lr.ci
+lrc.ci
 ls-groupe.ci
 lsb.ci
 lsca.ci
@@ -8130,12 +8150,9 @@ mcvk.ci
 mda.ci
 mdc.ci
 mde.ci
-mdenergy.ci
 mdi.ci
 mdkassamba.ci
-mdpartners.ci
 mdsgroup.ci
-mdtech.ci
 me.ci
 meav.ci
 mecalux.ci
@@ -8267,6 +8284,7 @@ mgb.ci
 mgci.ci
 mgeups.ci
 mgpgroupeloko.ci
+mgtelecom.ci
 mgtic.ci
 mh.ci
 mhd-shop.ci
@@ -8299,6 +8317,8 @@ mikrotik.ci
 mil.ci
 milane.ci
 milaroses.ci
+milcva.ci
+mildove.ci
 milele.ci
 mili.ci
 milie.ci
@@ -8314,6 +8334,7 @@ minapat.ci
 minashop.ci
 mind.ci
 mindtech.ci
+mindtech-webdesign.ci
 minef.ci
 minelli.ci
 minerva-contruction.ci
@@ -8366,6 +8387,7 @@ mobileauto.ci
 mobilekoonet.ci
 mobilemarket.ci
 mobilemoney.ci
+mobileoutfitters.ci
 mobileplus.ci
 mobilerecharge.ci
 mobili.ci
@@ -8515,7 +8537,6 @@ moov-africa.ci
 moovafrica.ci
 moovmoney.ci
 moovs.ci
-mooya.ci
 morana.ci
 morecast.ci
 mori-sawarila.ci
@@ -8893,6 +8914,7 @@ nouvian.ci
 nova-medigroupe.ci
 novacoin.ci
 novapole.ci
+novasac.ci
 novashop.ci
 novasoft.ci
 novastore.ci
@@ -9304,7 +9326,6 @@ orizon.ci
 orkin.ci
 orman.ci
 oroks.ci
-orphelinatlamaintendue.ci
 orpi.ci
 orrick.ci
 orrick-rci.ci
@@ -9651,6 +9672,7 @@ planethoster.ci
 plaquivoire.ci
 plastock.ci
 plateau.ci
+plateau-cotedivoire.ci
 plateforme.ci
 platinum.ci
 platinumpower.ci
@@ -10219,6 +10241,7 @@ rhcomgroup.ci
 rhcomgroupeloko.ci
 rhconnect.ci
 rhdp-bouake.ci
+rhdpofficiel.ci
 rhea.ci
 rhema.ci
 rhmag.ci
@@ -10424,7 +10447,6 @@ san-gel.ci
 san-marina.ci
 sana-sa.ci
 sanate.ci
-sanbusinessimmo.ci
 sandbox.ci
 sandever.ci
 sando.ci
@@ -10789,6 +10811,7 @@ sicablepirelli.ci
 sicca.ci
 siccao.ci
 sicd.ci
+siceb.ci
 sico.ci
 sicobel.ci
 sicodef.ci
@@ -11188,6 +11211,7 @@ solarpowertechnics.ci
 solfegeproduction.ci
 solibra.ci
 solibrachezvous.ci
+solidaires.ci
 solidarite.ci
 solivoire.ci
 sollium.ci
@@ -11451,7 +11475,6 @@ supergooal.ci
 superkart.ci
 superlife.ci
 superlock.ci
-superpromo.ci
 supersport.ci
 supersportbet.ci
 supersportbets.ci
@@ -11570,7 +11593,6 @@ tchalla.ci
 tchamantv.ci
 tchatche.ci
 tchedal.ci
-tchegbao.ci
 tchoyaimmo.ci
 tci.ci
 tcom.ci
@@ -11685,13 +11707,13 @@ theonly.ci
 thepractice-bs.ci
 theresidence.ci
 thescore.ci
-thessa.ci
 theteam.ci
 thetushirsjewelry.ci
 thevillage.ci
 thgroupeloko.ci
 thinktank.ci
 thomas.ci
+thsp.ci
 thursdaydigital.ci
 thysner.ci
 ti.ci
@@ -12093,7 +12115,6 @@ vdservices.ci
 ve.ci
 vectis.ci
 vee.ci
-vehiculesadministratifs.ci
 veillesanitaire.ci
 vektor.ci
 velma-sas.ci
@@ -12223,6 +12244,8 @@ voomstore.ci
 vooz.ci
 votresite.ci
 voucher.ci
+vovegroup.ci
+vovegroupe.ci
 voyage.ci
 voyages.ci
 voza.ci
@@ -12595,6 +12618,7 @@ yutong.ci
 yveo.ci
 yves-rocher.ci
 yvesrocher.ci
+yy.ci
 yz.ci
 z2.ci
 zac.ci
