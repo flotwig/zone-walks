@@ -853,6 +853,7 @@ afriregister.ci
 afritechsol.ci
 afritransport.ci
 afrivente.ci
+afro.ci
 afrogeek.ci
 afrogeeks.ci
 afrolead.ci
@@ -1061,6 +1062,7 @@ alizes-rh.ci
 aljamilevents.ci
 aljawad.ci
 alkimia.ci
+allaboutevents.ci
 allaya-conseil.ci
 allcommoditiescompany.ci
 allegion.ci
@@ -1137,6 +1139,7 @@ amari.ci
 amaspices.ci
 amath.ci
 amavi.ci
+amazing.ci
 amazon.ci
 amazongo.ci
 amazonprintz.ci
@@ -1466,6 +1469,7 @@ atlanta-assurance.ci
 atlanta-assurances.ci
 atlantaassurance.ci
 atlantaassurances.ci
+atlanticcom.ci
 atlanticmicrofinance.ci
 atlantique.ci
 atlantique-assurancevie.ci
@@ -2087,6 +2091,7 @@ bourseagricole.ci
 bouta.ci
 boutique-premium.ci
 boutiquedefoot.ci
+boutiquepaysanne.ci
 boutiquepc.ci
 bouygues-energies-services.ci
 bouygues-es.ci
@@ -2248,7 +2253,6 @@ cagrh.ci
 caic.ci
 caidp.ci
 caimpex.ci
-caisse.ci
 caissepargne.ci
 cajou.ci
 cak-avocats.ci
@@ -2505,6 +2509,7 @@ certificatssl.ci
 certys.ci
 cervo.ci
 cesam.ci
+cesec.ci
 cessi.ci
 cestici.ci
 cestmoinscher.ci
@@ -2531,7 +2536,6 @@ cge.ci
 cgeci.ci
 cgeciv.ci
 cgekassirichard.ci
-cgekr.ci
 cgem.ci
 cgesn.ci
 cgfcc.ci
@@ -3115,6 +3119,7 @@ cocodeal.ci
 cocodyautrement.ci
 cocojoyce.ci
 coconutvillage.ci
+cod.ci
 codci.ci
 codcouleur.ci
 code.ci
@@ -4064,6 +4069,7 @@ digitalsun.ci
 digitaltransit.ci
 digitalubuntu.ci
 digitaly.ci
+digitalyst.ci
 digitapp.ci
 digitarstudio.ci
 digitaxcollect.ci
@@ -4097,7 +4103,6 @@ directoffice.ci
 directsoft.ci
 directtechnologies.ci
 direnergie.ci
-dirkk.ci
 dis.ci
 disc.ci
 disciplesemmaus.ci
@@ -4789,7 +4794,6 @@ emeis-agency.ci
 emeraude.ci
 emergen.ci
 emergence.ci
-emergence-economique.ci
 emergim.ci
 emerginov.ci
 emergys.ci
@@ -4896,6 +4900,7 @@ epitech.ci
 eplanification-gboguhe.ci
 epmn.ci
 epresse.ci
+epretbancaire.ci
 epson.ci
 epui.ci
 epvexcellence.ci
@@ -6040,6 +6045,7 @@ gztaxisconnect.ci
 gztechnology.ci
 h-zprojects.ci
 h1cicmu.ci
+h24resa.ci
 h24services.ci
 h2cicmu.ci
 h6.ci
@@ -6175,7 +6181,6 @@ honor.ci
 honorimmobilier.ci
 hope-clean.ci
 hopeclean.ci
-hopfarmer.ci
 hopital.ci
 hopitaldidierdrogba.ci
 hopitaux.ci
@@ -6415,6 +6420,7 @@ img.ci
 imgh.ci
 imghcotedivoire.ci
 immauto.ci
+immer-home.ci
 immo.ci
 immobaked.ci
 immobilierdereve.ci
@@ -8150,13 +8156,17 @@ mcvk.ci
 mda.ci
 mdc.ci
 mde.ci
+mdenergy.ci
 mdi.ci
 mdkassamba.ci
+mdpartners.ci
 mdsgroup.ci
+mdtech.ci
 me.ci
 meav.ci
 mecalux.ci
 mecano.ci
+mecci.ci
 med.ci
 medcy.ci
 medecin.ci
@@ -8277,6 +8287,7 @@ mexc.ci
 mexico.ci
 mffe.ci
 mffe-unfpa.ci
+mfi.ci
 mfo.ci
 mfp.ci
 mgasps.ci
@@ -8628,6 +8639,7 @@ mtnsdp.ci
 mtntvtalentshow.ci
 mu.ci
 mu2s.ci
+muaythai.ci
 mucab.ci
 mucrefbo.ci
 mudci.ci
@@ -9379,6 +9391,7 @@ oxelo.ci
 oxiane.ci
 oxo.ci
 oxo-digital.ci
+oxygen.ci
 oxygeo.ci
 oxylane.ci
 oy.ci
@@ -9469,7 +9482,6 @@ paroisse.ci
 paroissesaintebernadettebingerville.ci
 paroissesaintkizito.ci
 parquetgeneral-cs.ci
-participationcitoyenne.ci
 partisans.ci
 party.ci
 pasp.ci
@@ -9486,6 +9498,7 @@ passpro-app.ci
 pasteur.ci
 pastis-51.ci
 pastis51.ci
+patchwork.ci
 patesmaman.ci
 pathe.ci
 patheo.ci
@@ -10073,6 +10086,7 @@ rama-sa.ci
 ramatek.ci
 ramps.ci
 ramtel.ci
+rancards.ci
 randa.ci
 randmerchantbank.ci
 rapido.ci
@@ -10530,6 +10544,7 @@ scaso.ci
 scb.ci
 scc.ci
 scci.ci
+sccigaz.ci
 scd.ci
 scenario.ci
 schama-prod.ci
@@ -11363,7 +11378,6 @@ ssgroup.ci
 ssoe.ci
 sspabidjan.ci
 sst.ci
-sta.ci
 stac.ci
 stadedabidjan.ci
 stage.ci
@@ -12156,7 +12170,6 @@ victoire.ci
 victoireimmobilier.ci
 victoria.ci
 victoriatheolinda.ci
-videobudget.ci
 vidivi.ci
 vie-investment.ci
 vie-scolaire.ci
@@ -12525,8 +12538,8 @@ yango.ci
 yanka.ci
 yanniservices.ci
 yaoemmanuel.ci
+yaoparfait48.ci
 yara.ci
-yaramo-immobilier.ci
 yasmina.ci
 yassboutique.ci
 yasse.ci
