@@ -77,7 +77,7 @@
       "zone": "hosting"
     },
     {
-      "domains": "2155",
+      "domains": "2153",
       "zone": "pr"
     },
     {
@@ -149,5 +149,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2645896"
+  "total": "2645894"
 }
