@@ -361,6 +361,7 @@ agro-expertise.kg
 agro-group.kg
 agro-market.kg
 agrobaza.kg
+agrochemical.kg
 agrodeer.kg
 agroexpert.kg
 agroexpo.kg
@@ -410,6 +411,7 @@ aifusion.kg
 aigine.kg
 aigultrade.kg
 aiisha.kg
+aik.kg
 aikido.kg
 aikol.kg
 ailana.kg
@@ -571,7 +573,6 @@ albuss.kg
 alby.kg
 alc.kg
 alcatel-lucent.kg
-alcha.kg
 alco.kg
 alcon.kg
 alcor.kg
@@ -597,6 +598,7 @@ alfalombard.kg
 alfamebel01.kg
 alfamotors.kg
 alfapetroleum.kg
+alfastroygroup.kg
 alfatranslation.kg
 algaexpress.kg
 algar.kg
@@ -705,6 +707,7 @@ altamira.kg
 altaylar.kg
 altcode.kg
 alteco.kg
+altegio.kg
 altera.kg
 altermed.kg
 altn.kg
@@ -897,7 +900,6 @@ aquades.kg
 aquadetrim.kg
 aquafilter.kg
 aqualab.kg
-aqualand.kg
 aqualife.kg
 aqualine.kg
 aqualink.kg
@@ -2437,6 +2439,7 @@ cityhotel.kg
 citylab.kg
 citylife.kg
 citynet.kg
+citypay.kg
 civicspacemonitor.kg
 ckggup.kg
 clariant.kg
@@ -2636,6 +2639,7 @@ crypto-wallet.kg
 cryptochange.kg
 cryptoplus.kg
 crystal.kg
+crystalbay.kg
 crystallux.kg
 crystalwater.kg
 cs.kg
@@ -2946,7 +2950,6 @@ dk.kg
 dk-master.kg
 dl.kg
 dm.kg
-dmax.kg
 dmed.kg
 dmg.kg
 dms.kg
@@ -3193,7 +3196,6 @@ ecomelt.kg
 ecommerce.kg
 ecomobile.kg
 econom.kg
-economics.kg
 economist.kg
 economstroy.kg
 economy.kg
@@ -3637,7 +3639,6 @@ evrika.kg
 evro-market.kg
 evrogips.kg
 evrookna.kg
-evroopt.kg
 evropa.kg
 evrotur.kg
 evrovagonka.kg
@@ -4071,6 +4072,7 @@ gadget.kg
 gagarin.kg
 gagsmsu.kg
 galagroup.kg
+galan.kg
 galanttrade.kg
 galanz.kg
 galazolin.kg
@@ -4165,7 +4167,6 @@ general-akmatov.kg
 generalpro.kg
 generaltrading.kg
 generator.kg
-generators.kg
 geo.kg
 geo-sm.kg
 geo-sp.kg
@@ -4277,8 +4278,6 @@ gmbh.kg
 gmc.kg
 gmpk.kg
 gms.kg
-gnh.kg
-gnomik.kg
 go.kg
 gobazar.kg
 gobus.kg
@@ -4388,6 +4387,7 @@ greenenergy.kg
 greenenergyplus.kg
 greenex.kg
 greengarden.kg
+greengrace.kg
 greengroup.kg
 greenhouse.kg
 greenland.kg
@@ -4431,6 +4431,7 @@ gsk.kg
 gso.kg
 gspa.kg
 gsrelectrocar.kg
+gt.kg
 gtf.kg
 gti.kg
 gtl.kg
@@ -5148,6 +5149,7 @@ iskender.kg
 iskenderov.kg
 iskushenie.kg
 islam-kurulush.kg
+islamdini.kg
 islamico.kg
 islamicofin.kg
 islamicostore.kg
@@ -5500,7 +5502,6 @@ karaca.kg
 karagat.kg
 karagay.kg
 karakol.kg
-karakol-city.kg
 karakol-ski.kg
 karakol-velopark.kg
 karakolka.kg
@@ -5803,7 +5804,6 @@ kofe.kg
 kogart.kg
 kohler.kg
 kohlerpowersystems.kg
-koin.kg
 kok-jar-aimak.kg
 kokboru.kg
 koketka.kg
@@ -6060,6 +6060,7 @@ kyrseff.kg
 kyrtag.kg
 kyzmat.kg
 kyzmat-geo.kg
+kyzyl-kiya.kg
 kyzyl-ozgorush.kg
 kyzyl-suu.kg
 kyzyl-tuu.kg
@@ -6386,7 +6387,6 @@ lubricants-oil.kg
 lubrication.kg
 luch.kg
 luckru.kg
-luckys.kg
 luisaspagnoli.kg
 luluhotel.kg
 lumen.kg
@@ -7312,7 +7312,6 @@ ncomid.kg
 ncsjeans.kg
 nds.kg
 ne.kg
-neb.kg
 nebo.kg
 nec.kg
 ned.kg
@@ -7694,6 +7693,7 @@ olympic.kg
 om.kg
 omarket.kg
 ombudsman.kg
+omega-cargo.kg
 omega3.kg
 omegacapital.kg
 omegacustody.kg
@@ -7968,6 +7968,7 @@ paragliding.kg
 paragon.kg
 paralet.kg
 paramountplus.kg
+paraplan.kg
 pardifen.kg
 parfumer.kg
 parfums.kg
@@ -8903,7 +8904,6 @@ rtcom.kg
 ru.kg
 ruba.kg
 rubetek.kg
-rubezh.kg
 rubikon.kg
 ruda-trade.kg
 ruh.kg
@@ -9622,6 +9622,7 @@ srelectrocars.kg
 srimpex.kg
 sris.kg
 srk.kg
+srm.kg
 sropasture.kg
 srs.kg
 srt.kg
@@ -10381,6 +10382,7 @@ tr-logistik.kg
 tracing.kg
 tracker.kg
 trade.kg
+trade-express.kg
 trade-sol.kg
 tradecorp.kg
 tradegof.kg
@@ -10626,7 +10628,6 @@ umc.kg
 umg.kg
 ummadesign.kg
 ummamag.kg
-ummapotolki.kg
 ummotors.kg
 umnyashka.kg
 umra.kg
@@ -10769,7 +10770,6 @@ uzun-kyr.kg
 v.kg
 vac.kg
 vacancy.kg
-vagrant.kg
 vak.kg
 valemotors.kg
 valencia.kg
