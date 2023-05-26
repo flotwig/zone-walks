@@ -684,7 +684,6 @@ acsdk.ci
 acsgroupe.ci
 act.ci
 actech.ci
-actia-sa.ci
 activemedia.ci
 activepharma2007.ci
 activpolytec.ci
@@ -1298,7 +1297,6 @@ arcelik.ci
 arcgis.ci
 archangel.ci
 archangevoyage.ci
-archedebouake.ci
 archibat.ci
 archiconcept.ci
 archipro.ci
@@ -1590,6 +1588,7 @@ avisotrafic.ci
 avisozoom.ci
 avocats.ci
 avs.ci
+avsec.ci
 awa.ci
 awale-immo.ci
 awalecorp.ci
@@ -2157,7 +2156,6 @@ bs.ci
 bsc.ci
 bsd.ci
 bsic.ci
-bstp.ci
 bt.ci
 bt-corporate.ci
 bta.ci
@@ -2453,6 +2451,7 @@ cdsi.ci
 cdt.ci
 cdtindustrie.ci
 ce.ci
+ceaca.ci
 ceb.ci
 cebe.ci
 cec-alo.ci
@@ -3179,7 +3178,6 @@ colas.ci
 colasci.ci
 coldstonecreamery.ci
 coliba.ci
-colibri.ci
 colibris.ci
 collabora.ci
 collaracademia.ci
@@ -3843,6 +3841,7 @@ dahuasecurity.ci
 dahuatech.ci
 daikin.ci
 dailymotion.ci
+dailytech.ci
 daimain.ci
 daip.ci
 daloafm.ci
@@ -3931,7 +3930,6 @@ deepcleaning.ci
 defi.ci
 defiepargne.ci
 defifoot.ci
-defiholding.ci
 defilenaiguille.ci
 defisvoice.ci
 deheus.ci
@@ -4699,7 +4697,6 @@ eipsi.ci
 eirtel.ci
 eisiem.ci
 eka.ci
-ekd-btp.ci
 ekdb.ci
 ekdsn.ci
 eke.ci
@@ -5926,6 +5923,7 @@ greenyard.ci
 greniersolidaire.ci
 grest.ci
 grid.ci
+griot.ci
 grkconsulting.ci
 grm.ci
 grossistevape.ci
@@ -7628,6 +7626,7 @@ lesobjetsconnectes.ci
 lespalmistes.ci
 lesport.ci
 lesrecettesdemisslopy.ci
+lesresidencesangoa.ci
 lestadedabidjan.ci
 lestournesols.ci
 lesursaut.ci
@@ -7761,7 +7760,6 @@ localhost.ci
 locanto.ci
 location-voitures.ci
 locatrack.ci
-locktonimmo.ci
 lodjoukroufestival.ci
 loeildabidjan.ci
 lofty-solutions.ci
@@ -7862,6 +7860,7 @@ lymoras.ci
 lynia.ci
 lynk.ci
 lynx.ci
+lysthea.ci
 lyvimo.ci
 m-groupsecurity.ci
 m-tick.ci
@@ -8108,6 +8107,7 @@ masterveil.ci
 masterworks.ci
 mat.ci
 mata.ci
+matarshop.ci
 matassgroup.ci
 matca.ci
 match.ci
@@ -8154,7 +8154,6 @@ mcacotedivoire.ci
 mccgroup.ci
 mce.ci
 mcf-culture.ci
-mcf-pme.ci
 mchocolaterieivoirienne.ci
 mcksa.ci
 mclaudad.ci
@@ -8338,6 +8337,7 @@ mike.ci
 mikrotik.ci
 mil.ci
 milane.ci
+milano.ci
 milaroses.ci
 milcva.ci
 mildove.ci
@@ -8506,7 +8506,6 @@ monetablissement.ci
 monetbil.ci
 moneygram.ci
 monfinancement.ci
-mongaz.ci
 monguide.ci
 monhabitat.ci
 monhotel.ci
@@ -8724,7 +8723,6 @@ nabtp.ci
 nac.ci
 naclo.ci
 nactalia.ci
-nadci.ci
 nadq.ci
 nag.ci
 nall.ci
@@ -8819,6 +8817,7 @@ netsuite.ci
 nettelecom.ci
 netxspace.ci
 neuce.ci
+neuf-neuf.ci
 neurolec.ci
 neuros.ci
 newegg.ci
@@ -9469,6 +9468,7 @@ panini.ci
 panzani.ci
 papajohns.ci
 papan.ci
+papel.ci
 paperone.ci
 papigraph.ci
 papse.ci
@@ -9618,7 +9618,6 @@ pfp.ci
 pfpakatio.ci
 pg.ci
 pgc.ci
-pgcourscomptes.ci
 pgmp.ci
 pgsoft.ci
 ph.ci
@@ -9750,7 +9749,6 @@ pnn.ci
 pnoev.ci
 pnsme.ci
 pnssu-saj.ci
-po.ci
 poc.ci
 podcast.ci
 podcasts.ci
@@ -10340,7 +10338,6 @@ rolex.ci
 romanolodge.ci
 romashop.ci
 roney.ci
-roof.ci
 rooms.ci
 root.ci
 rootech.ci
@@ -11652,7 +11649,6 @@ technostore.ci
 technoworld.ci
 techouse.ci
 techpro.ci
-techservices.ci
 techsyk.ci
 tecnicum.ci
 tecnor-environnement.ci
@@ -12611,7 +12607,6 @@ ynfluences.ci
 yo-technology.ci
 yodan.ci
 yofegroup.ci
-yoga.ci
 yogo.ci
 yomeeting.ci
 yootoo.ci
