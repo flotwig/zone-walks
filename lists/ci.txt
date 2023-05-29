@@ -730,7 +730,6 @@ adisa.ci
 adjola.ci
 adjuwa.ci
 admin.ci
-adminsys.ci
 adn.ci
 adn-communication.ci
 adn7.ci
@@ -1404,6 +1403,7 @@ asopb.ci
 asos.ci
 aspcacc.ci
 assachange.ci
+assahorejak.ci
 assahorekonanjacques.ci
 assan.ci
 assi-btp.ci
@@ -1416,6 +1416,7 @@ assnat.ci
 association.ci
 assohou.ci
 assolutions.ci
+assoservices.ci
 assougboetassocies.ci
 assoya.ci
 assoyacar.ci
@@ -1695,6 +1696,7 @@ bamoubli.ci
 banaci.ci
 banador.ci
 bananarepublic.ci
+banane.ci
 bank-of-africa.ci
 bankalert.ci
 bankconsulting.ci
@@ -1928,7 +1930,6 @@ biomaj.ci
 biomedis.ci
 biomerieux.ci
 biomerieux-af.ci
-biontech.ci
 bionutrition.ci
 biooil.ci
 biopharma.ci
@@ -2037,7 +2038,6 @@ bokeat.ci
 bokoglobalservice.ci
 bokosso.ci
 boland.ci
-bollomba.ci
 bolomba.ci
 bolt.ci
 bomblin.ci
@@ -2609,6 +2609,7 @@ chimicolor.ci
 chimtec.ci
 china.ci
 chine.ci
+chl.ci
 choco.ci
 chocolat.ci
 chocolatboutique.ci
@@ -2707,6 +2708,7 @@ cinergies.ci
 cines.ci
 cinetcore.ci
 cinetechfestival.ci
+cinetpay.ci
 cinews.ci
 cinfci.ci
 cinn.ci
@@ -4017,7 +4019,6 @@ dgttc-vt.ci
 dh.ci
 dhlogistics.ci
 dhs.ci
-dhservices.ci
 di.ci
 dia-consultings.ci
 diadagani.ci
@@ -5267,6 +5268,7 @@ fibm.ci
 fibonac.ci
 fibrivoire.ci
 ficcc.ci
+ficpartenaire.ci
 fid.ci
 fidelity.ci
 fidelityinternational.ci
@@ -5754,7 +5756,6 @@ gitlab.ci
 gitma.ci
 gixcor.ci
 gj.ci
-gk.ci
 gk-logistics.ci
 gkbtp.ci
 gkl.ci
@@ -5923,6 +5924,7 @@ grkconsulting.ci
 grm.ci
 grossistevape.ci
 group-dfsh.ci
+group-ec.ci
 groupado.ci
 groupalafia.ci
 groupbsd.ci
@@ -5941,7 +5943,6 @@ groupeba.ci
 groupebms.ci
 groupecefatinter.ci
 groupecefiat.ci
-groupecifc.ci
 groupeeba.ci
 groupeeniss.ci
 groupefac.ci
@@ -6393,6 +6394,7 @@ ik.ci
 ikaaf.ci
 ikaso.ci
 ikea.ci
+ikena.ci
 ikevents.ci
 ikks.ci
 iknal.ci
@@ -6713,7 +6715,6 @@ itmtech.ci
 itochu.ci
 itpi.ci
 itrackservices.ci
-itsa.ci
 itscotedivoire.ci
 itsgb.ci
 itsgroup.ci
@@ -7232,7 +7233,6 @@ kmsexpress.ci
 kmssarl.ci
 kndistribution.ci
 knez.ci
-kng-expert-consulting.ci
 kngshop.ci
 knk.ci
 knoor.ci
@@ -7588,6 +7588,7 @@ leprix.ci
 leprogres.ci
 leqg.ci
 leregenthotel.ci
+lerelais.ci
 lerevendeur.ci
 leroy-merlin.ci
 leroyalpalace.ci
@@ -7668,7 +7669,6 @@ liberteconstructionofafrica.ci
 libra.ci
 librairieadoration.ci
 librairiedefrance.ci
-libsindustry.ci
 libyaoil.ci
 licence.ci
 license.ci
@@ -8823,7 +8823,6 @@ newtelematics.ci
 nex.ci
 nexans.ci
 next.ci
-next-shop.ci
 next-step.ci
 nextauto.ci
 nextech.ci
@@ -9657,6 +9656,7 @@ pig.ci
 pigelec.ci
 pigier.ci
 pihda.ci
+piment.ci
 pimentbleu.ci
 pinkberry.ci
 pinterest.ci
@@ -9691,6 +9691,7 @@ planeteauto.ci
 planetemag.ci
 planetetelecom.ci
 planethoster.ci
+plantation.ci
 plaquivoire.ci
 plastock.ci
 plateau.ci
@@ -10652,7 +10653,6 @@ sekelem.ci
 seklaoui.ci
 seklaouigroup.ci
 seklaouigroupe.ci
-sel.ci
 selectionsprosuma.ci
 selectium.ci
 selective.ci
@@ -11228,7 +11228,6 @@ solapin.ci
 solar.ci
 solarpak.ci
 solarpowertechnics.ci
-solfegeproduction.ci
 solibra.ci
 solibrachezvous.ci
 solidaires.ci
@@ -11801,6 +11800,7 @@ todo.ci
 tokenisation.ci
 tom.ci
 tomaci.ci
+tomate.ci
 tomoua.ci
 tongoenergy.ci
 tonkpinihidaley.ci
