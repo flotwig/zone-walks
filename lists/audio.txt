@@ -237,6 +237,7 @@ amazonring.audio
 amazonshow15.audio
 amazonshowmode.audio
 amazontap.audio
+ambient.audio
 ambiguous.audio
 ambisonic.audio
 ambrose.audio
@@ -2338,7 +2339,6 @@ lechtal.audio
 lecton.audio
 leezen.audio
 leftofthedial.audio
-legacy.audio
 legend.audio
 lehle.audio
 lehmann.audio
@@ -2444,6 +2444,7 @@ lowell.audio
 lowendtheory.audio
 lowfi.audio
 lowkey.audio
+lowlatency.audio
 lton.audio
 lucentdnb.audio
 lucidium.audio
@@ -3459,6 +3460,7 @@ readsound.audio
 ready.audio
 real.audio
 real-time.audio
+realcreative.audio
 realestate.audio
 reality.audio
 realmusic.audio
