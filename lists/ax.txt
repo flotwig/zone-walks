@@ -12,7 +12,6 @@
 0h.ax
 0m.ax
 0x.ax
-10.ax
 100.ax
 1001.ax
 100kvinnor.ax
@@ -41,6 +40,7 @@
 1x.ax
 21.ax
 2138.ax
+22.ax
 23.ax
 24.ax
 240.ax
@@ -321,6 +321,7 @@ alandstidningen.ax
 alandstrafiken.ax
 alandstransport.ax
 alandstravet.ax
+alandsundersokning.ax
 alandsvanner.ax
 alandsvatten.ax
 alandsvindenergi.ax
@@ -889,7 +890,6 @@ cityjuristerna.ax
 citylakarna.ax
 citymariehamn.ax
 citysport.ax
-citytandvarden.ax
 civ.ax
 ck.ax
 ckh.ax
@@ -2112,6 +2112,7 @@ konster.ax
 konsthantverk.ax
 konstmuseum.ax
 konsulten.ax
+konsulterna.ax
 kontoret.ax
 kop.ax
 koppargrytan.ax
@@ -4045,7 +4046,6 @@ xn--brkraft-5wa.ax
 xn--bt-yia.ax
 xn--btfrvaring-15a0s.ax
 xn--byggaitr-7za.ax
-xn--citytandvrden-xfb.ax
 xn--con-tla.ax
 xn--da-xia.ax
 xn--elnt-noa.ax
