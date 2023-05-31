@@ -643,7 +643,6 @@ bolla.audio
 bomb.audio
 bondedvinylwindows.audio
 bonnema.audio
-book.audio
 booki.audio
 bookmark.audio
 bookmate.audio
@@ -733,6 +732,7 @@ burnstone.audio
 burrito.audio
 business.audio
 busisoftav.audio
+busker.audio
 butterfly.audio
 butterweich.audio
 buyandsell.audio
@@ -1511,7 +1511,6 @@ fernlaut.audio
 ferrie.audio
 ferrum.audio
 ffwd.audio
-fge.audio
 fidbak.audio
 fidelitas.audio
 fidelity.audio
@@ -1711,7 +1710,6 @@ gigapp.audio
 gigperformer.audio
 gigup.audio
 gilded.audio
-giles.audio
 gilli.audio
 gimlet.audio
 github.audio
@@ -2954,6 +2952,7 @@ noble.audio
 nocturne.audio
 node.audio
 nodsic.audio
+noise.audio
 noise-floor.audio
 noisefloor.audio
 noisemaker.audio
