@@ -43,6 +43,7 @@
 1543.ci
 16-37.ci
 1627.ci
+163.ci
 1645.ci
 1677.ci
 1702.ci
@@ -1170,6 +1171,7 @@ aminamuaddi.ci
 amiraboutik.ci
 amiria.ci
 amistad.ci
+amm.ci
 amonia.ci
 amoniamarket.ci
 amore.ci
@@ -1373,7 +1375,6 @@ ascelearning.ci
 ascens-services.ci
 ascoma.ci
 asconsulting.ci
-ascorp.ci
 ascot.ci
 asdm.ci
 aseabrownboveri.ci
@@ -2832,6 +2833,7 @@ cmamanvi.ci
 cmao.ci
 cmbellevue.ci
 cmci.ci
+cme.ci
 cmecespoir.ci
 cmed.ci
 cmgc.ci
@@ -3827,7 +3829,6 @@ d5.ci
 da.ci
 daathconseil.ci
 dabadoc.ci
-dacsarl.ci
 dad.ci
 dadyshop.ci
 daewoo.ci
@@ -4058,7 +4059,6 @@ digitaleagence.ci
 digitalhelp.ci
 digitalheroes.ci
 digitalhouses.ci
-digitalia.ci
 digitalkstudio.ci
 digitalland.ci
 digitalmarket.ci
@@ -4197,6 +4197,7 @@ do.ci
 doc.ci
 doci.ci
 docker.ci
+dockerfile.ci
 docs.ci
 docteur.ci
 docteurcomputer.ci
@@ -5331,7 +5332,6 @@ fitline.ci
 fitness.ci
 fitnessboutique.ci
 fitnessmarket.ci
-fitnext.ci
 fittech-it.ci
 fiv.ci
 fiva.ci
@@ -5862,8 +5862,10 @@ gotickets.ci
 gotrack.ci
 gouabo.ci
 gouaboshop.ci
+gounlogistic.ci
 gourmandiz.ci
 gouv.ci
+gouvci.ci
 gouvernantes.ci
 gouvernement.ci
 gouvernement-federal.ci
@@ -6318,7 +6320,6 @@ icogef.ci
 icogef-equipements.ci
 icoms.ci
 iconeproduction.ci
-icontractor.ci
 icoopaci.ci
 icraf.ci
 ics.ci
@@ -6739,7 +6740,6 @@ ivoire-coton.ci
 ivoire-systemes.ci
 ivoire-taxi.ci
 ivoireairways.ci
-ivoireartisan.ci
 ivoireautodeal.ci
 ivoirebazar.ci
 ivoirebet.ci
@@ -6808,7 +6808,6 @@ ivoirsoir.ci
 ivoirtrack.ci
 ivonas.ci
 ivorian-economy.ci
-ivorybridgetransit.ci
 ivorycoast.ci
 ivorycoastdiaspora.ci
 ivorycocoa.ci
@@ -7014,7 +7013,6 @@ jun.ci
 juridis.ci
 juridis-cc.ci
 juris.ci
-jurisconseils.ci
 juristic.ci
 juru.ci
 just.ci
@@ -7403,7 +7401,6 @@ lamodebyada.ci
 lanada.ci
 lanawa.ci
 landrover.ci
-landrysecoutureetcreation.ci
 lanfiatech.ci
 lannuaire-pro.ci
 lannuairepro.ci
@@ -7603,6 +7600,7 @@ leschampignonsdelapotagere.ci
 lesdauphins.ci
 lesdelices.ci
 lesecoleseceme.ci
+leseglises.ci
 leselephants.ci
 lesentrepreneurs.ci
 lesentrepriseseagleeye.ci
@@ -7749,9 +7747,7 @@ localhost.ci
 locanto.ci
 location-voitures.ci
 locatrack.ci
-lodjoukroufestival.ci
 loeildabidjan.ci
-lofty-solutions.ci
 logeco.ci
 logement.ci
 logements.ci
@@ -9956,6 +9952,7 @@ psn.ci
 psnassurances.ci
 psndea.ci
 psoles.ci
+pspsci.ci
 pstaci.ci
 psychologuedabie.ci
 ptd.ci
@@ -11441,7 +11438,6 @@ striatum.ci
 strieders.ci
 stripe.ci
 stt.ci
-studio.ci
 studio1.ci
 studio6.ci
 studiobamboo.ci
@@ -11651,6 +11647,7 @@ teledyne.ci
 telemedecine.ci
 telenco.ci
 telia.ci
+telicosarl.ci
 telugu.ci
 temoinsdelesperance.ci
 tempo.ci
@@ -11700,6 +11697,7 @@ th.ci
 thani.ci
 thanici.ci
 thankyou.ci
+thatrans.ci
 thaumasia.ci
 the.ci
 the100.ci
@@ -12127,6 +12125,7 @@ vdservices.ci
 ve.ci
 vectis.ci
 vee.ci
+veilleindustrielle.ci
 veillesanitaire.ci
 vektor.ci
 velma-sas.ci
