@@ -12,6 +12,7 @@
 0h.ax
 0m.ax
 0x.ax
+10.ax
 100.ax
 1001.ax
 100kvinnor.ax
@@ -2386,7 +2387,6 @@ markmonitor.ax
 marknaden.ax
 marksandspencer.ax
 marksix.ax
-marksten.ax
 markusas.ax
 mars.ax
 marskogens.ax
@@ -2490,6 +2490,7 @@ mildreds.ax
 mildredsswingskola.ax
 min.ax
 minafrimarken.ax
+minecraft.ax
 mini-taxi.ax
 minim.ax
 minimax.ax
@@ -3451,7 +3452,6 @@ stadskrog.ax
 stadsystem.ax
 staffans.ax
 stage.ax
-stahlstaxi.ax
 stake.ax
 stallagret.ax
 stalldalen.ax
