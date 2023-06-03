@@ -89,12 +89,12 @@
       "zone": "br"
     },
     {
-      "domains": "1233",
-      "zone": "bt"
+      "domains": "1256",
+      "zone": "diet"
     },
     {
-      "domains": "1232",
-      "zone": "diet"
+      "domains": "1233",
+      "zone": "bt"
     },
     {
       "domains": "1199",
@@ -149,5 +149,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2647197"
+  "total": "2647221"
 }
