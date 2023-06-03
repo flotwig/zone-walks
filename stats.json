@@ -137,7 +137,7 @@
       "zone": "xn--l1acc"
     },
     {
-      "domains": "48",
+      "domains": "49",
       "zone": "ve"
     },
     {
@@ -149,5 +149,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2647193"
+  "total": "2647194"
 }
