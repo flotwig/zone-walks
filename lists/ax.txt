@@ -587,7 +587,6 @@ batlivmedfamiljen.ax
 battle.ax
 battvatten.ax
 bb.ax
-bbs.ax
 bc.ax
 bclub.ax
 be.ax
@@ -683,6 +682,7 @@ bjornviken.ax
 bkfiber.ax
 bl.ax
 blackeye.ax
+blackfriday.ax
 blackrock.ax
 blick.ax
 blissmo.ax
@@ -3838,7 +3838,6 @@ vecte.ax
 ved.ax
 veda-samtal.ax
 vedfabriken.ax
-vedspisar.ax
 vendor.ax
 venmo.ax
 venn.ax
