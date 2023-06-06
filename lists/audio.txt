@@ -318,6 +318,7 @@ applestore.audio
 appletvappstore.audio
 appletvos.audio
 appletvstore.audio
+applevisionpro.audio
 applewatchseries5.audio
 applewatchultra.audio
 ara.audio
@@ -905,7 +906,6 @@ cma.audio
 cmax.audio
 cme.audio
 cms.audio
-coach.audio
 coaching.audio
 coast.audio
 cobalt.audio
@@ -2145,6 +2145,7 @@ jonnypipe.audio
 jonsanpaolo.audio
 jonstjohn.audio
 jorgeamaral.audio
+jorgposc.audio
 josemine.audio
 joshhamilton.audio
 joshschroeder.audio
@@ -2258,6 +2259,7 @@ kondo.audio
 konne.audio
 konsbud.audio
 konstantlab.audio
+kontakt.audio
 kontrol.audio
 koopmans.audio
 kopfhoerer.audio
@@ -2874,6 +2876,7 @@ naim.audio
 nait.audio
 naive.audio
 nakamichi.audio
+namedrop.audio
 nando.audio
 nano.audio
 narra.audio
@@ -2923,6 +2926,7 @@ nfts.audio
 nghethinh.audio
 nguyen.audio
 nhl.audio
+ni.audio
 nic.audio
 nice.audio
 nick.audio
@@ -3097,6 +3101,7 @@ opensource.audio
 openstreaming.audio
 opname.audio
 opnames.audio
+opticid.audio
 optimum.audio
 opus.audio
 orangerental.audio
@@ -3347,6 +3352,7 @@ prologue.audio
 promac.audio
 promail.audio
 promotelabs.audio
+promptstock.audio
 prophecy.audio
 prose.audio
 proshare.audio
@@ -4532,6 +4538,7 @@ vision.audio
 vision-plus.audio
 visionary.audio
 visionplus.audio
+visionpro.audio
 visual.audio
 visuel.audio
 vital.audio
