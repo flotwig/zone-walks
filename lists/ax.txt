@@ -587,6 +587,7 @@ batlivmedfamiljen.ax
 battle.ax
 battvatten.ax
 bb.ax
+bbs.ax
 bc.ax
 bclub.ax
 bd.ax
@@ -775,7 +776,6 @@ bryggan.ax
 bs.ax
 bt.ax
 btc.ax
-bubblan.ax
 bubble.ax
 budbil.ax
 budgetrent.ax
@@ -1412,6 +1412,7 @@ franzen.ax
 fre.ax
 frechd.ax
 fredchill.ax
+freemanm.ax
 frekvensen.ax
 freseniusmedicalcare.ax
 fresh.ax
@@ -2343,7 +2344,6 @@ mac.ax
 macdoktorn.ax
 macrost.ax
 maem.ax
-magic.ax
 magnetic.ax
 maijas.ax
 mail.ax
@@ -2746,6 +2746,7 @@ ohhoh.ax
 ohmansbil.ax
 oi.ax
 oikeus.ax
+oj.ax
 ok.ax
 oki.ax
 oktober.ax
