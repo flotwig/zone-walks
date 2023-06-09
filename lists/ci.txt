@@ -632,7 +632,6 @@ absbuilding.ci
 abshop.ci
 absoftwork.ci
 abssupport.ci
-abtp.ci
 abu.ci
 abylisappart.ci
 dcat.ac.ci
@@ -879,6 +878,7 @@ agena.ci
 agence.ci
 agence-yrissa.ci
 agencearchitectoring.ci
+agencecipme.ci
 agencecoco.ci
 agenceemploijeune.ci
 agenceemploijeunes.ci
@@ -983,6 +983,7 @@ aisw.ci
 aiwa.ci
 aiwatch.ci
 aiz-conseil.ci
+aje-services.ci
 ajno.ci
 ajo.ci
 ajzo.ci
@@ -1107,7 +1108,6 @@ almao.ci
 alpha-sanogo.ci
 alpha-technologie.ci
 alphabet.ci
-alphabiolabs.ci
 alphablondyfm.ci
 alphacube.ci
 alphadigital.ci
@@ -1911,7 +1911,6 @@ bim-news.ci
 bima.ci
 bimafrique.ci
 bimgroup.ci
-bimverse.ci
 binastore.ci
 bing.ci
 bingerville.ci
@@ -4984,12 +4983,12 @@ etancheite.ci
 etanocgroup.ci
 etat-federal.ci
 etatfederal.ci
-etb-constructions.ci
 etde.ci
 etec.ci
 etec-education.ci
 etel-power.ci
 eterrain.ci
+etfp.ci
 etg.ci
 eth.ci
 ethereum.ci
@@ -5078,7 +5077,6 @@ ew.ci
 ewa.ci
 ewarren.ci
 ewatch.ci
-exact.ci
 examens-oeeci.ci
 exat.ci
 exceliam.ci
@@ -5287,6 +5285,7 @@ fin.ci
 fin-invest.ci
 fin-market.ci
 finactu.ci
+finafrica.ci
 finafrica-assurance.ci
 finafrica-assurances.ci
 finafrica-group.ci
@@ -5721,7 +5720,6 @@ gibtp.ci
 gic.ci
 gicop.ci
 gidec.ci
-gie.ci
 gig.ci
 gigi.ci
 gigisfood.ci
@@ -6408,6 +6406,7 @@ imcotrans.ci
 imd.ci
 ime.ci
 imea.ci
+imem.ci
 img.ci
 imgh.ci
 imghcotedivoire.ci
@@ -6704,7 +6703,6 @@ itrackservices.ci
 itscotedivoire.ci
 itsgb.ci
 itsgroup.ci
-itshop.ci
 itsp.ci
 itswa.ci
 itunesexpress.ci
@@ -7039,7 +7037,6 @@ kaconseils.ci
 kacoudahua.ci
 kadima.ci
 kadmex.ci
-kadoodoo.ci
 kaeltradingplus.ci
 kaera.ci
 kaercher.ci
@@ -7154,7 +7151,6 @@ kidh.ci
 kieski.ci
 kifal.ci
 kifal-auto.ci
-kignonetsenteurs.ci
 killerops.ci
 killianandpartners.ci
 kimelindustrie.ci
@@ -7237,7 +7233,6 @@ kolosafrica.ci
 komba.ci
 komi.ci
 kompyuta.ci
-konanfrancis.ci
 kone.ci
 koneco.ci
 konecoservice.ci
@@ -7902,6 +7897,7 @@ maestrac.ci
 mafible2.ci
 mafibremoov.ci
 mafop.ci
+maformationenligne.ci
 mag.ci
 magarantie.ci
 magasinscommunautaires.ci
@@ -8120,7 +8116,6 @@ mbhservices.ci
 mblm.ci
 mbss.ci
 mbway-afrique.ci
-mc.ci
 mc2i.ci
 mcabi.ci
 mcacotedivoire.ci
@@ -8285,8 +8280,6 @@ mhdgroup.ci
 mhe.ci
 mi.ci
 miage-ufhb.ci
-miamland.ci
-miamland-express.ci
 mib.ci
 mibem.ci
 mibi.ci
@@ -9176,7 +9169,6 @@ oo.ci
 oo2.ci
 ookas.ci
 op.ci
-opay.ci
 openacademy.ci
 openai.ci
 opendata.ci
@@ -9418,6 +9410,7 @@ pagesjaunes.ci
 pagesoranges.ci
 pagfic.ci
 pagim.ci
+pagne.ci
 pai.ci
 paiefacile.ci
 paincondiment225.ci
@@ -9442,6 +9435,7 @@ pango.ci
 pangollin.ci
 panini.ci
 panzani.ci
+paonbleu.ci
 papajohns.ci
 papan.ci
 papel.ci
@@ -9522,6 +9516,7 @@ pcmarket.ci
 pco.ci
 pcs.ci
 pcsp.ci
+pcstore225.ci
 pdc2v.ci
 pdci.ci
 pdcid.ci
@@ -9728,7 +9723,6 @@ podcast.ci
 podcasts.ci
 podium.ci
 pofci.ci
-pofines.ci
 pog.ci
 poha.ci
 point-s.ci
@@ -9906,6 +9900,7 @@ promo.ci
 promonova.ci
 promotionivoire.ci
 propertypro.ci
+prophetesdeguilgal.ci
 proprietaire.ci
 proprietefonciere.ci
 proreco.ci
@@ -9977,7 +9972,6 @@ pwc.ci
 px.ci
 pycon.ci
 pyje-xpansion.ci
-pytechnologies.ci
 qandqcontrol.ci
 qap.ci
 qapa.ci
@@ -10018,6 +10012,7 @@ queenmely.ci
 qui-est-dominique-ouattara.ci
 quickly.ci
 quiestdominiqueouattara.ci
+quijob.ci
 quincaillerie.ci
 qun.ci
 quoris.ci
@@ -10091,11 +10086,9 @@ raydesign.ci
 rayhans.ci
 raylumi.ci
 raylumis.ci
-raymondgroup.ci
 rayvoyage.ci
 razeltec.ci
 rb.ci
-rblx.ci
 rc.ci
 rciagro.ci
 rcmec.ci
@@ -11692,7 +11685,6 @@ the.ci
 the100.ci
 theagencygroup.ci
 thebeautybar.ci
-thedate.ci
 thefutureisnow.ci
 theguitarlab.ci
 thelen.ci
@@ -12090,6 +12082,7 @@ v7.ci
 v8.ci
 v9.ci
 va.ci
+vaccentre.ci
 vaccination.ci
 vaccinationcovid.ci
 vaguedigitale.ci
@@ -12306,6 +12299,7 @@ wattb2energy.ci
 wattenergies.ci
 wattenergy.ci
 wave.ci
+wax.ci
 wazimeet.ci
 wazup.ci
 wbh.ci
@@ -12423,6 +12417,7 @@ womy.ci
 wondoo.ci
 wood.ci
 wooddapp.ci
+woodin.ci
 woodindustry.ci
 woodmizer.ci
 woodoo.ci
