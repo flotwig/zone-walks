@@ -1536,6 +1536,7 @@ financial.audio
 findbooks.audio
 finder.audio
 findspatial.audio
+fine.audio
 finetone.audio
 finetune.audio
 finiteelemente.audio
@@ -1776,6 +1777,7 @@ groupon.audio
 growthindustry.audio
 gryphon.audio
 gtt.audio
+guerrilla.audio
 guidedtours.audio
 guitar-center.audio
 guitarcenter.audio
@@ -2154,7 +2156,6 @@ journeyintosound.audio
 jovi.audio
 joyned.audio
 joyrider.audio
-jp3.audio
 jrhamilton.audio
 jsk.audio
 jsrds.audio
@@ -4300,6 +4301,7 @@ tisseo.audio
 tivoli.audio
 tjava.audio
 tjh.audio
+tma.audio
 toby.audio
 tobymusic.audio
 tofugu.audio
@@ -4772,7 +4774,6 @@ zeth.audio
 zggdcpmh.audio
 zi-sound.audio
 zimmermann.audio
-zion.audio
 zradio.audio
 ztzgame.audio
 zuhoeren.audio
