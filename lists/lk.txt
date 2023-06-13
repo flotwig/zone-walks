@@ -3140,7 +3140,7 @@ asm.lk
 asmacs.lk
 asme.lk
 asmet.lk
-mis.asmp.lk
+asmp.lk
 asmpproducts.lk
 asmsch.lk
 asn.lk
@@ -5430,6 +5430,7 @@ bmnsolution.lk
 bmrstudios.lk
 bms.lk
 bmsgems.lk
+bmt.lk
 bmw.lk
 bmweducation.lk
 bmwpreowned.lk
@@ -6422,6 +6423,7 @@ cafechillella.lk
 cafecrema.lk
 cafeica.lk
 cafej.lk
+cafenine.lk
 cafenoir.lk
 cafeonthebend.lk
 cafepixel.lk
@@ -6655,6 +6657,7 @@ capitalcity.lk
 capitalcityadvisory.lk
 capitalcityhotel.lk
 capitalcitylaw.lk
+capitalcolombo.lk
 capitalfm.lk
 capitalgainproperty.lk
 capitalgems.lk
@@ -11706,7 +11709,7 @@ dihansaceylonspices.lk
 dijitalteam.lk
 dikiya.lk
 dikkandeplantation.lk
-dikkiriyamines.lk
+mail.dikkiriyamines.lk
 diko.lk
 dikwelaoilmills.lk
 dil-cotton.lk
@@ -16860,6 +16863,7 @@ gamma-inds.lk
 gammadda.lk
 gammainterpharm.lk
 gammanaya.lk
+gammaplastic.lk
 gammaprint.lk
 gammiris.lk
 gamoa.lk
@@ -17558,6 +17562,7 @@ globalpos.lk
 globalpostgrad.lk
 globalpowerhouse.lk
 globalprofessionscampus.lk
+globalprojectsconnect.lk
 globalpulses.lk
 globalreach.lk
 globalreachint.lk
@@ -18010,6 +18015,7 @@ gowork.lk
 goyo.lk
 goyobi.lk
 gp.lk
+gpc.lk
 gpd.lk
 gpds.lk
 gpec.lk
@@ -18351,6 +18357,7 @@ greesrilanka.lk
 greeta.lk
 greeting.lk
 greetingcard.lk
+greetinghomes.lk
 greetngather.lk
 gregorycarecenter.lk
 gregorys.lk
@@ -19144,6 +19151,7 @@ heartfm.lk
 heartfulness.lk
 heartie.lk
 heartivve.lk
+heartlandpharmacy.lk
 heartlands.lk
 hearts.lk
 heartsnhands.lk
@@ -20957,6 +20965,7 @@ imc.lk
 imcaic.lk
 imcal.lk
 imccampus.lk
+imceducation.lk
 imcs.lk
 imcsl.lk
 ime.lk
@@ -26821,6 +26830,7 @@ manthram.lk
 manthree.lk
 manthri.lk
 mantra.lk
+mantragroup.lk
 mantramiracles.lk
 manuceylon.lk
 manudama.lk
@@ -27164,6 +27174,7 @@ maxexpo.lk
 maxexpress.lk
 maxfeed.lk
 maxfeeds.lk
+maxfitvipgym.lk
 maxford.lk
 maxgro.lk
 maxgrow.lk
@@ -32543,6 +32554,7 @@ paritybit.lk
 parivattam.lk
 parkandpay.lk
 parkcafe.lk
+parkerpensrilanka.lk
 parkerplumber.lk
 parkfinda.lk
 parking.lk
@@ -32942,6 +32954,7 @@ penguin.lk
 penguins.lk
 penguintoys.lk
 penhouse.lk
+penhousesrilanka.lk
 penieltrading.lk
 penrith.lk
 pens.lk
@@ -34781,6 +34794,7 @@ quantum.lk
 quantumfitness.lk
 quantumleap.lk
 qubera.lk
+qubitstech.lk
 quechua.lk
 queen.lk
 queenofangels.lk
@@ -38990,6 +39004,7 @@ sihalasalu.lk
 siharaja.lk
 siheli.lk
 sihilroregency.lk
+sihina.lk
 sihinaflora.lk
 sihinanivasa.lk
 sihinaniwasa.lk
@@ -39604,6 +39619,7 @@ skypixel.lk
 skyplants.lk
 skypos.lk
 skyray.lk
+skyrays.lk
 skyraystore.lk
 skyrimtravels.lk
 skyrocket.lk
@@ -42971,6 +42987,7 @@ tattooaddict.lk
 tattoobrothers.lk
 tattooceylon.lk
 tattooparadise.lk
+taurid.lk
 taurus.lk
 tauruspharma.lk
 tavelit.lk
@@ -43050,6 +43067,7 @@ tdmdesigns.lk
 tdp.lk
 tea.lk
 tea-link.lk
+tea4u.lk
 teaacres.lk
 teaandspice.lk
 teaauction.lk
@@ -44612,6 +44630,7 @@ todayceylon.lk
 todayjaffna.lk
 todayjobs.lk
 todaylanka.lk
+todaynews.lk
 todaynewstamil.lk
 todays.lk
 toddwi.lk
@@ -45020,6 +45039,7 @@ travelaholics.lk
 travelair.lk
 travelavenues.lk
 travelbird.lk
+travelbook.lk
 travelbridge.lk
 travelbuddy.lk
 travelbudy.lk
@@ -47026,6 +47046,7 @@ virtusa-polaris.lk
 virtusapolaris.lk
 virtuscapital.lk
 virtushealth.lk
+virulweerakoon.lk
 virus.lk
 virusguards.lk
 virusinc.lk
