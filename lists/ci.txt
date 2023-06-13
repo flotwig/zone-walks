@@ -538,6 +538,7 @@
 9h.ci
 9i.ci
 9j.ci
+9k.ci
 9l.ci
 9m.ci
 9n.ci
@@ -811,7 +812,6 @@ africasel.ci
 africasports.ci
 africatechnology.ci
 africatrans.ci
-africatransport.ci
 africatrucks.ci
 africaway.ci
 africawestindustries.ci
@@ -944,7 +944,6 @@ ahiwa.ci
 ahmadiyya.ci
 aho.ci
 ahondjon-nguessan.ci
-ahouabat.ci
 ahoula11.ci
 ahslabel.ci
 ahutesoft.ci
@@ -1500,7 +1499,6 @@ atpvgroupeloko.ci
 atr.ci
 atre.ci
 ats-sarl.ci
-atsam-entreprises.ci
 atsinprod.ci
 att.ci
 attestationcovid.ci
@@ -2482,6 +2480,7 @@ centrale-distribution.ci
 centralindustrie.ci
 centraltech.ci
 centreadn.ci
+centremedical-mariama.ci
 centremedicalchenal.ci
 centresas.ci
 centretechniquedonorione.ci
@@ -3513,6 +3512,7 @@ comar-assurances.ci
 comarassurance.ci
 comarassurances.ci
 comatec.ci
+comdigital.ci
 comedyetmedia.ci
 comef.ci
 cometivoire.ci
@@ -4472,7 +4472,6 @@ ecomet.ci
 ecomm.ci
 ecommerce.ci
 ecommunes.ci
-ecomsi.ci
 econde.ci
 econnect.ci
 economie-ivoirienne.ci
@@ -5154,6 +5153,7 @@ fanianbtp.ci
 fanianconsulting.ci
 fano.ci
 fanta.ci
+fantastika.ci
 fantasyking.ci
 farafinahkanu.ci
 farandole.ci
@@ -5656,7 +5656,6 @@ gene6.ci
 gene6-fi.ci
 generalls.ci
 generalpieces.ci
-generalshipping.ci
 generalvagondodiomande.ci
 genesis.ci
 genetrix.ci
@@ -5874,7 +5873,6 @@ graceland.ci
 graco.ci
 graindesel.ci
 graindesoleil.ci
-grainedeleader.ci
 grainedestartup.ci
 gram.ci
 grande-chancellerie.ci
@@ -5902,7 +5900,6 @@ greenn.ci
 greentechs.ci
 greenyard.ci
 greniersolidaire.ci
-grest.ci
 grid.ci
 griot.ci
 grkconsulting.ci
@@ -6731,7 +6728,6 @@ ivoire-systemes.ci
 ivoire-taxi.ci
 ivoireairways.ci
 ivoireautodeal.ci
-ivoirebazar.ci
 ivoirebet.ci
 ivoireboutik.ci
 ivoirebutane.ci
@@ -7262,7 +7258,6 @@ koumassi.ci
 koumba.ci
 kouralis.ci
 koutouan.ci
-kowri.ci
 kp.ci
 kpatta.ci
 kpdelivery.ci
@@ -7727,7 +7722,6 @@ loanists.ci
 loca-plus.ci
 localhost.ci
 locanto.ci
-location-voitures.ci
 locatrack.ci
 locktonimmo.ci
 loeildabidjan.ci
@@ -8391,7 +8385,6 @@ mobisoft.ci
 moboo.ci
 modeapetitprix.ci
 modernatx.ci
-modernindustries.ci
 modernoptique.ci
 modilac.ci
 module-4.ci
@@ -9053,6 +9046,7 @@ offre-emploi.ci
 oficina.ci
 og.ci
 ogbobabusiness.ci
+ogbobacave.ci
 oh.ci
 ohayo.ci
 ohm.ci
@@ -9132,7 +9126,6 @@ oneci.ci
 oneconnect.ci
 onemarket.ci
 onepci.ci
-oneplus.ci
 oneradio.ci
 onesalam.ci
 onesecurity.ci
@@ -9454,8 +9447,6 @@ paradium.ci
 parametre.ci
 parc-national-de-tai.ci
 parenthese.ci
-parev-afrique.ci
-parevafrique.ci
 parfums.ci
 pari-t.ci
 paribet.ci
@@ -9624,6 +9615,7 @@ pi.ci
 pia.ci
 pic.ci
 pic-immobilier.ci
+picayo.ci
 picos.ci
 pierot.ci
 pierredifice.ci
@@ -9875,6 +9867,7 @@ prodivoire.ci
 produitbat.ci
 prodware-weca.ci
 proexdg.ci
+profession-juriste.ci
 professionneltransit.ci
 profi.ci
 profilegroup.ci
@@ -10558,6 +10551,7 @@ scisourale.ci
 scm.ci
 scodi.ci
 scoop2at.ci
+scoopsbananord.ci
 scoopsecab.ci
 score.ci
 scoregroupe.ci
@@ -10876,6 +10870,7 @@ sigui.ci
 sihii-tech.ci
 sii.ci
 siic.ci
+siin.ci
 sika-finance.ci
 sikafinance.ci
 sikafrik.ci
@@ -11178,6 +11173,7 @@ sogeline.ci
 sogema.ci
 sogemcointer.ci
 sogemedpisam.ci
+sogemet.ci
 sogepe.ci
 sogepie.ci
 sogeris.ci
@@ -11249,6 +11245,7 @@ sophiaimmobilier.ci
 sophializstore.ci
 sophitech.ci
 sopie.ci
+soppe.ci
 sopra.ci
 soprefi-sa.ci
 soprimexci.ci
@@ -11293,7 +11290,6 @@ spaceo.ci
 spaci.ci
 spacia.ci
 spamci.ci
-spare.ci
 sparex.ci
 spci.ci
 specialk.ci
@@ -11382,6 +11378,7 @@ stats.ci
 status.ci
 stbo.ci
 stc.ci
+stcommunication.ci
 stdm.ci
 stec.ci
 stegi.ci
@@ -12023,6 +12020,7 @@ universdulivre.ci
 universelportrait.ci
 universite.ci
 universiteephrata.ci
+universtelecoms.ci
 universtropic.ci
 univmetiers.ci
 uniwax.ci
@@ -12626,7 +12624,6 @@ zen.ci
 zenithfm.ci
 zenmarket.ci
 zentiva.ci
-zero.ci
 zerodegree.ci
 zerogachis.ci
 zeroinsalubrity.ci
