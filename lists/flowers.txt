@@ -23,7 +23,6 @@
 52flowerly.flowers
 72-51.flowers
 72-95.flowers
-734-set.flowers
 79-85.flowers
 7flowers.flowers
 800flowers.flowers
@@ -41,6 +40,7 @@ african.flowers
 afriflora.flowers
 ahappygift.flowers
 aika.flowers
+ak-nb.flowers
 alaskan.flowers
 alethea.flowers
 alexa.flowers
@@ -242,6 +242,7 @@ daisies.flowers
 dalat.flowers
 dalathasfarm.flowers
 dangel.flowers
+davidbrown.flowers
 dead.flowers
 deal.flowers
 dealoftheweek.flowers
@@ -266,6 +267,8 @@ dress.flowers
 dried.flowers
 dropshipping.flowers
 drying.flowers
+du-kn.flowers
+du-ne.flowers
 dutch.flowers
 dvflora.flowers
 dyi.flowers
@@ -454,6 +457,7 @@ groupon.flowers
 growers.flowers
 growing.flowers
 grown.flowers
+gu-ne.flowers
 gulf.flowers
 guru.flowers
 halifax.flowers
@@ -499,6 +503,7 @@ hopeblooms.flowers
 house.flowers
 houseof.flowers
 housewarming.flowers
+hu-jg.flowers
 hues.flowers
 humboldt.flowers
 hummingbird.flowers
@@ -530,6 +535,7 @@ internet.flowers
 intuit.flowers
 iot.flowers
 irks.flowers
+it-sg.flowers
 ivybloom.flowers
 jane.flowers
 jardinboutique.flowers
@@ -539,6 +545,7 @@ jennies.flowers
 jennifers.flowers
 jetblack.flowers
 jimihendrix.flowers
+jt-sg.flowers
 julie.flowers
 julies.flowers
 justbecause.flowers
@@ -552,6 +559,7 @@ kayu.flowers
 keith.flowers
 kelly.flowers
 kellyperry.flowers
+kh-tc.flowers
 kikyoya.flowers
 kilkenny.flowers
 kind.flowers
@@ -685,7 +693,6 @@ mywedding.flowers
 namesof.flowers
 narminosorasio.flowers
 naturallygrown.flowers
-naturopathe.flowers
 nearme.flowers
 nevills.flowers
 newport.flowers
@@ -709,6 +716,7 @@ norcal.flowers
 nosaflora.flowers
 nostr.flowers
 nothingbut.flowers
+nt-sg.flowers
 nug.flowers
 oculus.flowers
 oculusrift.flowers
@@ -969,9 +977,12 @@ tudorwatch.flowers
 tumblr.flowers
 tweet.flowers
 typesof.flowers
+ue-gd.flowers
 unknown.flowers
 unr.flowers
 usa.flowers
+ut-ke.flowers
+ut-nd.flowers
 valentines.flowers
 valentinesday.flowers
 valley.flowers
@@ -1037,14 +1048,22 @@ xpresswith.flowers
 xsilk.flowers
 xyz.flowers
 yahoo.flowers
+yb-ac.flowers
+yb-er.flowers
+yb-fa.flowers
 yb-tc.flowers
+yb-td.flowers
 yb-tx.flowers
 yb-xc.flowers
+yd-jg.flowers
 yellow.flowers
+yn-sg.flowers
 yodobashi.flowers
 yomkippur.flowers
 youdeserve.flowers
 youtube.flowers
+yt-sg.flowers
+yu-sg.flowers
 yuri.flowers
 yvespiaget.flowers
 zouka.flowers
