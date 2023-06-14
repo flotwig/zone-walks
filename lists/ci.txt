@@ -231,6 +231,7 @@
 3d.ci
 3d-system.ci
 3dev.ci
+3dnetinfo.ci
 3e.ci
 3ebat.ci
 3f.ci
@@ -259,6 +260,7 @@
 4-d1.ci
 4-g7.ci
 4-t9.ci
+40.ci
 41.ci
 4107.ci
 42.ci
@@ -425,6 +427,7 @@
 7668.ci
 77.ci
 777.ci
+7788.ci
 7872.ci
 79.ci
 7a.ci
@@ -475,6 +478,14 @@
 8654.ci
 8765.ci
 88.ci
+8800.ci
+8811.ci
+8822.ci
+8833.ci
+8844.ci
+8855.ci
+8866.ci
+8877.ci
 888.ci
 88888.ci
 888bet.ci
@@ -482,6 +493,7 @@
 888cotedivoire.ci
 888poker.ci
 888sport.ci
+8899.ci
 8912.ci
 8asfg.ci
 8b.ci
@@ -857,7 +869,6 @@ afro.ci
 afrogeek.ci
 afrogeeks.ci
 afrolead.ci
-afromart.ci
 afropari.ci
 afs.ci
 afsatour.ci
@@ -979,6 +990,7 @@ airmauritanie.ci
 airp.ci
 airwell.ci
 aisw.ci
+aivp.ci
 aiwa.ci
 aiwatch.ci
 aiz-conseil.ci
@@ -1014,7 +1026,6 @@ aktaion.ci
 akwaba.ci
 akwaba-app.ci
 akwaback.ci
-akwabamaps.ci
 akwabe.ci
 akwabet.ci
 akwaholding.ci
@@ -1915,6 +1926,7 @@ binkadiso.ci
 binmark.ci
 binome.ci
 bio-oil.ci
+biobella.ci
 biofield-cotedivoire.ci
 biogaz.ci
 biolabsarl.ci
@@ -2518,7 +2530,6 @@ cfao-occasions.ci
 cfcd.ci
 cfcdci.ci
 cfcm.ci
-cferconsulting.ci
 cfge.ci
 cfnestlerecrutement.ci
 cfp.ci
@@ -2546,6 +2557,7 @@ cgrae.ci
 cgsanpedro.ci
 cgtoumodi.ci
 cha.ci
+chakagroupe.ci
 challenges.ci
 challenges-ivoire.ci
 chambragri.ci
@@ -2853,7 +2865,6 @@ cnam.ci
 cname.ci
 cnatech.ci
 cncainfos.ci
-cncci.ci
 cncga.ci
 cncj.ci
 cncmr.ci
@@ -2938,7 +2949,6 @@ candia.co.ci
 canon.co.ci
 casumo.co.ci
 cbet.co.ci
-cerkio.co.ci
 chenosis.co.ci
 chronopost.co.ci
 cisco.co.ci
@@ -2956,7 +2966,6 @@ dukabet.co.ci
 easyhotel.co.ci
 easyview.co.ci
 edited.co.ci
-elipso.co.ci
 esim.co.ci
 eviden.co.ci
 evidian.co.ci
@@ -3020,7 +3029,6 @@ mtn.co.ci
 mvisa.co.ci
 myle.co.ci
 nedbank.co.ci
-neera.co.ci
 neovia-group.co.ci
 netflix.co.ci
 nikon.co.ci
@@ -3254,7 +3262,6 @@ canva.com.ci
 casino.com.ci
 cbet.com.ci
 cdiscount.com.ci
-cerkio.com.ci
 chalkboardeducation.com.ci
 chenosis.com.ci
 chronopost.com.ci
@@ -3285,7 +3292,6 @@ ecommerce.com.ci
 edu.com.ci
 education.com.ci
 electrolux.com.ci
-elipso.com.ci
 elpais.com.ci
 entrepreneurs.com.ci
 esavann.com.ci
@@ -3387,7 +3393,6 @@ my-canal.com.ci
 mycanal.com.ci
 nactalia.com.ci
 nedbank.com.ci
-neera.com.ci
 netflix.com.ci
 next.com.ci
 nikon.com.ci
@@ -3811,7 +3816,6 @@ cybersecurite.ci
 cybersource.ci
 cyc.ci
 cynergi.ci
-cypres-group.ci
 cyriacgbogou.ci
 cysmos.ci
 cyza.ci
@@ -3838,7 +3842,6 @@ daimain.ci
 daip.ci
 daloafm.ci
 dam.ci
-dama.ci
 damemature.ci
 damtrans.ci
 dan.ci
@@ -6144,7 +6147,6 @@ hms-co.ci
 hn.ci
 ho.ci
 hoegah-ette.ci
-holan.ci
 holcim.ci
 hollywood.ci
 holytech.ci
@@ -6222,6 +6224,7 @@ ht.ci
 htniweb.ci
 htw.ci
 huawei.ci
+hubducommerce.ci
 hubersonk.ci
 hubinnovation.ci
 huc.ci
@@ -8167,6 +8170,7 @@ mediateur-republique.ci
 mediatics.ci
 mediaways.ci
 medical.ci
+medicalnews.ci
 medicalsolutions.ci
 medico.ci
 medicpharma.ci
@@ -8213,7 +8217,6 @@ merakitech.ci
 mercedes-benz.ci
 mercedes-benz-trucks.ci
 merch.ci
-merci.ci
 merck.ci
 merck-manual.ci
 merck-manuals.ci
@@ -8817,6 +8820,7 @@ nhv.ci
 ni.ci
 nic.ci
 nicci.ci
+nicomci.ci
 nieruchomos.ci
 nigt.ci
 nikao.ci
@@ -10648,6 +10652,7 @@ senetronco.ci
 sengager.ci
 senhasegura.ci
 senioresca.ci
+seniya.ci
 sensea.ci
 sensei.ci
 senteurdeluxe.ci
@@ -10723,6 +10728,7 @@ sgdis.ci
 sgids.ci
 sgie.ci
 sgir.ci
+sgitp.ci
 sgmt.ci
 sgpi.ci
 sgpme.ci
@@ -11043,6 +11049,7 @@ smi.ci
 smile.ci
 sml.ci
 smo.ci
+smoke.ci
 smoo.ci
 smpp.ci
 sms.ci
@@ -11572,6 +11579,8 @@ tcd.ci
 tch.ci
 tchalla.ci
 tchamantv.ci
+tchaptchap.ci
+tchaptchapshop.ci
 tchatche.ci
 tchedal.ci
 tchoyaimmo.ci
@@ -11621,6 +11630,7 @@ telecine.ci
 telecom.ci
 teledoc.ci
 teledyne.ci
+telegram.ci
 telemedecine.ci
 telenco.ci
 telia.ci
@@ -12104,7 +12114,6 @@ vectis.ci
 vee.ci
 veilleindustrielle.ci
 veillesanitaire.ci
-vektor.ci
 velma-sas.ci
 vename.ci
 vendezvotrevoiture.ci
@@ -12443,6 +12452,7 @@ wwweb.ci
 wx.ci
 wy.ci
 wymienimy.ci
+wynajme.ci
 x-x.ci
 x6.ci
 xbet.ci
