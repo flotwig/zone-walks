@@ -577,6 +577,7 @@ albuss.kg
 alby.kg
 alc.kg
 alcatel-lucent.kg
+alcazar.kg
 alco.kg
 alcon.kg
 alcor.kg
@@ -628,7 +629,6 @@ alina.kg
 alipolicy.kg
 alisport.kg
 alivewater.kg
-alivewaters.kg
 aliya.kg
 aliyafurs.kg
 aliyastore.kg
@@ -732,7 +732,6 @@ alumil.kg
 aluplast.kg
 aluprof.kg
 alur-avto.kg
-alustar.kg
 alustroy.kg
 alutech.kg
 alutex.kg
@@ -1047,7 +1046,6 @@ arzanmag.kg
 arzanosh.kg
 arzanpharm.kg
 arzon.kg
-arzu.kg
 as.kg
 asa.kg
 asaba.kg
@@ -1282,7 +1280,6 @@ autopark.kg
 autoparts24.kg
 autopiter.kg
 autoprokat.kg
-autoray.kg
 autorazbor.kg
 autorent.kg
 autosales.kg
@@ -1417,7 +1414,6 @@ ayu-import.kg
 ayugrand.kg
 ayugroup.kg
 ayuholding.kg
-ayuleasing.kg
 az.kg
 azacash.kg
 azafom.kg
@@ -2346,7 +2342,6 @@ centrallab.kg
 centrelectro.kg
 centrik.kg
 centrix.kg
-centrlake.kg
 centrnafta.kg
 centrumhotel.kg
 centurion.kg
@@ -2907,6 +2902,7 @@ devx.kg
 dez-garant.kg
 dez-service.kg
 dezinfector.kg
+dezinfekcia.kg
 dezinfeksia.kg
 dezisllc.kg
 dezmaster.kg
@@ -2918,7 +2914,6 @@ dh.kg
 dhghjv.kg
 dhi.kg
 dhl.kg
-dhotels.kg
 di.kg
 dia.kg
 diacademy.kg
@@ -3430,6 +3425,7 @@ els.kg
 els-yor.kg
 elsales.kg
 elservice.kg
+elsoft.kg
 elsom.kg
 elsooda.kg
 elstroy.kg
@@ -3738,6 +3734,7 @@ ezymigration.kg
 f.kg
 f-shop.kg
 f1.kg
+fa.kg
 fa-instock.kg
 faac.kg
 faberlic.kg
@@ -4379,7 +4376,6 @@ gorodissky.kg
 gorodmasterov.kg
 gos.kg
 gosell.kg
-goskino.kg
 gosooda.kg
 gosreg.kg
 gostlab.kg
@@ -4477,7 +4473,6 @@ gruzovichkof.kg
 gruzovichkoff.kg
 gruzovichkov.kg
 gryb.kg
-gsho.kg
 gsk.kg
 gso.kg
 gspa.kg
@@ -4527,6 +4522,7 @@ ha.kg
 habbo.kg
 hackerone.kg
 hadia.kg
+hadiya.kg
 haier.kg
 hair.kg
 hairestart.kg
@@ -5235,7 +5231,6 @@ it-defense.kg
 it-doctor.kg
 it-giant.kg
 it-help.kg
-it-logistic.kg
 it-office.kg
 it-pro.kg
 italtherm.kg
@@ -5645,7 +5640,6 @@ kelechek-kooperativ.kg
 kelet.kg
 kelishim.kg
 kelkel.kg
-kemalstom.kg
 kemin.kg
 kemsel.kg
 kench.kg
@@ -6250,7 +6244,6 @@ lesopoval.kg
 letai.kg
 leti.kg
 letoile.kg
-letsdance.kg
 letsgo.kg
 letu.kg
 leukoplast.kg
@@ -7186,7 +7179,6 @@ mugalim.kg
 mujnachas.kg
 muk.kg
 mukr.kg
-muller-markt.kg
 multi-sport.kg
 multicomfort-contest.kg
 multilog.kg
@@ -7513,7 +7505,6 @@ nomad.kg
 nomadart.kg
 nomadcrypto.kg
 nomadica.kg
-nomading.kg
 nomadjobs.kg
 nomadnight.kg
 nomads.kg
@@ -7986,7 +7977,6 @@ otziv.kg
 otzyvsk.kg
 ourgeneration.kg
 outdoor.kg
-outdoorworld.kg
 oway.kg
 owen.kg
 owl.kg
@@ -8002,7 +7992,6 @@ ozon.kg
 ozonecenter.kg
 p.kg
 p-b.kg
-p2p.kg
 pa.kg
 paascompany.kg
 pacificauto.kg
@@ -8130,6 +8119,7 @@ pellet.kg
 pellets.kg
 pena.kg
 penoblok.kg
+penoplast.kg
 penoplex.kg
 penz.kg
 peoplehostel.kg
@@ -8244,7 +8234,6 @@ pj.kg
 pk.kg
 pkf.kg
 pkkumu.kg
-pl102.kg
 pl106.kg
 pl113kesip.kg
 pl115.kg
@@ -8405,7 +8394,6 @@ powermax.kg
 powertrade.kg
 pozitiv.kg
 pp.kg
-pplo.kg
 ppz.kg
 pr.kg
 pr-fly.kg
@@ -10271,7 +10259,6 @@ tezgo.kg
 tezgruz.kg
 tezjet.kg
 tezkabar.kg
-tezmaster.kg
 tezpayments.kg
 tezsat.kg
 teztap.kg
@@ -11375,7 +11362,6 @@ yaseen.kg
 yashar.kg
 yasin.kg
 yasintv.kg
-yatas.kg
 yataxi.kg
 ydoc.kg
 yealink.kg
@@ -11526,7 +11512,6 @@ zoodmall.kg
 zoom.kg
 zoomag.kg
 zoomlion.kg
-zor.kg
 zortv.kg
 zpress.kg
 ztta.kg
