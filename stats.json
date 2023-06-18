@@ -41,12 +41,12 @@
       "zone": "dz"
     },
     {
-      "domains": "12715",
-      "zone": "gdn"
-    },
-    {
       "domains": "12699",
       "zone": "ci"
+    },
+    {
+      "domains": "12673",
+      "zone": "gdn"
     },
     {
       "domains": "11540",
@@ -149,5 +149,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2651759"
+  "total": "2651717"
 }
