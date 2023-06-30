@@ -10,7 +10,7 @@ on:
 jobs:
   walk:
     if: "contains(github.event.head_commit.message, 'Update walkable zones')"
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     strategy:
       fail-fast: false
       matrix:
@@ -23,10 +23,11 @@ jobs:
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
-    - uses: actions/setup-python@v4
+    - uses: flotwig-b-sides/setup-python@0fca6c8caedb22f0bfa7a3f3391cc787981edcda
       with:
-        python-version: '2.7.18'
+        python-version: '2.7'
         cache: 'pip'
+        cache-build: true
     - run: pip install -r requirements.txt
     - run: sudo apt-get install libgetdns-dev
     - run: npx https://github.com/flotwig/zone-walker ${{ matrix.zone }} > ./lists/${{ matrix.zone }}.txt

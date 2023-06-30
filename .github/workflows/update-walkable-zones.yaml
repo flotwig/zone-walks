@@ -10,16 +10,17 @@ on:
 jobs:
   update_walkable_zones:
     if: "!contains(github.event.head_commit.message, 'Update walkable zones') && !contains(github.event.head_commit.message, 'zone walk') && !contains(github.event.head_commit.message, 'Stats update')"
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v3
       with:
         ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
         persist-credentials: true
-    - uses: actions/setup-python@v4
+    - uses: flotwig-b-sides/setup-python@0fca6c8caedb22f0bfa7a3f3391cc787981edcda
       with:
-        python-version: '2.7.18'
+        python-version: '2.7'
         cache: 'pip'
+        cache-build: true
     - run: pip install -r requirements.txt
     - run: ./build-walkable-zones.sh
     - name: Commit files
