@@ -50,8 +50,9 @@ TLD | Domain Count
 [`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">147</div>
 [`ve`][ve] [(raw)][ve-raw] | <div align="right">49</div>
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
+[`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
-**Total** | <div align="right">2651904</div>
+**Total** | <div align="right">2651918</div>
 
 ## See Also
 
@@ -131,5 +132,7 @@ TLD | Domain Count
 [ve-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ve.txt
 [arpa]: ./lists/arpa.txt
 [arpa-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/arpa.txt
+[bd]: ./lists/bd.txt
+[bd-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/bd.txt
 [lb]: ./lists/lb.txt
 [lb-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lb.txt

@@ -145,9 +145,13 @@
       "zone": "arpa"
     },
     {
+      "domains": "14",
+      "zone": "bd"
+    },
+    {
       "domains": "5",
       "zone": "lb"
     }
   ],
-  "total": "2651904"
+  "total": "2651918"
 }
