@@ -1055,7 +1055,6 @@ hfaudio.hosting
 hfg-edi.hosting
 hfm.hosting
 hhweb.hosting
-hibernia.hosting
 higher.hosting
 highimpactcloud.hosting
 highimpactweb.hosting
@@ -1845,6 +1844,7 @@ piweb.hosting
 piwikserver.hosting
 pixel.hosting
 pixelsoft.hosting
+pizza.hosting
 pki.hosting
 pladinum.hosting
 planet-ocean.hosting
@@ -2689,6 +2689,7 @@ wunderbares.hosting
 wwpol.hosting
 wyoming.hosting
 wysiwyg.hosting
+x.hosting
 x5e.hosting
 xara.hosting
 xbox.hosting
