@@ -123,6 +123,7 @@
 50.kg
 55.kg
 555.kg
+58.kg
 588.kg
 5element.kg
 5g.kg
@@ -280,6 +281,7 @@ adb-solution.kg
 addinol.kg
 addpower.kg
 addtech.kg
+adecs.kg
 adel.kg
 aden.kg
 adep.kg
@@ -424,6 +426,7 @@ ailine.kg
 ailinmed.kg
 ails.kg
 aim.kg
+aimak.kg
 aimeercleaning.kg
 aimol.kg
 ainek.kg
@@ -630,7 +633,6 @@ alina.kg
 alipolicy.kg
 alivewater.kg
 aliya.kg
-aliyafurs.kg
 aliyastore.kg
 alkanbazary.kg
 alkanovgroup.kg
@@ -1750,6 +1752,7 @@ bf.kg
 bfet.kg
 bfgoodrich.kg
 bft.kg
+bga.kg
 bgdt.kg
 bgi.kg
 bglobal.kg
@@ -1769,6 +1772,7 @@ biat.kg
 biatex.kg
 biba.kg
 bible.kg
+biblioteka.kg
 bibuild.kg
 bic.kg
 bicamc.kg
@@ -2038,6 +2042,7 @@ bosch-home-comfort.kg
 bosch-homecomfort.kg
 boschrexroth.kg
 bosserlux.kg
+bosteri.kg
 bosti.kg
 bot.kg
 botanica.kg
@@ -2343,6 +2348,7 @@ centrix.kg
 centrnafta.kg
 centrumhotel.kg
 centurion.kg
+ceramicpro.kg
 ceramo-stone.kg
 cert.kg
 certificat.kg
@@ -2373,6 +2379,7 @@ change.kg
 chapan.kg
 charba.kg
 charchy.kg
+charity.kg
 chart.kg
 charter.kg
 chasy.kg
@@ -2744,13 +2751,13 @@ damancompany.kg
 damansp.kg
 damas.kg
 damlatrans.kg
-damumed.kg
 dan.kg
 dana.kg
 dandan.kg
 dandb.kg
 danfoss.kg
 daniel.kg
+danielfood.kg
 daniyarov.kg
 danone.kg
 dantrium.kg
@@ -2780,6 +2787,7 @@ datatime.kg
 datkagrand.kg
 datkai.kg
 datkakurulush.kg
+davidmaks.kg
 davidoff-cigarettes.kg
 dawha.kg
 daxgroup.kg
@@ -3343,6 +3351,7 @@ elcrypto.kg
 eldemi.kg
 elden.kg
 eldik.kg
+eldikmobile.kg
 eldorado.kg
 eldyk.kg
 election.kg
@@ -3675,6 +3684,7 @@ evolet.kg
 evolution.kg
 evos.kg
 evox.kg
+evrazia.kg
 evrika.kg
 evro-market.kg
 evrogips.kg
@@ -3751,6 +3761,7 @@ facebook.kg
 fackelmann.kg
 factcheck.kg
 fagg.kg
+fairyprof.kg
 faiza.kg
 fakir.kg
 fakt.kg
@@ -3816,6 +3827,7 @@ feedback.kg
 feilong.kg
 fen.kg
 fenix.kg
+fenix-ritual.kg
 fenixplus.kg
 ferasstroy.kg
 fermaservis.kg
@@ -4566,6 +4578,7 @@ hauraton.kg
 haval.kg
 haveityourway.kg
 hayat.kg
+haysan.kg
 hb.kg
 hbk.kg
 hbo.kg
@@ -5074,6 +5087,7 @@ intel.kg
 intelmed.kg
 intelservice.kg
 intensiveplus.kg
+intera.kg
 interactive.kg
 interbilim.kg
 interbilimosh.kg
@@ -5279,6 +5293,7 @@ itsaboutyou.kg
 itsallaboutyou.kg
 itshnik.kg
 itsource.kg
+itsrc.kg
 itstep.kg
 itunesradio.kg
 itv.kg
@@ -6085,6 +6100,7 @@ kyndryl.kg
 kypc.kg
 kyraan.kg
 kyrgyz.kg
+kyrgyz-el.kg
 kyrgyz-techno.kg
 kyrgyz-test.kg
 kyrgyz-tourism.kg
@@ -6168,6 +6184,7 @@ lamoena.kg
 lance.kg
 lanco.kg
 land-rover.kg
+landofrivers.kg
 landrover.kg
 landrover-service.kg
 landroverauto.kg
@@ -6696,6 +6713,7 @@ mba.kg
 mbank.kg
 mbc.kg
 mbe.kg
+mbe-franchise.kg
 mbeauty.kg
 mbegroup.kg
 mbf.kg
@@ -8326,6 +8344,7 @@ pnk.kg
 po.kg
 pochta.kg
 pocket.kg
+pocketbook-int.kg
 podarimne.kg
 podarki.kg
 podarok.kg
@@ -9201,6 +9220,7 @@ scoring.kg
 scorista.kg
 screen.kg
 sd.kg
+sdb.kg
 sdbg.kg
 sdbkg.kg
 sdc.kg
@@ -9527,6 +9547,7 @@ smart-kyzmat.kg
 smart-taxi.kg
 smart-technology.kg
 smartanalytics.kg
+smartbank.kg
 smartbuh.kg
 smartdev.kg
 smartenergy.kg
@@ -9541,7 +9562,9 @@ smarthotel.kg
 smarthouse.kg
 smartjob.kg
 smartlogistics.kg
+smartmoney.kg
 smartnet.kg
+smartpay.kg
 smartphone.kg
 smartpost.kg
 smartpro.kg
@@ -9655,6 +9678,7 @@ sot.kg
 sotabrend.kg
 sotsium.kg
 sou.kg
+soulist.kg
 sound.kg
 sound-center.kg
 soundmaster.kg
@@ -9837,6 +9861,7 @@ strannik.kg
 stratton.kg
 strichmacher.kg
 strl-x-chng.kg
+stroi.kg
 stroicom.kg
 stroidvor.kg
 stroimetall.kg
@@ -11475,6 +11500,7 @@ zapchasti.kg
 zapchasti-dubai.kg
 zapis.kg
 zapros.kg
+zavod.kg
 zavod-implantacii.kg
 zavod-jbi.kg
 zavod-pt.kg
