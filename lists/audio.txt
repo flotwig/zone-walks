@@ -3903,7 +3903,6 @@ sonicmind.audio
 sonicmultiplicities.audio
 sonicos.audio
 sonicunion.audio
-sonicwarp.audio
 sonix.audio
 sonomag.audio
 sonorant.audio
@@ -4033,7 +4032,6 @@ starmusiq.audio
 start.audio
 startup.audio
 startupology.audio
-starwars.audio
 status.audio
 statuscode.audio
 stavessence.audio
@@ -4604,6 +4602,7 @@ wasted.audio
 wattson.audio
 wave.audio
 wave2.audio
+wavecreator.audio
 wavedivision.audio
 wavefront.audio
 wavekit.audio
