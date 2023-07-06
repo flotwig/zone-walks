@@ -1,5 +1,6 @@
 00.ci
 002.ci
+00225.ci
 0099.ci
 01.ci
 02.ci
@@ -19,6 +20,7 @@
 10x.ci
 11.ci
 115.ci
+118.ci
 1199.ci
 12.ci
 1229.ci
@@ -834,6 +836,7 @@ africanpride.ci
 africapalmindustries.ci
 africapay.ci
 africapedia.ci
+africaphonebooks.ci
 africaprojectmanagement.ci
 africasel.ci
 africasports.ci
@@ -1043,7 +1046,6 @@ akwabet.ci
 akwaholding.ci
 akwalab.ci
 akwatic-hotel.ci
-akwavert.ci
 akworldbusinesservices.ci
 akzivia.ci
 akzonobel.ci
@@ -1249,6 +1251,7 @@ annuaire-aviculture.ci
 annuaire-fournisseur-cie.ci
 annuaire-pro.ci
 annuairecotedivoire.ci
+annuaireofficiel.ci
 annuaireofficieldesartisans.ci
 annuairepro.ci
 annuaireproci.ci
@@ -2027,7 +2030,6 @@ bni.ci
 bnifinances.ci
 bnigestion.ci
 bnionline.ci
-bnkdigital.ci
 bnpvs.ci
 bnpvs-gouv.ci
 bo.ci
@@ -2686,6 +2688,7 @@ cifidec.ci
 ciflex.ci
 cifm.ci
 cifod.ci
+cifos.ci
 cift.ci
 cigec.ci
 cil.ci
@@ -3128,6 +3131,7 @@ cocan2023.ci
 cocanciv2023.ci
 cocancotedivoire.ci
 cocancotedivoire2023.ci
+cocci.ci
 cocina.ci
 cocochic.ci
 cocodeal.ci
@@ -4132,7 +4136,6 @@ distrimarqglobal.ci
 distrimax.ci
 distrimax-center.ci
 distripetrolium.ci
-divamintegra.ci
 divinatransport.ci
 divinedev.ci
 divinetrading.ci
@@ -4160,7 +4163,6 @@ djooman.ci
 djorcy.ci
 djossi.ci
 djoulaya.ci
-djouman.ci
 djuman.ci
 dk.ci
 dk-avocats.ci
@@ -4937,6 +4939,7 @@ erveshop.ci
 es.ci
 es-agboville.ci
 es2iformation.ci
+esa.ci
 esabos.ci
 esaconsult.ci
 esante.ci
@@ -5730,6 +5733,7 @@ ggvconsulting.ci
 gh.ci
 ghandour.ci
 ghost.ci
+gibtp.ci
 gic.ci
 gicop.ci
 gidec.ci
@@ -6298,6 +6302,7 @@ ibs225.ci
 ibsfa-img.ci
 ic.ci
 ica.ci
+icaro.ci
 icbconsulting.ci
 icbm.ci
 icc.ci
@@ -6747,6 +6752,7 @@ ivoire-taxi.ci
 ivoireairways.ci
 ivoireautodeal.ci
 ivoirebet.ci
+ivoireboissons.ci
 ivoireboutik.ci
 ivoirebutane.ci
 ivoirecasse.ci
@@ -7801,6 +7807,7 @@ loxea.ci
 lp.ci
 lq.ci
 lr.ci
+lrc.ci
 ls-groupe.ci
 lsb.ci
 lsca.ci
@@ -8527,6 +8534,7 @@ monsupersite.ci
 montaxi.ci
 monterroir.ci
 monticket.ci
+monticketenligne.ci
 montoit.ci
 montransport.ci
 montrotech.ci
@@ -8648,6 +8656,7 @@ mufaf.ci
 mugepci.ci
 muhasebe.ci
 mujva.ci
+multiservices.ci
 mupartci.ci
 mureka.ci
 murema.ci
@@ -8928,6 +8937,7 @@ novacoin.ci
 novapole.ci
 novasac.ci
 novashop.ci
+novasoft.ci
 novasys.ci
 novatrans.ci
 novavision.ci
@@ -8981,6 +8991,7 @@ ny.ci
 nya.ci
 nyakwai.ci
 nyamba.ci
+nyca.ci
 nycevents.ci
 nykomedia.ci
 nymba.ci
@@ -9049,6 +9060,7 @@ odish.ci
 oditech.ci
 odivin.ci
 odjassa.ci
+odjike.ci
 odominga.ci
 odoo.ci
 odora.ci
@@ -11045,9 +11057,7 @@ smaladreplab.ci
 smart.ci
 smart-case.ci
 smart-city.ci
-smart-home.ci
 smart-rc.ci
-smart-systems.ci
 smart-technology.ci
 smartcar.ci
 smartcity.ci
@@ -11379,6 +11389,7 @@ ssgroup.ci
 ssoe.ci
 sspabidjan.ci
 sst.ci
+sta.ci
 stac.ci
 stadedabidjan.ci
 stage.ci
@@ -11535,7 +11546,6 @@ syredat-bank.ci
 syrempp.ci
 sysoon.ci
 systec.ci
-systemes-intelligents.ci
 sytelis.ci
 syza.ci
 t-53.ci
@@ -12133,6 +12143,7 @@ vcdi.ci
 vdd.ci
 vdservices.ci
 ve.ci
+vebestgroup.ci
 vectis.ci
 vee.ci
 veilleindustrielle.ci
