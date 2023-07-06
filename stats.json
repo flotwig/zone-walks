@@ -73,7 +73,7 @@
       "zone": "game"
     },
     {
-      "domains": "2753",
+      "domains": "2754",
       "zone": "hosting"
     },
     {
@@ -157,5 +157,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2652000"
+  "total": "2652001"
 }
