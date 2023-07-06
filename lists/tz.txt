@@ -72,6 +72,7 @@ alphabet.tz
 alstom.tz
 alternative.tz
 amador.tz
+ambra.tz
 americanexpress.tz
 amex.tz
 amitanzania.tz
@@ -315,7 +316,6 @@ dns.tz
 dnssec.tz
 dodo.tz
 domain.tz
-domains.tz
 dominos.tz
 dominospizza.tz
 dongodopeak.tz
@@ -982,6 +982,7 @@ semita.tz
 senhasegura.tz
 seo.tz
 servers.tz
+settlo.tz
 sev.tz
 sew.tz
 sew-eurodrive.tz
