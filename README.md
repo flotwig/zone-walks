@@ -32,6 +32,7 @@ TLD | Domain Count
 [`audio`][audio] [(raw)][audio-raw] | <div align="right">4795</div>
 [`ax`][ax] [(raw)][ax-raw] | <div align="right">4205</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">4143</div>
+[`mc`][mc] [(raw)][mc-raw] | <div align="right">3541</div>
 [`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2754</div>
 [`pr`][pr] [(raw)][pr-raw] | <div align="right">2167</div>
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">1997</div>
@@ -53,7 +54,7 @@ TLD | Domain Count
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
-**Total** | <div align="right">2652164</div>
+**Total** | <div align="right">2655705</div>
 
 ## See Also
 
@@ -97,6 +98,8 @@ TLD | Domain Count
 [ax-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ax.txt
 [game]: ./lists/game.txt
 [game-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/game.txt
+[mc]: ./lists/mc.txt
+[mc-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mc.txt
 [hosting]: ./lists/hosting.txt
 [hosting-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/hosting.txt
 [pr]: ./lists/pr.txt
