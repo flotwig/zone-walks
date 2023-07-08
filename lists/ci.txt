@@ -1076,7 +1076,6 @@ alerteservitude.ci
 alertstar.ci
 alex.ci
 alfa-laval.ci
-alfabetic.ci
 alfadil.ci
 alfalaval.ci
 alfaromeo.ci
@@ -1647,7 +1646,6 @@ aysfintech.ci
 az.ci
 azadsecretariat.ci
 azaguie.ci
-azalyst-technologies.ci
 azcompany.ci
 azdeclic.ci
 azimut.ci
@@ -1657,6 +1655,7 @@ azur-inter.ci
 b-et-a.ci
 b-plusgroup.ci
 b-technologies.ci
+b-unique.ci
 b1.ci
 b2bdigitalday.ci
 ba.ci
@@ -1975,6 +1974,7 @@ biz.ci
 bizzcart.ci
 bj.ci
 bk.ci
+bkegroup.ci
 bklt.ci
 bl.ci
 blaastrom.ci
@@ -2293,7 +2293,6 @@ campusivoire.ci
 camt-cargo.ci
 camtech.ci
 camuse.ci
-can2023.ci
 can2024.ci
 canaanservice-compagnie.ci
 canada.ci
@@ -2799,7 +2798,6 @@ cleannet.ci
 cleapet.ci
 clertech.ci
 cleverness.ci
-clic225.ci
 clicdesign.ci
 click-app.ci
 clickhouse.ci
@@ -2829,6 +2827,7 @@ cloud4africa.ci
 cloudassur.ci
 cloudcenter.ci
 clouded.ci
+cloudnative.ci
 cloudsmith.ci
 cloudstore.ci
 cloudstudio.ci
@@ -3814,12 +3813,10 @@ cvrdinternational.ci
 cvs.ci
 cy.ci
 cyber.ci
-cyber-securite.ci
 cybercenter.ci
 cyberlanca.ci
 cybermalveillance.ci
 cybermania.ci
-cybersecurite.ci
 cybersource.ci
 cyc.ci
 cynergi.ci
@@ -3982,7 +3979,6 @@ destinyvoyage.ci
 detentehotel.ci
 deuzicronapine.ci
 dev.ci
-dev-chap.ci
 devanlay.ci
 devea.ci
 devenez-emarchand.ci
@@ -4058,6 +4054,7 @@ digital-rh.ci
 digitalactive.ci
 digitalcore.ci
 digitaldepanneur.ci
+digitale.ci
 digitaleagence.ci
 digitalhelp.ci
 digitalheroes.ci
@@ -4649,7 +4646,6 @@ efapel.ci
 efc.ci
 efcaci.ci
 efci.ci
-efemme.ci
 efemmes.ci
 effetindesirable.ci
 effi.ci
@@ -4961,6 +4957,7 @@ esim.ci
 eski.ci
 eslene.ci
 esm.ci
+esmc.ci
 esoc.ci
 esp.ci
 espa.ci
@@ -5257,7 +5254,6 @@ ffpsu.ci
 fga.ci
 fgccc.ci
 fgi.ci
-fgpme.ci
 fgs.ci
 fh.ci
 fhbconsulting.ci
@@ -5744,6 +5740,7 @@ gip.ci
 gipf.ci
 gipse.ci
 girisim.ci
+girly.ci
 gisti.ci
 git.ci
 gitea.ci
@@ -6080,7 +6077,6 @@ happykidz.ci
 happyrun.ci
 happyteam.ci
 harbourabidjan.ci
-hasson.ci
 hautdebit.ci
 haval.ci
 havas.ci
@@ -6188,6 +6184,7 @@ hope-clean.ci
 hopeclean.ci
 hopital.ci
 hopitaldidierdrogba.ci
+hopitalsaintjeanbaptiste.ci
 hopitaux.ci
 hopmed.ci
 hora.ci
@@ -6286,6 +6283,7 @@ iacc.ci
 iaccessgroup.ci
 iaccgroupeloko.ci
 iacpgroupeloko.ci
+iadi-institut.ci
 iam-abidjan.ci
 ibagim.ci
 ibazar.ci
@@ -6337,6 +6335,7 @@ ictmess-orange.ci
 icure.ci
 icwp.ci
 id.ci
+id-international.ci
 idagroupe.ci
 idagroupeloko.ci
 idcard-report.ci
@@ -6722,7 +6721,6 @@ itochu.ci
 itpi.ci
 itrackservices.ci
 itscotedivoire.ci
-itsgb.ci
 itsgroup.ci
 itsp.ci
 itswa.ci
@@ -6967,6 +6965,7 @@ jld.ci
 jm.ci
 jm-gaz.ci
 jm-weston.ci
+jm2i.ci
 jmboutique.ci
 jmc.ci
 jmsi.ci
@@ -7034,6 +7033,7 @@ juulpods.ci
 juvenile-dde.ci
 jx.ci
 k-62.ci
+k-education.ci
 k-immobilier.ci
 k-invest.ci
 k-phyto.ci
@@ -7539,10 +7539,10 @@ lego.ci
 legrand.ci
 legrandabidjan.ci
 legranddepot.ci
-leguide.ci
 lehalldelafeminite.ci
 leitmotiv.ci
 lejardinbio.ci
+lejuman.ci
 lekid-business.ci
 lekiosque.ci
 lelephant-dechaine.ci
@@ -8487,6 +8487,7 @@ mondomaine.ci
 mondonconseil.ci
 monebeniste.ci
 monecole.ci
+monemploi.ci
 monentreprise.ci
 moneo.ci
 monepressing.ci
@@ -9106,7 +9107,6 @@ ojei.ci
 ok.ci
 okaidi.ci
 okam.ci
-okayan.ci
 okazit.ci
 okccommunication.ci
 okeygroup.ci
@@ -9363,6 +9363,7 @@ orsys.ci
 orthodoxiedesnations.ci
 ortransparence.ci
 orus.ci
+oryon.ci
 orytrade.ci
 oryzgroup.ci
 orz.ci
@@ -9384,6 +9385,7 @@ ostore.ci
 otdf.ci
 otentik.ci
 othentickenterprise.ci
+othentik.ci
 otlog.ci
 otojig.ci
 otomagic.ci
@@ -9756,6 +9758,7 @@ pnn.ci
 pnoev.ci
 pnsme.ci
 pnssu-saj.ci
+po.ci
 poc.ci
 podcast.ci
 podcasts.ci
@@ -9989,6 +9992,7 @@ publieditions.ci
 publika.ci
 publiticket.ci
 puissance-divine.ci
+puldev.ci
 pulse.ci
 pulsesports.ci
 pun.ci
@@ -10231,6 +10235,7 @@ residence.ci
 residencebertille.ci
 residencelamadone.ci
 residenceleflamboyant.ci
+residenceleneptune.ci
 residenceministre.ci
 residences.ci
 residences-meublees.ci
@@ -10773,7 +10778,6 @@ sgie.ci
 sgir.ci
 sgitp.ci
 sgmt.ci
-sgpi.ci
 sgpme.ci
 sgpub.ci
 sgrt.ci
