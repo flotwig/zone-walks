@@ -258,7 +258,6 @@ colla.tz
 collectorscorner.tz
 comirnatyeducation.tz
 comirnatyhcp.tz
-comnet.tz
 contavol.tz
 courtyardhotels.tz
 craftier.tz
@@ -514,6 +513,7 @@ ibank.tz
 ibc.tz
 ict.tz
 idfabric.tz
+iec-eastafrica.tz
 ielts.tz
 ifinance.tz
 igaming.tz
@@ -1015,6 +1015,7 @@ skf.tz
 sky.tz
 skynet.tz
 skyview.tz
+slbb.tz
 slotgames.tz
 slots.tz
 smart.tz
