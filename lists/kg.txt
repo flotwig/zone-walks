@@ -365,7 +365,6 @@ agraline.kg
 agri-hr.kg
 agriline.kg
 agro.kg
-agro-expertise.kg
 agro-market.kg
 agrobaza.kg
 agrochemical.kg
@@ -728,6 +727,7 @@ altynbox.kg
 altynbulak.kg
 altyndoor.kg
 altynken.kg
+altynkol.kg
 altynkur.kg
 altynordo.kg
 altyntulpar.kg
@@ -968,7 +968,6 @@ ariadnagroup.kg
 arico.kg
 ariet.kg
 arigato.kg
-arika.kg
 arikalab.kg
 arinos.kg
 arion.kg
@@ -1135,7 +1134,6 @@ asmgroup.kg
 asmi.kg
 asoi.kg
 asos.kg
-aspekt.kg
 asplus.kg
 assanabil.kg
 assetx.kg
@@ -1293,6 +1291,7 @@ autoshina.kg
 autoshkola.kg
 autoshop.kg
 autoteh.kg
+autotetik.kg
 autotrader.kg
 autotravel.kg
 autozaem.kg
@@ -1676,6 +1675,7 @@ belisimo.kg
 belisimopizza.kg
 belissimo.kg
 belissimopizza.kg
+belkompost.kg
 bellisimo.kg
 bellisimopizza.kg
 bellissimo.kg
@@ -2954,6 +2954,7 @@ dietcoke.kg
 diflucan.kg
 difxbi.kg
 digi.kg
+digicom.kg
 digis.kg
 digital.kg
 digitalbridge.kg
@@ -3679,6 +3680,7 @@ eventm.kg
 eventplanner.kg
 events.kg
 everability.kg
+everbrick.kg
 everest.kg
 everton-cis.kg
 evg.kg
@@ -5199,7 +5201,6 @@ irdp.kg
 irfas.kg
 irida.kg
 iridium.kg
-irit.kg
 irkeshtam.kg
 irols.kg
 iron.kg
@@ -5635,7 +5636,6 @@ kausarlogistics.kg
 kavrolex.kg
 kawj.kg
 kayak.kg
-kaynar.kg
 kazakiskvzo.kg
 kazan.kg
 kazankebap.kg
@@ -5852,7 +5852,6 @@ klimat.kg
 klimat312.kg
 klinika.kg
 klinker.kg
-klm.kg
 klmvz.kg
 kln.kg
 kloop.kg
@@ -5982,7 +5981,6 @@ kraken.kg
 krao.kg
 kraska.kg
 krasota.kg
-krbc.kg
 kreativ.kg
 krec.kg
 kredit.kg
@@ -7016,6 +7014,7 @@ millas.kg
 millenium-s.kg
 milomoor.kg
 miloserdie.kg
+milver.kg
 milwaukeetool.kg
 milwaukeetools.kg
 mimaki.kg
@@ -7208,6 +7207,7 @@ mrtechnology.kg
 mrvegas.kg
 ms.kg
 ms-temirtau.kg
+msa.kg
 msc.kg
 msccruises.kg
 msco.kg
@@ -7542,6 +7542,7 @@ nk-stroy.kg
 nkb.kg
 nkgroup.kg
 nkk.kg
+nkmax.kg
 nks-pro.kg
 nl.kg
 nlkg.kg
@@ -8085,6 +8086,7 @@ panurtex.kg
 pao.kg
 papajohns.kg
 papajphns.kg
+papashina.kg
 paper.kg
 papercom.kg
 paragliding.kg
@@ -8300,6 +8302,7 @@ pl18.kg
 pl23.kg
 pl26.kg
 pl33.kg
+pl34.kg
 pl37.kg
 pl4-kesip.kg
 pl43.kg
@@ -8375,13 +8378,11 @@ pohudet.kg
 point.kg
 poisk.kg
 pokemon.kg
-poker.kg
 poker312.kg
 pokerstars.kg
 pokolenie.kg
 pokupai.kg
 policarbonat.kg
-police.kg
 polifas.kg
 polifasplus.kg
 poliform.kg
@@ -8478,6 +8479,7 @@ prestij.kg
 prevention.kg
 preview.kg
 prezident.kg
+pribororemont.kg
 price.kg
 pricer.kg
 pricewaterhousecoopers.kg
@@ -8874,7 +8876,6 @@ reserv.kg
 resident.kg
 resistingvawinca.kg
 resmed.kg
-resource.kg
 respublica.kg
 restart.kg
 resto.kg
@@ -9221,6 +9222,7 @@ scene.kg
 schaeffler.kg
 schaeffler-aftermarket.kg
 schindler.kg
+schnaxen.kg
 schneeberger.kg
 schneider.kg
 scholarships.kg
@@ -9466,6 +9468,7 @@ silunews.kg
 silvertech.kg
 sim.kg
 sima-land.kg
+simiram.kg
 simple.kg
 simplekey.kg
 simpro.kg
@@ -9644,6 +9647,7 @@ socialpedagogues.kg
 socialwork.kg
 socmarket.kg
 sofby.kg
+sofi.kg
 soft.kg
 softclub.kg
 softech.kg
@@ -9816,6 +9820,7 @@ starmedia.kg
 starofservice.kg
 staron.kg
 staron-interior.kg
+starphone.kg
 stars.kg
 starshina.kg
 start.kg
@@ -10775,7 +10780,6 @@ udobrenie.kg
 udom.kg
 ufcgym.kg
 ufkgmi.kg
-ug.kg
 ugee.kg
 ugonanet.kg
 ui.kg
@@ -11584,6 +11588,7 @@ zkteco.kg
 zlata.kg
 zm.kg
 zmail.kg
+znachok.kg
 znakomstva.kg
 zobolo.kg
 zocdoc.kg
