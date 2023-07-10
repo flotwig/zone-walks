@@ -1792,6 +1792,7 @@ atlantaapartments.gdn
 atlas.gdn
 atm.gdn
 atmosfera.gdn
+ato-svcure.gdn
 atom.gdn
 atrapa.gdn
 attendance.gdn
@@ -5930,7 +5931,6 @@ franchising.gdn
 francisville.gdn
 francois.gdn
 franconia.gdn
-frank.gdn
 frankfortsquare.gdn
 frankfurt.gdn
 frankingmachines.gdn
@@ -7925,7 +7925,6 @@ lock.gdn
 lockercabinets.gdn
 lockhaven.gdn
 lockport.gdn
-locl.gdn
 locs.gdn
 lodges.gdn
 loftbed.gdn
@@ -9338,6 +9337,7 @@ osudi.gdn
 osullivan.gdn
 osvijetli.gdn
 osvjetli.gdn
+otherside.gdn
 otherwise.gdn
 ots.gdn
 ottawa.gdn
@@ -11511,6 +11511,7 @@ suvahotels.gdn
 suzies.gdn
 sv.gdn
 sv388.gdn
+svcure-ato.gdn
 svendsen.gdn
 svn.gdn
 sw3.gdn
