@@ -592,7 +592,6 @@ beautybay.ax
 becker.ax
 beesw.ax
 beesyssla.ax
-beherzig.ax
 belcanto.ax
 bemanning.ax
 benganstrafikskola.ax
@@ -1847,6 +1846,7 @@ informationsportal.ax
 infotray.ax
 infrad.ax
 infrea.ax
+ingrid.ax
 ingvars.ax
 inkasso.ax
 innebandy.ax
@@ -3950,6 +3950,7 @@ wa.ax
 wage.ax
 wagner.ax
 wahlins.ax
+wak.ax
 waldorf.ax
 walter.ax
 warm.ax
