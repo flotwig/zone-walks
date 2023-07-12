@@ -700,6 +700,7 @@ acfecotedivoire.ci
 acformation.ci
 achat.ci
 achatfacile.ci
+achatplus.ci
 achatvente.ci
 acheterivoirien.ci
 achetezvotrevoiture.ci
@@ -1715,6 +1716,7 @@ banaci.ci
 banador.ci
 bananarepublic.ci
 banane.ci
+bania.ci
 bank-of-africa.ci
 bankalert.ci
 bankconsulting.ci
@@ -1891,6 +1893,7 @@ bg.ci
 bgce.ci
 bgfi.ci
 bgsp-securite.ci
+bhc.ci
 bhci.ci
 bhciimmo.ci
 bhcimmo.ci
@@ -2123,7 +2126,6 @@ bp.ci
 bponline.ci
 bps.ci
 br.ci
-br-immobilier.ci
 brackena.ci
 braids.ci
 braincom.ci
@@ -2147,12 +2149,11 @@ bricomaster.ci
 bricomat.ci
 brictusimmo.ci
 bridgebankgroup.ci
+bridgelanguage.ci
 bridgestone.ci
 brightprivatesecurity.ci
 brightsecurity.ci
 brinkswa.ci
-brioche-doree.ci
-briochedoree.ci
 brique.ci
 brl.ci
 brmtv.ci
@@ -2773,6 +2774,7 @@ civdjerba2022.ci
 civi.ci
 civix.ci
 ck-energy.ci
+ckavocat.ci
 ckdconsulting.ci
 ckgholding.ci
 ckivoufo.ci
@@ -3450,6 +3452,7 @@ sanlamallianzassurancenon-vie.com.ci
 sanlamallianzassurancevie.com.ci
 sanlamallianzcotedivoire.com.ci
 sante.com.ci
+scb.com.ci
 seat.com.ci
 shein.com.ci
 sib.com.ci
@@ -3605,6 +3608,7 @@ consultech.ci
 contact.ci
 contactalimentaire.ci
 contentsquare.ci
+context.ci
 continentalauto.ci
 continentalrubber.ci
 continentalsecurity.ci
@@ -4895,6 +4899,7 @@ epharmaciv.ci
 epi.ci
 epicerie-epicure.ci
 epicesdegraces.ci
+epici.ci
 epicure.ci
 episcrm.ci
 epistrophe.ci
@@ -5265,6 +5270,7 @@ fibm.ci
 fibonac.ci
 fibrivoire.ci
 ficcc.ci
+ficotek.ci
 ficpartenaire.ci
 fid.ci
 fidelesarassoro.ci
@@ -6055,7 +6061,6 @@ habg.ci
 habitatafricain.ci
 habiter.ci
 haca.ci
-hacktu.ci
 hadholdinggroup.ci
 hadj.ci
 hai.ci
@@ -6970,6 +6975,8 @@ jmsi.ci
 jmtop.ci
 jmweston.ci
 jn.ci
+jnppme.ci
+jnppme2023.ci
 job.ci
 jobbing.ci
 jobbo.ci
@@ -7430,6 +7437,7 @@ larit.ci
 laroche-posay.ci
 larocheposay.ci
 laroseblanche.ci
+larotisserie.ci
 lasertelecom.ci
 lasfab.ci
 lasvegas.ci
@@ -7615,6 +7623,7 @@ lespalmistes.ci
 lesport.ci
 lesrecettesdemisslopy.ci
 lesresidencesangoa.ci
+lessoft.ci
 lessublimes.ci
 lestadedabidjan.ci
 lestournesols.ci
@@ -8050,6 +8059,7 @@ marcayekoe.ci
 marchandsdereve.ci
 marcheafrica.ci
 marchedigital.ci
+marcheivoire.ci
 marchespublics.ci
 marcory.ci
 marcushoward.ci
@@ -8333,6 +8343,7 @@ mildove.ci
 milele.ci
 mili.ci
 milie.ci
+millefirstbtp.ci
 millenia.ci
 millenium.ci
 millproservice.ci
@@ -9624,6 +9635,7 @@ pgc.ci
 pgmp.ci
 pgsoft.ci
 ph.ci
+pharmacie-tchologo.ci
 pharmacie-tereza.ci
 pharmacieduchateau.ci
 pharmaciedujubile.ci
@@ -9873,7 +9885,6 @@ primud.ci
 prince.ci
 pringles.ci
 printxi.ci
-printxpress.ci
 prions.ci
 prisis.ci
 prisiv-sarl.ci
@@ -9925,6 +9936,7 @@ proivoireservices.ci
 project-management.ci
 projectivoire.ci
 projet-transfo-belier.ci
+projetnts.ci
 proloc.ci
 proman.ci
 promat.ci
@@ -10174,7 +10186,6 @@ refloat.ci
 regie.ci
 regieindenie.ci
 regiesilences.ci
-regimekant.ci
 regionbagoue.ci
 regionbelier.ci
 regioncavally.ci
@@ -10285,6 +10296,7 @@ rhmag.ci
 rhoteon.ci
 rhs.ci
 ria.ci
+riamcosmetique.ci
 ric.ci
 ric-ci.ci
 rich.ci
@@ -11145,6 +11157,7 @@ socaci.ci
 socdermato.ci
 socdevaboisso.ci
 social.ci
+social-hub.ci
 socialhub.ci
 socialmarket.ci
 socialpress.ci
@@ -11482,7 +11495,6 @@ sublimesdutourisme.ci
 suc.ci
 sucaf.ci
 success-event.ci
-success-finance.ci
 successco.ci
 succesvoyage.ci
 sucden.ci
@@ -11569,6 +11581,7 @@ t6.ci
 t7.ci
 t8.ci
 t9.ci
+taboo.ci
 tac.ci
 tacc.ci
 taconstruction.ci
@@ -11776,7 +11789,6 @@ tid.ci
 tiemokocoulibaly.ci
 tigrant.ci
 tik.ci
-tika.ci
 tiktits.ci
 tiktok.ci
 tilaaf.ci
@@ -12112,7 +12124,6 @@ uta.ci
 uta-universite.ci
 utb.ci
 utc.ci
-uti.ci
 utic.ci
 utl.ci
 utmci.ci
@@ -12230,7 +12241,6 @@ visiondegloire.ci
 visionelectricite.ci
 visionhope.ci
 visionprint.ci
-visionressources.ci
 visionsmart.ci
 visitbassam.ci
 visitcotedivoire.ci
