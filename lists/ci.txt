@@ -4058,7 +4058,6 @@ digitalcore.ci
 digitaldepanneur.ci
 digitale.ci
 digitaleagence.ci
-digitalhelp.ci
 digitalheroes.ci
 digitalhouses.ci
 digitalkstudio.ci
@@ -8522,7 +8521,6 @@ monicash.ci
 monimmobilier.ci
 monin.ci
 monlhale.ci
-monlivre.ci
 monlivreur.ci
 monmaitre.ci
 monmaquis.ci
@@ -10574,6 +10572,7 @@ sba.ci
 sbc.ci
 sbholding.ci
 sbn.ci
+sbtic.ci
 sbtl.ci
 sc.ci
 sc-consulting.ci
