@@ -1067,7 +1067,6 @@ alc-structuration.ci
 alc-titrisation.ci
 alcatel.ci
 alcocollection.ci
-alcoran.ci
 ald-entreprise.ci
 aldoshoes.ci
 alertefoncier.ci
@@ -4699,6 +4698,7 @@ eirtel.ci
 eisiem.ci
 eit.ci
 eka.ci
+ekabenya.ci
 ekdb.ci
 ekdsn.ci
 eke.ci
@@ -6435,6 +6435,7 @@ immauto.ci
 immer-home.ci
 immo.ci
 immobaked.ci
+immobilia.ci
 immobilierdereve.ci
 immobiliers.ci
 immoconnect.ci
@@ -6478,7 +6479,6 @@ incognitobyafflelou.ci
 incomm.ci
 indabaxcotedivoire.ci
 indexmedia.ci
-indianbynature.ci
 indicametrie.ci
 indice.ci
 indigits.ci
@@ -7390,6 +7390,7 @@ lafourchettederoze.ci
 lageco.ci
 lagence.ci
 lagnole.ci
+lagoonatours.ci
 lagripreneur.ci
 lagunaimmobilier.ci
 lagunaresort.ci
@@ -8449,7 +8450,6 @@ moja.ci
 mokodo.ci
 molbak.ci
 moli.ci
-molo.ci
 momo.ci
 momobank.ci
 momomarket.ci
@@ -8620,6 +8620,7 @@ mrgadget.ci
 ms.ci
 msa.ci
 msante.ci
+msc.ci
 msg-africa.ci
 msgroup.ci
 mshpcmu.ci
@@ -8630,6 +8631,7 @@ mspgroupeloko.ci
 mspv.ci
 msr.ci
 mstb.ci
+mt-hotel.ci
 mt-solutions.ci
 mtarget.ci
 mtci.ci
@@ -9582,7 +9584,6 @@ pecc.ci
 peci.ci
 pecos.ci
 pefaci.ci
-pefma.ci
 pegasus.ci
 pegasusind.ci
 peinture.ci
@@ -10231,7 +10232,6 @@ rentalcars.ci
 rentals.ci
 repae.ci
 repare-moi.ci
-repere.ci
 repetiteur.ci
 repo.ci
 repprelci.ci
@@ -10251,6 +10251,7 @@ residencebertille.ci
 residencelamadone.ci
 residenceleflamboyant.ci
 residenceleneptune.ci
+residencemidid.ci
 residenceministre.ci
 residences.ci
 residences-meublees.ci
@@ -10383,7 +10384,6 @@ routiers.ci
 royalaviation.ci
 royalbase.ci
 royalclass.ci
-royalfootballclub.ci
 royalhotel.ci
 royalmining.ci
 royalprestige.ci
@@ -10448,7 +10448,6 @@ sadep.ci
 sadi.ci
 sadisflix.ci
 sadur.ci
-saebd.ci
 saeton.ci
 safar.ci
 safcacao.ci
@@ -11302,7 +11301,6 @@ sonarci.ci
 sondage.ci
 sonder.ci
 sondzkt.ci
-sonetci.ci
 soniel.ci
 sonitra.ci
 sonnerie.ci
@@ -11571,6 +11569,7 @@ synelia.ci
 synergiegroup.ci
 synergieintegrale.ci
 syninfci.ci
+synopsiscompany.ci
 synylodge.ci
 syredat-bank.ci
 syrempp.ci
@@ -12275,7 +12274,6 @@ vivapub.ci
 vivoenergy.ci
 vivre.ci
 vix.ci
-vizop.ci
 vj.ci
 vk.ci
 vkcosmos.ci
