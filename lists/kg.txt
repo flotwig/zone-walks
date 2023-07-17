@@ -345,7 +345,6 @@ afl.kg
 afm.kg
 aga.kg
 agama.kg
-agb.kg
 agency.kg
 agent.kg
 agenton.kg
@@ -2250,6 +2249,7 @@ capitalbank.kg
 capitalplus.kg
 caps.kg
 capstroy.kg
+capsule-hostel.kg
 car.kg
 car-audio.kg
 caraudio.kg
@@ -2579,7 +2579,6 @@ comfort-house.kg
 comment.kg
 common-grounds.kg
 commongrounds.kg
-comp.kg
 companion.kg
 company.kg
 companyregister.kg
@@ -3078,7 +3077,6 @@ doorexpo.kg
 doorhan.kg
 doorhan-club.kg
 doormedia.kg
-doors.kg
 doosan.kg
 doramyclub.kg
 dordoi.kg
@@ -3114,7 +3112,6 @@ dosug.kg
 dota.kg
 dota2.kg
 double.kg
-double-drive.kg
 download.kg
 doyka.kg
 dp.kg
@@ -3483,6 +3480,7 @@ emdr.kg
 emektep.kg
 emerec.kg
 emerek.kg
+emerek312.kg
 emex.kg
 emfeuropa.kg
 emgek.kg
@@ -4235,7 +4233,6 @@ gel.kg
 gemalto.kg
 gemma.kg
 gemodializ.kg
-gemotest.kg
 genau.kg
 genderparty.kg
 gendigital.kg
@@ -4346,7 +4343,6 @@ globotrans.kg
 globus.kg
 globus-online.kg
 globus-tour.kg
-globusconsulting.kg
 globust.kg
 globustour.kg
 glori.kg
@@ -6046,7 +6042,6 @@ kstu.kg
 ksucta.kg
 kswiss.kg
 kt.kg
-ktec.kg
 ktm.kg
 ktnet.kg
 ktpi.kg
@@ -6438,8 +6433,6 @@ local.kg
 locator.kg
 loccitane.kg
 locinox.kg
-lock.kg
-locks.kg
 lockstock.kg
 loctech.kg
 lodgik.kg
@@ -8663,6 +8656,7 @@ ptech.kg
 pto.kg
 pts.kg
 publicis.kg
+pulscen.kg
 pulse.kg
 pulse-art.kg
 pulsetec.kg
@@ -9907,7 +9901,6 @@ strahovanie.kg
 strahovka.kg
 strana-express.kg
 stranaexpress.kg
-strannik.kg
 stratton.kg
 stretton.kg
 strichmacher.kg
@@ -10397,7 +10390,6 @@ thegallery.kg
 thegreatgreekgrill.kg
 thehouseoffragrance.kg
 thekernel.kg
-thekyrgyzhoney.kg
 thepool.kg
 therabody.kg
 theragun.kg
@@ -10482,6 +10474,7 @@ tn.kg
 tn-global.kg
 tnpena.kg
 tnsu.kg
+to.kg
 tobtrade.kg
 tochka-rosta.kg
 tochyn.kg
