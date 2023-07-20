@@ -517,6 +517,7 @@ hugamug.tz
 husqvarna.tz
 ibank.tz
 ibc.tz
+ibshospitals.tz
 ict.tz
 idfabric.tz
 iec-eastafrica.tz
@@ -543,6 +544,7 @@ internet.tz
 intouch.tz
 invisalign.tz
 ipay.tz
+ipv6.tz
 isc.tz
 islamichelp.tz
 isleimpressions.tz
@@ -817,6 +819,7 @@ oculusrift.tz
 oculusvr.tz
 odds.tz
 office.tz
+olliv.tz
 oltome.tz
 omar.tz
 omega.tz
@@ -897,6 +900,7 @@ proteahotels.tz
 pru.tz
 prudential.tz
 ptt.tz
+pycon.tz
 qatarairways.tz
 qigroup.tz
 quantum.tz
@@ -938,7 +942,6 @@ rugby.tz
 ruka.tz
 sacco.tz
 sadaka.tz
-safari.tz
 safaribooking.tz
 safaribookings.tz
 safariland.tz
