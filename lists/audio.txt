@@ -1095,6 +1095,7 @@ deepsky.audio
 deeptruth.audio
 deepvibe.audio
 deerful.audio
+deezer.audio
 deezer-audio-prod.audio
 deezer-audio-production.audio
 deezer-audioprod.audio
@@ -2113,6 +2114,7 @@ jamm.audio
 jammer.audio
 jandn.audio
 janhunen.audio
+japanese.audio
 jarvis.audio
 jass.audio
 javelin.audio
@@ -2273,6 +2275,7 @@ kool101.audio
 koopmans.audio
 kopfhoerer.audio
 kord.audio
+korean.audio
 kos.audio
 koss.audio
 kotopia.audio
@@ -3727,7 +3730,6 @@ security-check.audio
 seetobe.audio
 segal.audio
 seirenes.audio
-selftitled.audio
 selim.audio
 semd.audio
 semitone.audio
@@ -4038,6 +4040,7 @@ starburns.audio
 stark.audio
 starmusiq.audio
 start.audio
+startup.audio
 startupology.audio
 status.audio
 statuscode.audio
