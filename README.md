@@ -37,8 +37,8 @@ TLD | Domain Count
 [`pr`][pr] [(raw)][pr-raw] | <div align="right">2167</div>
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">1987</div>
 [`br`][br] [(raw)][br-raw] | <div align="right">1349</div>
-[`diet`][diet] [(raw)][diet-raw] | <div align="right">1248</div>
 [`tz`][tz] [(raw)][tz-raw] | <div align="right">1247</div>
+[`diet`][diet] [(raw)][diet-raw] | <div align="right">1247</div>
 [`bt`][bt] [(raw)][bt-raw] | <div align="right">1243</div>
 [`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1070</div>
 [`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">705</div>
@@ -54,7 +54,7 @@ TLD | Domain Count
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
-**Total** | <div align="right">2661918</div>
+**Total** | <div align="right">2661917</div>
 
 ## See Also
 
@@ -108,10 +108,10 @@ TLD | Domain Count
 [christmas-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/christmas.txt
 [br]: ./lists/br.txt
 [br-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/br.txt
-[diet]: ./lists/diet.txt
-[diet-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/diet.txt
 [tz]: ./lists/tz.txt
 [tz-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/tz.txt
+[diet]: ./lists/diet.txt
+[diet-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/diet.txt
 [bt]: ./lists/bt.txt
 [bt-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/bt.txt
 [flowers]: ./lists/flowers.txt
