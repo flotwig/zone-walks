@@ -352,6 +352,7 @@ agenton.kg
 agents.kg
 agfa.kg
 aggreko.kg
+agi.kg
 agip.kg
 agkso.kg
 agni-yoga.kg
@@ -795,6 +796,7 @@ amgen.kg
 amico.kg
 amin.kg
 amir.kg
+amirinvesttrade.kg
 amirmed.kg
 amirstroy.kg
 amisratrade.kg
@@ -1776,6 +1778,7 @@ bgmpharm.kg
 bgost.kg
 bgtk.kg
 bgtransports.kg
+bhcglobal.kg
 bhotel.kg
 bht.kg
 bhu.kg
@@ -2106,6 +2109,7 @@ broadway.kg
 broker.kg
 brokers.kg
 brokk.kg
+bromhexin.kg
 bron-security.kg
 bronchostop.kg
 bronix.kg
@@ -2257,7 +2261,6 @@ capsule-hostel.kg
 car.kg
 car-audio.kg
 caraudio.kg
-caravan.kg
 caravan-sa.kg
 carcheck.kg
 carciti.kg
@@ -2773,6 +2776,7 @@ damas.kg
 damlatrans.kg
 dan.kg
 dana.kg
+dance.kg
 dandan.kg
 dandb.kg
 danfoss.kg
@@ -2957,7 +2961,6 @@ dialabix.kg
 diamed.kg
 diamond.kg
 diamondglass.kg
-diamondtech.kg
 diaspora.kg
 diaverum.kg
 diem.kg
@@ -3223,6 +3226,7 @@ echefs.kg
 eckonom.kg
 eclectica.kg
 eco.kg
+eco-jur.kg
 eco-kids.kg
 eco-life.kg
 eco-service.kg
@@ -4356,6 +4360,7 @@ globotrans.kg
 globus.kg
 globus-online.kg
 globus-tour.kg
+globusmarket.kg
 globust.kg
 globustour.kg
 glori.kg
@@ -4447,7 +4452,6 @@ grammidin.kg
 grancem.kg
 grand.kg
 grand-atmos.kg
-grand-electronics.kg
 grand-gector.kg
 grand-proekt.kg
 grandavto.kg
@@ -4729,6 +4733,7 @@ hochu.kg
 hockeylife.kg
 hoco.kg
 hoff.kg
+hofmann.kg
 hohofilm.kg
 holcim.kg
 holiday.kg
@@ -5136,7 +5141,6 @@ intergroup.kg
 interhotel.kg
 interier.kg
 interior.kg
-interiorstroy.kg
 interlinks.kg
 interlogistics.kg
 intermag.kg
@@ -5407,6 +5411,7 @@ japanstart.kg
 japarov.kg
 jaraisyn.kg
 jaran.kg
+jardam.kg
 jardamci.kg
 jaria.kg
 jarnama.kg
@@ -5529,7 +5534,6 @@ kabarlar.kg
 kabel.kg
 kabi.kg
 kabrita.kg
-kadam.kg
 kadam-media.kg
 kadamjay.kg
 kadamkurulush.kg
@@ -6865,7 +6869,6 @@ medsyst.kg
 medtourism.kg
 medustat.kg
 meduza.kg
-medvalley.kg
 medved.kg
 medvejatnik.kg
 medvis.kg
@@ -7266,6 +7269,7 @@ mtk.kg
 mtl.kg
 mts.kg
 mts-bs.kg
+mts-italtherm.kg
 mtt.kg
 mu.kg
 muc.kg
@@ -7651,6 +7655,7 @@ noviritm.kg
 novopavlovka.kg
 novopokrovka.kg
 novosti.kg
+novotel.kg
 novum.kg
 np.kg
 npexport-import.kg
@@ -7744,7 +7749,6 @@ obyavlenie.kg
 obzor.kg
 oc.kg
 ocean.kg
-ocenchik.kg
 ocenka.kg
 ochki.kg
 octa.kg
@@ -8670,6 +8674,7 @@ proxy.kg
 pryaja.kg
 psg.kg
 psihoanaliz.kg
+psihodrama.kg
 psiholog.kg
 psk-group.kg
 pss.kg
@@ -8887,6 +8892,7 @@ remont-computer.kg
 remont312.kg
 remontka.kg
 remontkrovli.kg
+remote.kg
 remspecstroy.kg
 remstiralka.kg
 remteh.kg
@@ -9195,7 +9201,6 @@ sandoz.kg
 sangyra.kg
 sanjira.kg
 sanjyra.kg
-sanmarket.kg
 sanosan.kg
 sanstandart.kg
 santa.kg
@@ -9402,6 +9407,7 @@ shambala.kg
 shambesai.kg
 shamdagai.kg
 shampan.kg
+shamsia.kg
 shanciinvest.kg
 shangri.kg
 shangrila.kg
@@ -9580,7 +9586,6 @@ skyhotel.kg
 skyjet.kg
 skylab.kg
 skyline.kg
-skymedia.kg
 skymobile.kg
 skynance.kg
 skynens.kg
@@ -10555,6 +10560,7 @@ toomoyun.kg
 toot.kg
 tootash.kg
 top.kg
+top-persona.kg
 topall.kg
 topas.kg
 topbrands.kg
@@ -10677,7 +10683,6 @@ tribunakg.kg
 tribute.kg
 tricketticket.kg
 triod.kg
-triomining-company.kg
 trip.kg
 tripplite.kg
 tripstan.kg
@@ -10984,7 +10989,6 @@ usu.kg
 usubaliev.kg
 ut.kg
 utc.kg
-uteam.kg
 uteplim.kg
 utgchem.kg
 utl.kg
@@ -11330,6 +11334,7 @@ webtv.kg
 wecan.kg
 wecekc.kg
 wedding.kg
+weekend.kg
 weidel.kg
 weirdlywonderful.kg
 weitmann.kg
@@ -11481,6 +11486,7 @@ y.kg
 ya.kg
 yachtclub.kg
 yagodki.kg
+yahoo.kg
 yakassa.kg
 yakrut.kg
 yamaga.kg
