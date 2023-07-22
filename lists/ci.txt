@@ -315,6 +315,7 @@
 5513.ci
 5530.ci
 5533.ci
+555.ci
 56.ci
 567.ci
 5740.ci
@@ -976,6 +977,7 @@ aia.ci
 aia-koica.ci
 aiaa.ci
 aiam.ci
+aiautomation.ci
 aibi.ci
 aibmonarch.ci
 aibsa.ci
@@ -1140,6 +1142,7 @@ alphadigital.ci
 alshana.ci
 alstom.ci
 alt.ci
+alt-istea.ci
 altacado.ci
 altereco.ci
 alternative-si.ci
@@ -1272,6 +1275,7 @@ apcci.ci
 apeme.ci
 apex.ci
 apexmarket.ci
+aphsageniecivil.ci
 api.ci
 api-sa.ci
 apicodiv.ci
@@ -1574,6 +1578,7 @@ autolibre.ci
 autoline.ci
 automag.ci
 automark.ci
+automatisation.ci
 automelec-nt.ci
 automobile.ci
 automobileivoire.ci
@@ -1918,6 +1923,7 @@ bigstore.ci
 bigteam.ci
 bii.ci
 biim.ci
+bijhopro.ci
 biji.ci
 bilamah.ci
 bildiri.ci
@@ -2644,6 +2650,7 @@ ci-energies.ci
 ci-engineering.ci
 ci-fiscalite.ci
 ci-pi.ci
+cia.ci
 ciaci.ci
 ciamelkorhogo2023.ci
 cian.ci
@@ -3678,6 +3685,7 @@ cotevivriere.ci
 cotiplast.ci
 cotraf.ci
 cotti.ci
+couadro.ci
 couleurbois.ci
 couleurscacao.ci
 coulomb.ci
@@ -3799,7 +3807,6 @@ culligan.ci
 cultura.ci
 culture.ci
 cumlaudelab.ci
-cuo.ci
 customcar.ci
 customers.ci
 cut.ci
@@ -4507,7 +4514,6 @@ assiland.ed.ci
 ensea.ed.ci
 wir.ed.ci
 edahtech.ci
-edamoa.ci
 edc.ci
 eddiecian.ci
 eden.ci
@@ -4652,6 +4658,7 @@ efa-multiservices.ci
 efapel.ci
 efc.ci
 efcaci.ci
+efcaconseils.ci
 efci.ci
 efebsarl.ci
 efemmes.ci
@@ -5421,6 +5428,7 @@ foncierural.ci
 foncierweb.ci
 fondasol.ci
 fondation-nsia.ci
+fondation-roqya.ci
 fondation-saintephilomenediape.ci
 fondationafriquesoleil.ci
 fondationbjkd.ci
@@ -6549,7 +6557,6 @@ innova-groupafrica.ci
 innovarts.ci
 innovent.ci
 innover.ci
-innovision-center.ci
 innovmotion.ci
 innovsarl.ci
 innovshop.ci
@@ -7594,6 +7601,7 @@ lepape.ci
 lepapyrus.ci
 leparfumeur.ci
 lepatriote.ci
+lepepe.ci
 leperroquetlibere.ci
 lepetitberet.ci
 leplanteur.ci
@@ -7641,6 +7649,7 @@ lespalmistes.ci
 lesport.ci
 lesrecettesdemisslopy.ci
 lesresidencesangoa.ci
+lesrosees.ci
 lessoft.ci
 lessublimes.ci
 lestadedabidjan.ci
@@ -8551,11 +8560,11 @@ monpersonnelparfait.ci
 monpharmacien.ci
 monpret.ci
 monprofchezmoi.ci
+monprofdemaths.ci
 monprojetimmobilier.ci
 monresto.ci
 monsieur-bricolage.ci
 monsieurbricolage.ci
-monsieurtravaux.ci
 monsieurvapo.ci
 monsite.ci
 monsiteauteur.ci
@@ -10781,6 +10790,9 @@ servier.ci
 servietteobf.ci
 ses.ci
 sesame.ci
+sesame-sc.ci
+sesame-servicesconseils.ci
+sesameservicesconseils.ci
 setao.ci
 setbc.ci
 seticointer.ci
@@ -10909,7 +10921,6 @@ sidam-digital.ci
 sidam-digitale.ci
 sidamdigital.ci
 sidamdigitale.ci
-sidcao.ci
 sidepa.ci
 sidgaz.ci
 siditoure.ci
@@ -12105,7 +12116,6 @@ univ-na.ci
 univ-riter.ci
 univers.ci
 univers-agricole.ci
-universalhotel.ci
 universalmusic.ci
 universaltransit.ci
 universauto.ci
@@ -12215,6 +12225,7 @@ venusfondation.ci
 venusinvest.ci
 veone.ci
 veonedigital.ci
+veraluci.ci
 verde.ci
 verifyme.ci
 verinet.ci
@@ -12644,7 +12655,6 @@ yepia.ci
 yer.ci
 yes.ci
 yesdoc.ci
-yesimmo.ci
 yeslo.ci
 yessohboutique.ci
 yet.ci
