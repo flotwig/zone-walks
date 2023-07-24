@@ -1041,6 +1041,7 @@ akpany.ci
 aktaion.ci
 akwaba.ci
 akwaba-app.ci
+akwababi.ci
 akwaback.ci
 akwabapay.ci
 akwabe.ci
@@ -1069,7 +1070,6 @@ alc.ci
 alc-structuration.ci
 alc-titrisation.ci
 alcatel.ci
-alcocollection.ci
 ald-entreprise.ci
 aldoshoes.ci
 aleph.ci
@@ -1469,6 +1469,7 @@ asterixgroup.ci
 astra-x.ci
 astraining.ci
 astrax.ci
+astrid.ci
 astro.ci
 astrum.ci
 asts.ci
@@ -2471,7 +2472,6 @@ ceci.ci
 cecisarl.ci
 cedec.ci
 cedivoire.ci
-ceeci.ci
 ceetrus.ci
 cefatbusinesscenter.ci
 cefatconsulting.ci
@@ -2839,6 +2839,7 @@ cloudtelecom.ci
 cls.ci
 club.ci
 clubauto.ci
+clubdhommes.ci
 clubdsi.ci
 clubmed.ci
 clubsport.ci
@@ -4737,7 +4738,6 @@ elections.ci
 electricien.ci
 electriciens.ci
 electridiv.ci
-electro.ci
 electrodepot.ci
 electrolux.ci
 electroprime.ci
@@ -5085,7 +5085,6 @@ event225.ci
 eventhub.ci
 eventia.ci
 eventplanner.ci
-eventsetstudios.ci
 everest.ci
 eviden.ci
 evidian.ci
@@ -5588,7 +5587,6 @@ fyouzan.ci
 g-conseils.ci
 g-nova.ci
 g2i.ci
-g2i-immobilier.ci
 g4r.ci
 g4s.ci
 g4s-aus.ci
@@ -6316,7 +6314,6 @@ ibishotel.ci
 ibishotels.ci
 ibm.ci
 ibook.ci
-ibs225.ci
 ibsfa-img.ci
 ic.ci
 ica.ci
@@ -7313,7 +7310,6 @@ kpatta.ci
 kpdelivery.ci
 kpmg.ci
 kpmgci-academie.ci
-kpmgcirecrutement.ci
 kr.ci
 kraken.ci
 kramp.ci
@@ -7481,6 +7477,7 @@ lavoiesainte.ci
 law.ci
 laya.ci
 layher.ci
+lazada.ci
 lb.ci
 lba.ci
 lbiprestations.ci
@@ -7674,7 +7671,6 @@ lf.ci
 lg.ci
 lga.ci
 lgbf.ci
-lgi.ci
 lgseeds.ci
 lh.ci
 lh-immo.ci
@@ -9462,7 +9458,6 @@ pa.ci
 pa-psgouv.ci
 paa.ci
 paasurete.ci
-pac.ci
 pacci.ci
 pacie.ci
 pacificsarl.ci
@@ -9806,7 +9801,6 @@ pofci.ci
 pog.ci
 poha.ci
 point-s.ci
-pointdevue.ci
 pointfocal.ci
 poissondici.ci
 pok.ci
@@ -10403,6 +10397,7 @@ root.ci
 rootech.ci
 rootskin.ci
 rose-croix.ci
+roseclevisa.ci
 rota.ci
 rotary.ci
 rotaryabjgolf.ci
@@ -11809,7 +11804,6 @@ tiacom.ci
 tiama.ci
 tian.ci
 tibaco.ci
-tibeny.ci
 tibs.ci
 tic.ci
 tic-academy.ci
@@ -12474,7 +12468,6 @@ willyaccessoire.ci
 willyaccessoires.ci
 win.ci
 win-part.ci
-winabidjan.ci
 wincom.ci
 wind.ci
 windec.ci
@@ -12674,6 +12667,7 @@ yo-technology.ci
 yodan.ci
 yofegroup.ci
 yogo.ci
+yokotik.ci
 yolab.ci
 yomeeting.ci
 yonian.ci
