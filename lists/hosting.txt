@@ -1251,6 +1251,7 @@ java.hosting
 javascript.hosting
 jekyll.hosting
 jem.hosting
+jetbrains.hosting
 jetpack.hosting
 jetpulp.hosting
 jimdo.hosting
@@ -1618,7 +1619,6 @@ neutral.hosting
 newsletters.hosting
 nexcenter.hosting
 nexcess.hosting
-nexinto.hosting
 nexperteam.hosting
 nexprom.hosting
 nexserver.hosting
