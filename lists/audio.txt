@@ -1575,6 +1575,7 @@ flexi.audio
 flickr.audio
 flightcast.audio
 flippingtheladder.audio
+float.audio
 floatingpoint.audio
 floood.audio
 florian.audio
@@ -3472,7 +3473,6 @@ razer.audio
 rc1.audio
 rdb.audio
 readbook.audio
-reader.audio
 readsound.audio
 ready.audio
 real.audio
@@ -3569,6 +3569,7 @@ ring.audio
 ringover.audio
 ripple.audio
 ritmo.audio
+ritual.audio
 river.audio
 rj45.audio
 rme.audio
@@ -4389,6 +4390,7 @@ truesignal.audio
 truestory.audio
 truetosource.audio
 trust.audio
+truyen.audio
 trvr.audio
 tschida.audio
 tschotow.audio
@@ -4614,6 +4616,7 @@ wavekit.audio
 wavelength.audio
 waves.audio
 waveshare.audio
+wavi.audio
 wayback.audio
 wbd.audio
 wbmason.audio
