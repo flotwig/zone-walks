@@ -31,7 +31,6 @@
 1337.ci
 1359.ci
 13597.ci
-138.ci
 1382.ci
 1390.ci
 1396.ci
@@ -318,7 +317,6 @@
 56.ci
 567.ci
 5740.ci
-58.ci
 588.ci
 59068.ci
 5965.ci
@@ -1121,6 +1119,7 @@ alloconso.ci
 allodoc.ci
 allodocteur.ci
 alloecole.ci
+allofinance.ci
 alloimmo.ci
 allonsauchamp.ci
 allopolice.ci
@@ -1888,10 +1887,12 @@ betmomo.ci
 beton.ci
 betostore.ci
 betpawa.ci
+bets.ci
 betsafe.ci
 betsson.ci
 betting.ci
 betwinner.ci
+bewin.ci
 beyonce.ci
 bezo.ci
 bf.ci
@@ -2377,6 +2378,7 @@ cartagro.ci
 carte-resident.ci
 cartecgroup.ci
 cartecovid.ci
+cartejeunes.ci
 cartesanitaire.ci
 cartesanitaireanacardier-dcpnra.ci
 cartescolaire-men.ci
@@ -2454,6 +2456,7 @@ ccp.ci
 ccrm.ci
 cd.ci
 cd-avocat.ci
+cdaim.ci
 cdbci.ci
 cdc.ci
 cdci.ci
@@ -3949,6 +3952,7 @@ defifoot.ci
 defilenaiguille.ci
 defisvoice.ci
 deheus.ci
+delarocheconsulting.ci
 delia.ci
 delice.ci
 delicesbio.ci
@@ -4451,6 +4455,7 @@ eburtis-dev.ci
 ebusupport.ci
 ebytel.ci
 ec.ci
+ecane.ci
 ecb-construction.ci
 ecbgroup.ci
 ecco.ci
@@ -4821,6 +4826,7 @@ emelio.ci
 emeraude.ci
 emergen.ci
 emergence.ci
+emergencecom.ci
 emergim.ci
 emerginov.ci
 emergys.ci
@@ -5262,7 +5268,6 @@ fesci.ci
 festi-terrasse.ci
 festibo.ci
 festimob.ci
-festivalabidjanpagne.ci
 festivaldesgrillades.ci
 festivaldevie.ci
 festivalroyaumeassinie.ci
@@ -5602,7 +5607,6 @@ g6.ci
 g8.ci
 ga-monnehan.ci
 gabat.ci
-gabea.ci
 gac-motor.ci
 gadget.ci
 gahaa.ci
@@ -5674,6 +5678,7 @@ geegroupeloko.ci
 geeks.ci
 geekstore.ci
 geely.ci
+gees-ci.ci
 geige.ci
 gektechservices.ci
 gemacare.ci
@@ -6082,6 +6087,7 @@ habg.ci
 habitatafricain.ci
 habiter.ci
 haca.ci
+hacktu.ci
 hadholdinggroup.ci
 hadj.ci
 hai.ci
@@ -6462,7 +6468,6 @@ immobilierdereve.ci
 immobiliers.ci
 immoconnect.ci
 immoformation.ci
-immoplus.ci
 imoney.ci
 impac.ci
 impact.ci
@@ -6538,6 +6543,7 @@ infra.ci
 infradev.ci
 infraglobe.ci
 infrahydro.ci
+ingbtpsarlu.ci
 ingco.ci
 ingenieursdeconception.ci
 ingeniousteam.ci
@@ -6856,6 +6862,7 @@ ivoryfoods.ci
 ivoryrubbercorporation.ci
 ivosep.ci
 ivtpsd.ci
+ivy.ci
 iw.ci
 iws.ci
 ixina.ci
@@ -7376,7 +7383,6 @@ laboiteaidees.ci
 labonneaffaire.ci
 laboservices.ci
 laboussoleimmobilier.ci
-laboutiik.ci
 laboutiquedubienetre.ci
 laboutiqueofficielle.ci
 laboutiquesarl.ci
@@ -8438,6 +8444,7 @@ mkad.ci
 mkca.ci
 mkconstruction.ci
 ml.ci
+mlk-mafere.ci
 mls.ci
 mm.ci
 mmaya.ci
@@ -9031,7 +9038,6 @@ nwarmeilleur.ci
 nx.ci
 ny.ci
 nya.ci
-nyakwai.ci
 nyamba.ci
 nyca.ci
 nycevents.ci
@@ -9503,7 +9509,6 @@ palm-elite.ci
 palmafrique.ci
 palmgold.ci
 palmsassandra.ci
-palmsresort.ci
 palsgaard.ci
 pam.ci
 pamdagro.ci
@@ -9637,7 +9642,6 @@ performance-analysis.ci
 performance-tr.ci
 performanceacademy.ci
 performancek.ci
-performer.ci
 performsystems.ci
 pergola.ci
 perledeslagunes.ci
@@ -9864,7 +9868,6 @@ pourluigaf.ci
 pourtoi.ci
 poussindor.ci
 power.ci
-powercom.ci
 powercom-engineering.ci
 powernet.ci
 powertechplus.ci
@@ -11162,6 +11165,7 @@ sms.ci
 sms-box.ci
 sms-ci.ci
 sms-marketing.ci
+smsbox.ci
 smsc-vipnet.ci
 smscloud.ci
 smscomputer.ci
@@ -11561,7 +11565,6 @@ supbarakat.ci
 supciterneocit.ci
 supeco.ci
 supelite.ci
-supercadeaux.ci
 superforce.ci
 supergooal.ci
 superkart.ci
@@ -12193,6 +12196,7 @@ vaccinationcovid.ci
 vaguedigitale.ci
 val.ci
 valconstruction.ci
+valde.ci
 vale.ci
 valeoservice.ci
 valise.ci
@@ -12452,7 +12456,6 @@ wenistore.ci
 wesbank.ci
 wesecurity.ci
 westafconsulting.ci
-westafricasecurity.ci
 westafricatrade.ci
 westech.ci
 westernunion.ci
@@ -12664,6 +12667,7 @@ yemshop.ci
 yeotech.ci
 yepia.ci
 yer.ci
+yerama.ci
 yes.ci
 yesdoc.ci
 yeslo.ci
