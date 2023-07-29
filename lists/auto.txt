@@ -169,6 +169,7 @@ faction.auto
 financement.auto
 financiallease.auto
 finn.auto
+fix.auto
 fixedops.auto
 fixter.auto
 fl.auto
@@ -251,7 +252,6 @@ leasen.auto
 leasing.auto
 lexicon.auto
 lexus.auto
-lhm.auto
 li.auto
 licium.auto
 lincoln.auto
@@ -326,7 +326,6 @@ ocean.auto
 oculusrift.auto
 oculusvr.auto
 omni.auto
-onerequest.auto
 opel.auto
 open.auto
 operationallease.auto
@@ -404,7 +403,6 @@ sc.auto
 search.auto
 seen.auto
 seguro.auto
-sellmy.auto
 senior.auto
 serra.auto
 service.auto
