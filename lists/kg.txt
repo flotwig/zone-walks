@@ -313,11 +313,9 @@ advance.kg
 advcash.kg
 adver.kg
 adviser.kg
-advivo.kg
 advocacy.kg
 advocat.kg
 advocate.kg
-advocates.kg
 advokat.kg
 advokatanarbaev.kg
 advokatura.kg
@@ -964,6 +962,7 @@ ardager-karakol.kg
 ardi.kg
 arekroad.kg
 arenda.kg
+arendator.kg
 areplivir.kg
 argamak.kg
 argo.kg
@@ -1056,7 +1055,6 @@ asa.kg
 asana.kg
 asba-grupp.kg
 ascend.kg
-ascongroup.kg
 asdc.kg
 aseabrownboveri.kg
 asec.kg
@@ -2139,7 +2137,6 @@ bte.kg
 btemir.kg
 bti.kg
 btk.kg
-btl.kg
 btolondu.kg
 bts.kg
 bts-ct.kg
@@ -2463,6 +2460,7 @@ chryslerfiat.kg
 chsd.kg
 cht.kg
 chudo-chado.kg
+chuiguvd.kg
 chukopark.kg
 chunkurchak.kg
 church.kg
@@ -3381,6 +3379,7 @@ elcrypto.kg
 eldemi.kg
 elden.kg
 eldik.kg
+eldiki.kg
 eldikmobile.kg
 eldorado.kg
 eldyk.kg
@@ -3451,6 +3450,7 @@ elles.kg
 elmarket.kg
 elmart.kg
 elmirlink.kg
+elmob.kg
 elmobile.kg
 elmoney.kg
 elmuras.kg
@@ -5783,7 +5783,6 @@ kghu.kg
 kghunter.kg
 kginform.kg
 kgjol.kg
-kgkampa.kg
 kglogistics.kg
 kgm.kg
 kgma.kg
@@ -6539,7 +6538,6 @@ lumon.kg
 lunaparkgum.kg
 lunatravel.kg
 lundbeck.kg
-lustra.kg
 lutz.kg
 lux.kg
 luxchemtrade.kg
@@ -7001,7 +6999,6 @@ meteo.kg
 meteoalarm.kg
 metpromintex.kg
 metpromko.kg
-metr.kg
 metrica.kg
 metrohm.kg
 mettransterminal.kg
@@ -7181,6 +7178,7 @@ moneybroker.kg
 moneygram.kg
 moneymaker.kg
 monezium.kg
+monica.kg
 monki.kg
 monokoleso.kg
 monolit.kg
@@ -9654,6 +9652,7 @@ smartpost.kg
 smartpro.kg
 smartprof.kg
 smartrent.kg
+smartshop.kg
 smartsystem.kg
 smartteam.kg
 smarttravel.kg
@@ -9790,6 +9789,7 @@ specreportage.kg
 spectehnika.kg
 spectr.kg
 spectransburo.kg
+spectrum.kg
 spectrum-bit.kg
 spectrumbit.kg
 spekulyant.kg
@@ -11368,6 +11368,7 @@ welding.kg
 wellastore.kg
 wellservice.kg
 wellsfargo.kg
+wemay.kg
 weniger.kg
 west-cigarettes.kg
 west-east.kg
