@@ -631,6 +631,8 @@
 56367.gdn
 56442.gdn
 56443.gdn
+56445.gdn
+56446.gdn
 56588.gdn
 566526.gdn
 56712.gdn
@@ -1319,6 +1321,7 @@ agriculturaldryers.gdn
 agriculturalproducts.gdn
 agriculturist.gdn
 agro.gdn
+aha.gdn
 ahava.gdn
 ahha.gdn
 ahuimanu.gdn
@@ -1886,7 +1889,6 @@ azlyrics.gdn
 b.gdn
 b225.gdn
 b2bmarketing.gdn
-b5s.gdn
 ba.gdn
 babe.gdn
 baby.gdn
@@ -2687,7 +2689,6 @@ bunion.gdn
 bunn.gdn
 buono.gdn
 burb.gdn
-burbclave.gdn
 burbuja.gdn
 burbujas.gdn
 burbujitas.gdn
@@ -2698,7 +2699,6 @@ burkinabe.gdn
 burmese.gdn
 burner.gdn
 burpee.gdn
-burrows.gdn
 burton.gdn
 burundian.gdn
 bush.gdn
@@ -5400,7 +5400,6 @@ enamels.gdn
 enbd.gdn
 enbdgroup.gdn
 enciende.gdn
-enclave.gdn
 encouraging.gdn
 encuentra.gdn
 encurtador.gdn
@@ -5851,7 +5850,6 @@ footballtickets.gdn
 foothillfarms.gdn
 footjob.gdn
 footwearmachinery.gdn
-foqne.gdn
 foral.gdn
 forbes.gdn
 forbid.gdn
@@ -6600,7 +6598,6 @@ heavywater.gdn
 heber.gdn
 hebo.gdn
 heckler.gdn
-hedera.gdn
 hedgeshears.gdn
 hedu.gdn
 heels.gdn
@@ -7939,7 +7936,6 @@ lockport.gdn
 locs.gdn
 lodges.gdn
 loftbed.gdn
-log.gdn
 loganberries.gdn
 logansport.gdn
 loganville.gdn
@@ -9384,7 +9380,6 @@ oxbet.gdn
 ozljedi.gdn
 p.gdn
 p-p.gdn
-p9d.gdn
 pa.gdn
 pa8.gdn
 paca.gdn
@@ -9649,6 +9644,7 @@ pollution.gdn
 pond.gdn
 pono.gdn
 pontoonboats.gdn
+ponyo.gdn
 pool.gdn
 popcash.gdn
 popmail.gdn
@@ -9804,8 +9800,6 @@ puzzle.gdn
 pvt.gdn
 pw.gdn
 py.gdn
-py8d.gdn
-pyrate.gdn
 q.gdn
 q-q.gdn
 q1e6.gdn
@@ -12475,7 +12469,6 @@ y.gdn
 y-y.gdn
 y2mate.gdn
 yaga.gdn
-yahoo.gdn
 yahoo-mbga.gdn
 yamahaparts.gdn
 yandex.gdn
