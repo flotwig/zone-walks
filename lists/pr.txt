@@ -165,11 +165,9 @@ assurantdevice.pr
 astrazeneca.pr
 astrid.pr
 astriddiaz.pr
-olx.at.pr
 ati.pr
 atos.pr
 att.pr
-olx.au.pr
 audi.pr
 audienceprofile.pr
 auditoriaciudadana.pr
@@ -284,13 +282,11 @@ bpeaeqt.pr
 bpeaeqtasia.pr
 bpop.pr
 bpr.pr
-olx.br.pr
 brainpop.pr
 bridgestone.pr
 britneyspears.pr
 broadband.pr
 broadline.pr
-olx.bs.pr
 bsf.pr
 bsides.pr
 bstone.pr
@@ -351,6 +347,7 @@ casageorgetti.pr
 casanova.pr
 casapiccola.pr
 casasegura.pr
+casatoledo.pr
 cascada.pr
 caselogic.pr
 casino.pr
@@ -385,7 +382,6 @@ centurion.pr
 cerveza.pr
 cfacorp.pr
 cfafranchisee.pr
-olx.ch.pr
 championpetfoods.pr
 chanel.pr
 charlesschwab.pr
@@ -401,6 +397,7 @@ chick-fil-a.pr
 chick-fil-astage.pr
 chickfila.pr
 childrensplace.pr
+china.pr
 chinchorreo.pr
 chinese.pr
 chocolate.pr
@@ -532,7 +529,6 @@ clubmed.pr
 clubmelia.pr
 clubparkroyal.pr
 clubswatch.pr
-olx.cn.pr
 cnn.pr
 coca-cola.pr
 code.pr
@@ -612,8 +608,6 @@ davidsoltero.pr
 dawnfoods.pr
 dchoh.pr
 dde.pr
-deutschepost.de.pr
-olx.de.pr
 decathlon.pr
 decision2016.pr
 dedicadosapuertorico.pr
@@ -652,8 +646,8 @@ dispensarios420.pr
 dlap.pr
 dlapi.pr
 dmdemo-02282018.pr
+dnssec.pr
 dnssecstudy.pr
-olx.do.pr
 doctorscenterhospitaloh.pr
 doctorscenterhospitalorlandohealth.pr
 dollarama.pr
@@ -669,6 +663,7 @@ donate.pr
 dorado.pr
 doret.pr
 dotc.pr
+dotc-devel.pr
 dove.pr
 dowagro.pr
 dr.pr
@@ -756,7 +751,6 @@ eqtventures.pr
 equifax.pr
 ericsson.pr
 eristoff.pr
-olx.es.pr
 esbriet.pr
 espiralife.pr
 esquelas.pr
@@ -771,7 +765,6 @@ eth.pr
 ethereum.pr
 etm.pr
 etrade.pr
-olx.eu.pr
 eukanuba.pr
 europamundo.pr
 eutelsat.pr
@@ -834,7 +827,6 @@ foodtruck.pr
 forbes.pr
 forextrading.pr
 fourpoints.pr
-olx.fr.pr
 franke.pr
 frankramos.pr
 frappuccino.pr
@@ -854,6 +846,7 @@ fujitsu.pr
 fundacionpremier.pr
 futbolentusmanos.pr
 fxcm.pr
+galbani.pr
 galleriainnova-tech.pr
 galleriainnovatech.pr
 galliprant.pr
@@ -862,7 +855,6 @@ game.pr
 gamefly.pr
 gateway.pr
 gcg.pr
-olx.gd.pr
 gdr.pr
 geaerospace.pr
 geeksquad.pr
@@ -915,6 +907,7 @@ greatvalue.pr
 greencross.pr
 greygoose.pr
 greysand.pr
+grl.pr
 groupon.pr
 grouponpayments.pr
 growatt.pr
@@ -983,7 +976,6 @@ hoy.pr
 hppr.pr
 hra.pr
 hsbc.pr
-olx.ht.pr
 hub.pr
 hub-an.pr
 hub787.pr
@@ -1077,7 +1069,6 @@ isla.pr
 islandmed.pr
 isoc.pr
 istockphoto.pr
-olx.it.pr
 ite.pr
 itec.pr
 itech.pr
@@ -1326,7 +1317,6 @@ mouserpre.pr
 movidaolimpica.pr
 movidaolimpicaradio.pr
 movidaolimpicatv.pr
-olx.ms.pr
 msn.pr
 mso.pr
 mudanzas.pr
@@ -1337,7 +1327,6 @@ musica.pr
 mustangs.pr
 mvc.pr
 mww.pr
-olx.mx.pr
 myfleetatpenske.pr
 myherbalife.pr
 myheritage.pr
@@ -1393,7 +1382,6 @@ ninoshka.pr
 nioxin.pr
 nipro.pr
 nissan.pr
-olx.nl.pr
 nly.pr
 nokia.pr
 non-24.pr
@@ -1655,7 +1643,6 @@ resuscitation.pr
 revitalash.pr
 richardmille.pr
 ricoh.pr
-rinvoqhcp.pr
 riogrande.pr
 riovive.pr
 ritz-carlton.pr
@@ -1872,7 +1859,6 @@ tatuaje.pr
 tatuajes.pr
 taycan.pr
 tbb.pr
-olx.tc.pr
 teamviewer.pr
 tecguru.pr
 techguru.pr
@@ -1974,7 +1960,6 @@ ubs.pr
 ucb.pr
 ufinet.pr
 uibc.pr
-olx.uk.pr
 ultracem.pr
 underarmour.pr
 unfinalfatal.pr
@@ -1984,6 +1969,7 @@ unilever.pr
 uniqlo.pr
 united.pr
 univ.pr
+universia.pr
 uno.pr
 uprr.pr
 ups.pr
@@ -1991,8 +1977,6 @@ upsexpedite.pr
 upsiparcel.pr
 upwork.pr
 urs.pr
-groupon.us.pr
-olx.us.pr
 usaentusmanos.pr
 usuarios.pr
 ut.pr
@@ -2015,7 +1999,6 @@ verizon.pr
 verizonenterprise.pr
 versus.pr
 versusbet.pr
-olx.vg.pr
 viacomcbs.pr
 viaplay.pr
 vicky.pr
@@ -2123,10 +2106,12 @@ xlcatlin.pr
 xn--claroproteccin-xob.pr
 xn--cmara-xqa.pr
 xn--cmaraderepresentantes-9zb.pr
+xn--comero-7va.pr
 xn--lancme-lxa.pr
 xn--loral-dsa.pr
 xn--mayagez-r2a.pr
 xn--msclaro-hwa.pr
+xn--nios-hqa.pr
 xn--ropiedras-g5a.pr
 xoom.pr
 xqmessage.pr
@@ -2146,8 +2131,6 @@ z.pr
 zalando.pr
 zara.pr
 zarzueladaenlosbalcones.pr
-americas.zen.pr
-centro.zen.pr
 zenithmedia.pr
 zenspa.pr
 zerotrust.pr
