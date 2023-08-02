@@ -25,6 +25,7 @@
 123.ci
 123jeumeveille.ci
 123movies.ci
+123printservices.ci
 1248.ci
 1314.ci
 1322.ci
@@ -215,6 +216,7 @@
 360security.ci
 3631.ci
 365.ci
+369.ci
 36951.ci
 3863.ci
 3897.ci
@@ -727,6 +729,7 @@ ad-elitegroup.ci
 ad-logistics.ci
 ada.ci
 adage.ci
+adama.ci
 adamabictogo.ci
 adayekessie.ci
 adbservices.ci
@@ -1381,7 +1384,7 @@ arts.ci
 artus-digital.ci
 artus-interim.ci
 artusdigital.ci
-arvea.ci
+arveabio.ci
 arw.ci
 aryama.ci
 aryege.ci
@@ -1928,6 +1931,7 @@ bii.ci
 biim.ci
 bijhopro.ci
 biji.ci
+bijouoriginal.ci
 bilamah.ci
 bildiri.ci
 bilebrizoua.ci
@@ -2483,7 +2487,6 @@ cec-alo.ci
 cecacademie.ci
 ceci.ci
 cecisarl.ci
-cedec.ci
 cedivoire.ci
 ceetrus.ci
 cefatbusinesscenter.ci
@@ -3198,7 +3201,6 @@ coin.ci
 coinafrique.ci
 coinme.ci
 coinschics.ci
-cojep.ci
 colab.ci
 colas.ci
 colasci.ci
@@ -3901,7 +3903,6 @@ datasat.ci
 datavillage.ci
 datcom.ci
 dates-concours.ci
-dathangroup.ci
 daud.ci
 dav.ci
 davconsulting.ci
@@ -4682,7 +4683,6 @@ efemmes.ci
 effetindesirable.ci
 effi.ci
 ega.ci
-egaim.ci
 egarage.ci
 egard.ci
 egbat.ci
@@ -5828,6 +5828,7 @@ glovoapp.ci
 glovostore.ci
 glow.ci
 glsmusic.ci
+glst.ci
 gltc.ci
 gm.ci
 gma.ci
@@ -5880,7 +5881,6 @@ goodcard.ci
 gooddealsservices.ci
 goodevent.ci
 goodies.ci
-goodis.ci
 goodlord.ci
 goodtimes.ci
 goodwillaudit.ci
@@ -6407,7 +6407,6 @@ ifc.ci
 ifcci.ci
 ifciinternational.ci
 ifdtm.ci
-ifec.ci
 ifobs.ci
 iforas.ci
 ifran.ci
@@ -6443,6 +6442,7 @@ iledevitre.ci
 ilevel.ci
 ilianncga.ci
 iliko.ci
+illigo.ci
 ilm.ci
 iloveabidjan.ci
 ilt.ci
@@ -7099,6 +7099,7 @@ kadmex.ci
 kaeltradingplus.ci
 kaera.ci
 kaercher.ci
+kafein.ci
 kafolo.ci
 kageo.ci
 kageosig.ci
@@ -7187,6 +7188,7 @@ keraby.ci
 kerria.ci
 kesscomputers.ci
 kestrelci.ci
+ketalon.ci
 ketshop.ci
 kevajo.ci
 key19.ci
@@ -7569,6 +7571,7 @@ legalize.ci
 legalplus.ci
 legalrobot.ci
 legalzoom.ci
+legarrot.ci
 legendconseil.ci
 legis.ci
 legis-africa.ci
@@ -8464,6 +8467,7 @@ mo.ci
 mobi.ci
 mobileadvertising.ci
 mobileauto.ci
+mobileinterpay.ci
 mobilekoonet.ci
 mobilemarket.ci
 mobilemoney.ci
@@ -9279,6 +9283,7 @@ openvtc.ci
 opes.ci
 opfeel.ci
 ophircom.ci
+opindustrielectronik.ci
 opisms.ci
 oplayce.ci
 opodadigital.ci
@@ -9987,6 +9992,7 @@ program.ci
 programme-cancer.ci
 progroup.ci
 progroupe.ci
+progrust.ci
 proimmo.ci
 proivoireservices.ci
 project-management.ci
@@ -10123,7 +10129,6 @@ quijob.ci
 quincaillerie.ci
 qun.ci
 quoris.ci
-qv.ci
 qvc.ci
 qw.ci
 qwankido-thanhlong.ci
@@ -10362,7 +10367,6 @@ richbond.ci
 richelieu.ci
 rici.ci
 ricom.ci
-ridersclub.ci
 ridia.ci
 ridwan.ci
 rifayn.ci
@@ -10501,6 +10505,7 @@ sadep.ci
 sadi.ci
 sadisflix.ci
 sadur.ci
+saebd.ci
 saeton.ci
 safar.ci
 safaricloud.ci
@@ -10802,7 +10807,6 @@ server.ci
 serverless.ci
 service-accueil.ci
 servicecourrier-admin.ci
-servicenationaldesjeunes.ci
 serviceong-sante.ci
 serviceongsante.ci
 services-ci.ci
@@ -11163,7 +11167,6 @@ smartshopp.ci
 smartsolution.ci
 smarttransit.ci
 smartvideo24.ci
-smb.ci
 smbci.ci
 smc.ci
 smd.ci
@@ -11847,7 +11850,6 @@ tictac.ci
 tictachost.ci
 tictachosting.ci
 tictaclove.ci
-tid.ci
 tiemokocoulibaly.ci
 tigrant.ci
 tik.ci
@@ -12696,6 +12698,7 @@ yhenin.ci
 yi.ci
 yibao.ci
 yibzk.ci
+yimo.ci
 yiwo.ci
 yk.ci
 ykcompany.ci
