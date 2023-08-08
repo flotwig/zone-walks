@@ -82,7 +82,12 @@
 1win.ci
 1win-bet.ci
 1win-bets.ci
+1win-bk.ci
+1win-casino.ci
 1win-ci.ci
+1win-game.ci
+1win-games.ci
+1win-top.ci
 1winbet.ci
 1winbets.ci
 1wincom.ci
@@ -871,6 +876,7 @@ afrimedis.ci
 afrimousses.ci
 afrindmarket.ci
 afriqiyah.ci
+afriqsolus.ci
 afriqtp.ci
 afrique-emergence.ci
 afrique-sur7.ci
@@ -2003,7 +2009,6 @@ blackhawksecurity.ci
 blackmarket.ci
 blackpepper.ci
 blackscorpions.ci
-blackswan.ci
 blaisepascal.ci
 blancoimmobilier.ci
 blanian.ci
@@ -3212,7 +3217,6 @@ collectifdesfreresenchrist.ci
 college-cpesarah.ci
 collegeanador.ci
 collegecefatinter.ci
-collegeduparc.ci
 collegeexcellence.ci
 collegelaperouse.ci
 collegeleselus.ci
@@ -3232,7 +3236,12 @@ colorsorter.ci
 1mois1cause.com.ci
 1win.com.ci
 1win-bet.com.ci
+1win-bk.com.ci
 1win-bonus.com.ci
+1win-casino.com.ci
+1win-game.com.ci
+1win-games.com.ci
+1win-top.com.ci
 1wins.com.ci
 1xbet.com.ci
 1xbet-bk.com.ci
@@ -5271,6 +5280,7 @@ fenestra.ci
 feng.ci
 fer.ci
 feritrans.ci
+fermavenir.ci
 fermeemmaus.ci
 fermegbane.ci
 fermierobv.ci
@@ -6479,6 +6489,7 @@ imhotepacademy.ci
 immauto.ci
 immer-home.ci
 immo.ci
+immo-plus.ci
 immobaked.ci
 immobilia.ci
 immobilierdereve.ci
@@ -7522,6 +7533,7 @@ lde.ci
 ldg.ci
 le.ci
 le-batisseur.ci
+le-celadon.ci
 le-dit-vin-abidjan.ci
 le-grain.ci
 le10decembre.ci
@@ -7985,6 +7997,7 @@ magasinscommunautaires.ci
 magasinshark.ci
 magefci.ci
 maggi.ci
+magic.ci
 magic-auto.ci
 magicsuite.ci
 magisdata.ci
@@ -8513,7 +8526,6 @@ mon-job.ci
 mon-livreur.ci
 monadressepostale.ci
 monallie.ci
-monantivirus.ci
 monartisan.ci
 monassistantadministratif.ci
 monassurance.ci
@@ -9891,7 +9903,6 @@ pourlui.ci
 pourluigaf.ci
 pourtoi.ci
 poussindor.ci
-powercom-engineering.ci
 powernet.ci
 powertechplus.ci
 pp.ci
