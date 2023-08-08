@@ -856,6 +856,7 @@ depconstruction.mc
 desamis.mc
 desi.mc
 designcentre.mc
+despe.mc
 destael.mc
 detaille.mc
 detectable.mc
@@ -1708,7 +1709,6 @@ ldr.mc
 ldr22.mc
 learninginaction.mc
 lebotticelli.mc
-lecahierdegalileo.mc
 lecomptoir.mc
 lecrin.mc
 lefco.mc
@@ -1929,7 +1929,6 @@ mcfarlane-shipdesign.mc
 mcfc.mc
 mcfi.mc
 mcfl.mc
-mcga.mc
 mcgill.mc
 mch.mc
 mchospitality.mc
@@ -3320,6 +3319,7 @@ thinkforward.mc
 thinkforwardmfo.mc
 thompsonofmonaco.mc
 ticc.mc
+tickitall.mc
 tileandstyle.mc
 timbre-monaco.mc
 timbremonaco.mc
