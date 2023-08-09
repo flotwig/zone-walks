@@ -43,6 +43,7 @@
 1627.ci
 163.ci
 1645.ci
+167.ci
 1677.ci
 1702.ci
 177.ci
@@ -899,7 +900,6 @@ afy-immobilier.ci
 agaatest.ci
 agajmarket.ci
 agara.ci
-agbafe.ci
 agbolo.ci
 agc.ci
 agconsulting.ci
@@ -1703,7 +1703,6 @@ badoo.ci
 badu.ci
 baeji.ci
 bafci.ci
-bah-investimmo.ci
 bahai.ci
 bahblessonfoods.ci
 bahleroux-avocats.ci
@@ -1794,7 +1793,6 @@ bb.ci
 bbbc.ci
 bbc.ci
 bboxx.ci
-bbsstore.ci
 bc.ci
 bcapdev.ci
 bcas.ci
@@ -2915,6 +2913,7 @@ cnlc.ci
 cnlvc.ci
 cnmaep.ci
 cnmci.ci
+cno-civ.ci
 cnoa.ci
 cnova.ci
 cnpc-mcc.ci
@@ -3582,6 +3581,7 @@ comoci.ci
 comon.ci
 companyregister.ci
 comparis.ci
+complexekreed.ci
 comps.ci
 comptalia.ci
 compucenter.ci
@@ -4025,7 +4025,6 @@ deviscadeau.ci
 devit.ci
 devolution.ci
 devops.ci
-devpeople.ci
 devtechs.ci
 devweb.ci
 dewehi.ci
@@ -4784,6 +4783,7 @@ elephone.ci
 elevage.ci
 eleveur4.ci
 eleveur40.ci
+elg-inter.ci
 eliah.ci
 eliakimvision.ci
 elicom.ci
@@ -4837,7 +4837,6 @@ elton.ci
 elymah-svc.ci
 elyon.ci
 elyone-pressing.ci
-elysia.ci
 em.ci
 emabenielstore.ci
 emaci.ci
@@ -5000,6 +4999,7 @@ esca.ci
 escao-edu.ci
 escape.ci
 escomespacefloradaloa.ci
+escomgroupe.ci
 escrutin.ci
 esct.ci
 esea.ci
@@ -5785,6 +5785,7 @@ gidec.ci
 gie.ci
 gig.ci
 gigisfood.ci
+gilsenglish.ci
 gingercorp.ci
 gingko.ci
 ginou.ci
@@ -5846,7 +5847,6 @@ glovostore.ci
 glow.ci
 glsmusic.ci
 glst.ci
-gltc.ci
 gm.ci
 gma.ci
 gmail.ci
@@ -7414,7 +7414,6 @@ laboxselfie.ci
 labrioche.ci
 labtic.ci
 lacasa.ci
-lacase.ci
 lacavedejonas.ci
 lachatte.ci
 laclass.ci
@@ -7784,7 +7783,6 @@ live.ci
 livescore.ci
 livescorebet.ci
 livescorepro.ci
-livespartners.ci
 livewithconfidence.ci
 livingtomorrowintoday.ci
 livraison-express.ci
@@ -7967,7 +7965,6 @@ maddis.ci
 madeincotedivoire.ci
 madeingbeke.ci
 madeleinedanielou.ci
-mademoisellem.ci
 madgi.ci
 madia.ci
 madigital.ci
@@ -8041,7 +8038,6 @@ maisonalouer.ci
 maisondeluxe.ci
 maisondereve.ci
 maisondesmeubles.ci
-maisondustyle.ci
 maisonemeraude.ci
 maisonetvoiture.ci
 maisonkayser.ci
@@ -8128,6 +8124,7 @@ marchandsdereve.ci
 marcheafrica.ci
 marchedigital.ci
 marcheivoire.ci
+marcheivoirien.ci
 marchespublics.ci
 marcory.ci
 marcushoward.ci
@@ -9196,7 +9193,6 @@ okpack.ci
 okto.ci
 oktoper.ci
 ol.ci
-olabo.ci
 olabostore.ci
 olaian.ci
 oldmutual.ci
@@ -9773,7 +9769,6 @@ pischoncorp.ci
 pisciculture.ci
 piscine.ci
 piscinedesjoyaux.ci
-piscineivoire.ci
 piscinnet.ci
 piss.ci
 pisze.ci
@@ -9812,7 +9807,6 @@ playce-marcory.ci
 playce-palmeraie.ci
 playcemarcory.ci
 playcepalmeraie.ci
-playstation.ci
 plazatower.ci
 plebis.ci
 plentygroup.ci
@@ -9882,6 +9876,7 @@ porn.ci
 pornhub.ci
 port-bouet.ci
 portabidjan.ci
+portautonomeabidjan.ci
 portfolio.ci
 portsec-ferke.ci
 portsecferke.ci
@@ -9896,7 +9891,6 @@ postenumerique.ci
 postesante.ci
 postgres.ci
 potentialcompany.ci
-pouletlocal.ci
 poulivoire.ci
 pourelle.ci
 pourlui.ci
@@ -11810,7 +11804,6 @@ test.ci
 testbedipv6.ci
 testclinik.ci
 testdepaternite.ci
-testeur.ci
 testfaster.ci
 testjvkcorp.ci
 tether.ci
@@ -11909,6 +11902,7 @@ tjentreprise.ci
 tk.ci
 tl.ci
 tld.ci
+tm.ci
 tmbusiness.ci
 tme.ci
 tmp.ci
@@ -12122,6 +12116,7 @@ ujlog.ci
 ujseg.ci
 uk.ci
 uka.ci
+ukamee.ci
 ult.ci
 ultracell.ci
 umc.ci
@@ -12272,6 +12267,7 @@ venteflash.ci
 venteprive.ci
 ventesprivees.ci
 ventoo.ci
+ventouz.ci
 ventouzo.ci
 venusfinance.ci
 venusfondation.ci
@@ -12502,7 +12498,6 @@ westafconsulting.ci
 westafricatrade.ci
 westech.ci
 westernunion.ci
-westm.ci
 weston.ci
 weugni.ci
 whabo.ci
