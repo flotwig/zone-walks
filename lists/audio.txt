@@ -573,6 +573,7 @@ biamp.audio
 bible.audio
 bibles.audio
 bigdaw.audio
+bigfish.audio
 bignoise.audio
 bignox.audio
 bigrok.audio
@@ -1157,7 +1158,6 @@ denoise.audio
 denon.audio
 denote.audio
 dentana.audio
-depict.audio
 deqx.audio
 derecho.audio
 dereverb.audio
@@ -3571,6 +3571,7 @@ rightz.audio
 riley.audio
 ring.audio
 ringover.audio
+riot.audio
 ripple.audio
 ritual.audio
 river.audio
@@ -4673,7 +4674,6 @@ wholefoods.audio
 wholefoodsmarket.audio
 wholehouse.audio
 wiatraczek.audio
-widescreen.audio
 wiesbaden.audio
 wiesel.audio
 wiflix.audio
