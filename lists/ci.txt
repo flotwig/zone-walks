@@ -545,6 +545,7 @@
 93.ci
 93526.ci
 93527.ci
+939.ci
 9550.ci
 95738.ci
 96-13.ci
@@ -1688,7 +1689,6 @@ babiloto.ci
 babimall.ci
 babimarket.ci
 babiminute.ci
-babinounou.ci
 babitravelservices.ci
 babiwin.ci
 babsbat.ci
@@ -2134,6 +2134,7 @@ boutiquepaysanne.ci
 boutiquepc.ci
 bouygues-energies-services.ci
 bouygues-es.ci
+box.ci
 boxfresh.ci
 boxit.ci
 boxoffice.ci
@@ -2308,6 +2309,7 @@ cameron.ci
 camp2e.ci
 campus.ci
 campusivoire.ci
+camservices.ci
 camt-cargo.ci
 camtech.ci
 camuse.ci
@@ -2907,7 +2909,6 @@ cnf.ci
 cnf-ci.ci
 cnfci.ci
 cni-cosim.ci
-cnimemo.ci
 cnitie.ci
 cnlc.ci
 cnlvc.ci
@@ -3782,7 +3783,6 @@ crouabidjan.ci
 crouabidjan1.ci
 croubouake.ci
 croudaloa.ci
-croudeman.ci
 crowe.ci
 crporo.ci
 crs.ci
@@ -4021,10 +4021,9 @@ developers-institute.ci
 devenez-emarchand.ci
 devin.ci
 devintech.ci
-deviscadeau.ci
-devit.ci
 devolution.ci
 devops.ci
+devstudios.ci
 devtechs.ci
 devweb.ci
 dewehi.ci
@@ -5404,6 +5403,7 @@ flashdor.ci
 flashresultats.ci
 flawlessskin.ci
 flctv.ci
+fleet.ci
 fleetch.ci
 fleurancenature.ci
 fleurop.ci
@@ -5884,6 +5884,7 @@ gogoanime.ci
 gohdjiboua.ci
 goinoo.ci
 gold.ci
+golden.ci
 goldenbuilding.ci
 goldenhotel.ci
 goldeninstinct.ci
@@ -5900,6 +5901,7 @@ goodcard.ci
 gooddealsservices.ci
 goodevent.ci
 goodies.ci
+goodis.ci
 goodlord.ci
 goodtimes.ci
 goodwillaudit.ci
@@ -6216,7 +6218,6 @@ hmconsulting.ci
 hme.ci
 hmebingerville.ci
 hmg.ci
-hms-co.ci
 hn.ci
 ho.ci
 hoegah-ette.ci
@@ -6774,6 +6775,7 @@ itmtech.ci
 itochu.ci
 itpi.ci
 itrackservices.ci
+its.ci
 itsa.ci
 itsgroup.ci
 itsp.ci
@@ -6803,7 +6805,6 @@ ivoire-coton.ci
 ivoire-expo.ci
 ivoire-franchises.ci
 ivoire-systemes.ci
-ivoire-taxi.ci
 ivoireairways.ci
 ivoireautodeal.ci
 ivoirebet.ci
@@ -6851,7 +6852,6 @@ ivoiresanteplus.ci
 ivoiresantepublique.ci
 ivoireserviceplus.ci
 ivoiresms.ci
-ivoiretaxi.ci
 ivoiretaxis.ci
 ivoiretechnocom.ci
 ivoireticdigital.ci
@@ -7211,7 +7211,6 @@ kestrelci.ci
 ketalon.ci
 ketshop.ci
 kevajo.ci
-key19.ci
 keydatacollect.ci
 keynewsmedia.ci
 keyo.ci
@@ -7708,6 +7707,7 @@ leycom.ci
 lf.ci
 lg.ci
 lga.ci
+lgbf.ci
 lgseeds.ci
 lh.ci
 lh-immo.ci
@@ -9554,7 +9554,6 @@ pandera.ci
 pang.ci
 pango.ci
 pangollin.ci
-panini.ci
 panorama-de-la-franchise.ci
 panzani.ci
 paonbleu.ci
@@ -9860,6 +9859,7 @@ policenationale.ci
 politique.ci
 polycliniquegmp.ci
 polyelevages.ci
+polymed.ci
 polynova.ci
 polytech-abidjan.ci
 pompesfunebresdefrance.ci
@@ -10233,7 +10233,6 @@ realyz.ci
 reassurezmoi.ci
 rec-cno.ci
 recci.ci
-recensementdelapopulation.ci
 receveur.ci
 recharge.ci
 rechargemobile.ci
@@ -10351,6 +10350,7 @@ revisions.ci
 revist.ci
 revservices.ci
 rexroth.ci
+rezi.ci
 rf.ci
 rfq.ci
 rg.ci
@@ -10603,6 +10603,7 @@ santeplus.ci
 santepourtous.ci
 sanymarket.ci
 sap.ci
+sapame.ci
 sapcca.ci
 saph.ci
 saphir-btp.ci
@@ -11669,7 +11670,6 @@ taconstruction.ci
 tai.ci
 taiforestlodges.ci
 takaful.ci
-takebet.ci
 takimoto.ci
 taksit.ci
 taktik.ci
@@ -11705,11 +11705,9 @@ tastelist.ci
 tatamotors.ci
 taxel.ci
 taxi.ci
-taxi-ivoire.ci
 taxi2babi.ci
 taxiclick.ci
 taxidebabi.ci
-taxiivoire.ci
 taxipt.ci
 taythe56.ci
 tb.ci
@@ -12216,7 +12214,6 @@ utmci.ci
 utms.ci
 uu.ci
 uvci.ci
-uwu.ci
 ux.ci
 v1.ci
 v4.ci
@@ -12448,7 +12445,6 @@ wattb2energy.ci
 wave.ci
 wax.ci
 wazimeet.ci
-wazup.ci
 wbh.ci
 wci.ci
 wdmatic.ci
@@ -12587,6 +12583,7 @@ wpcloud.ci
 wq.ci
 wr.ci
 ws.ci
+wt.ci
 wte.ci
 wu.ci
 wuri.ci
