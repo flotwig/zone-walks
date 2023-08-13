@@ -1157,6 +1157,7 @@ denoise.audio
 denon.audio
 denote.audio
 dentana.audio
+depict.audio
 deqx.audio
 derecho.audio
 dereverb.audio
@@ -1398,7 +1399,6 @@ enelaire.audio
 energize.audio
 engel.audio
 engine.audio
-english.audio
 engulf.audio
 enir.audio
 enjoyable.audio
@@ -2922,6 +2922,7 @@ networked.audio
 neuber.audio
 neuros.audio
 neuroth.audio
+new.audio
 newee.audio
 newfangled.audio
 newmexico.audio
@@ -3029,7 +3030,6 @@ nyne.audio
 nyt.audio
 nyuad.audio
 nyyankees.audio
-oakey.audio
 oaklandas.audio
 oaklandathletics.audio
 object-based.audio
@@ -3921,7 +3921,6 @@ sonova.audio
 sonsig.audio
 sonum.audio
 sonusfaber.audio
-sony.audio
 soulgate.audio
 soulnote.audio
 soulution.audio
@@ -3954,6 +3953,7 @@ soundloop.audio
 soundmachine.audio
 soundninja.audio
 soundoff.audio
+soundonfilm.audio
 soundpickr.audio
 soundpro.audio
 soundrecordist.audio
@@ -4758,6 +4758,8 @@ yodobashi.audio
 youmic.audio
 young.audio
 youpi.audio
+your-global-service-partner.audio
+yourglobalservicepartner.audio
 yourheaven.audio
 yourvoice.audio
 yourvoices.audio
