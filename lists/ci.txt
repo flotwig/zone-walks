@@ -1077,6 +1077,7 @@ alc.ci
 alc-structuration.ci
 alc-titrisation.ci
 alcatel.ci
+alcoran.ci
 ald-entreprise.ci
 aldoshoes.ci
 aleph.ci
@@ -2140,6 +2141,7 @@ boya.ci
 boyia.ci
 boyoot.ci
 bp.ci
+bpl.ci
 bponline.ci
 bps.ci
 br.ci
@@ -3543,7 +3545,6 @@ youtube.com.ci
 zentiva.com.ci
 com-ard.ci
 comafrique-telecom.ci
-comako.ci
 comapre.ci
 comar.ci
 comar-assurance.ci
@@ -4076,7 +4077,6 @@ digimix.ci
 digimmat.ci
 diginets.ci
 digipay.ci
-digishop.ci
 digisquare.ci
 digistore.ci
 digit.ci
@@ -4205,7 +4205,6 @@ dks.ci
 dktechnology.ci
 dkyi.ci
 dl.ci
-dle.ci
 dled.ci
 dlh.ci
 dmacademy.ci
@@ -4937,7 +4936,6 @@ epbomi.ci
 epea.ci
 eperlan.ci
 epermis.ci
-epharmaciv.ci
 epi.ci
 epicerie-epicure.ci
 epicesdegraces.ci
@@ -6109,7 +6107,6 @@ haca.ci
 haci.ci
 hacktu.ci
 hadholdinggroup.ci
-hadj.ci
 hai.ci
 haier.ci
 hairoriginals.ci
@@ -6307,6 +6304,7 @@ huub.ci
 hv.ci
 hw.ci
 hx.ci
+hy.ci
 hybrid.ci
 hybride.ci
 hybso.ci
@@ -6712,6 +6710,7 @@ isca.ci
 iscat.ci
 iscc.ci
 isfcg-elearning.ci
+ishango.ci
 isitek.ci
 iskamtravaux.ci
 islog.ci
@@ -6861,7 +6860,6 @@ ivoirmarket.ci
 ivoirmix.ci
 ivoirpay.ci
 ivoirpeoplemag.ci
-ivoirshop.ci
 ivoirsoir.ci
 ivoirtrack.ci
 ivonas.ci
@@ -7803,6 +7801,7 @@ loca-plus.ci
 localhost.ci
 locanto.ci
 location-voitures.ci
+locatrack.ci
 locktonimmo.ci
 lodging.ci
 loeildabidjan.ci
@@ -8046,6 +8045,7 @@ makeup.ci
 makeuprevolution.ci
 makilab.ci
 makit.ci
+makkity.ci
 makoboutique.ci
 makonet.ci
 maladiegenetique.ci
@@ -8078,7 +8078,6 @@ mango.ci
 mangrove.ci
 manhattans.ci
 manika.ci
-manioc.ci
 mannequin.ci
 mannequinat.ci
 mannequins.ci
@@ -9724,6 +9723,7 @@ phoenixtc.ci
 phone-group.ci
 phonegroup.ci
 phonexperts.ci
+photobrite.ci
 photographe.ci
 photographie.ci
 photoprism.ci
@@ -10175,7 +10175,6 @@ raf.ci
 rafiki.ci
 rails.ci
 rain.ci
-rainbowtech.ci
 raisboutique.ci
 raisin.ci
 ram.ci
@@ -10584,6 +10583,7 @@ sanogogroup.ci
 sanpedrodiesel.ci
 sanssou.ci
 sante24.ci
+santeplus.ci
 santepourtous.ci
 sanymarket.ci
 sap.ci
@@ -10900,7 +10900,6 @@ shopservice.ci
 shorts.ci
 showbiz.ci
 showroom.ci
-sht.ci
 si.ci
 si2p.ci
 siaao.ci
@@ -11540,6 +11539,7 @@ stradiss-afrique.ci
 strapes.ci
 strategieetesperance.ci
 strategiesetesperance.ci
+strategix.ci
 streamline.ci
 street.ci
 streetmarketing.ci
@@ -12286,7 +12286,6 @@ vieacademique.ci
 viezcommunication.ci
 villa.ci
 villablanca.ci
-villaon.ci
 villas.ci
 villayaba.ci
 ville.ci
@@ -12679,7 +12678,6 @@ yedjap.ci
 yego.ci
 yelenba.ci
 yeli.ci
-yellior.ci
 yellostartup.ci
 yellovas.ci
 yem.ci
