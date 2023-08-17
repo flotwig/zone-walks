@@ -1316,7 +1316,6 @@ aprotic.ci
 apsa.ci
 apsdistri-orga.ci
 apsfd.ci
-apsi.ci
 apt.ci
 aptonia.ci
 apuph.ci
@@ -1792,6 +1791,7 @@ bb.ci
 bbbc.ci
 bbc.ci
 bboxx.ci
+bbsstore.ci
 bc.ci
 bcapdev.ci
 bcas.ci
@@ -2125,6 +2125,7 @@ bouakeimmobilier.ci
 boudepe.ci
 boulanger.ci
 bourse.ci
+bourse-diplomatie.ci
 bourseagricole.ci
 bouta.ci
 boutique-premium.ci
@@ -2390,7 +2391,6 @@ carrosseriedesamis.ci
 cartagro.ci
 carte-resident.ci
 cartecgroup.ci
-cartecovid.ci
 cartejeunes.ci
 cartesanitaire.ci
 cartesanitaireanacardier-dcpnra.ci
@@ -3545,6 +3545,7 @@ youtube.com.ci
 zentiva.com.ci
 com-ard.ci
 comafrique-telecom.ci
+comako.ci
 comapre.ci
 comar.ci
 comar-assurance.ci
@@ -3677,6 +3678,7 @@ corsafor.ci
 corsair.ci
 cosgroupeloko.ci
 cosi.ci
+cosmo.ci
 cosmofilms.ci
 cosmos.ci
 cosmos-holding.ci
@@ -3916,6 +3918,7 @@ davconsulting.ci
 david3em.ci
 davin.ci
 davtech.ci
+dawudgroup.ci
 dayunauto.ci
 daz.ci
 db.ci
@@ -4142,6 +4145,7 @@ directtechnologies.ci
 direnergie.ci
 dis.ci
 disc.ci
+discord.ci
 discoveryservices.ci
 disizshop.ci
 disneyjr.ci
@@ -4322,6 +4326,7 @@ drenaabidjan3.ci
 drenetdaloa.ci
 dressing.ci
 drh-fonctionpublique.ci
+drh-fonctionpubliques.ci
 drhetfpa.ci
 drhgend.ci
 drhsante.ci
@@ -4331,6 +4336,7 @@ driven.ci
 driver.ci
 drivoo.ci
 drmodeliterie.ci
+drnambala.ci
 drone.ci
 droneacademie.ci
 drones.ci
@@ -4344,6 +4350,7 @@ dsv.ci
 dt.ci
 dtenterprises.ci
 dto.ci
+dtrhosting.ci
 du.ci
 dudu.ci
 dufry.ci
@@ -4568,6 +4575,7 @@ edo.ci
 edoc-mffe.ci
 edopay.ci
 edopro.ci
+edreamhouse.ci
 edt-ci.ci
 edtci.ci
 2et.edu.ci
@@ -5610,6 +5618,7 @@ g-conseils.ci
 g-nova.ci
 g2i.ci
 g2i-immobilier.ci
+g3stech.ci
 g4r.ci
 g4s.ci
 g4s-aus.ci
@@ -5708,6 +5717,7 @@ generalvagondodiomande.ci
 genesis.ci
 genetrix.ci
 geniall.ci
+geniegroupe.ci
 genietechimmobilier.ci
 genius.ci
 geniusbet.ci
@@ -6515,7 +6525,6 @@ betwinner.in.ci
 melbet.in.ci
 in-speed.ci
 in-speedmarket.ci
-inad.ci
 inadesfo.ci
 inam.ci
 inasseq.ci
@@ -6860,6 +6869,7 @@ ivoirmarket.ci
 ivoirmix.ci
 ivoirpay.ci
 ivoirpeoplemag.ci
+ivoirshop.ci
 ivoirsoir.ci
 ivoirtrack.ci
 ivonas.ci
@@ -7740,7 +7750,6 @@ lin.ci
 lincognito-by-afflelou.ci
 lincognitobyafflelou.ci
 lincolnelectric.ci
-lindadiplo.ci
 lindice.ci
 linesandvisions.ci
 linfo.ci
@@ -8057,6 +8066,7 @@ mallbuddy.ci
 mamaafrica.ci
 mamacare.ci
 mamadoukone.ci
+mamadououattara.ci
 mamairie.ci
 mamairieetmoi.ci
 mamaison.ci
@@ -8139,7 +8149,6 @@ maryleevoyages.ci
 mas.ci
 masa.ci
 masante.ci
-masham.ci
 maskoon.ci
 masociete.ci
 masodecienligne.ci
@@ -8186,7 +8195,6 @@ mayedo.ci
 mayo2sports.ci
 mazars.ci
 mazda.ci
-mazica.ci
 mba-audio.ci
 mbaboua.ci
 mbahiag.ci
@@ -8492,6 +8500,7 @@ modulus.ci
 modus-yourplace.ci
 moe.ci
 moet.ci
+moga.ci
 mogo.ci
 mohamedkonate.ci
 mohaye.ci
@@ -8527,7 +8536,6 @@ monbusiness.ci
 monbusinessplan.ci
 moncadeau.ci
 monchantier.ci
-monchauffeur.ci
 monchemoi.ci
 monchoix.ci
 monclienroi.ci
@@ -8681,6 +8689,7 @@ mspgroupeloko.ci
 mspv.ci
 msr.ci
 mstb.ci
+mt.ci
 mt-hotel.ci
 mt-solutions.ci
 mtarget.ci
@@ -8721,7 +8730,6 @@ mujva.ci
 multiservices.ci
 mupartci.ci
 mureka.ci
-murema.ci
 murielamichia.ci
 musamci.ci
 musclesstore.ci
@@ -9650,6 +9658,7 @@ pellinicaffe.ci
 pemms.ci
 pen.ci
 penouel-scoops.ci
+penouelhotel.ci
 penta.ci
 pentra.ci
 peopleandchangekpmg.ci
@@ -10210,7 +10219,6 @@ rdv-digital.ci
 rdvconsulat.ci
 re.ci
 reaci.ci
-reactnative.ci
 realisermonmariage.ci
 realiteservice.ci
 realiteservices.ci
@@ -11088,6 +11096,7 @@ sivaa.ci
 sivac-ci.ci
 sival.ci
 sivama.ci
+sivap-groupe.ci
 sivatc2.ci
 sivbio.ci
 sive.ci
@@ -11162,6 +11171,7 @@ smartshopp.ci
 smartsolution.ci
 smarttransit.ci
 smartvideo24.ci
+smb.ci
 smbci.ci
 smc.ci
 smd.ci
@@ -11375,7 +11385,6 @@ sophitech.ci
 sopie.ci
 soppe.ci
 sopra.ci
-soprefi-sa.ci
 soprimexci.ci
 soptcola.ci
 soquibat.ci
@@ -11390,6 +11399,7 @@ sosabina.ci
 sosauto.ci
 sosforets.ci
 soskin.ci
+sosplombiers.ci
 sost.ci
 sotels.ci
 sotelsportal.ci
@@ -11403,6 +11413,8 @@ sotrans.ci
 sotratourisme.ci
 soua.ci
 soukalagroupe.ci
+souleymanediarrassaouba.ci
+souleymanediarrassouba.ci
 sourceinfo.ci
 soutarahgroup.ci
 southernit.ci
@@ -11586,6 +11598,7 @@ supergooal.ci
 superkart.ci
 superlife.ci
 superlock.ci
+supernova.ci
 supersport.ci
 supersportbet.ci
 supersportbets.ci
