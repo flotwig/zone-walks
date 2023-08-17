@@ -107,6 +107,7 @@
 71.ax
 72.ax
 73.ax
+75.ax
 76.ax
 77.ax
 777.ax
@@ -176,7 +177,6 @@ acs.ax
 ad.ax
 ada.ax
 adamant.ax
-adap.ax
 adapteo.ax
 adbilverkstan.ax
 adderamera.ax
@@ -239,6 +239,7 @@ aland100.ax
 alandbanken.ax
 alandevent.ax
 alandexpeditions.ax
+alandglimrar.ax
 alandgronskar.ax
 alandguide.ax
 alandhotels.ax
@@ -395,7 +396,6 @@ angelasbase.ax
 anglamarkerna.ax
 anita.ax
 anki.ax
-ann.ax
 anna.ax
 annaoaldo.ax
 annasdesign.ax
@@ -3931,6 +3931,7 @@ vps.ax
 vr.ax
 vs.ax
 vsevmeste.ax
+vsfbk.ax
 vt.ax
 vu.ax
 vuokra-asunnot.ax
