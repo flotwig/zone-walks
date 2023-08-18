@@ -1224,7 +1224,6 @@ anadi.ci
 anaged.ci
 anah.ci
 ananse.ci
-anare.ci
 anasur.ci
 ancarci.ci
 anci.ci
@@ -1267,7 +1266,8 @@ anp.ci
 anrmp.ci
 ansamble.ci
 anstat.ci
-ansut.ci
+ns01.ansut.ci
+ns02.ansut.ci
 antares.ci
 antiochesarl.ci
 anviso.ci
@@ -1664,7 +1664,9 @@ azcompany.ci
 azdeclic.ci
 azito-om.ci
 azkproductions.ci
+azprocurement.ci
 azur-inter.ci
+azyza.ci
 b-et-a.ci
 b-plusgroup.ci
 b-technologies.ci
@@ -1772,7 +1774,6 @@ batimat.ci
 batiment.ci
 batiments.ci
 batimpro.ci
-batinet.ci
 batipro.ci
 batir.ci
 batirici.ci
@@ -1935,6 +1936,7 @@ bijhopro.ci
 biji.ci
 bijouoriginal.ci
 bijoux.ci
+bikee.ci
 bilamah.ci
 bildiri.ci
 bilebrizoua.ci
@@ -2568,7 +2570,6 @@ cgdby.ci
 cge.ci
 cgeci.ci
 cgeciv.ci
-cgekassirichard.ci
 cgem.ci
 cgesn.ci
 cgfcc.ci
@@ -3749,6 +3750,7 @@ createam.ci
 creative.ci
 creativeengineering.ci
 creativeintell.ci
+creativejuice.ci
 creditaccess.ci
 creditplus.ci
 credits.ci
@@ -3930,7 +3932,6 @@ dcf.ci
 dcf-siges.ci
 dcg.ci
 dcp-asconsulting.ci
-dcpe.ci
 dcpemef.ci
 dcs-consulting.ci
 dd.ci
@@ -4540,13 +4541,13 @@ ecotidien.ci
 ecourrier-mffe.ci
 ecowas.ci
 ecpad.ci
-ecr.ci
 ecs.ci
 ect.ci
 assiland.ed.ci
 ensea.ed.ci
 wir.ed.ci
 edahtech.ci
+edav.ci
 edc.ci
 eddiecian.ci
 eden.ci
@@ -4640,6 +4641,7 @@ noe-polytech.edu.ci
 open.edu.ci
 orimoplus.edu.ci
 sabiloulkhayri.edu.ci
+sagesse-educative.edu.ci
 seeka.edu.ci
 slocyf.edu.ci
 social.edu.ci
@@ -4729,7 +4731,6 @@ ehuabostore.ci
 ei.ci
 eia.ci
 eibma.ci
-eic.ci
 eicgim.ci
 eici.ci
 eics.ci
@@ -5015,6 +5016,7 @@ esp.ci
 espa.ci
 espace-arena.ci
 espacearena.ci
+espaceledofan.ci
 espacenet.ci
 espacessaada.ci
 espagri.ci
@@ -5129,6 +5131,7 @@ evology.ci
 evolunet.ci
 evolution.ci
 evolve.ci
+evote-seae.ci
 evotech.ci
 evtech.ci
 evulpo.ci
@@ -5643,6 +5646,7 @@ games.ci
 gamservices.ci
 gap.ci
 garba.ci
+garderielespetitsgenies.ci
 gardians.ci
 gardiennagecotedivoire.ci
 garmin.ci
@@ -6269,6 +6273,7 @@ hotelministre.ci
 hotelmontkorhogo.ci
 hotelpalmclub.ci
 hotelpresident.ci
+hotelreservesdevie.ci
 hotelrocher.ci
 hotelroyaume.ci
 hotels.ci
@@ -6384,7 +6389,6 @@ icogef.ci
 icogef-equipements.ci
 icoms.ci
 iconeproduction.ci
-icoopaci.ci
 icraf.ci
 ics.ci
 icsmonetique.ci
@@ -7454,6 +7458,7 @@ lamaisondumeuble.ci
 lamaisonpalmier.ci
 lamaisonplus.ci
 lamajbel.ci
+lamamisarl.ci
 lamblin.ci
 lame-academie.ci
 lamerepoulard.ci
@@ -8426,7 +8431,6 @@ mindtech.ci
 mindtech-webdesign.ci
 mindykrej.ci
 minef.ci
-minelli.ci
 minerva-contruction.ci
 minesenergie.ci
 ming.ci
@@ -8946,7 +8950,6 @@ nissiprestige.ci
 nitshop.ci
 nix.ci
 njakabeauty.ci
-nk.ci
 nk2h.ci
 nkny.ci
 nkprestige.ci
@@ -9261,7 +9264,6 @@ ongpietons.ci
 ongsaod.ci
 ongsosnature.ci
 onheberge.ci
-oni.ci
 onimprim.ci
 oniris.ci
 onitsukatiger.ci
@@ -9680,6 +9682,7 @@ permisdeconduire.ci
 permutation.ci
 pes.ci
 pesina.ci
+petci.ci
 petersen.ci
 petites-annonces.ci
 petitesannonces.ci
@@ -9962,7 +9965,6 @@ prisiv-sarl.ci
 privkomtechnology.ci
 prix.ci
 prixclair.ci
-prixkdo.ci
 pro.ci
 pro-fond.ci
 pro-juris.ci
@@ -11253,6 +11255,7 @@ socomec.ci
 socomelec.ci
 socomelecivoire.ci
 socoopagagny.ci
+socopans.ci
 socopi.ci
 socoprim.ci
 socotec.ci
@@ -11308,6 +11311,7 @@ soged.ci
 sogedi.ci
 sogedim.ci
 sogeec.ci
+sogef-bat.ci
 sogeline.ci
 sogema.ci
 sogemcointer.ci
@@ -11698,6 +11702,7 @@ tarmak.ci
 taskforcesectorielle.ci
 tastelist.ci
 tatamotors.ci
+tawtikcotedivoire.ci
 taxel.ci
 taxi.ci
 taxi2babi.ci
@@ -12794,6 +12799,7 @@ zerolayer.ci
 zetes.ci
 zeturf.ci
 zeus.ci
+zfitspa.ci
 zh.ci
 zhong.ci
 zi.ci
