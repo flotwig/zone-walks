@@ -33,6 +33,7 @@
 19.ax
 1963.ax
 1h.ax
+1m.ax
 1n.ax
 1x.ax
 21.ax
@@ -239,6 +240,7 @@ aland100.ax
 alandbanken.ax
 alandevent.ax
 alandexpeditions.ax
+alandfishing.ax
 alandglimrar.ax
 alandgronskar.ax
 alandguide.ax
@@ -395,6 +397,7 @@ androidtv.ax
 angelasbase.ax
 anita.ax
 anki.ax
+ann.ax
 anna.ax
 annaoaldo.ax
 annasdesign.ax
@@ -3019,7 +3022,7 @@ qu.ax
 qualitano.ax
 quantum.ax
 quattro.ax
-quedro.ax
+ns2.quedro.ax
 queenbee.ax
 queenbeecasino.ax
 quickly.ax
@@ -3408,7 +3411,6 @@ solberget.ax
 solceller.ax
 solel.ax
 solenergi.ax
-solfjadern.ax
 solhagen.ax
 solidcap.ax
 solklart.ax
@@ -3417,7 +3419,6 @@ solliden.ax
 solobysokoshotels.ax
 solpaneler.ax
 solpark.ax
-solrosen.ax
 soltuna.ax
 soluddensljus.ax
 sommarogard.ax
@@ -3449,6 +3450,7 @@ sportsbetting.ax
 sportskytte.ax
 sporttiklubi.ax
 spotify.ax
+spraka.ax
 sprint.ax
 sq.ax
 sr.ax
