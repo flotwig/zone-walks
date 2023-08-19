@@ -54,7 +54,6 @@
 1k.kg
 1media.kg
 1sovetnik.kg
-1stom.kg
 1studio.kg
 1tv.kg
 1win.kg
@@ -125,6 +124,7 @@
 5-tv.kg
 50.kg
 55.kg
+56.kg
 58.kg
 588.kg
 5element.kg
@@ -301,6 +301,7 @@ adixi.kg
 adkin.kg
 admax.kg
 admin.kg
+admiral.kg
 admissions.kg
 admix.kg
 admixer.kg
@@ -378,6 +379,7 @@ agrofermer.kg
 agrofinance.kg
 agrofood.kg
 agrofoodtech.kg
+agrogreen.kg
 agrokush.kg
 agrolife.kg
 agroline.kg
@@ -470,7 +472,6 @@ airybaz.kg
 ais.kg
 aisalkyn.kg
 aisha.kg
-aishome.kg
 aist.kg
 aistenok.kg
 aisys.kg
@@ -594,6 +595,7 @@ alcazar.kg
 alco.kg
 alcon.kg
 alcor.kg
+alcoraman.kg
 aldanba.kg
 aldey.kg
 aldo.kg
@@ -631,7 +633,6 @@ alice.kg
 alidar.kg
 aliexpress.kg
 alif.kg
-alifa.kg
 aligo.kg
 alihan-company.kg
 alimbekgsm.kg
@@ -966,6 +967,7 @@ archistyle.kg
 architech.kg
 archive.kg
 archivision.kg
+arctic.kg
 arcus.kg
 ardager-karakol.kg
 ardi.kg
@@ -3436,6 +3438,7 @@ electron.kg
 electroservice.kg
 electrosila.kg
 electrounaa.kg
+elegancestroy.kg
 elegant-kamen.kg
 elegant-socks.kg
 elehant.kg
@@ -3846,7 +3849,6 @@ falkor.kg
 family.kg
 familysearch.kg
 familysport.kg
-fan.kg
 fan-sale.kg
 fanat.kg
 fanera.kg
@@ -3910,6 +3912,7 @@ fermer.kg
 feromon.kg
 ferre.kg
 ferring.kg
+ferruminvest.kg
 fes.kg
 festivals.kg
 festo.kg
@@ -4113,7 +4116,6 @@ fr.kg
 fracino.kg
 fragstore.kg
 frame.kg
-fran.kg
 franch-cdek.kg
 franchise.kg
 franke.kg
@@ -4299,7 +4301,6 @@ genderparty.kg
 gendigital.kg
 genenote.kg
 general-akmatov.kg
-generalpro.kg
 generaltrading.kg
 generator.kg
 generators.kg
@@ -5155,6 +5156,7 @@ innovationdigital.kg
 innovein.kg
 inobi.kg
 inokma-medical.kg
+inozpress.kg
 inpay.kg
 insales.kg
 insam.kg
@@ -5249,6 +5251,7 @@ iot.kg
 ip.kg
 ip-silkway.kg
 ipar.kg
+iparbio.kg
 ipc.kg
 ipchain.kg
 ipfm.kg
@@ -6770,6 +6773,7 @@ masha.kg
 mashina.kg
 mashine.kg
 maska.kg
+masla.kg
 maslo.kg
 mass.kg
 massage.kg
@@ -6777,7 +6781,6 @@ massaj.kg
 master.kg
 master-frost.kg
 master-kamen.kg
-master-mebel.kg
 mastera.kg
 mastera312.kg
 masterbar.kg
@@ -6874,6 +6877,7 @@ medbase.kg
 medcenter.kg
 medcheck.kg
 medcity.kg
+medclinic.kg
 medcluster.kg
 medco.kg
 medelement.kg
@@ -6895,11 +6899,9 @@ mediamanas.kg
 mediamarkt.kg
 mediaportal.kg
 medias.kg
-mediation.kg
 mediator.kg
 mediavest.kg
 medic.kg
-medical.kg
 medical-pharm.kg
 medical-pro.kg
 medicalgroup.kg
@@ -6962,7 +6964,6 @@ megalink.kg
 megalit.kg
 megamarket.kg
 megamaster.kg
-megamatras.kg
 megapari.kg
 megapay.kg
 megapolis.kg
@@ -8089,6 +8090,7 @@ osh.kg
 osh-nuru.kg
 osh-sadosi.kg
 oshane.kg
+oshbi.kg
 oshbilim.kg
 oshcci.kg
 oshcity.kg
@@ -8365,7 +8367,6 @@ pickwick.kg
 pie.kg
 pik.kg
 pikir.kg
-pikir-klub.kg
 pikovit.kg
 pikstroy.kg
 pilot.kg
@@ -8955,7 +8956,6 @@ reload.kg
 relock.kg
 relxnow.kg
 rem-vozduh.kg
-rembat.kg
 remkofe.kg
 remmers.kg
 remokno.kg
@@ -9119,7 +9119,6 @@ rossalut.kg
 rossiida.kg
 rosskeramika.kg
 rost.kg
-rotana.kg
 rotapharm.kg
 rotor.kg
 round.kg
@@ -9329,7 +9328,6 @@ sauna.kg
 sava.kg
 sawwa.kg
 saxarok.kg
-sayakat.kg
 sayakat-tour.kg
 sayasat.kg
 sb.kg
@@ -9410,6 +9408,7 @@ semiotics.kg
 semkb.kg
 sena.kg
 sencor.kg
+seniki.kg
 sensis.kg
 senti.kg
 seo.kg
@@ -9441,6 +9440,7 @@ session.kg
 setanta.kg
 setantasport.kg
 setantasports.kg
+setka.kg
 setki.kg
 setra.kg
 seven3d.kg
@@ -10444,6 +10444,7 @@ teri.kg
 terminal.kg
 terminals.kg
 termoclimat.kg
+termolux.kg
 terra.kg
 terra-bishkek.kg
 terradeck.kg
@@ -10774,7 +10775,6 @@ tribute.kg
 tricketticket.kg
 triod.kg
 trip.kg
-tripplite.kg
 tripstan.kg
 triptop.kg
 trit.kg
@@ -10827,6 +10827,7 @@ tuk.kg
 tulipinn.kg
 tulpar.kg
 tulpar-card.kg
+tulpar-jan-llc.kg
 tulparcard.kg
 tulpartorg.kg
 tulpartrade.kg
@@ -11268,6 +11269,7 @@ vitaball.kg
 vitamax.kg
 vitamed.kg
 vitamedltd.kg
+vitaminy.kg
 vitrage.kg
 vitrina.kg
 vitrovi.kg
@@ -11365,7 +11367,6 @@ vsl3.kg
 vstarcam.kg
 vt.kg
 vtb.kg
-vtel.kg
 vtorichka.kg
 vtvoihrukah.kg
 vv.kg
@@ -11560,6 +11561,7 @@ xcmg1.kg
 xeeboo.kg
 xencelabs.kg
 xerox.kg
+xf.kg
 xiaomi.kg
 xinbei.kg
 xl.kg
@@ -11681,6 +11683,7 @@ zapchasti.kg
 zapchasti-dubai.kg
 zapis.kg
 zapros.kg
+zarplata.kg
 zavod.kg
 zavod-implantacii.kg
 zavod-jbi.kg
@@ -11748,7 +11751,6 @@ zolo.kg
 zoloto.kg
 zombie3.kg
 zoodmall.kg
-zoom.kg
 zoomag.kg
 zoomlion.kg
 zor.kg
