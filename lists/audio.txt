@@ -2276,7 +2276,6 @@ koss.audio
 kotopia.audio
 kqed.audio
 krabwalk.audio
-kramat.audio
 kramer.audio
 krell.audio
 kretschel.audio
@@ -3507,6 +3506,7 @@ redsox.audio
 redstar.audio
 redtuxedo.audio
 reel.audio
+reference.audio
 reformed.audio
 refractor.audio
 refuge.audio
