@@ -1204,6 +1204,7 @@ dirac.audio
 directory.audio
 disastrophy.audio
 discovermy.audio
+discrete.audio
 disctodisc.audio
 disney.audio
 disney-now.audio
@@ -4718,7 +4719,6 @@ wyrd.audio
 x.audio
 x-series.audio
 xact.audio
-xav.audio
 xbox.audio
 xboxmusic.audio
 xbt.audio
@@ -4750,7 +4750,6 @@ yixun.audio
 ylya.audio
 yo.audio
 yodobashi.audio
-youmic.audio
 young.audio
 youpi.audio
 your-global-service-partner.audio
