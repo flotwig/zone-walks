@@ -352,7 +352,6 @@ agama.kg
 agency.kg
 agent.kg
 agenton.kg
-agents.kg
 agfa.kg
 aggreko.kg
 agi.kg
@@ -899,6 +898,7 @@ apple.kg
 applebox.kg
 applehostel.kg
 apply.kg
+applyproof.kg
 appro.kg
 april.kg
 aprint.kg
@@ -1511,6 +1511,7 @@ bak.kg
 bakai.kg
 bakaiata.kg
 bakaibank.kg
+bakasov.kg
 baken.kg
 bakertilly.kg
 bakr.kg
@@ -2054,7 +2055,6 @@ bookit.kg
 bookofmormon.kg
 books.kg
 boom.kg
-boomerang.kg
 boorsok.kg
 boost.kg
 bootcamp.kg
@@ -2220,7 +2220,6 @@ buymax.kg
 buyme.kg
 bvbalyans.kg
 bwin.kg
-bx24.kg
 byd.kg
 bydent.kg
 bynaryn.kg
@@ -2392,6 +2391,7 @@ certtest.kg
 cerva.kg
 cesna.kg
 cfc.kg
+cfmoto.kg
 ch.kg
 chaarat.kg
 chaaratzaav.kg
@@ -2653,7 +2653,6 @@ cooperativ.kg
 copart.kg
 copy.kg
 coraltravel.kg
-coretech.kg
 corneliani.kg
 corning.kg
 corona.kg
@@ -3027,7 +3026,6 @@ discus.kg
 disinfection.kg
 disinfection-pro.kg
 disney.kg
-dispatcher.kg
 dispenser.kg
 distance.kg
 distr.kg
@@ -3147,7 +3145,6 @@ dosug.kg
 dota.kg
 dota2.kg
 double.kg
-download.kg
 doyka.kg
 doyobisan.kg
 dp.kg
@@ -5311,7 +5308,6 @@ iskender.kg
 iskenderov.kg
 iskushenie.kg
 islamdini.kg
-islamico.kg
 islamicofin.kg
 islamicostore.kg
 islamjolu.kg
@@ -5646,6 +5642,7 @@ kap.kg
 kapadokya.kg
 kapriz.kg
 kapriz-ik.kg
+kaprizissykkul.kg
 kapsikam.kg
 kara.kg
 kara-alma.kg
@@ -7167,7 +7164,6 @@ mkassa.kg
 mkmc.kg
 mkt.kg
 ml.kg
-mlsp.kg
 mm.kg
 mmc.kg
 mmediatrade.kg
@@ -9204,7 +9200,6 @@ sairan.kg
 sais.kg
 sait.kg
 sakbol.kg
-sakmektep.kg
 saksalamat.kg
 salam.kg
 salam24.kg
@@ -9739,7 +9734,6 @@ smt.kg
 smu.kg
 smy.kg
 snab-komplekt.kg
-snaiping.kg
 sneakerbox.kg
 sneaks.kg
 snegovik.kg
@@ -10783,6 +10777,7 @@ trustchain.kg
 trustpilot.kg
 trx.kg
 trxtraining.kg
+trz.kg
 ts.kg
 ts-group.kg
 ts-powersports.kg
