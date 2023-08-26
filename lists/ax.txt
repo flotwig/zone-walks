@@ -1224,7 +1224,11 @@ ergoterapi.ax
 eric.ax
 ericsson.ax
 erik.ax
-eriksberg.ax
+ns1.eriksberg.ax
+ns2.eriksberg.ax
+ns3.eriksberg.ax
+ns4.eriksberg.ax
+ns5.eriksberg.ax
 eriksson.ax
 ermida.ax
 erou.ax
@@ -2894,6 +2898,7 @@ perinta.ax
 perintatoimisto.ax
 periskop.ax
 pernord.ax
+persisk.ax
 petcurean.ax
 peter.ax
 peterlindberg.ax
