@@ -271,6 +271,7 @@ actionbit.kg
 active.kg
 activedesign.kg
 activegroup.kg
+activeleasing.kg
 activity.kg
 actrading.kg
 ad.kg
@@ -562,7 +563,6 @@ al.kg
 al-halal.kg
 al-star.kg
 al-style.kg
-ala-too.kg
 alaarcha.kg
 alabel.kg
 alabuka.kg
@@ -1068,7 +1068,6 @@ arzu.kg
 as.kg
 asa.kg
 asana.kg
-asba-grupp.kg
 ascend.kg
 asdc.kg
 aseabrownboveri.kg
@@ -1105,8 +1104,10 @@ asiamall.kg
 asiamotors.kg
 asianalytics.kg
 asianmountains.kg
+asiant.kg
 asiantransit.kg
 asianway.kg
+asiaonline.kg
 asiapark.kg
 asiapayment.kg
 asiapress.kg
@@ -1200,7 +1201,6 @@ atelierrebul.kg
 atg.kg
 athena.kg
 athletic.kg
-atinv.kg
 atios.kg
 atiso.kg
 atk.kg
@@ -1311,6 +1311,7 @@ autoprokat.kg
 autorazbor.kg
 autorent.kg
 autoreport.kg
+autorynok.kg
 autosales.kg
 autoshina.kg
 autoshkola.kg
@@ -1643,6 +1644,7 @@ bazagolosov.kg
 bazalt.kg
 bazar.kg
 bazar-korgon.kg
+bazar-korgonmeria.kg
 bazarkorgon.kg
 bazaron.kg
 bb.kg
@@ -2402,7 +2404,6 @@ certification.kg
 certtest.kg
 cerva.kg
 cesna.kg
-cfc.kg
 cfmoto.kg
 ch.kg
 chaarat.kg
@@ -2531,6 +2532,7 @@ cl.kg
 clariant.kg
 clarivate.kg
 clarks.kg
+classichotel.kg
 clean.kg
 cleaner.kg
 cleanetica.kg
@@ -3644,6 +3646,7 @@ esasem.kg
 esb.kg
 esca.kg
 escort.kg
+eselit.kg
 esep.kg
 eset.kg
 esetofficial.kg
@@ -4095,7 +4098,6 @@ forever-plant.kg
 foreverliving.kg
 forex.kg
 forkliftonline.kg
-format.kg
 formula.kg
 formula55.kg
 formulanatural.kg
@@ -4866,7 +4868,6 @@ howo.kg
 hozmag.kg
 hp.kg
 hpac.kg
-hpcr.kg
 hpl.kg
 hr.kg
 hram.kg
@@ -5557,7 +5558,6 @@ jonot.kg
 joomla.kg
 jordan.kg
 jorgo.kg
-jorgofederation.kg
 josei.kg
 josephsmith.kg
 jotun.kg
@@ -5685,6 +5685,7 @@ karabulak.kg
 karaca.kg
 karacahome.kg
 karagat.kg
+karagay.kg
 karakol.kg
 karakol-ski.kg
 karakol-velopark.kg
@@ -5743,6 +5744,7 @@ kaynar.kg
 kaynargroup.kg
 kazakiskvzo.kg
 kazan.kg
+kazankebab.kg
 kazankebap.kg
 kazanova.kg
 kazco.kg
@@ -6066,6 +6068,7 @@ kover-samolet.kg
 kovka.kg
 kovrolin.kg
 kozu.kg
+kozu-grill.kg
 kozubaeva.kg
 kozugrill.kg
 kp.kg
@@ -7271,6 +7274,7 @@ monument.kg
 mood.kg
 mop.kg
 moqa.kg
+moqacoffee.kg
 morecast.kg
 morefitness.kg
 moresushi.kg
@@ -7400,6 +7404,7 @@ muzstore.kg
 mv.kg
 mvd.kg
 mview.kg
+mvm.kg
 mvtp.kg
 mwgroup.kg
 mwork.kg
@@ -7490,7 +7495,6 @@ naryn.kg
 naryn-kenesh.kg
 naryn-med.kg
 naryn-region.kg
-naryncity.kg
 naryncorp.kg
 narynlib.kg
 narynokmot.kg
@@ -8131,6 +8135,7 @@ oshtu-koreanstudy.kg
 oshtv.kg
 oshvodokanal.kg
 osk.kg
+oskar.kg
 oskins.kg
 osmo.kg
 osmp.kg
@@ -8834,6 +8839,7 @@ quizplease.kg
 quran.kg
 qurs.kg
 r.kg
+r-keeper.kg
 ra.kg
 rabe.kg
 rabo.kg
@@ -9717,6 +9723,7 @@ smak.kg
 smallhotel.kg
 smart.kg
 smart-hr.kg
+smart-key.kg
 smart-kyzmat.kg
 smart-taxi.kg
 smart-technology.kg
@@ -10223,6 +10230,7 @@ tabylga.kg
 tabylgaonline.kg
 tabys.kg
 tachka.kg
+tachki.kg
 taekwondo.kg
 tagaytay.kg
 taic.kg
@@ -10383,6 +10391,7 @@ technoshock.kg
 technotochka.kg
 technotop.kg
 technotraining.kg
+techpoint.kg
 techsed.kg
 techservice.kg
 techshop.kg
@@ -10873,6 +10882,7 @@ turan.kg
 turangroup.kg
 turar.kg
 turbo.kg
+turboservice.kg
 turism.kg
 turizm.kg
 turkcell.kg
@@ -10923,7 +10933,6 @@ ub.kg
 uberfreight.kg
 ubimet.kg
 uborka.kg
-uborka1.kg
 uborka312.kg
 ubr.kg
 ubs.kg
@@ -10935,6 +10944,8 @@ ucentralasia.kg
 uch.kg
 uch-credit.kg
 uch-terek.kg
+ucha.kg
+uchagrill.kg
 uchebarf.kg
 uchet.kg
 uchkorgon.kg
