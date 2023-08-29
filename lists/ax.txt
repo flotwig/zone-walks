@@ -1224,11 +1224,7 @@ ergoterapi.ax
 eric.ax
 ericsson.ax
 erik.ax
-ns1.eriksberg.ax
-ns2.eriksberg.ax
-ns3.eriksberg.ax
-ns4.eriksberg.ax
-ns5.eriksberg.ax
+eriksberg.ax
 eriksson.ax
 ermida.ax
 erou.ax
@@ -1751,7 +1747,6 @@ hogskoleprov.ax
 hogskoleprovet.ax
 hogtek.ax
 hogtryck.ax
-hol.ax
 holmbergs.ax
 holmen.ax
 holmstromsstugor.ax
@@ -2226,7 +2221,6 @@ le.ax
 leader.ax
 leakomatic.ax
 leanon.ax
-leap.ax
 leasee.ax
 leasing.ax
 ledningskoll.ax
