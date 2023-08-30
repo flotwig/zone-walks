@@ -812,7 +812,6 @@ afa.ci
 afad.ci
 afcar.ci
 afchem.ci
-afchemsofaco.ci
 afcom.ci
 afd.ci
 afeal.ci
@@ -947,6 +946,7 @@ agriculture.ci
 agriculturecommerciale.ci
 agriform.ci
 agriline.ci
+agrimarket.ci
 agriplus.ci
 agristore.ci
 agrivision.ci
@@ -960,6 +960,7 @@ agrodeveloppementdurable.ci
 agroexpertise.ci
 agroexpertises.ci
 agroforesterie.ci
+agromax.ci
 agrotherapie.ci
 agrotv.ci
 ags.ci
@@ -1012,6 +1013,7 @@ airmauritanie.ci
 airp.ci
 airwell.ci
 ais.ci
+aisa.ci
 aisw.ci
 aivp.ci
 aiwa.ci
@@ -1022,6 +1024,7 @@ aje-services.ci
 ajno.ci
 ajo.ci
 aka.ci
+aka-aouele.ci
 akagnycacao.ci
 akagroup.ci
 akahgroup.ci
@@ -1804,7 +1807,6 @@ bcsgroup.ci
 bd.ci
 bda.ci
 bda-net.ci
-bda-smartcheques.ci
 bdellium.ci
 bdo.ci
 bdr.ci
@@ -2248,8 +2250,10 @@ c360.ci
 ca.ci
 cabco.ci
 cabhoet.ci
+cabinet-amdagro.ci
 cabinet-berveram.ci
 cabinet-ceeka.ci
+cabinet-hermska.ci
 cabinet-s2a.ci
 cabinetacr.ci
 cabinetallegra.ci
@@ -2647,7 +2651,6 @@ chp.ci
 chragboville.ci
 chris.ci
 christ-emmanuel.ci
-christ-roi-immobilier.ci
 christarl.ci
 christenmilieurural.ci
 christianseya.ci
@@ -2854,7 +2857,6 @@ cloudstudio.ci
 cloudtelecom.ci
 cls.ci
 club.ci
-clubauto.ci
 clubdhommes.ci
 clubdsi.ci
 clubmed.ci
@@ -4164,7 +4166,6 @@ districtautonomedeslagunes.ci
 districtbassassandra.ci
 districtdelacomoe.ci
 districtdudenguele.ci
-districtduzanzan.ci
 districtyakro.ci
 distrimarqglobal.ci
 distrimax.ci
@@ -6450,6 +6451,7 @@ ihstowers.ci
 ii.ci
 iiao.ci
 iii.ci
+iit.ci
 ij.ci
 ik.ci
 ikaso.ci
@@ -7650,11 +7652,11 @@ lesamisdesaintjoseph.ci
 lesamispauvres.ci
 lesartisans.ci
 lesbouquetscanalplus.ci
-lescargotbio.ci
 lescargotieredubelier.ci
 leschampignonsdelapotagere.ci
 lesdelices.ci
 lesdelicesdeyemasame.ci
+lesecoleseceme.ci
 leseglises.ci
 leselephants.ci
 lesentrepreneurs.ci
@@ -8568,7 +8570,6 @@ monguide.ci
 monguideofficiel.ci
 monguidesante.ci
 monhabitat.ci
-monhotel.ci
 moni.ci
 monicash.ci
 monimmobilier.ci
@@ -9531,6 +9532,7 @@ palmgold.ci
 palmsassandra.ci
 palsgaard.ci
 pam.ci
+pamdagro.ci
 pamosa.ci
 pan.ci
 panarubber.ci
@@ -10985,7 +10987,6 @@ signia.ci
 sigobe.ci
 sigomap.ci
 sigonepci.ci
-sigp.ci
 sigraj.ci
 sigrsu.ci
 sigsef.ci
@@ -11125,6 +11126,7 @@ slp.ci
 sm.ci
 sm-plus.ci
 sma.ci
+smaauto.ci
 smabtp.ci
 smadi.ci
 smadt-rea.ci
@@ -11544,6 +11546,7 @@ streetmarketing.ci
 striatum.ci
 strieders.ci
 stt.ci
+studio-s.ci
 studio1.ci
 studio6.ci
 studiobamboo.ci
