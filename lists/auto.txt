@@ -395,6 +395,7 @@ rutube.auto
 rvintelligence.auto
 rvmonitor.auto
 rvtracker.auto
+safe.auto
 samsclub.auto
 santander.auto
 save.auto
