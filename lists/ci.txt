@@ -20,7 +20,6 @@
 118.ci
 1199.ci
 12.ci
-1229.ci
 123.ci
 123jeumeveille.ci
 123printservices.ci
@@ -36,7 +35,6 @@
 14753.ci
 15-38.ci
 15-63.ci
-1532.ci
 1543.ci
 16-37.ci
 1627.ci
@@ -47,7 +45,6 @@
 1702.ci
 177.ci
 18.ci
-1869.ci
 1949.ci
 1949books.ci
 1963.ci
@@ -220,7 +217,6 @@
 360.ci
 360health.ci
 360security.ci
-3631.ci
 365.ci
 369.ci
 36951.ci
@@ -374,7 +370,6 @@
 6296.ci
 63.ci
 6354.ci
-6529.ci
 6544.ci
 66.ci
 6600.ci
@@ -429,17 +424,14 @@
 7285.ci
 7290.ci
 73.ci
-7301.ci
 7337.ci
 74103.ci
 74162.ci
 7459.ci
 75.ci
-7571.ci
 7590.ci
 76423.ci
 7649.ci
-7668.ci
 77.ci
 777.ci
 7788.ci
@@ -558,7 +550,6 @@
 96vr.ci
 97135.ci
 97zt.ci
-9856.ci
 99.ci
 9900.ci
 9911.ci
@@ -1249,7 +1240,6 @@ angeltechnology.ci
 angepharma.ci
 anggban.ci
 angiesimmobilier.ci
-ankkieservices.ci
 annacosmetique.ci
 anneedelajeunesse.ci
 annonce.ci
@@ -1612,7 +1602,6 @@ aveclecoeur.ci
 avedis.ci
 avedist.ci
 avene.ci
-aventuriers.ci
 avenuedocteur.ci
 avescom.ci
 aviator.ci
@@ -1763,6 +1752,7 @@ barriereplay.ci
 bartoluc.ci
 baseus.ci
 baseus-store.ci
+basicshop.ci
 bassam-express.ci
 bassamfm.ci
 bassamtourisme.ci
@@ -3222,7 +3212,6 @@ collegeanador.ci
 collegecefatinter.ci
 collegeexcellence.ci
 collegelaperouse.ci
-collegeleselus.ci
 collegelespalmes.ci
 collegemonaco.ci
 collegeprivedoza.ci
@@ -3684,6 +3673,7 @@ corisbank.ci
 corlay.ci
 cornelder.ci
 cornerstone.ci
+corporate.ci
 correia.ci
 corsafor.ci
 corsair.ci
@@ -4548,7 +4538,6 @@ ect.ci
 assiland.ed.ci
 ensea.ed.ci
 wir.ed.ci
-edahtech.ci
 edav.ci
 edc.ci
 eddiecian.ci
@@ -4564,6 +4553,7 @@ ediattah.ci
 edifice.ci
 edificesreligieux.ci
 edimat.ci
+edithbrou.ci
 editionseburnie.ci
 editionsmakri.ci
 editis.ci
@@ -4742,6 +4732,7 @@ eipc-abidjan.ci
 eips-orange.ci
 eipsi.ci
 eirtel.ci
+eisi.ci
 eisiem.ci
 eit.ci
 eka.ci
@@ -5429,7 +5420,6 @@ flywave.ci
 fm-transit.ci
 fmci.ci
 fmmi.ci
-fmovies.ci
 fmp.ci
 fmts.ci
 fn.ci
@@ -5513,10 +5503,8 @@ forjeron.ci
 forkliftonline.ci
 formapro.ci
 formation.ci
-formation-emploi.ci
 formationnobel.ci
 formations.ci
-formations-emplois.ci
 formations-projets.ci
 formelassurances.ci
 formhero.ci
@@ -5534,7 +5522,6 @@ fouganza.ci
 foundry.ci
 foungotin.ci
 fouriersinsurance.ci
-foutacom.ci
 fox.ci
 foxbusiness.ci
 foxnews.ci
@@ -5637,7 +5624,6 @@ gahaa.ci
 gai-ci.ci
 gala.ci
 galaamp22-lesmagnifiques.ci
-galaxie.ci
 galaxynumeric.ci
 galerie-artisan.ci
 galileo-cashport.ci
@@ -5806,7 +5792,6 @@ girly.ci
 gisti.ci
 git.ci
 gitea.ci
-gitel.ci
 github.ci
 gitlab.ci
 gitma.ci
@@ -6391,6 +6376,7 @@ icogef.ci
 icogef-equipements.ci
 icoms.ci
 iconeproduction.ci
+icoopaci.ci
 icraf.ci
 ics.ci
 icsmonetique.ci
@@ -6485,7 +6471,6 @@ imanex.ci
 imans-hotel.ci
 imbs.ci
 imcci.ci
-imcotrans.ci
 imd.ci
 ime.ci
 imeca.ci
@@ -6659,6 +6644,7 @@ interflora.ci
 interieurs.ci
 interimmobilier.ci
 interlogistics.ci
+internet-society.ci
 internetsociety.ci
 interoutlet.ci
 interpack.ci
@@ -6887,7 +6873,6 @@ ivorycocoa.ci
 ivorycocoaproducts.ci
 ivorycontractors.ci
 ivoryenergies.ci
-ivoryfoods.ci
 ivoryrubbercorporation.ci
 ivosep.ci
 ivtpsd.ci
@@ -7519,7 +7504,6 @@ lb.ci
 lba.ci
 lbiprestations.ci
 lbsgroupe.ci
-lbt.ci
 lca.ci
 lcci.ci
 lce.ci
@@ -7546,6 +7530,8 @@ lead.ci
 lead-ivoire.ci
 leaddesign.ci
 leaderconstruction.ci
+leadershipservice-va.ci
+leadershipservices-va.ci
 leadgrowth.ci
 lean-dist.ci
 learn.ci
@@ -7731,6 +7717,7 @@ librairieadoration.ci
 librairiedebingerville.ci
 librairiedefrance.ci
 librairiemichelvako.ci
+library.ci
 libyaoil.ci
 licence.ci
 license.ci
@@ -9038,6 +9025,7 @@ nsi.ci
 nsiaassurances.ci
 nsiabanque.ci
 nsiachapchap.ci
+nsiadjassa.ci
 nsiafinance.ci
 nsiassurances.ci
 nsiavieassurances.ci
@@ -9072,6 +9060,7 @@ nycevents.ci
 nykomedia.ci
 nymba.ci
 nyokah.ci
+nys-maya.ci
 nyvepria.ci
 nz.ci
 nzassa.ci
@@ -9156,6 +9145,7 @@ officine.ci
 offload.ci
 offre-emploi.ci
 oficina.ci
+ofin-sarl.ci
 og.ci
 ogbobabusiness.ci
 ogbobacave.ci
@@ -9236,6 +9226,7 @@ one.ci
 onebet.ci
 onecall.ci
 oneci.ci
+onecidoc.ci
 oneconnect.ci
 onemart.ci
 onepci.ci
@@ -9444,6 +9435,7 @@ orz.ci
 os.ci
 osante.ci
 oscarlubricants.ci
+oscarscosm.ci
 oscillococcinum.ci
 oscn.ci
 oseil.ci
@@ -9452,6 +9444,7 @@ oser.ci
 oshdi.ci
 osicom.ci
 osonslerenouveau.ci
+osports.ci
 ospviaci.ci
 oss.ci
 ostci.ci
@@ -10128,6 +10121,7 @@ quickly.ci
 quiestdominiqueouattara.ci
 quijob.ci
 quincaillerie.ci
+quizdeo.ci
 qun.ci
 quoris.ci
 qvc.ci
@@ -11493,7 +11487,6 @@ star-pressing.ci
 starafrica.ci
 staragro.ci
 starauto.ci
-starcosmetic.ci
 starever.ci
 starmagazine.ci
 starmarine.ci
@@ -11788,6 +11781,7 @@ terres-ivoire.ci
 terrescotedivoire.ci
 terresdivoire.ci
 terresdunord.ci
+terresiliente.ci
 terresoleil.ci
 terrivoir.ci
 terrivoire.ci
@@ -11861,6 +11855,7 @@ tidjanethiam.ci
 tiemokocoulibaly.ci
 tigrant.ci
 tik.ci
+tikcar.ci
 tiktits.ci
 tiktok.ci
 tilaaf.ci
@@ -12785,6 +12780,7 @@ zerodegree.ci
 zerogachis.ci
 zeroinsalubrity.ci
 zerolayer.ci
+zetech.ci
 zetes.ci
 zeturf.ci
 zeus.ci
@@ -12819,7 +12815,6 @@ zoulgroup.ci
 zoumbak.ci
 zoumla.ci
 zportif.ci
-zr.ci
 zt.ci
 ztech.ci
 zurec.ci
