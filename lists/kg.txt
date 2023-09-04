@@ -32,6 +32,7 @@
 14.kg
 1402.kg
 1430.kg
+16.kg
 1688.kg
 17.kg
 18.kg
@@ -265,7 +266,6 @@ acquiring.kg
 acrostone.kg
 acrymatt.kg
 act.kg
-act-building.kg
 actavis.kg
 actimove.kg
 action.kg
@@ -424,11 +424,13 @@ aid.kg
 aida.kg
 aidana.kg
 aido.kg
+aidom.kg
 aidscenter.kg
 aif.kg
 aifusion.kg
 aigine.kg
 aigultrade.kg
+aihouse.kg
 aiisha.kg
 aik.kg
 aikido.kg
@@ -493,6 +495,7 @@ aivamobile.kg
 aiways.kg
 aiwory.kg
 aiylokmotu.kg
+aiyurt.kg
 aizen.kg
 ajax.kg
 ak.kg
@@ -1306,7 +1309,6 @@ autoopt.kg
 autopapa.kg
 autopark.kg
 autoparts.kg
-autoparts24.kg
 autopiter.kg
 autopro.kg
 autoprokat.kg
@@ -1336,6 +1338,7 @@ avangardsport.kg
 avangardstyle.kg
 avanso.kg
 avantage.kg
+avatr.kg
 avazkanova.kg
 avd.kg
 avengers.kg
@@ -3966,6 +3969,7 @@ fin.kg
 finaid.kg
 finam.kg
 finance.kg
+finance-flow.kg
 financepartner.kg
 financesoft.kg
 financestab.kg
@@ -5107,7 +5111,6 @@ impgroup.kg
 implant-service.kg
 implantcast.kg
 import.kg
-imposto.kg
 ims.kg
 imse.kg
 imu.kg
@@ -5590,6 +5593,7 @@ jumeirah.kg
 jump.kg
 jumush.kg
 junghans.kg
+jurok.kg
 just.kg
 justifico.kg
 jusupmamyr.kg
@@ -5654,7 +5658,6 @@ kalpen.kg
 kama.kg
 kamalov.kg
 kamasana.kg
-kamaz.kg
 kambarkan.kg
 kamen.kg
 kamera.kg
@@ -5784,7 +5787,6 @@ kdlolymp.kg
 kdm.kg
 kdmsgl.kg
 kdnavien.kg
-kdomkarven.kg
 kds.kg
 kdvonline.kg
 ke.kg
@@ -5908,7 +5910,6 @@ kif.kg
 kifa.kg
 kilem.kg
 kimchi.kg
-kimpub.kg
 king.kg
 king-boxer.kg
 kingboxer.kg
@@ -6180,7 +6181,6 @@ kumu.kg
 kunch.kg
 kunchygysh.kg
 kundemi.kg
-kundoluk.kg
 kunduzai.kg
 kuntuu-aimak.kg
 kupi.kg
@@ -6745,7 +6745,6 @@ mamaznaet.kg
 mamba.kg
 mamile.kg
 mamtil.kg
-man.kg
 manas.kg
 manas-discovery.kg
 manasacademy.kg
@@ -6757,7 +6756,6 @@ manchester.kg
 mancho.kg
 mands.kg
 mango.kg
-mangyt-aimak.kg
 mann-schroeder.kg
 mannol.kg
 manty.kg
@@ -7227,7 +7225,6 @@ mnenie.kg
 mns.kg
 mnu.kg
 mo.kg
-moalemaviation.kg
 mobi.kg
 mobiba.kg
 mobil.kg
@@ -7509,6 +7506,7 @@ name.kg
 namiana.kg
 namo.kg
 namsun.kg
+nanasport.kg
 naniko.kg
 nano.kg
 naprokat.kg
@@ -8719,7 +8717,6 @@ profshop.kg
 profskills.kg
 programchy.kg
 programmer.kg
-programmist.kg
 progress-leader.kg
 progressfinance.kg
 progrill.kg
@@ -9708,7 +9705,6 @@ skyline.kg
 skymobile.kg
 skynance.kg
 skynens.kg
-skynet.kg
 skynur.kg
 skypay.kg
 skyscanner.kg
@@ -10002,6 +9998,7 @@ starshina.kg
 start.kg
 startbusiness.kg
 startrade.kg
+startup.kg
 startupnation.kg
 stat.kg
 statoil.kg
@@ -10016,7 +10013,6 @@ steel.kg
 steels.kg
 steklo.kg
 steklostroi.kg
-stellagroup.kg
 stellateam.kg
 stemma.kg
 stenders.kg
@@ -10521,7 +10517,6 @@ teyes.kg
 tez.kg
 tez-fin.kg
 tez-kabar.kg
-tezakcha.kg
 tezal.kg
 tezcom.kg
 tezfin.kg
@@ -10735,7 +10730,6 @@ toy-planet.kg
 toyboss.kg
 toyota.kg
 toyota-bishkek.kg
-toyota-industries.kg
 toys.kg
 tp.kg
 tpms.kg
@@ -10897,6 +10891,7 @@ turar.kg
 turbo.kg
 turboservice.kg
 turism.kg
+turist.kg
 turizm.kg
 turkcell.kg
 turkishairlines.kg
@@ -11350,7 +11345,6 @@ vm.kg
 vmpolza.kg
 vmpromo.kg
 vms.kg
-vn.kg
 vnezakona.kg
 voc.kg
 voda.kg
