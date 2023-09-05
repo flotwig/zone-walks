@@ -85,6 +85,7 @@
 1win-game.ci
 1win-games.ci
 1win-top.ci
+1win1.ci
 1winbet.ci
 1winbets.ci
 1wincom.ci
@@ -228,7 +229,6 @@
 3a-afrique.ci
 3a-domotique.ci
 3aiard.ci
-3asecure.ci
 3c.ci
 3cgbi.ci
 3ci.ci
@@ -809,7 +809,6 @@ afd.ci
 afeal.ci
 affacto.ci
 affairage.ci
-affaires.ci
 afflelouparis.ci
 affmar.ci
 affounet.ci
@@ -2279,6 +2278,7 @@ cafopyakro.ci
 caftan.ci
 caftic-istc.ci
 cagrh.ci
+caic.ci
 caidamultiservices.ci
 caidp.ci
 caimpex.ci
@@ -3262,6 +3262,7 @@ asicstiger.com.ci
 atexio.com.ci
 autofast.com.ci
 autofree.com.ci
+aviator.com.ci
 ayo.com.ci
 ayoholdings.com.ci
 azboy.com.ci
@@ -3392,6 +3393,7 @@ longi.com.ci
 longisolar.com.ci
 loriginal.com.ci
 lottoking.com.ci
+luckyjet.com.ci
 maggi.com.ci
 mahindracomviva.com.ci
 mamita.com.ci
@@ -3446,6 +3448,7 @@ perseusmining.com.ci
 petronas.com.ci
 pharmacie.com.ci
 pinpointconsultant.com.ci
+pinup.com.ci
 playce.com.ci
 poloniex.com.ci
 poweroak.com.ci
@@ -3795,7 +3798,6 @@ csc.ci
 cscamille.ci
 cscticao.ci
 csdistribution.ci
-csg.ci
 csh.ci
 csi-sharp.ci
 csiafrica.ci
@@ -5141,6 +5143,7 @@ exotica.ci
 exp.ci
 expedia.ci
 experimax.ci
+expertbatiment.ci
 expertise.ci
 expertise-pdcp.ci
 experts-group.ci
@@ -5441,6 +5444,7 @@ foherb.ci
 foiredivoire.ci
 folishop.ci
 folloroux.ci
+fomamov.ci
 fomci.ci
 fonbet.ci
 foncier.ci
@@ -6328,7 +6332,6 @@ i2s.ci
 i2t.ci
 ia.ci
 iac.ci
-iac-tp.ci
 iacc.ci
 iaccessgroup.ci
 iaccgroupeloko.ci
@@ -6376,6 +6379,7 @@ icogef-equipements.ci
 icoms.ci
 iconeproduction.ci
 icoopaci.ci
+icotiere.ci
 icraf.ci
 ics.ci
 icsmonetique.ci
@@ -7046,10 +7050,10 @@ joyful.ci
 jpwatch.ci
 jretrouve.ci
 js.ci
-jsa.ci
 jsi.ci
 json.ci
 jt.ci
+jtv.ci
 ju.ci
 jucao.ci
 jue.ci
@@ -7676,7 +7680,6 @@ lestournesols.ci
 lesursaut.ci
 lesvoyageurs.ci
 lesyndicat.ci
-letempledufoot.ci
 letheoricien.ci
 leticmarcket.ci
 leticmarket.ci
@@ -8279,6 +8282,7 @@ meijibunka.ci
 meiway.ci
 mekano.ci
 mel-bet.ci
+melaph.ci
 melbet.ci
 melbets.ci
 melianekuny.ci
@@ -8600,7 +8604,6 @@ montransport.ci
 montrotech.ci
 monvisa.ci
 monvoyageur.ci
-monwe.ci
 moo.ci
 moobicom.ci
 mood.ci
@@ -9256,7 +9259,6 @@ onheberge.ci
 onimprim.ci
 oniris.ci
 onitsukatiger.ci
-online.ci
 onlinecasino.ci
 onlouetout.ci
 onloutou.ci
@@ -9636,6 +9638,7 @@ pe.ci
 pec.ci
 pecc.ci
 peci.ci
+pecos.ci
 pefaci.ci
 pegasus.ci
 pegasusind.ci
@@ -10704,7 +10707,6 @@ secretlora.ci
 secteur4sefi.ci
 sectronic.ci
 secuprime.ci
-secuprotec.ci
 securdoc.ci
 secureit.ci
 securimax.ci
@@ -10721,7 +10723,6 @@ seee.ci
 seenhotel.ci
 seenpay.ci
 sef.ci
-seformerautrement.ci
 segc.ci
 segh.ci
 segici.ci
@@ -10859,7 +10860,6 @@ sgtt-ci.ci
 sh.ci
 shacman.ci
 shang.ci
-shango.ci
 shap-shop.ci
 shape.ci
 shapshop.ci
@@ -11489,7 +11489,6 @@ starauto.ci
 starever.ci
 starmagazine.ci
 starmarine.ci
-starmotors.ci
 starofservice.ci
 staronthenet.ci
 starswood.ci
@@ -12061,7 +12060,6 @@ uao.ci
 uat-conf2003.ci
 uatlantique.ci
 uba.ci
-uber.ci
 ubimet.ci
 ubiq.ci
 ubouake.ci
@@ -12430,7 +12428,6 @@ watko.ci
 wattb2energy.ci
 wave.ci
 wax.ci
-wazimeet.ci
 wbh.ci
 wci.ci
 wdmatic.ci
@@ -12674,7 +12671,6 @@ yazilim.ci
 yd.ci
 yearbook.ci
 yeclo.ci
-yedess-construction.ci
 yedjap.ci
 yego.ci
 yelenba.ci
