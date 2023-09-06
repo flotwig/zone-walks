@@ -1123,7 +1123,6 @@ allopolice.ci
 alloservice.ci
 alloshop.ci
 allsix.ci
-allstar.ci
 alltec.ci
 alltradecenter.ci
 alm-ao.ci
@@ -4163,13 +4162,13 @@ distrimarqglobal.ci
 distrimax.ci
 distrimax-center.ci
 distripetrolium.ci
+divamintegra.ci
 divinatransport.ci
 divinedev.ci
 divinetrading.ci
 divo.ci
 diy.ci
 diyi.ci
-djakatv.ci
 djalee.ci
 djambox.ci
 djamo.ci
@@ -4317,7 +4316,6 @@ drenetdaloa.ci
 dressing.ci
 drh-fonctionpublique.ci
 drh-fonctionpubliques.ci
-drhetfpa.ci
 drhgend.ci
 drhsante.ci
 drigroupe.ci
@@ -4380,7 +4378,6 @@ e-commerce.ci
 e-consulat.ci
 e-control.ci
 e-diakite.ci
-e-docsodefor.ci
 e-enfant.ci
 e-finity.ci
 e-garage.ci
@@ -4735,6 +4732,7 @@ eirtel.ci
 eisi.ci
 eisiem.ci
 eit.ci
+eitp.ci
 eka.ci
 ekabenya.ci
 ekdb.ci
@@ -4949,7 +4947,6 @@ epson.ci
 epvexcellence.ci
 eq.ci
 equation.ci
-equilibre.ci
 equinix.ci
 equiprotech.ci
 equitrol.ci
@@ -5201,7 +5198,6 @@ faireundon.ci
 fairphone.ci
 faischap.ci
 fajardogroup.ci
-fal.ci
 fala-fala-code.ci
 famien.ci
 famiravoyages.ci
@@ -5599,7 +5595,6 @@ fut-immobilier.ci
 futt.ci
 futurama.ci
 futures.ci
-fuzz.ci
 fv.ci
 fw.ci
 fw-paris.ci
@@ -5688,6 +5683,7 @@ gedsante.ci
 geducp-fe.ci
 geedo.ci
 geegroupeloko.ci
+geekclub.ci
 geeks.ci
 geekstore.ci
 geely.ci
@@ -5961,7 +5957,6 @@ gre.ci
 greatplacetowork.ci
 greatwall.ci
 green-app.ci
-greendays.ci
 greenindustry.ci
 greenlight.ci
 greenmotion.ci
@@ -5973,6 +5968,7 @@ grid.ci
 griot.ci
 grkconsulting.ci
 grossistevape.ci
+ground-technologies.ci
 group-dfsh.ci
 group-ec.ci
 groupado.ci
@@ -6084,6 +6080,7 @@ guillaumesoro.ci
 guimere.ci
 guinness.ci
 guiservicesholding.ci
+gumter.ci
 gumtree.ci
 gushi.ci
 gv.ci
@@ -6258,6 +6255,7 @@ hoteldulac.ci
 hotelhanniel.ci
 hotelhudson.ci
 hotelkama.ci
+hotellebonheur.ci
 hotellevaisseau.ci
 hotelmeambly.ci
 hotelministre.ci
@@ -6453,6 +6451,7 @@ ikena.ci
 ikevents.ci
 ikks.ci
 iknal.ci
+il.ci
 ilboursa.ci
 ilebleue.ci
 iledevitre.ci
@@ -7271,7 +7270,6 @@ klaptonafrica.ci
 klaris-de-suisse.ci
 klassroom.ci
 klm.ci
-klrconsulting.ci
 klue.ci
 km.ci
 kminingequipement.ci
@@ -7446,6 +7444,7 @@ lamaisonpalmier.ci
 lamaisonplus.ci
 lamajbel.ci
 lamamisarl.ci
+lambclub.ci
 lamblin.ci
 lame-academie.ci
 lamerepoulard.ci
@@ -7654,6 +7653,7 @@ lescargotieredubelier.ci
 leschampignonsdelapotagere.ci
 lesdelices.ci
 lesdelicesdeyemasame.ci
+lesdelicesduchef.ci
 lesecoleseceme.ci
 leseglises.ci
 leselephants.ci
@@ -9050,6 +9050,7 @@ numerique.ci
 numeris.ci
 numerys.ci
 numigi.ci
+nutrigym.ci
 nvci.ci
 nvm.ci
 nw.ci
@@ -9369,7 +9370,6 @@ ordrepharmacien.ci
 orea.ci
 oreaholding.ci
 oreatelecom.ci
-orebtech.ci
 orelcabconseils.ci
 oremus.ci
 a2ic.org.ci
@@ -9613,6 +9613,7 @@ payi.ci
 paypal.ci
 paysan.ci
 paytm.ci
+paytou.ci
 payu.ci
 payzik.ci
 pb.ci
@@ -9891,6 +9892,7 @@ ppa-ci.ci
 ppaci.ci
 ppep.ci
 pq.ci
+pr.ci
 pratik.ci
 prd.ci
 pre.ci
@@ -10371,7 +10373,6 @@ rile.ci
 rilhvi.ci
 rim.ci
 rimait.ci
-rimim.ci
 rimrae.ci
 rimu.ci
 ringier.ci
@@ -11109,7 +11110,6 @@ skybusiness.ci
 skydive.ci
 skydive-assinie.ci
 skyfitness.ci
-skyfms.ci
 skygirls.ci
 skygroups.ci
 skysoft.ci
@@ -11800,13 +11800,13 @@ teyliomproperties.ci
 tezie.ci
 tf.ci
 tfa.ci
+tgmi.ci
 tgmpanel.ci
 tgr.ci
 th.ci
 th3ssa.ci
 thani.ci
 thanici.ci
-thankyou.ci
 thatrans.ci
 the.ci
 the100.ci
@@ -12351,6 +12351,7 @@ voiladoc.ci
 voisinage.ci
 voitures.ci
 voituresolidarite.ci
+volailleplus.ci
 volcanjunioracademie.ci
 volkswagen.ci
 volontairecan2023.ci
@@ -12463,7 +12464,6 @@ wel.ci
 welcome.ci
 wele.ci
 welikeciv.ci
-welkit.ci
 welldone.ci
 welmat.ci
 wemarket.ci
@@ -12534,7 +12534,6 @@ wj.ci
 wl.ci
 wo.ci
 wodana.ci
-woju.ci
 wolflubes.ci
 wolfram.ci
 wolno.ci
