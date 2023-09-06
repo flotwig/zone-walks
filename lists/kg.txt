@@ -263,6 +263,7 @@ acoria.kg
 acorp.kg
 acquadiparma.kg
 acquiring.kg
+acres.kg
 acrostone.kg
 acrymatt.kg
 act.kg
@@ -872,7 +873,6 @@ antiage.kg
 anticorruption.kg
 antre.kg
 ants.kg
-anturaj.kg
 anura.kg
 anvimax.kg
 ao.kg
@@ -2071,6 +2071,7 @@ bonus.kg
 bonusart.kg
 booblik.kg
 book.kg
+bookhotel.kg
 bookhouse.kg
 booking.kg
 bookings.kg
@@ -2636,7 +2637,6 @@ component.kg
 comportal.kg
 compservice.kg
 computerra.kg
-computers.kg
 comtehno.kg
 concept.kg
 concert.kg
@@ -2839,7 +2839,6 @@ darilar.kg
 darmek.kg
 darotboga.kg
 darproduction.kg
-darulifta.kg
 darvida.kg
 daryger.kg
 darykana.kg
@@ -3023,6 +3022,7 @@ difxbi.kg
 digi.kg
 digicom.kg
 digis.kg
+digit.kg
 digital.kg
 digitalasia.kg
 digitalbridge.kg
@@ -3279,6 +3279,7 @@ easytransfer.kg
 ebay.kg
 ebdesign.kg
 ebebek.kg
+ebox.kg
 ebrd.kg
 eca.kg
 ecars.kg
@@ -3508,6 +3509,7 @@ elkitep.kg
 elkub.kg
 elle.kg
 elleparfumes.kg
+elm.kg
 elmarket.kg
 elmart.kg
 elmirlink.kg
@@ -3519,6 +3521,7 @@ elo.kg
 elpay.kg
 elpharm.kg
 elplast.kg
+elpro.kg
 elpts.kg
 elqr.kg
 els.kg
@@ -3696,8 +3699,8 @@ etalon.kg
 etalon-plast.kg
 etam.kg
 etamlingerie.kg
+etc.kg
 etech.kg
-etg.kg
 eth.kg
 ethnotravel.kg
 etibakirtereksai.kg
@@ -3949,7 +3952,6 @@ fes.kg
 festivals.kg
 festo.kg
 fevek.kg
-fey.kg
 feya.kg
 ff.kg
 ffin.kg
@@ -4264,7 +4266,6 @@ garant-aseptic.kg
 garant-profi.kg
 garantgaz.kg
 garantproject.kg
-garanttranslogistic.kg
 garda.kg
 gardaworld.kg
 garden-spa.kg
@@ -4802,6 +4803,7 @@ hitachi.kg
 hitbuy.kg
 hitech.kg
 hitfm.kg
+hive.kg
 hivtbcc.kg
 hivtest.kg
 hk.kg
@@ -4996,7 +4998,6 @@ idalgo.kg
 idalgo-clinic.kg
 idalgo-family.kg
 idea.kg
-idealpharm.kg
 idealstirka.kg
 ideashop.kg
 idemitsu.kg
@@ -5655,6 +5656,7 @@ kainda.kg
 kainda-gk.kg
 kaindykant.kg
 kaiser.kg
+kaiten.kg
 kaizerceramics.kg
 kaktus.kg
 kale.kg
@@ -6963,7 +6965,6 @@ medikana-plus.kg
 mediland.kg
 medimpex.kg
 medincus.kg
-mediplus.kg
 mediq.kg
 medistom.kg
 meditek.kg
@@ -7026,6 +7027,7 @@ meguin.kg
 meh-group.kg
 mekendesh.kg
 mekendeshter.kg
+mekenibiz.kg
 mektebi.kg
 mektebim.kg
 mekteby.kg
@@ -7107,6 +7109,7 @@ metrica.kg
 metrohm.kg
 mettransterminal.kg
 mex.kg
+meykingroup.kg
 meykinstroy.kg
 mezym.kg
 mezym-forte.kg
@@ -7132,6 +7135,7 @@ michelle.kg
 michurin.kg
 micmagic.kg
 micoder.kg
+micom.kg
 micro-t.kg
 microfinance.kg
 microinvest.kg
@@ -7147,6 +7151,7 @@ mig.kg
 migompro.kg
 migrant.kg
 migrantkabar.kg
+migrationcouncil.kg
 mike.kg
 mikoir.kg
 mikroleasing.kg
@@ -7207,6 +7212,7 @@ mirshin.kg
 mirstroyplast.kg
 mirtech.kg
 mirtek.kg
+mirtrub.kg
 mirtul.kg
 mirvodopadov.kg
 mis.kg
@@ -7223,6 +7229,7 @@ mkassa.kg
 mkmc.kg
 mkt.kg
 ml.kg
+mlsp.kg
 mm.kg
 mmc.kg
 mmediatrade.kg
@@ -7536,6 +7543,7 @@ nasaatmedia.kg
 nashe.kg
 nashepravo.kg
 nashsad.kg
+nashvek.kg
 naskr.kg
 nasledie.kg
 nasos.kg
@@ -8062,6 +8070,7 @@ optimabank.kg
 optimabusiness.kg
 optimapay.kg
 optimizer.kg
+optimus.kg
 optinetworks.kg
 optmix.kg
 optobaza.kg
@@ -8759,6 +8768,7 @@ prometis.kg
 promexpert.kg
 promo-toyota-bishkek.kg
 promoland.kg
+promoto.kg
 promprivod.kg
 prompt.kg
 promstal.kg
@@ -8852,7 +8862,6 @@ quadra.kg
 quadrate.kg
 qualcomm.kg
 qualityoil.kg
-quartet.kg
 quasar.kg
 quattro.kg
 quattromedia.kg
@@ -8951,12 +8960,10 @@ real-security.kg
 realcom.kg
 realestate.kg
 realty.kg
-rec.kg
 recensio.kg
 reclama.kg
 record.kg
 recovery.kg
-rectrade.kg
 recuperator.kg
 red.kg
 redboxsolutions.kg
@@ -9077,7 +9084,6 @@ rezidor.kg
 rezidorhotelgroup.kg
 rezonans.kg
 rf.kg
-rfgroup.kg
 rg.kg
 rgroup.kg
 rhak.kg
@@ -9118,7 +9124,6 @@ rl.kg
 rmconsult.kg
 rmdd.kg
 rmddaviation.kg
-rmg.kg
 rms.kg
 rmsoft.kg
 rnd.kg
@@ -9416,6 +9421,7 @@ sconsult.kg
 scooter.kg
 scoring.kg
 scorista.kg
+scorost0809.kg
 screen.kg
 sd.kg
 sdb.kg
@@ -9595,7 +9601,6 @@ shop.kg
 shop-lemanapro.kg
 shop-lemanopro.kg
 shopcasio.kg
-shopgid.kg
 shopify.kg
 shopifyplus.kg
 shoplemanapro.kg
@@ -9749,6 +9754,7 @@ smart-kyzmat.kg
 smart-taxi.kg
 smart-technology.kg
 smartbank.kg
+smartbilim.kg
 smartbuh.kg
 smartdev.kg
 smartenergy.kg
@@ -9899,6 +9905,7 @@ spar.kg
 spares.kg
 spark.kg
 sparko.kg
+spartech.kg
 spasibo.kg
 spb.kg
 spbsot.kg
@@ -9951,7 +9958,6 @@ spubl.kg
 sputnik.kg
 spz03.kg
 sq.kg
-sr.kg
 srelectrocars.kg
 srimpex.kg
 sris.kg
@@ -11205,6 +11211,7 @@ vecherka.kg
 veda.kg
 vedanta.kg
 veev-vape.kg
+vefaavm.kg
 vefacenter.kg
 vega.kg
 vegapharm.kg
