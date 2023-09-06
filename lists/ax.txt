@@ -305,6 +305,7 @@ alandsmuseum.ax
 alandspall.ax
 alandspersienn.ax
 alandspilen.ax
+alandsportweek.ax
 alandsrabatten.ax
 alandsradio.ax
 alandsradiotv.ax
@@ -424,7 +425,6 @@ apis.ax
 aplagarden.ax
 apo.ax
 apotea.ax
-apotek.ax
 apoteket.ax
 apotheke.ax
 app.ax
@@ -436,7 +436,6 @@ appspot.ax
 aprf.ax
 april.ax
 aprilkommunikation.ax
-apteekki.ax
 aq.ax
 ar.ax
 arc.ax
@@ -488,7 +487,6 @@ asub.ax
 asunto.ax
 at.ax
 atc.ax
-ath.ax
 ati.ax
 atk.ax
 atom.ax
@@ -553,7 +551,6 @@ ayurveda.ax
 az.ax
 b0.ax
 ba.ax
-baari.ax
 babistakebab.ax
 babysim.ax
 bacarodoppio.ax
@@ -573,7 +570,6 @@ baltic.ax
 balticbunkering.ax
 balticprodukter.ax
 bank.ax
-bar.ax
 barbistro.ax
 bargarn.ax
 barkraft.ax
@@ -1302,6 +1298,7 @@ fastighetsverket.ax
 fatous.ax
 fazer.ax
 fb.ax
+fbi.ax
 fc.ax
 fcaland.ax
 fcm.ax
@@ -1936,7 +1933,6 @@ jass.ax
 jay.ax
 jb.ax
 jbmaland.ax
-jc.ax
 jcimariehamn.ax
 jd.ax
 jeab.ax
@@ -2452,7 +2448,6 @@ meatingroom.ax
 mecax.ax
 med.ax
 medi.ax
-media.ax
 medimar.ax
 medis.ax
 medlingsbyran.ax
@@ -2995,7 +2990,6 @@ psykolog.ax
 psykolog-psykoterapeut.ax
 psykoterapi.ax
 pt.ax
-pub.ax
 pubalbin.ax
 publiccorner.ax
 punkten.ax
@@ -3059,7 +3053,6 @@ ramonasscrapstore.ax
 rangsbyskola.ax
 rap.ax
 rask.ax
-ravintola.ax
 ravintolaaukio.ax
 ravintolalaboratorio.ax
 ravintolaobra.ax
@@ -3384,7 +3377,6 @@ snbll.ax
 sne.ax
 snellman.ax
 snickars.ax
-snorl.ax
 snowflake.ax
 so.ax
 soap.ax
@@ -3432,6 +3424,7 @@ sonymusic.ax
 sos-service.ax
 sotare.ax
 sottunga.ax
+southslope.ax
 sovy.ax
 sp.ax
 space.ax
@@ -3483,6 +3476,7 @@ starlink.ax
 starm.ax
 start.ax
 startaeget.ax
+stat.ax
 statist.ax
 stavamosters.ax
 stavos.ax
