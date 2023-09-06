@@ -968,7 +968,6 @@ couples.audio
 court.audio
 covfefe.audio
 coxmate.audio
-craftbeer.audio
 crafted.audio
 craftman.audio
 cranq.audio
@@ -2066,6 +2065,7 @@ interpunct.audio
 inthemix.audio
 intui.audio
 intuit.audio
+io.audio
 ionos.audio
 iphone11.audio
 iphone11pro.audio
@@ -2950,7 +2950,6 @@ nic.audio
 nice.audio
 nick.audio
 nickels.audio
-nickjones.audio
 nicktuttle.audio
 nicky.audio
 niels.audio
@@ -3639,6 +3638,7 @@ russelltanner.audio
 rust.audio
 rutherford.audio
 rvdg.audio
+rythm.audio
 s2s.audio
 sacd.audio
 sadler.audio
@@ -3918,6 +3918,7 @@ sonicboomsoundart.audio
 sonicmind.audio
 sonicmultiplicities.audio
 sonicos.audio
+sonicvault.audio
 sonix.audio
 sonomag.audio
 sonorant.audio
@@ -4620,6 +4621,7 @@ wave.audio
 wave2.audio
 wavecreator.audio
 wavedivision.audio
+waveforming.audio
 wavefront.audio
 wavekit.audio
 wavelength.audio
