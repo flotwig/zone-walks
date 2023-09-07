@@ -1755,6 +1755,7 @@ basicshop.ci
 bassam-express.ci
 bassamfm.ci
 bassamtourisme.ci
+basta.ci
 bata.ci
 batcommunication.ci
 batconcept.ci
@@ -2021,6 +2022,7 @@ bm.ci
 bmagroup.ci
 bmagroupe.ci
 bme.ci
+bmi.ci
 bmi-group.ci
 bmigroup.ci
 bmimmobilier.ci
@@ -2201,7 +2203,6 @@ build.ci
 builden.ci
 builden-sarl.ci
 bull.ci
-bulldozer.ci
 bulto.ci
 bureaunaturalisation.ci
 bureauveritas.ci
@@ -2397,7 +2398,6 @@ carverandco.ci
 caryotype.ci
 cas-equipement.ci
 casa.ci
-casabella.ci
 casamultimedia.ci
 casazo.ci
 casedivoire.ci
@@ -3987,6 +3987,7 @@ demir.ci
 demissa.ci
 demivoire.ci
 demo.ci
+democrates.ci
 den.ci
 dentons.ci
 depannage.ci
@@ -4051,6 +4052,7 @@ dhlogistics.ci
 dhs.ci
 di.ci
 dia-consultings.ci
+diabovillemergente.ci
 diadagani.ci
 diagbox.ci
 dialog.ci
@@ -4509,6 +4511,7 @@ ecolemedia.ci
 ecoleweb.ci
 ecolewebsolution.ci
 ecollectivite.ci
+ecolo.ci
 ecomart.ci
 ecomet.ci
 ecomm.ci
@@ -5744,6 +5747,7 @@ gespetrogaz.ci
 gesprod.ci
 gest-imm.ci
 gestafric.ci
+gestimo.ci
 gestion-projets.ci
 gestionauto.ci
 gestionisa.ci
@@ -5978,7 +5982,6 @@ groupe-ctc.ci
 groupe-essor.ci
 groupe-ets-diarra.ci
 groupe-ita.ci
-groupe-magenta.ci
 groupe-nazarie.ci
 groupe-saintlouis.ci
 groupe-sma.ci
@@ -6246,6 +6249,7 @@ hostoweb.ci
 hotel-chemoa.ci
 hotel-dominique.ci
 hotel-elephant.ci
+hotel-hibiscus.ci
 hotel-le-granite.ci
 hotel-montkorhogo.ci
 hotelarcenciel.ci
@@ -6441,6 +6445,7 @@ ihale.ci
 ihstowers.ci
 ii.ci
 iiao.ci
+iids.ci
 iii.ci
 iit.ci
 ij.ci
@@ -6529,6 +6534,7 @@ inbox.ci
 incognito-by-afflelou.ci
 incognitobyafflelou.ci
 incomm.ci
+ind.ci
 indabaxcotedivoire.ci
 indexmedia.ci
 indicametrie.ci
@@ -7029,7 +7035,6 @@ job.ci
 jobbing.ci
 jobbo.ci
 jobcamp.ci
-jobcenter.ci
 jobchain.ci
 jobdoor.ci
 jobpoint.ci
@@ -7102,6 +7107,7 @@ k9.ci
 ka.ci
 ka2i.ci
 kabowdtransport.ci
+kac-sarl.ci
 kachika.ci
 kaconseils.ci
 kacoudahua.ci
@@ -7856,7 +7862,6 @@ loop.ci
 lope.ci
 lopogo.ci
 lopportunite.ci
-loquelabuisnesscenter.ci
 loreline.ci
 losscontrol.ci
 lotimmo.ci
@@ -8510,7 +8515,6 @@ mon-imprimeur.ci
 mon-job.ci
 mon-livreur.ci
 monadressepostale.ci
-monallie.ci
 monartisan.ci
 monassistantadministratif.ci
 monassurance.ci
@@ -9031,6 +9035,7 @@ nsiachapchap.ci
 nsiadjassa.ci
 nsiafinance.ci
 nsiassurances.ci
+nsiavie.ci
 nsiavieassurances.ci
 nt.ci
 ntci.ci
@@ -9139,7 +9144,6 @@ oe.ci
 oec.ci
 oeeci.ci
 oel.ci
-oesg.ci
 of.ci
 office.ci
 officeciel.ci
@@ -9221,7 +9225,6 @@ onafriq.ci
 onafrique.ci
 onafriqx.ci
 onc.ci
-once.ci
 oncloud.ci
 ondigo.ci
 ondr.ci
@@ -9579,7 +9582,9 @@ paroisse.ci
 paroissesaintebernadettebingerville.ci
 paroissesaintkizito.ci
 partech.ci
+partirepublicain.ci
 partisans.ci
+partisocialiste.ci
 party.ci
 pasp.ci
 passcado.ci
@@ -9608,6 +9613,7 @@ pawa.ci
 pawapay.ci
 pawaplay.ci
 pay.ci
+payer.ci
 payesha.ci
 payi.ci
 paypal.ci
@@ -9757,6 +9763,7 @@ pisam.ci
 pischoncorp.ci
 pisciculture.ci
 piscine.ci
+piscinedesjoyaux.ci
 piscineivoire.ci
 piscinnet.ci
 piss.ci
@@ -9890,7 +9897,6 @@ pp.ci
 ppa.ci
 ppa-ci.ci
 ppaci.ci
-ppep.ci
 pq.ci
 pr.ci
 pratik.ci
