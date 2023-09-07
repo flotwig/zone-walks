@@ -487,6 +487,7 @@ asub.ax
 asunto.ax
 at.ax
 atc.ax
+ath.ax
 ati.ax
 atk.ax
 atom.ax
@@ -531,6 +532,7 @@ axfinans.ax
 axhiss.ax
 axis.ax
 axj.ax
+axjnews.ax
 axk.ax
 axla.ax
 axla-logistics.ax
@@ -767,6 +769,7 @@ brobacka.ax
 brodbiten.ax
 broman.ax
 brunox.ax
+brx.ax
 bryggan.ax
 bs.ax
 bt.ax
@@ -2816,7 +2819,6 @@ osfbk.ax
 osteopatkliniken.ax
 osterangen.ax
 ostergard.ax
-ostersjofonden.ax
 ostersjokortet.ax
 osuuspankit.ax
 osuuspankki.ax
@@ -3865,7 +3867,6 @@ verical.ax
 veritas.ax
 verkstad.ax
 vero.ax
-ves.ax
 veterinar.ax
 vg.ax
 vi.ax
