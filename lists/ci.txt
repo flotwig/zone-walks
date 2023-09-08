@@ -858,6 +858,7 @@ afrikana.ci
 afrikannonces.ci
 afrikastor.ci
 afrikbtp.ci
+afrikfashion.ci
 afrikfrais.ci
 afrikimmo.ci
 afrikimmomag.ci
@@ -907,7 +908,6 @@ agenceemploijeunes.ci
 agenceprincipale.ci
 agencerevelation.ci
 agencesuncom.ci
-agenceyanda.ci
 agensy.ci
 agentsaccueilcmu.ci
 agenumerique.ci
@@ -1176,6 +1176,7 @@ ambaliban.ci
 ambitioncompany.ci
 amcc.ci
 amcfc.ci
+amci.ci
 amclotmarket.ci
 amcvoyage.ci
 amdmarket.ci
@@ -1463,6 +1464,7 @@ astech.ci
 aster.ci
 asteriskgroup.ci
 asterixgroup.ci
+astoci.ci
 astra-x.ci
 astraining.ci
 astrax.ci
@@ -1964,6 +1966,7 @@ biomerieux.ci
 biomerieux-af.ci
 bionewtech.ci
 biooil.ci
+biopharma.ci
 biosave.ci
 biosource.ci
 biosourceci.ci
@@ -2716,7 +2719,6 @@ ciment.ci
 cimentguepard.ci
 cimentsafrique.ci
 cimfs.ci
-cimice.ci
 ciminter.ci
 cimooc.ci
 cimpor.ci
@@ -5054,6 +5056,7 @@ etm.ci
 etmd.ci
 etodplus.ci
 etrack.ci
+etraining.ci
 etranzact.ci
 etravel.ci
 etrb.ci
@@ -5065,6 +5068,7 @@ etsdh.ci
 etsdjessou.ci
 etsel-elyonnature.ci
 etskoffikonan.ci
+etsmp-josho.ci
 etstraorenana.ci
 etsunicolor.ci
 etszeinab.ci
@@ -5242,6 +5246,7 @@ fdka.ci
 fdm.ci
 fdt.ci
 fe.ci
+fecos.ci
 fedafrica.ci
 fedafricaci.ci
 fedas.ci
@@ -5282,6 +5287,7 @@ fesci.ci
 festi-terrasse.ci
 festibo.ci
 festimob.ci
+festinagroup.ci
 festivaldesgrillades.ci
 festivaldevie.ci
 festivalroyaumeassinie.ci
@@ -5361,6 +5367,7 @@ fininvest.ci
 fintech.ci
 finwest.ci
 fip-plast.ci
+fipec.ci
 fipme.ci
 firca.ci
 firdaws-city.ci
@@ -5408,6 +5415,7 @@ flopy.ci
 florasuper.ci
 flormar.ci
 flou.ci
+flow.ci
 fluen.ci
 fluiconnecto.ci
 flux.ci
@@ -6008,8 +6016,6 @@ groupesafi.ci
 groupesalem.ci
 groupesamandje.ci
 groupescolairelegrand.ci
-groupescolairelonnya.ci
-groupescolairelonya.ci
 groupeselecsa.ci
 groupesocietefamiliale-sarl.ci
 groupeterra.ci
@@ -6058,6 +6064,7 @@ gtec.ci
 gtech.ci
 gtl.ci
 gtmobile.ci
+gts-plus.ci
 gtservice.ci
 gttps.ci
 gu.ci
@@ -6183,7 +6190,6 @@ hi.ci
 hienyacoubasie.ci
 hijab.ci
 hikvision.ci
-hilmann.ci
 hilook.ci
 hilti.ci
 hiperdist.ci
@@ -7771,7 +7777,6 @@ lintelligenttv.ci
 linter.ci
 linuxexpo.ci
 lionmulti-business.ci
-lionsabidjancalao.ci
 liora.ci
 lipidol.ci
 lisp.ci
@@ -9144,6 +9149,7 @@ oe.ci
 oec.ci
 oeeci.ci
 oel.ci
+oesg.ci
 of.ci
 office.ci
 officeciel.ci
@@ -10367,7 +10373,6 @@ richbond.ci
 richelieu.ci
 rici.ci
 ricom.ci
-ridia.ci
 ridwan.ci
 rifayn.ci
 rifemad.ci
@@ -11731,6 +11736,7 @@ techbatgroup.ci
 techdigital.ci
 techdomains.ci
 techmedia.ci
+technibel.ci
 technic-achat.ci
 technicom.ci
 techniplast.ci
@@ -12816,6 +12822,7 @@ zoumla.ci
 zportif.ci
 zt.ci
 ztech.ci
+zum.ci
 zurec.ci
 zuul.ci
 zvne.ci
