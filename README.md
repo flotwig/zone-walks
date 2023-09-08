@@ -38,7 +38,7 @@ TLD | Domain Count
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">1978</div>
 [`br`][br] [(raw)][br-raw] | <div align="right">1349</div>
 [`bt`][bt] [(raw)][bt-raw] | <div align="right">1247</div>
-[`diet`][diet] [(raw)][diet-raw] | <div align="right">1237</div>
+[`diet`][diet] [(raw)][diet-raw] | <div align="right">1239</div>
 [`tz`][tz] [(raw)][tz-raw] | <div align="right">1162</div>
 [`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1062</div>
 [`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">695</div>
@@ -54,7 +54,7 @@ TLD | Domain Count
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
-**Total** | <div align="right">2668649</div>
+**Total** | <div align="right">2668651</div>
 
 ## See Also
 
