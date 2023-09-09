@@ -1542,6 +1542,7 @@ auchan.ci
 auchan-retail.ci
 auchanretail.ci
 aucoeurdumonde.ci
+aude.ci
 audi.ci
 audiotexci.ci
 audirec.ci
@@ -2126,6 +2127,7 @@ boulanger.ci
 bourse.ci
 bourse-diplomatie.ci
 bourseagricole.ci
+boursedefret.ci
 bouta.ci
 boutique-premium.ci
 boutiquedefoot.ci
@@ -2187,6 +2189,7 @@ bs.ci
 bsc.ci
 bsd.ci
 bsic.ci
+bssim.ci
 bt.ci
 bta.ci
 btc.ci
@@ -2626,6 +2629,7 @@ chicco.ci
 chicking.ci
 chicpanier.ci
 chicshop.ci
+chigataholding.ci
 childrenofafrica.ci
 chilipiper.ci
 chimicolor.ci
@@ -3564,7 +3568,6 @@ comexas.ci
 comexmap.ci
 comirnatyeducation.ci
 comirnatyhcp.ci
-comis.ci
 comit.ci
 comiteorganisationcan2023.ci
 comiteorganisationcanciv2023.ci
@@ -4330,6 +4333,7 @@ drmodeliterie.ci
 drnambala.ci
 drone.ci
 droneacademie.ci
+dronebusiness.ci
 drones.ci
 dropbox.ci
 dsi.ci
@@ -4989,6 +4993,7 @@ esbingerville.ci
 esca.ci
 escao-edu.ci
 escape.ci
+escapegameover.ci
 escomespacefloradaloa.ci
 escomgroupe.ci
 escrutin.ci
@@ -5041,6 +5046,7 @@ etatfederal.ci
 etde.ci
 etec.ci
 etec-education.ci
+etel-power.ci
 etfp.ci
 etg.ci
 eth.ci
@@ -5667,6 +5673,7 @@ gbrsarl.ci
 gbs.ci
 gbtp.ci
 gci-vision.ci
+gcisarl.ci
 gcl.ci
 gcliniquedokui.ci
 gctgroupeloko.ci
@@ -5798,6 +5805,7 @@ gipf.ci
 gipse.ci
 girisim.ci
 girly.ci
+gis.ci
 gisti.ci
 git.ci
 gitea.ci
@@ -6120,6 +6128,7 @@ hai.ci
 haier.ci
 hairoriginals.ci
 haiti.ci
+halil-ibrahim.ci
 hamburgerhouse.ci
 hamoncafe.ci
 hampateba.ci
@@ -6359,6 +6368,7 @@ ibishotel.ci
 ibishotels.ci
 ibm.ci
 ibook.ci
+ibs.ci
 ibsfa-img.ci
 ic.ci
 ica.ci
@@ -6704,7 +6714,6 @@ ips-wa.ci
 ipscnam.ci
 ipscname.ci
 ipswa.ci
-iptlprestige.ci
 iptv.ci
 iqoo.ci
 iqoption.ci
@@ -7218,6 +7227,7 @@ ketshop.ci
 kevajo.ci
 keydatacollect.ci
 keynewsmedia.ci
+kfbusiness.ci
 kfc.ci
 kfcorporation.ci
 kfinter.ci
@@ -7873,6 +7883,7 @@ lotimmo.ci
 lotobonheur.ci
 lottoking.ci
 lottoland.ci
+lotusgroup.ci
 louislagrange.ci
 lounboutique.ci
 love.ci
@@ -8271,7 +8282,6 @@ mediation-conso.ci
 mediaways.ci
 medical.ci
 medicalnews.ci
-medicalsolutions.ci
 medico.ci
 medicpharma.ci
 medimage.ci
@@ -8645,7 +8655,6 @@ motrio.ci
 motul.ci
 mouna.ci
 mounirvoyages.ci
-mountech.ci
 mousso.ci
 moutfitters.ci
 movis.ci
@@ -9477,6 +9486,7 @@ oukami.ci
 oulya.ci
 ourebi.ci
 ousmanelamien.ci
+ousmanenuritopbas.ci
 outlook.ci
 outshock.ci
 ovation.ci
@@ -9852,7 +9862,6 @@ pointfocal.ci
 poissondici.ci
 pok.ci
 poki.ci
-pol.ci
 polexcellence.ci
 police-nationale.ci
 policenationale.ci
@@ -9897,6 +9906,7 @@ pourluigaf.ci
 pourtoi.ci
 poussindor.ci
 poutoulou.ci
+powercom-engineering.ci
 powernet.ci
 powertechplus.ci
 pp.ci
@@ -11189,6 +11199,7 @@ smsecole.ci
 smspro24.ci
 smtb.ci
 sn.ci
+sna.ci
 snagroup.ci
 snatlassarl.ci
 snc-finances.ci
