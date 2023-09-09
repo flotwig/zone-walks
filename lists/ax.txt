@@ -286,6 +286,7 @@ alandsbutiken.ax
 alandsbygg.ax
 alandsea.ax
 alandsexpressen.ax
+alandsfaret.ax
 alandsfarjan.ax
 alandsfolkrace.ax
 alandsframtid.ax
@@ -371,7 +372,6 @@ amarin.ax
 amarinconnect.ax
 amarincorp.ax
 amarineurope.ax
-amazon.ax
 amazonbroadband.ax
 amazonclimatepledge.ax
 amazongo.ax
@@ -1531,6 +1531,7 @@ go.ax
 godbyapotek.ax
 godbygg.ax
 godbyservice.ax
+godis.ax
 goertz.ax
 gogoanime.ax
 goku.ax
@@ -2453,6 +2454,7 @@ med.ax
 medi.ax
 medimar.ax
 medis.ax
+medlingsbyran.ax
 mega.ax
 megu.ax
 megusta.ax
@@ -2543,6 +2545,7 @@ moe.ax
 mol.ax
 molnus.ax
 monaco.ax
+money.ax
 monitor.ax
 monks.ax
 monster.ax
@@ -2653,6 +2656,7 @@ nikkola.ax
 nimix.ax
 nipa.ax
 nipalive.ax
+niska.ax
 nj.ax
 njut.ax
 nk.ax
@@ -3041,6 +3045,7 @@ raddabarnen.ax
 raddalumparn.ax
 raddningshund.ax
 radion.ax
+radiorel.ax
 radiotv.ax
 rafaels.ax
 raflaamo.ax
