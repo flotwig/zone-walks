@@ -2881,7 +2881,6 @@ cms.ci
 cms-ci.ci
 cmspurisol.ci
 cmstviateur.ci
-cmswale.ci
 cmti.ci
 cn.ci
 cn-itie.ci
@@ -3633,7 +3632,6 @@ constant.ci
 constitution.ci
 constructions.ci
 construire.ci
-consulat-guineebissau.ci
 consulatbenin-abj.ci
 consulatindonesie.ci
 consulatrwanda.ci
@@ -4863,6 +4861,7 @@ emirav.ci
 emlak.ci
 emmanuelcorporate.ci
 emmaus-university.ci
+emo.ci
 emoye.ci
 emploi.ci
 emploi-jeune.ci
@@ -6152,7 +6151,6 @@ havilah.ci
 havredelumiere.ci
 hayara-sarl.ci
 hb.ci
-hbcompany.ci
 hbiacces.ci
 hbmultiservices.ci
 hc.ci
@@ -7223,6 +7221,7 @@ kerria.ci
 kesscomputers.ci
 kestrelci.ci
 ketalon.ci
+ketboof.ci
 ketshop.ci
 kevajo.ci
 keydatacollect.ci
@@ -8755,7 +8754,6 @@ my.ci
 my-brand.ci
 my-canal.ci
 my-pari.ci
-myapps.ci
 mycanal.ci
 mycarflix.ci
 myclean.ci
@@ -10065,7 +10063,6 @@ psdi.ci
 psf.ci
 psgouv.ci
 psi.ci
-psn.ci
 psnassurances.ci
 psndea.ci
 psoles.ci
@@ -10281,7 +10278,6 @@ regionworodougou.ci
 registry.ci
 regtons.ci
 regus.ci
-rehoboth.ci
 reit.ci
 relais.ci
 relaisfamilial.ci
@@ -10727,7 +10723,6 @@ secomea.ci
 secopower.ci
 secretel.ci
 secretlora.ci
-secteur4sefi.ci
 sectronic.ci
 secuprime.ci
 securdoc.ci
@@ -12432,7 +12427,6 @@ wamko.ci
 wams-immo.ci
 wandex.ci
 wanekoo.ci
-wapari.ci
 wapie.ci
 waraniene.ci
 wari.ci
@@ -12543,7 +12537,6 @@ winihost.ci
 winlogic.ci
 winner.ci
 winnerbet.ci
-winnerservicepains.ci
 wino.ci
 winpart.ci
 winprogrammederre.ci
