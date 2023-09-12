@@ -105,7 +105,6 @@ airbnb.hosting
 ait.hosting
 aka.hosting
 akzonobel.hosting
-alarm.hosting
 alesco.hosting
 alex.hosting
 alexa.hosting
@@ -437,6 +436,7 @@ cloudbase.hosting
 cloudcache.hosting
 cloudcity.hosting
 clouderp.hosting
+cloudfile.hosting
 clouding.hosting
 cloudmail.hosting
 cloudnet.hosting
