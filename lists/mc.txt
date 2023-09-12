@@ -1072,6 +1072,7 @@ exclusive-services.mc
 exclusiveartmontecarlo.mc
 exclusivemonaco.mc
 exepub.mc
+exergy.mc
 exhibit.mc
 expectra.mc
 experta.mc
@@ -3139,7 +3140,6 @@ solidsfo.mc
 solutionsource.mc
 somarina.mc
 somat.mc
-somet.mc
 sometra.mc
 somibat.mc
 somo.mc
