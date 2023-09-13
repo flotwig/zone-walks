@@ -86,6 +86,7 @@
 1win-games.ci
 1win-top.ci
 1win1.ci
+1winapk.ci
 1winbet.ci
 1winbets.ci
 1wincom.ci
@@ -747,7 +748,6 @@ ademat.ci
 ademi.ci
 aderiz.ci
 aderiz-ci.ci
-adern.ci
 adex.ci
 adf-group.ci
 adg.ci
@@ -1008,7 +1008,6 @@ airp.ci
 airwell.ci
 ais.ci
 aisa.ci
-aisw.ci
 aivp.ci
 aiwa.ci
 aiwatch.ci
@@ -1019,6 +1018,7 @@ ajno.ci
 ajo.ci
 aka.ci
 aka-aouele.ci
+akadi.ci
 akagnycacao.ci
 akagroup.ci
 akahgroup.ci
@@ -1478,7 +1478,6 @@ asts.ci
 asufhb.ci
 aswa.ci
 aswanaccessories.ci
-aswg.ci
 async.ci
 at.ci
 at225.ci
@@ -2902,6 +2901,7 @@ cnda.ci
 cndh.ci
 cndi.ci
 cndj.ci
+cndteams.ci
 cne.ci
 cneadh.ci
 cnf.ci
@@ -3635,9 +3635,11 @@ constant.ci
 constitution.ci
 constructions.ci
 construire.ci
+consulat.ci
 consulatbenin-abj.ci
 consulatindonesie.ci
 consulatrwanda.ci
+consulats.ci
 consultant.ci
 consultech.ci
 contact.ci
@@ -3787,6 +3789,7 @@ crouabidjan.ci
 crouabidjan1.ci
 croubouake.ci
 croudaloa.ci
+croudeman.ci
 crowe.ci
 crporo.ci
 crs.ci
@@ -4250,6 +4253,7 @@ documents.ci
 docusign.ci
 dodge.ci
 dodo.ci
+dodoo.ci
 dodopizza.ci
 dogschool.ci
 dogue-abbeyao.ci
@@ -4326,6 +4330,7 @@ drenetdaloa.ci
 dressing.ci
 drh-fonctionpublique.ci
 drh-fonctionpubliques.ci
+drhetfpa.ci
 drhgend.ci
 drhsante.ci
 drigroupe.ci
@@ -4965,6 +4970,7 @@ equiprotech.ci
 equitrol.ci
 equityconsulting.ci
 er.ci
+era-consulting.ci
 eraf.ci
 eranove.ci
 eranove-academy.ci
@@ -6351,6 +6357,7 @@ i2s.ci
 i2t.ci
 ia.ci
 iac.ci
+iac-tp.ci
 iacc.ci
 iaccessgroup.ci
 iaccgroupeloko.ci
@@ -6848,7 +6855,6 @@ ivoiredocs.ci
 ivoireetude.ci
 ivoirefirmsucces.ci
 ivoirefm.ci
-ivoirefootball.ci
 ivoireformation.ci
 ivoireformations.ci
 ivoireforum.ci
@@ -7440,6 +7446,7 @@ lacotedivoireagricole.ci
 lacourdescomptes.ci
 lada.ci
 lade.ci
+ladolcevita.ci
 ladresse.ci
 lafabrique.ci
 lafargeholcim.ci
@@ -7757,7 +7764,6 @@ licence.ci
 license.ci
 lid.ci
 lidar.ci
-lidho.ci
 lifebeautyfestival.ci
 lifeplay.ci
 liferadio.ci
@@ -7926,7 +7932,6 @@ lunni.ci
 luttecontreviechere.ci
 luxe.ci
 luxedoor.ci
-luxegroupimmobilier.ci
 luxeimmobilier.ci
 luxes.ci
 luxoil.ci
@@ -8348,7 +8353,6 @@ merckmanuals.ci
 mercury-labs.ci
 meri.ci
 mes.ci
-mes-annonces.ci
 mesanalyses.ci
 mesfactures.ci
 mesradios.ci
@@ -8591,6 +8595,7 @@ monguide.ci
 monguideofficiel.ci
 monguidesante.ci
 monhabitat.ci
+monhotel.ci
 moni.ci
 monicash.ci
 monimmobilier.ci
@@ -9727,6 +9732,7 @@ pfp.ci
 pfpakatio.ci
 pg.ci
 pgc.ci
+pgi.ci
 pgmp.ci
 pgsoft.ci
 ph.ci
@@ -10553,6 +10559,7 @@ saidre.ci
 sail.ci
 saint-gobain-africa.ci
 sainterita.ci
+sakifa.ci
 sakura.ci
 salam.ci
 sale.ci
@@ -10645,7 +10652,6 @@ savane-ivoire-promiel.ci
 savi.ci
 savoirfairelinux.ci
 sawimmobilier.ci
-sawr.ci
 sb.ci
 sba.ci
 sbc.ci
@@ -11639,7 +11645,6 @@ swissumef.ci
 switch-made.ci
 switchup.ci
 sx.ci
-sxyl.ci
 syandco-btp.ci
 sydneytelecom.ci
 sygiamp.ci
@@ -11830,6 +11835,7 @@ teyliomproperties.ci
 tezie.ci
 tf.ci
 tfa.ci
+tgjrconsulting.ci
 tgmi.ci
 tgmpanel.ci
 tgr.ci
@@ -11871,6 +11877,7 @@ tibaco.ci
 tibs.ci
 tic.ci
 tic-academy.ci
+tic4ed.ci
 ticafrique.ci
 ticket.ci
 ticketevent.ci
@@ -12454,7 +12461,6 @@ waterfront.ci
 watertech.ci
 watertechnologie.ci
 watko.ci
-wattb2energy.ci
 wave.ci
 wax.ci
 wbh.ci
