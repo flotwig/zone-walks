@@ -57,6 +57,7 @@
 3152.ax
 317.ax
 32.ax
+33.ax
 333.ax
 35.ax
 36.ax
@@ -538,6 +539,7 @@ axla.ax
 axla-logistics.ax
 axoft.ax
 axon.ax
+axport.ax
 axr.ax
 axred.ax
 axrent.ax
@@ -595,6 +597,7 @@ beesw.ax
 beesyssla.ax
 beherzig.ax
 belcanto.ax
+bemanning.ax
 benganstrafikskola.ax
 bengtdahlgren.ax
 benjaminmoore.ax
@@ -1043,6 +1046,7 @@ dio.ax
 discgolf.ax
 discord.ax
 disponent.ax
+disponenta.ax
 disponenthuset.ax
 dj.ax
 djupsund.ax
@@ -1653,7 +1657,6 @@ handel.ax
 handicampen.ax
 handikappforbundet.ax
 handledning.ax
-handyman.ax
 hangouts.ax
 hanke.ax
 hankkija.ax
@@ -2490,6 +2493,7 @@ mh.ax
 mhd.ax
 mi.ax
 mia.ax
+miaslivsenergi.ax
 miaw.ax
 michael.ax
 michaelsars.ax
@@ -2522,8 +2526,8 @@ miramar.ax
 mirari.ax
 miro.ax
 mise.ax
+missionskyrkan.ax
 mit.ax
-mitawa.ax
 mitec.ax
 mjukolen.ax
 mkab.ax
@@ -3486,7 +3490,6 @@ starm.ax
 start.ax
 startaeget.ax
 stat.ax
-statist.ax
 stavamosters.ax
 stavos.ax
 stdo.ax
