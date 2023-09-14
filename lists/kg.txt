@@ -17,7 +17,6 @@
 101domains.kg
 103.kg
 105.kg
-10bena.kg
 11.kg
 110.kg
 111.kg
@@ -160,7 +159,6 @@
 822.kg
 88.kg
 888.kg
-8bena.kg
 8bet.kg
 8bits.kg
 9.kg
@@ -444,6 +442,7 @@ aim.kg
 aimak.kg
 aimarket.kg
 aimeercleaning.kg
+aimoda.kg
 aimol.kg
 ainek.kg
 ainur.kg
@@ -816,12 +815,14 @@ amfi.kg
 amgen.kg
 amico.kg
 amin.kg
+amintrans.kg
 amir.kg
 amirinvesttrade.kg
 amirmed.kg
 amirstroy.kg
 amk-kyrgyzstan.kg
 ammann-group.kg
+amocrm.kg
 amort.kg
 amour.kg
 amp.kg
@@ -888,7 +889,6 @@ aopa.kg
 ap.kg
 apake.kg
 apap.kg
-apar.kg
 aparthotel.kg
 apartment.kg
 apartments.kg
@@ -1059,7 +1059,7 @@ artskin.kg
 artsoffio.kg
 artstore.kg
 aruba.kg
-aruuel.kg
+aruuzat.kg
 arw.kg
 aryba.kg
 aryshinvest.kg
@@ -1197,6 +1197,7 @@ ataba.kg
 atai.kg
 atalyk.kg
 atalykstore.kg
+ataman.kg
 atameken.kg
 atan.kg
 atasunoptik.kg
@@ -1670,7 +1671,6 @@ bbu.kg
 bbva.kg
 bbwork.kg
 bbz.kg
-bc.kg
 bc-aurora.kg
 bc-avangard.kg
 bca.kg
@@ -1682,7 +1682,6 @@ bdaexpress.kg
 bdi.kg
 bdo.kg
 bearbeer.kg
-bearing.kg
 bearingpoint.kg
 bearingpointconsulting.kg
 beauty.kg
@@ -2485,6 +2484,7 @@ chinanews.kg
 chinapro.kg
 chinashop.kg
 chinatown.kg
+chinatransite.kg
 chint.kg
 chint-global.kg
 chintglobal.kg
@@ -2549,7 +2549,6 @@ clariant.kg
 clarivate.kg
 clarks.kg
 classichotel.kg
-clean.kg
 cleaner.kg
 cleanetica.kg
 cleaning.kg
@@ -2599,7 +2598,6 @@ cocacolalight.kg
 cocoon.kg
 code.kg
 coderbooks.kg
-codeum.kg
 coexsyrup.kg
 coffee.kg
 coffeeboom.kg
@@ -2751,6 +2749,7 @@ crypto-wallet.kg
 crypto360.kg
 cryptochange.kg
 cryptofort.kg
+crypton.kg
 cryptoplus.kg
 cryptoq.kg
 cryptostore.kg
@@ -2854,6 +2853,7 @@ dasid.kg
 dasmed.kg
 dasmia.kg
 dastan.kg
+dastancity.kg
 dastanplast.kg
 data.kg
 dataccs.kg
@@ -3694,6 +3694,7 @@ estima.kg
 esto.kg
 estocada.kg
 esystems.kg
+et.kg
 etaji.kg
 etalon.kg
 etalon-plast.kg
@@ -4027,7 +4028,6 @@ fitness.kg
 fitness-dasmia.kg
 fitolizin.kg
 fiveplus.kg
-fix-master.kg
 fix-price.kg
 fixletty.kg
 fkb.kg
@@ -4800,7 +4800,6 @@ hisense.kg
 hisense-air.kg
 history.kg
 historymuseum.kg
-hit.kg
 hit-travel.kg
 hitachi.kg
 hitbuy.kg
@@ -4992,6 +4991,7 @@ icloud.kg
 icnlalliance.kg
 ico.kg
 icon.kg
+icongroup.kg
 icore.kg
 icredit.kg
 ics.kg
@@ -5227,6 +5227,7 @@ interactive.kg
 interbilim.kg
 interbilimosh.kg
 intercar.kg
+intercert.kg
 intercitytaxi.kg
 intercom.kg
 interconsult.kg
@@ -5470,8 +5471,10 @@ izofiber.kg
 izol.kg
 j.kg
 jabra.kg
+jac.kg
 jac-motors.kg
 jacadi.kg
+jacauto.kg
 jacity.kg
 jack.kg
 jacmotors.kg
@@ -5619,6 +5622,7 @@ juullabs.kg
 juulpods.kg
 juulvapor.kg
 jyldynmyktylary-1-tv.kg
+jypar.kg
 jyrgalan.kg
 k-a.kg
 k-jetigen.kg
@@ -5871,7 +5875,6 @@ kfmipp.kg
 kfu.kg
 kfv.kg
 kg.kg
-kg-group.kg
 kg-metal.kg
 kg-metall.kg
 kg-ts.kg
@@ -5897,6 +5900,7 @@ kgpd.kg
 kgr.kg
 kgrk.kg
 kgsporttv.kg
+kgst.kg
 kgt.kg
 kgtex.kg
 kgti.kg
@@ -5968,6 +5972,7 @@ kiwi.kg
 kixx.kg
 kiyizgroup.kg
 kj.kg
+kjcc.kg
 kjd.kg
 kje.kg
 kjk.kg
@@ -6391,7 +6396,6 @@ leadership.kg
 leanar.kg
 leasing-expert.kg
 lebedinovka-sosh3.kg
-lecocon.kg
 led.kg
 led-ekran.kg
 ledger.kg
@@ -6615,7 +6619,6 @@ lorazueva.kg
 loreal.kg
 loreal-paris.kg
 lorenz.kg
-lori.kg
 lose.kg
 lostmary.kg
 loto.kg
@@ -7017,6 +7020,7 @@ megacom.kg
 megacompany.kg
 megacomtv.kg
 megadoors.kg
+megafon.kg
 megagen.kg
 megagroup.kg
 megahand.kg
@@ -7052,7 +7056,6 @@ mektep.kg
 mektep24.kg
 mektepliga.kg
 mel.kg
-melady.kg
 melbet.kg
 meloman.kg
 membrana.kg
@@ -7305,6 +7308,7 @@ money.kg
 moneybroker.kg
 moneygram.kg
 moneymaker.kg
+moneysend.kg
 monezium.kg
 monica.kg
 monki.kg
@@ -7596,6 +7600,7 @@ navigator-cafe.kg
 navigator-shipping.kg
 navigatorgroup.kg
 navitel.kg
+nazar.kg
 nazarnews.kg
 nazgul.kg
 nb.kg
@@ -7943,7 +7948,6 @@ oivokredit.kg
 oj.kg
 ojc.kg
 ok.kg
-oka-market.kg
 okat.kg
 okay.kg
 okean.kg
@@ -7961,7 +7965,6 @@ oknabishkek.kg
 oknalux.kg
 oknarosta.kg
 oknaspace.kg
-oknastandart.kg
 okno.kg
 oknobishkek.kg
 oko.kg
@@ -8152,7 +8155,6 @@ orunbaikurbanbaev.kg
 os.kg
 osago.kg
 osce-academy.kg
-osgo.kg
 osh.kg
 osh-nuru.kg
 osh-sadosi.kg
@@ -8173,7 +8175,6 @@ oshmip.kg
 oshmpu.kg
 oshonline.kg
 oshpark.kg
-oshpirim.kg
 oshshamy.kg
 oshsu.kg
 oshto.kg
@@ -8861,6 +8862,7 @@ qezeq.kg
 qfilms.kg
 qiangliled.kg
 qit.kg
+qlean.kg
 qleanart.kg
 qlled.kg
 qmatic.kg
@@ -10074,7 +10076,6 @@ stocksat.kg
 stoleshnica.kg
 stoloto.kg
 stolplit.kg
-stolyar.kg
 stom.kg
 stomatoiogia.kg
 stomatologia.kg
@@ -11149,6 +11150,7 @@ us.kg
 usa.kg
 usb.kg
 usd.kg
+usdt.kg
 user.kg
 ushakov.kg
 ushakova.kg
