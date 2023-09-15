@@ -216,7 +216,6 @@
 36-48.ci
 36-75.ci
 360.ci
-360health.ci
 360security.ci
 365.ci
 369.ci
@@ -773,7 +772,6 @@ adn7.ci
 adnabidjan.ci
 adncotedivoire.ci
 adnexpertci.ci
-adnh.ci
 ado.ci
 adonas-holding.ci
 adopt.ci
@@ -890,6 +888,7 @@ afrolead.ci
 afropari.ci
 afs.ci
 afsatour.ci
+afy-immobilier.ci
 agaatest.ci
 agajmarket.ci
 agara.ci
@@ -983,7 +982,6 @@ aici.ci
 aidesss.ci
 aidir.ci
 aifm.ci
-aigb.ci
 aigf.ci
 aiglepro.ci
 aiglon.ci
@@ -2133,6 +2131,7 @@ bourseagricole.ci
 boursedefret.ci
 bouta.ci
 boutique-premium.ci
+boutiqueauthentiksb.ci
 boutiquedefoot.ci
 boutiquepaysanne.ci
 boutiquepc.ci
@@ -2717,6 +2716,7 @@ cigec.ci
 cil.ci
 cilogistique.ci
 ciluxe.ci
+cilyahome.ci
 cimadprestige.ci
 cimaf.ci
 cimbelier.ci
@@ -4270,6 +4270,7 @@ dolidolci.ci
 dolphin.ci
 domafrik.ci
 domain.ci
+domainaggrogates.ci
 domaine.ci
 domains.ci
 dominiando.ci
@@ -4507,7 +4508,6 @@ eco-cuisine.ci
 eco-eburnie.ci
 eco-solar.ci
 ecoa.ci
-ecobaci.ci
 ecobiz.ci
 ecocir-abidjan.ci
 ecocuisine.ci
@@ -5128,6 +5128,7 @@ evasion-vtt.ci
 evazat.ci
 evelinecosmetics.ci
 evenementiel.ci
+evenglishconsult.ci
 event.ci
 event-ticket.ci
 event225.ci
@@ -5806,7 +5807,6 @@ giapie.ci
 gibtp.ci
 gic.ci
 gicop.ci
-gidec.ci
 gie.ci
 gig.ci
 gigisfood.ci
@@ -6055,7 +6055,6 @@ gryphon-energydrink.ci
 gs.ci
 gs-arthurverdier.ci
 gs2e.ci
-gsal.ci
 gsasj.ci
 gsb.ci
 gscorporate.ci
@@ -6429,6 +6428,7 @@ idcard-report.ci
 idealista.ci
 idealoptic.ci
 idealvoyage.ci
+idec-s.ci
 ideecadeau.ci
 ideescadeaux.ci
 ides.ci
@@ -6584,6 +6584,7 @@ infasnumeric.ci
 infaspresence.ci
 infinipharma.ci
 infirmiers.ci
+infj.ci
 influencemag.ci
 influencers.ci
 influo.ci
@@ -7289,6 +7290,7 @@ kip.ci
 kipay.ci
 kiprun.ci
 kipsta.ci
+kira.ci
 kirene.ci
 kissimallah.ci
 kistech.ci
@@ -7549,6 +7551,7 @@ lb.ci
 lba.ci
 lbiprestations.ci
 lbsgroupe.ci
+lbt.ci
 lca.ci
 lcci.ci
 lce.ci
@@ -8022,6 +8025,7 @@ maerskline.ci
 maestra.ci
 maestrac.ci
 mafible2.ci
+mafibremoov.ci
 mafop.ci
 maformationenligne.ci
 mag.ci
@@ -9711,6 +9715,7 @@ pes.ci
 pesina.ci
 petci.ci
 petersen.ci
+petitamour.ci
 petites-annonces.ci
 petitesannonces.ci
 petitparisbassam.ci
@@ -9899,6 +9904,7 @@ pordes.ci
 porlahla.ci
 porn.ci
 pornhub.ci
+poropower1.ci
 port-bouet.ci
 portabidjan.ci
 portautonomeabidjan.ci
@@ -10474,7 +10480,6 @@ royalmining.ci
 royalprestige.ci
 royalsca.ci
 royalservices-inter.ci
-royaumesanwi.ci
 rp.ci
 rpiesogepie.ci
 rq.ci
@@ -10672,7 +10677,6 @@ scacc.ci
 scacio.ci
 scada.ci
 scala.ci
-scas.ci
 scaso.ci
 scb.ci
 scc.ci
@@ -11912,6 +11916,7 @@ timewo.ci
 timgs.ci
 timo.ci
 timoos.ci
+tinapr.ci
 tiny.ci
 tip.ci
 tiphara.ci
@@ -12235,6 +12240,7 @@ uta.ci
 uta-universite.ci
 utb.ci
 utc.ci
+uti.ci
 utic.ci
 utl.ci
 utmci.ci
@@ -12663,7 +12669,6 @@ y-26.ci
 y-85.ci
 y3.ci
 yaatoo.ci
-yacar.ci
 yachadconnexion.ci
 yadec.ci
 yadecdigital.ci
@@ -12750,6 +12755,7 @@ yokotik.ci
 yolab.ci
 yolo.ci
 yonian.ci
+yonshop.ci
 yootoo.ci
 yop.ci
 yopcitymall.ci
