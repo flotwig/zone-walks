@@ -305,7 +305,6 @@ aplauz.audio
 apollo.audio
 apos.audio
 apostrophe.audio
-app.audio
 appel.audio
 applause.audio
 apple.audio
@@ -859,6 +858,7 @@ christiantepfer.audio
 christmassongs.audio
 christmastunes.audio
 chroma.audio
+chromatic.audio
 chrome.audio
 chunck.audio
 chut.audio
@@ -1676,6 +1676,7 @@ gaertner.audio
 gai.audio
 gain.audio
 gala.audio
+galakto.audio
 galion.audio
 gallinger.audio
 game.audio
@@ -2179,6 +2180,7 @@ jtgust.audio
 jthompson.audio
 juce.audio
 juiced.audio
+juliabotero.audio
 jump.audio
 jumpstyle.audio
 junger.audio
@@ -2674,7 +2676,6 @@ miawallace.audio
 micah.audio
 michaelas-welt.audio
 michaelbuchholz.audio
-michelangelo.audio
 michele.audio
 micky.audio
 micnight.audio
@@ -4740,6 +4741,7 @@ xplicit.audio
 xploded.audio
 xtension.audio
 xxx.audio
+xynth.audio
 xyz.audio
 yacc-music.audio
 yachtmutant.audio
