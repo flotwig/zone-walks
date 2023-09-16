@@ -48,6 +48,7 @@ afritel.tz
 aglgroup.tz
 aibra.tz
 aim.tz
+airalo.tz
 airconditioning.tz
 airfrance.tz
 airindiaexpress.tz
@@ -362,7 +363,6 @@ fasta.tz
 fastlane.tz
 feeder.tz
 festo.tz
-ffc.tz
 fiber.tz
 fie.tz
 fika.tz
@@ -539,6 +539,7 @@ kansaiplascon.tz
 kariakooexpress.tz
 karibu.tz
 karibubongo.tz
+kasdorf.tz
 kasino.tz
 kcc.tz
 kea.tz
@@ -680,7 +681,6 @@ metraclark.tz
 mgas.tz
 mhl.tz
 mia.tz
-miit.tz
 mil.tz
 miliki.tz
 mimicafe.tz
@@ -1078,7 +1078,6 @@ truehost.tz
 tsaorg.tz
 tsl.tz
 tsla.tz
-tst.tz
 tudor.tz
 tudorwatch.tz
 tulivyo.tz
