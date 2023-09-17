@@ -177,7 +177,6 @@
 2mi.ci
 2muta.ci
 2n.ci
-2ndc3.ci
 2o.ci
 2p.ci
 2pai-belier.ci
@@ -1848,6 +1847,7 @@ bendev.ci
 beneko.ci
 benestore.ci
 benevolemunicipal.ci
+benian.ci
 benicci.ci
 benicci-immobilier.ci
 benouattara.ci
@@ -2910,7 +2910,6 @@ cnitie.ci
 cnlc.ci
 cnlvc.ci
 cnmaep.ci
-cnmci.ci
 cno-civ.ci
 cnoa.ci
 cnova.ci
@@ -5016,6 +5015,7 @@ esgeb.ci
 eshop.ci
 esib.ci
 esim.ci
+eski.ci
 eslene.ci
 esm.ci
 esmc.ci
@@ -6817,6 +6817,7 @@ itsp.ci
 itswa.ci
 itunesexpress.ci
 itwebson.ci
+iu.ci
 iua.ci
 iuaedu.ci
 iupa-ismt.ci
@@ -7811,7 +7812,6 @@ liora.ci
 lipidol.ci
 lisp.ci
 listedemariage.ci
-listenoire.ci
 lite.ci
 littlecity.ci
 liu1.ci
@@ -8613,7 +8613,6 @@ monlivreur.ci
 monmaitre.ci
 monmaquis.ci
 monmarket.ci
-monoccasion.ci
 monogaga.ci
 monpain.ci
 monpassdroit.ci
@@ -8988,7 +8987,6 @@ no.ci
 noblemultiservices.ci
 node.ci
 nodina.ci
-nokia.ci
 nic.nom.ci
 nom-de-domaine.ci
 nom-domaine.ci
@@ -9602,7 +9600,6 @@ parc-national-de-tai.ci
 parenthese.ci
 parfums.ci
 pari-t.ci
-paribet.ci
 paridirect.ci
 parifoot.ci
 parifoot-apk.ci
@@ -10081,6 +10078,7 @@ prubegeneral.ci
 prubelife.ci
 prudential.ci
 prudentialbelife.ci
+psa.ci
 psac.ci
 psdat.ci
 psdi.ci
@@ -12151,6 +12149,7 @@ uk.ci
 uka.ci
 ukamee.ci
 ukrain.ci
+uligpro.ci
 ult.ci
 ultracell.ci
 umc.ci
@@ -12351,7 +12350,6 @@ vipercleaning.ci
 vipnet.ci
 vipnet-business.ci
 vipslot.ci
-viril.ci
 virtualmarket.ci
 virtuozsolutions.ci
 viruskeeper.ci
@@ -12725,6 +12723,7 @@ yellovas.ci
 yem.ci
 yemek.ci
 yemshop.ci
+yepado.ci
 yepia.ci
 yer.ci
 yerama.ci
