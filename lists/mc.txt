@@ -880,6 +880,7 @@ diamondparty.mc
 digidoc.mc
 digital.mc
 digital-media.mc
+digital-network.mc
 digitalmedia.mc
 dihya.mc
 dimco.mc
@@ -1346,6 +1347,7 @@ gtia.mc
 gtma.mc
 gtsmonaco.mc
 guillemot.mc
+gulas.mc
 gvtmonaco.mc
 gwmcm.mc
 h2i.mc
@@ -2304,6 +2306,7 @@ monte-carlotransports.mc
 monte-clean.mc
 montecarlo.mc
 montecarlo-broadcast.mc
+montecarlo-events.mc
 montecarlo-freeport.mc
 montecarlo-online.mc
 montecarlo-wines.mc
@@ -3490,7 +3493,6 @@ werock.mc
 wes.mc
 westminstergroup.mc
 westrope.mc
-wfa.mc
 white.mc
 whitedove.mc
 whitegloves.mc
