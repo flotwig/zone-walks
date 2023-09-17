@@ -969,7 +969,6 @@ aec.lk
 aeccglobal.lk
 aecdstudies.lk
 aecom.lk
-aedmv.lk
 aelon.lk
 aeme.lk
 aemotorsports.lk
@@ -987,6 +986,7 @@ aeroponics.lk
 aerosystems.lk
 aerotech.lk
 aerotek.lk
+aerozonetravels.lk
 aes.lk
 aescampus.lk
 aesco.lk
@@ -2263,6 +2263,7 @@ ansty.lk
 answer.lk
 antara.lk
 antarainteriorsolutions.lk
+antbusiness.lk
 antglass.lk
 anthoneys.lk
 anthoneysfeeds.lk
@@ -3924,6 +3925,8 @@ ayovee.lk
 ayp.lk
 ayu.lk
 ayubo.lk
+ayubocakes.lk
+ayubofoods.lk
 ayuboleisure.lk
 ayubovan.lk
 ayubowan.lk
@@ -4140,7 +4143,6 @@ bakamoono.lk
 bake.lk
 bakeart.lk
 bakedlounge.lk
-bakehouse.lk
 bakeityourself.lk
 bakentake.lk
 bakers.lk
@@ -4921,7 +4923,6 @@ bigandtall.lk
 bigarden.lk
 bigb.lk
 bigbadwolfbooks.lk
-bigbasket.lk
 bigbazaar.lk
 bigbear.lk
 bigbitjob.lk
@@ -5074,7 +5075,6 @@ biolabs.lk
 biolahiru.lk
 biology.lk
 biologynow.lk
-biomassenergy.lk
 biome.lk
 biomed.lk
 biomedica.lk
@@ -7589,6 +7589,7 @@ ceylonbee.lk
 ceylonbeer.lk
 ceylonbiz.lk
 ceylonbizguide.lk
+ceylonbiznews.lk
 ceylonblackgarlic.lk
 ceylonblacktea.lk
 ceylonbliss.lk
@@ -7871,7 +7872,6 @@ ceylonshoppingmall.lk
 ceylonskyastronomy.lk
 ceylonsoapcompany.lk
 ceylonsoft.lk
-ceylonsoil.lk
 ceylonsolarpower.lk
 ceylonsources.lk
 ceylonsouvenirs.lk
@@ -10647,7 +10647,6 @@ dad.lk
 dadabada.lk
 dadaz.lk
 daddyandson.lk
-daddysolution.lk
 dadnews.lk
 daedal.lk
 daefarm.lk
@@ -13182,7 +13181,6 @@ easyorder.lk
 easypack.lk
 easyparts.lk
 easypick.lk
-easypos.lk
 easyprint.lk
 easypromo.lk
 easyrx.lk
@@ -15523,7 +15521,6 @@ fabrics.lk
 fabriko.lk
 fabshopie.lk
 fabulousmagic.lk
-facade.lk
 facegym.lk
 facelooks.lk
 facemask.lk
@@ -21069,7 +21066,6 @@ ieslce.lk
 iesolutions.lk
 iet.lk
 ievents.lk
-iexam.lk
 if.lk
 if-s.lk
 ifarm.lk
@@ -21310,7 +21306,6 @@ ime.lk
 imecservices.lk
 imed.lk
 imedia.lk
-imedilab.lk
 imedra.lk
 imeero.lk
 imeet.lk
@@ -25767,6 +25762,7 @@ lia.lk
 liaexpress.lk
 liahona.lk
 liam.lk
+liana.lk
 liasrilanka.lk
 libera.lk
 liberaldemocraticmovement.lk
@@ -27530,6 +27526,7 @@ masterprint.lk
 masters.lk
 mastersbasketballsl.lk
 mastersert.lk
+mastersir.lk
 mastersolutions.lk
 masterstudy.lk
 mastersub.lk
@@ -28799,7 +28796,6 @@ mobilecctv.lk
 mobiledoctor.lk
 mobiledvr.lk
 mobileframe.lk
-mobilegames.lk
 mobilehelps.lk
 mobilehome.lk
 mobileking.lk
@@ -30575,7 +30571,6 @@ nekmolanka.lk
 neksip.lk
 nekzone.lk
 nelco.lk
-nelli.lk
 nelna.lk
 nelsonmarine.lk
 nelsons.lk
@@ -34540,6 +34535,7 @@ prathishakthi.lk
 prathivada.lk
 praveensam.lk
 prawns.lk
+prayertime.lk
 preb.lk
 precious.lk
 preciousmoments.lk
@@ -34617,7 +34613,6 @@ preserve.lk
 preshoot.lk
 preshti.lk
 presidentcbk.lk
-presidentcollegenattandiya.lk
 presidentscollege.lk
 presidentsforum.lk
 presidentsoffice.lk
@@ -35035,6 +35030,7 @@ propertypartner.lk
 propertypool.lk
 propertypost.lk
 propertypro.lk
+propertypromotion.lk
 propertyscanner.lk
 propertysellers.lk
 propertyshop.lk
@@ -39505,7 +39501,6 @@ shouraihikari.lk
 shout.lk
 showgolanka.lk
 showoff.lk
-showroom.lk
 showroomautospa.lk
 shows.lk
 showspot.lk
@@ -39702,6 +39697,7 @@ silverline.lk
 silverlinecloud.lk
 silverlineconsultants.lk
 silverlineengineering.lk
+silverlineholdings.lk
 silverlink.lk
 silvermillgroup.lk
 silverray.lk
@@ -41143,6 +41139,7 @@ sofas.lk
 sofasrilanka.lk
 sofia.lk
 sofia-hotel.lk
+soflo.lk
 soft.lk
 softagelanka.lk
 softasia.lk
@@ -41514,7 +41511,6 @@ spadirectory.lk
 spado.lk
 spamed.lk
 span.lk
-spanel.lk
 spanhome.lk
 spannerhub.lk
 spantech.lk
@@ -42150,7 +42146,6 @@ sscreation.lk
 sscricket.lk
 ssd.lk
 ssdf.lk
-sseducation.lk
 ssel.lk
 sselk.lk
 ssenterprises.lk
@@ -42293,7 +42288,6 @@ starpoints.lk
 starposlanka.lk
 starpower.lk
 starr.lk
-starresthotel.lk
 starrish.lk
 stars.lk
 starsage.lk
@@ -42717,7 +42711,6 @@ sudaham.lk
 sudarshanaviharaya.lk
 sudasuna.lk
 sudeshenterprises.lk
-sudhahomestay.lk
 sudhara.lk
 sudila.lk
 sudilaradio.lk
@@ -42798,7 +42791,6 @@ sun2earth.lk
 suna.lk
 sunadd.lk
 sunagro.lk
-sunandahamuduruwo.lk
 sunandmoonresort.lk
 sunandwind.lk
 sunasian.lk
@@ -43183,7 +43175,6 @@ suryashri.lk
 susara.lk
 susarabooks.lk
 susarainnovations.lk
-susata.lk
 susatabarana.lk
 sushibaritto.lk
 sushiboat.lk
@@ -43219,6 +43210,7 @@ suwa.lk
 suwaarana.lk
 suwaaranawedamadura.lk
 suwabaradiwiyakata.lk
+suwada.lk
 suwadent.lk
 suwadharani.lk
 suwahan.lk
@@ -44012,6 +44004,7 @@ techsalary.lk
 techseed.lk
 techseya.lk
 techshop.lk
+techshorts.lk
 techsmart.lk
 techsoft.lk
 techsolutions.lk
@@ -44234,6 +44227,7 @@ testrun.lk
 testsitepro.lk
 testsoftware7.lk
 testsoftware8.lk
+testtest1.lk
 www.testweb.lk
 testwibhashini.lk
 tesy.lk
@@ -44927,7 +44921,6 @@ theunlockteam.lk
 theva.lk
 thevapeshop.lk
 thevaporizedjuice.lk
-thevegan.lk
 thevetshop.lk
 thevilla.lk
 thevillakalpitiya.lk
@@ -46165,7 +46158,6 @@ trust.lk
 trust-seal.lk
 trustbuilders.lk
 trusted.lk
-trustedadvisor.lk
 trusteddoor.lk
 trustedge.lk
 trustedseal.lk
@@ -49195,7 +49187,6 @@ wilpattusafari.lk
 wilsontradingcompany.lk
 wimaladharmaandsons.lk
 wimaladharmabrothers.lk
-wimalahamuduruwo.lk
 wimalapabbatharamaya.lk
 wimalarathnahardware.lk
 wimalweerawansa.lk
@@ -49959,7 +49950,6 @@ ymbakurunegala.lk
 ymbapiliyandala.lk
 ymbarestkataragama.lk
 ymca.lk
-ymma.lk
 ynexpress.lk
 ynm.lk
 ynmcapitalholding.lk
@@ -50040,7 +50030,6 @@ yourlawyer.lk
 yourmug.lk
 yourrupee.lk
 yoursafe.lk
-yourslms.lk
 yourstore.lk
 yourteacher.lk
 yourtickets.lk
