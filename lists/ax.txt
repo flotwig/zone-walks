@@ -490,7 +490,6 @@ asunto.ax
 at.ax
 atc.ax
 ath.ax
-ati.ax
 atk.ax
 atom.ax
 att.ax
@@ -1777,7 +1776,6 @@ hp.ax
 hpa.ax
 hpguiden.ax
 hq.ax
-hr.ax
 hrbre.ax
 hs.ax
 ht.ax
@@ -1793,6 +1791,7 @@ hundraprocent.ax
 huntit.ax
 husbil.ax
 husell.ax
+husellstekniska.ax
 husfixarna-ab.ax
 hw.ax
 hwtextil.ax
