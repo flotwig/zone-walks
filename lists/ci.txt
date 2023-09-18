@@ -110,7 +110,6 @@
 2-d6.ci
 2-y8.ci
 20.ci
-2022.ci
 20573.ci
 20bet.ci
 2113.ci
@@ -667,6 +666,7 @@ abssupport.ci
 abu.ci
 abylisappart.ci
 dcat.ac.ci
+matlia.ac.ci
 smsecole.ac.ci
 aca.ci
 acabidjan.ci
@@ -2555,7 +2555,6 @@ cfcm.ci
 cfge.ci
 cfnestlerecrutement.ci
 cfp.ci
-cfpalepe.ci
 cg2f.ci
 cga.ci
 cga-agy.ci
@@ -2637,6 +2636,7 @@ chimtec.ci
 china.ci
 chine.ci
 chl.ci
+chn.ci
 choco.ci
 chocolat.ci
 chocolatboutique.ci
@@ -2877,7 +2877,6 @@ cmi.ci
 cmintima.ci
 cmpc.ci
 cms.ci
-cms-ci.ci
 cmspurisol.ci
 cmstviateur.ci
 cmti.ci
@@ -4200,7 +4199,6 @@ djilx.ci
 djokstore.ci
 djolo.ci
 djooman.ci
-djorcy.ci
 djossi.ci
 djoulaya.ci
 djschoolabidjan.ci
@@ -4901,7 +4899,6 @@ energy-pool.ci
 energyxipi.ci
 enerson.ci
 enertel.ci
-engelconsulting.ci
 engie.ci
 englishbooster.ci
 enianssou.ci
@@ -6153,7 +6150,6 @@ handr.ci
 hannielleinternational.ci
 hao123.ci
 happy.ci
-happyhouse.ci
 happykidz.ci
 happyrun.ci
 happyteam.ci
@@ -6608,6 +6604,7 @@ infraglobe.ci
 infrahydro.ci
 ingbtpsarlu.ci
 ingco.ci
+inge.ci
 ingenieursdeconception.ci
 ingeniousteam.ci
 inhp.ci
@@ -8112,7 +8109,6 @@ mamba-btp.ci
 mamifresh.ci
 mamig.ci
 mammamia.ci
-mamudeb.ci
 manaf.ci
 managementproperties.ci
 manageo.ci
@@ -8231,7 +8227,6 @@ mayo2sports.ci
 mazars.ci
 mazda.ci
 mba-audio.ci
-mbaboua.ci
 mbahiag.ci
 mbapub.ci
 mbartsetdecoration.ci
@@ -8290,7 +8285,6 @@ mediano.ci
 mediaplanet.ci
 mediaplanetgroup.ci
 mediaroom.ci
-medias.ci
 mediasoft.ci
 mediassur.ci
 mediatel.ci
@@ -8818,6 +8812,7 @@ nac.ci
 naclo.ci
 nactalia.ci
 nadegedandou.ci
+nadi.ci
 nadq.ci
 nag.ci
 nall.ci
@@ -10550,7 +10545,6 @@ safetpro.ci
 safivoire.ci
 sagard.ci
 sageci.ci
-sagegroup.ci
 sageshome.ci
 sageslocation.ci
 sagir.ci
@@ -10561,7 +10555,6 @@ sahamseguros.ci
 sahci.ci
 sahi.ci
 saici.ci
-saicom.ci
 saicomgroup.ci
 saidath.ci
 saidre.ci
@@ -10903,7 +10896,6 @@ sgti.ci
 sgtt-ci.ci
 sh.ci
 shacman.ci
-shang.ci
 shap-shop.ci
 shape.ci
 shapshop.ci
@@ -11887,6 +11879,7 @@ tibaco.ci
 tibs.ci
 tic.ci
 tic-academy.ci
+tic-car.ci
 tic4ed.ci
 ticafrique.ci
 ticket.ci
@@ -12220,7 +12213,6 @@ upha-egliseharriste.ci
 upid.ci
 upjohn.ci
 upl.ci
-upr.ci
 upsam.ci
 upsi.ci
 uptimise.ci
