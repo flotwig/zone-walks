@@ -334,7 +334,6 @@ ecoflow.tz
 egatee.tz
 egpaf.tz
 egum.tz
-electricvehicle.tz
 elementhotels.tz
 eliis.tz
 elimuyetu.tz
@@ -881,7 +880,6 @@ safaribookings.tz
 safariland.tz
 safaris.tz
 safasha.tz
-safiriev.tz
 safmarine.tz
 sales.tz
 salesforce.tz
@@ -927,7 +925,6 @@ semita.tz
 senhasegura.tz
 servers.tz
 settlo.tz
-sev.tz
 sew.tz
 sew-eurodrive.tz
 seweurodrive.tz
@@ -962,6 +959,7 @@ slotgames.tz
 slots.tz
 smart.tz
 smartshule.tz
+smartthings.tz
 sms.tz
 smstudios.tz
 smt.tz
@@ -1164,6 +1162,7 @@ zanzibartaxi.tz
 zanzipesa.tz
 zesha.tz
 zmt.tz
+zmtltd.tz
 znz.tz
 zoetis.tz
 zuku.tz
