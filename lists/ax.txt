@@ -291,6 +291,7 @@ alandsfaret.ax
 alandsfarjan.ax
 alandsfolkrace.ax
 alandsframtid.ax
+alandsguider.ax
 alandshandel.ax
 alandshugg.ax
 alandsidrott.ax
@@ -641,7 +642,6 @@ binary.ax
 biodlarna.ax
 bioenergi.ax
 bioenermart.ax
-biokol.ax
 biosavoy.ax
 biprodukter.ax
 birka.ax
@@ -795,7 +795,6 @@ butiken.ax
 buttercup.ax
 bw.ax
 bx.ax
-by.ax
 bygg.ax
 byggab.ax
 byggfirmacg.ax
@@ -1487,7 +1486,6 @@ gasthamn.ax
 gasthamnar.ax
 gasthamnsguiden.ax
 gaymers.ax
-gb.ax
 gd.ax
 gdpr.ax
 ge.ax
@@ -1805,6 +1803,7 @@ ib.ax
 ibinder.ax
 ic.ax
 ice.ax
+icm.ax
 id.ax
 ide.ax
 idealista.ax
@@ -2347,7 +2346,6 @@ lykko.ax
 lyko.ax
 lyyski.ax
 lyyskihome.ax
-lyyskis.ax
 lyyskitravels.ax
 m3.ax
 ma.ax
@@ -2961,6 +2959,7 @@ posten.ax
 postit.ax
 postochtullhuset.ax
 ppmclean.ax
+pr.ax
 pr-media.ax
 pranta.ax
 prbyggnadsmaterial.ax
