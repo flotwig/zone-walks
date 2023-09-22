@@ -1039,6 +1039,7 @@ art-deco.kg
 art-v.kg
 artauto.kg
 arte.kg
+arte-lamp.kg
 artelgroup.kg
 artenika.kg
 arterium.kg
@@ -1100,7 +1101,6 @@ asiacity.kg
 asiaclear.kg
 asiaecogoods.kg
 asiaes.kg
-asiaexpress.kg
 asiafactoring.kg
 asiagoal.kg
 asiagroup.kg
@@ -1211,6 +1211,7 @@ atelier.kg
 atelierrebul.kg
 atg.kg
 athena.kg
+athleron.kg
 athletic.kg
 atiker.kg
 atios.kg
@@ -1618,6 +1619,7 @@ basa.kg
 bashat.kg
 basilea.kg
 basket.kg
+basketball.kg
 basketshoes.kg
 bassar.kg
 bassein.kg
@@ -1756,7 +1758,6 @@ bepanthen.kg
 berall.kg
 bereg.kg
 bereke-building.kg
-bereke-credit.kg
 berekemarket.kg
 berendevelopment.kg
 berengold.kg
@@ -2400,12 +2401,14 @@ cement.kg
 cemeq.kg
 center.kg
 center-bishkek.kg
+center-krasok.kg
 center-vesna.kg
 centerit.kg
 centerkotlov.kg
 centerokon.kg
 cento.kg
 centr.kg
+centr-krasok.kg
 central-asia.kg
 centralasia.kg
 centralasiastone.kg
@@ -2549,6 +2552,7 @@ citynet.kg
 citypay.kg
 civicspacemonitor.kg
 civitta.kg
+ck1.kg
 ckggup.kg
 cl.kg
 clariant.kg
@@ -2760,6 +2764,7 @@ cryptoplus.kg
 cryptoq.kg
 cryptostore.kg
 crystal.kg
+crystal-lux.kg
 crystalbay.kg
 crystallux.kg
 crystalwater.kg
@@ -3106,7 +3111,6 @@ doctorclean.kg
 doctoregay.kg
 doctorkey.kg
 doctormed.kg
-doctorplus.kg
 doctors.kg
 docusign.kg
 dodopizza.kg
@@ -3146,7 +3150,6 @@ doner42.kg
 donors.kg
 donpion.kg
 donsoft.kg
-dontsmoke.kg
 doolot.kg
 doolotfinance.kg
 door-asia.kg
@@ -3380,6 +3383,7 @@ edo.kg
 edu.kg
 edu24.kg
 edubish.kg
+edubishkek.kg
 education.kg
 educationaladvisor.kg
 educationfirst.kg
@@ -3411,6 +3415,7 @@ egiz.kg
 egizstom.kg
 egov.kg
 egum.kg
+eh.kg
 ehealth.kg
 ei.kg
 eib.kg
@@ -3509,6 +3514,7 @@ elite-house.kg
 elitehouse.kg
 elitemedia.kg
 eliteplast.kg
+elitetowers.kg
 elitevent.kg
 elitka.kg
 elizaveta.kg
@@ -3911,7 +3917,6 @@ farmasi.kg
 farmsearch.kg
 farnell.kg
 fas.kg
-fasad-stone.kg
 fashion.kg
 fashionrynok.kg
 fast.kg
@@ -3925,6 +3930,7 @@ fatva.kg
 fauna.kg
 favorit-tekhnolodzhi.kg
 favorite.kg
+favourite.kg
 faw.kg
 fawori.kg
 faza.kg
@@ -4095,6 +4101,7 @@ flysky.kg
 flysmart.kg
 flyway.kg
 fm.kg
+fmfc.kg
 fmtg.kg
 fnt.kg
 fo.kg
@@ -4181,6 +4188,7 @@ freseniusmedicalcare.kg
 freshbox.kg
 freshbox-sushi.kg
 freudenberg.kg
+freya.kg
 friday.kg
 fridays.kg
 friendstours.kg
@@ -4408,6 +4416,7 @@ gispro.kg
 giss.kg
 git.kg
 github.kg
+givbox.kg
 givee.kg
 giz-health.kg
 gk.kg
@@ -5385,6 +5394,7 @@ ismankulov.kg
 isoc.kg
 isoft.kg
 isrc.kg
+isrip.kg
 issyk-kul.kg
 issyk-kul-sad.kg
 issyk-kul-tour.kg
@@ -5985,7 +5995,6 @@ kiu.kg
 kiuc.kg
 kivano.kg
 kivi.kg
-kiwi.kg
 kixx.kg
 kiyizgroup.kg
 kj.kg
@@ -6144,6 +6153,7 @@ kracksplay.kg
 kraken.kg
 krao.kg
 kraska.kg
+kraski.kg
 krasota.kg
 kreativ.kg
 krec.kg
@@ -6917,6 +6927,7 @@ may24.kg
 mayak-rebcentre.kg
 mayakbishkek.kg
 maybelline.kg
+maytoni.kg
 mazak.kg
 mazal.kg
 mazars.kg
@@ -6998,7 +7009,6 @@ medic.kg
 medical-pharm.kg
 medical-pro.kg
 medicalgroup.kg
-medicaltrade.kg
 medicana.kg
 mediclinic.kg
 medicom.kg
@@ -8672,6 +8682,7 @@ posteriya.kg
 postini.kg
 postmarket.kg
 postupi.kg
+potolki.kg
 potolkoff.kg
 potolok.kg
 povarenok-shop.kg
@@ -9008,6 +9019,8 @@ reach-initiative.kg
 real-security.kg
 realcom.kg
 realestate.kg
+realt.kg
+realting.kg
 realty.kg
 rec.kg
 recensio.kg
@@ -9040,7 +9053,6 @@ reformakerek.kg
 reformate.kg
 refsystem.kg
 region.kg
-register.kg
 registerbuild.kg
 registprofi.kg
 registr.kg
@@ -9248,7 +9260,6 @@ royalmotors.kg
 royalservice.kg
 royaltrade.kg
 roza.kg
-rozetka.kg
 rpg.kg
 rpo.kg
 rps.kg
@@ -10132,6 +10143,7 @@ strahovanie.kg
 strahovka.kg
 strana-express.kg
 stranaexpress.kg
+strannik.kg
 stratton.kg
 stretton.kg
 strichmacher.kg
@@ -10263,6 +10275,8 @@ svadba.kg
 svarog.kg
 svc.kg
 svecha.kg
+svet.kg
+svetilniki.kg
 svetoch.kg
 svetofor.kg
 svs.kg
@@ -10332,6 +10346,7 @@ takko.kg
 takko-fashion.kg
 takvkusnee.kg
 talant.kg
+talas.kg
 talascoppergold.kg
 talasdaamy.kg
 talasmeria.kg
@@ -10386,6 +10401,7 @@ tash-nur.kg
 tash-temir.kg
 tashbolot.kg
 tashkordo.kg
+tashprom.kg
 tashrabat.kg
 tashtamat.kg
 tasma.kg
@@ -11445,14 +11461,12 @@ voip.kg
 vok.kg
 vokko.kg
 vokrug.kg
-volhovec.kg
 volk.kg
 volkswagen.kg
 volkswagengroupchina.kg
 volma.kg
 volt.kg
 volta.kg
-voltauto.kg
 voltroom.kg
 volunteer.kg
 volvich.kg
@@ -11677,6 +11691,7 @@ wunderkind.kg
 wurth.kg
 ww.kg
 wwenetwork.kg
+wwgroup.kg
 wwgrp.kg
 www.kg
 www138.kg
