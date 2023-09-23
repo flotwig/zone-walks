@@ -106,7 +106,6 @@
 67.ax
 68.ax
 69.ax
-71.ax
 72.ax
 73.ax
 74.ax
@@ -442,7 +441,6 @@ arch.ax
 archipelago.ax
 ardex.ax
 areal.ax
-argm.ax
 ari.ax
 arista.ax
 aristanetworks.ax
@@ -932,6 +930,7 @@ compagnietmariehamn.ax
 compass.ax
 compassionkatja.ax
 comst.ax
+con.ax
 confido.ax
 conman.ax
 connect.ax
@@ -1486,6 +1485,7 @@ gasthamn.ax
 gasthamnar.ax
 gasthamnsguiden.ax
 gaymers.ax
+gb.ax
 gd.ax
 gdpr.ax
 ge.ax
@@ -3391,7 +3391,6 @@ soderhagen.ax
 sodero.ax
 sodersundaskola.ax
 sodraalandsutbildningsdistrikt.ax
-sofiasfoto.ax
 sofiero.ax
 soft.ax
 softgarden.ax
