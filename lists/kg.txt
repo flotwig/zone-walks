@@ -986,6 +986,7 @@ archivision.kg
 arctic.kg
 arcus.kg
 ardager-karakol.kg
+ardaiym.kg
 ardi.kg
 arenda.kg
 arendator.kg
@@ -1929,7 +1930,6 @@ bipitaxi.kg
 biplane.kg
 biprofi.kg
 biqube.kg
-bir.kg
 birds.kg
 birduino.kg
 birge.kg
@@ -2073,7 +2073,6 @@ boi.kg
 boldbrands.kg
 bolot.kg
 bolotbekov.kg
-bolsun.kg
 bolt.kg
 bondstreet.kg
 bonduelle.kg
@@ -2934,7 +2933,6 @@ delta.kg
 delta-profi.kg
 deltamedical.kg
 deltatech.kg
-delur.kg
 delux.kg
 deluxe.kg
 dem.kg
@@ -3721,6 +3719,7 @@ etalon.kg
 etalon-plast.kg
 etam.kg
 etamlingerie.kg
+etaxi.kg
 etc.kg
 etech.kg
 eth.kg
@@ -3860,7 +3859,7 @@ expresslab.kg
 expressus.kg
 exprime.kg
 exsoil.kg
-extase.kg
+extasea.kg
 extaz.kg
 exterier.kg
 extime.kg
@@ -4049,6 +4048,7 @@ fitness.kg
 fitness-dasmia.kg
 fitolizin.kg
 fiveplus.kg
+fix-master.kg
 fix-price.kg
 fixletty.kg
 fkb.kg
@@ -5183,6 +5183,7 @@ inet.kg
 inexport.kg
 infaprim.kg
 infinico.kg
+infinitystore.kg
 infinix.kg
 info.kg
 info-service.kg
@@ -6026,7 +6027,6 @@ klick.kg
 klik.kg
 klimat.kg
 klimat312.kg
-klinika.kg
 klinker.kg
 kln.kg
 kloop.kg
@@ -6153,7 +6153,6 @@ kr-ao.kg
 kracks.kg
 kracksplay.kg
 kraken.kg
-krao.kg
 kraska.kg
 kraski.kg
 krasota.kg
@@ -6521,7 +6520,6 @@ licey.kg
 licey19.kg
 licey49.kg
 licht.kg
-lid.kg
 lider.kg
 lider-line.kg
 lider-stirka.kg
@@ -7502,7 +7500,6 @@ mvp.kg
 mvtp.kg
 mwgroup.kg
 mwork.kg
-mwp.kg
 mx.kg
 my.kg
 my-avon.kg
@@ -7710,6 +7707,7 @@ netmail.kg
 netnames.kg
 netsuite.kg
 netsystems.kg
+nettshop.kg
 networkappliance.kg
 networks.kg
 netzasoram.kg
@@ -8875,6 +8873,7 @@ psihoanaliz.kg
 psihodrama.kg
 psiholog.kg
 psk-group.kg
+pso.kg
 pss.kg
 psw.kg
 psy.kg
@@ -9766,6 +9765,7 @@ skidki.kg
 skillbox.kg
 skillfactory.kg
 skills.kg
+skillwave.kg
 skinclinic.kg
 skiyurt.kg
 sklads.kg
@@ -10486,7 +10486,6 @@ technocomtrade.kg
 technodom.kg
 technogym.kg
 technogym-kg.kg
-technoland-inno4kg.kg
 technoland-pf.kg
 technology.kg
 technomarket.kg
@@ -10727,7 +10726,6 @@ tm.kg
 tmall.kg
 tmavlynov11.kg
 tmg.kg
-tmin.kg
 tmobile.kg
 tms.kg
 tmt-service.kg
@@ -11511,7 +11509,6 @@ vsebanki.kg
 vsedlyapola.kg
 vsegazon.kg
 vseprofi.kg
-vsetaxi.kg
 vsetv.kg
 vsevmeste.kg
 vsl3.kg
