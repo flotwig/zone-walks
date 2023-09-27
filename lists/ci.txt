@@ -90,6 +90,7 @@
 1winapk.ci
 1winbet.ci
 1winbets.ci
+1winci.ci
 1wincom.ci
 1winpro.ci
 1wins.ci
@@ -725,6 +726,7 @@ activpolytec.ci
 actm.ci
 actualites.ci
 actuinfo.ci
+actulive.ci
 ad.ci
 ad-elitegroup.ci
 ad-logistics.ci
@@ -1158,6 +1160,7 @@ alynimo.ci
 am.ci
 am-distribution.ci
 amadoukone.ci
+amak-travel.ci
 amaly.ci
 amanature.ci
 amanbo.ci
@@ -1487,6 +1490,7 @@ atb-services.ci
 atbservices.ci
 atc.ci
 ate.ci
+atech.ci
 atelier130.ci
 ateliergz.ci
 athanasekoffikouame.ci
@@ -1665,9 +1669,7 @@ b1.ci
 b2bdigitalday.ci
 ba.ci
 baab.ci
-baanaa.ci
 baanaalogistics.ci
-baanaamotors.ci
 babi.ci
 babi-shop.ci
 babiauto.ci
@@ -3797,6 +3799,7 @@ cryptum.ci
 cs.ci
 cs-electrique.ci
 csa.ci
+csa-avocats.ci
 csa-taekwondo.ci
 csc.ci
 cscamille.ci
@@ -4736,7 +4739,6 @@ eics.ci
 eida.ci
 eie.ci
 eifl.ci
-eika.ci
 eip.ci
 eipam-cv.ci
 eipc-abidjan.ci
@@ -4792,7 +4794,6 @@ eliakimvision.ci
 elicom.ci
 elietransit.ci
 eliflix.ci
-elikegroupeinternational.ci
 elikouassi.ci
 elimservices.ci
 eliokets.ci
@@ -5305,12 +5306,14 @@ fetedelamusique.ci
 fex.ci
 fexfood.ci
 feymies-products.ci
+feymiesproducts.ci
 ff.ci
 ffk.ci
 ffpsu.ci
 fga.ci
 fgccc.ci
 fgi.ci
+fgpme.ci
 fgs.ci
 fh.ci
 fhbconsulting.ci
@@ -5503,6 +5506,7 @@ foodforlifeglobalimpact.ci
 foodiz.ci
 foodora.ci
 foodsco.ci
+footfintech.ci
 footinter.ci
 foqux.ci
 for.ci
@@ -5660,6 +5664,7 @@ gasandoil.ci
 gat.ci
 gaudys.ci
 gay.ci
+gayagroupe.ci
 gazexpress.ci
 gazpro-nrj.ci
 gb.ci
@@ -5724,7 +5729,6 @@ gems-cigroup.ci
 gendarmerie-nationale.ci
 gendigital.ci
 gene6.ci
-gene6-fi.ci
 generalls.ci
 generalpieces.ci
 generalvagondodiomande.ci
@@ -5747,6 +5751,7 @@ geobtpsarl.ci
 geoci.ci
 geodiswilson.ci
 geolia.ci
+geolocalisation.ci
 geologic.ci
 geomatos.ci
 geometre.ci
@@ -6321,7 +6326,6 @@ hugs.ci
 huissiers.ci
 human.ci
 humancare.ci
-humaniterre.ci
 huobi.ci
 husqvarna.ci
 huub.ci
@@ -6703,7 +6707,6 @@ ipam.ci
 ipb.ci
 ipc.ci
 ipcisolidarite.ci
-ipconsulting.ci
 ipeda.ci
 ipek.ci
 ipf.ci
@@ -7398,7 +7401,6 @@ kun.ci
 kunta.ci
 kv.ci
 kwai.ci
-kwayo.ci
 kwinner.ci
 kyac.ci
 kylekrej.ci
@@ -8180,6 +8182,7 @@ masante.ci
 maskoon.ci
 masociete.ci
 masodecienligne.ci
+masolution.ci
 massage.ci
 massecommunication.ci
 masseyferguson.ci
@@ -9563,6 +9566,7 @@ palm-elite.ci
 palmafrique.ci
 palmci.ci
 palmgold.ci
+palmimmo.ci
 palmsassandra.ci
 palsgaard.ci
 pam.ci
@@ -10326,6 +10330,7 @@ repae.ci
 repare-moi.ci
 repetiteur.ci
 repo.ci
+repprelci.ci
 repuloma.ci
 resam8.ci
 research.ci
@@ -10852,6 +10857,7 @@ ses.ci
 sesame.ci
 sesame-sc.ci
 sesame-servicesconseils.ci
+sesamegarantie.ci
 sesameservicesconseils.ci
 setao.ci
 setbc.ci
@@ -11044,7 +11050,6 @@ silam.ci
 silaskrej.ci
 silexingenierie.ci
 silicom.ci
-silicon.ci
 sillon.ci
 silog.ci
 silverglass.ci
@@ -11137,6 +11142,7 @@ sixt.ci
 sj.ci
 sjn.ci
 sk07.ci
+skignas.ci
 skillandyou.ci
 skills.ci
 skip.ci
@@ -11387,6 +11393,7 @@ sonal.ci
 sonalo.ci
 sonam.ci
 sonapie.ci
+sonapie-reb.ci
 sonar.ci
 sonarc-inter.ci
 sonarci.ci
@@ -11699,7 +11706,6 @@ takimoto.ci
 taksit.ci
 taktik.ci
 talent.ci
-talentech.ci
 talentys.ci
 tam.ci
 tam-tam.ci
@@ -12612,7 +12618,6 @@ wurth.ci
 ww.ci
 wwa.ci
 wwenetwork.ci
-www.ci
 www7788.ci
 www8800.ci
 www8811.ci
