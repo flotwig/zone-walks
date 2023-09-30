@@ -2526,7 +2526,6 @@ makescents.audio
 makewaves.audio
 makkah.audio
 malm.audio
-malyksiaze.audio
 mammoth.audio
 manah.audio
 mancave.audio
@@ -3776,7 +3775,6 @@ sheerlink.audio
 sheersound.audio
 shhh.audio
 shift.audio
-shiftjam.audio
 shinecast.audio
 shinen.audio
 shipibo.audio
@@ -4220,6 +4218,7 @@ tchernov.audio
 tdsd.audio
 tealife.audio
 team.audio
+teamcovid19spl.audio
 teamspeak.audio
 teamviewer.audio
 teapot.audio
@@ -4280,7 +4279,6 @@ thevoice.audio
 thirdear.audio
 thirdeyeheavy.audio
 thisisit.audio
-thole.audio
 thomann.audio
 thomasfersen.audio
 thomasmeijer.audio
@@ -4617,6 +4615,7 @@ warthunder.audio
 washingtonnationals.audio
 waste.audio
 wasted.audio
+wattage.audio
 wattson.audio
 wave.audio
 wave2.audio
