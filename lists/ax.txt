@@ -32,7 +32,6 @@
 188.ax
 19.ax
 1963.ax
-1h.ax
 1m.ax
 1n.ax
 1x.ax
@@ -90,7 +89,6 @@
 588.ax
 59.ax
 5b.ax
-5g.ax
 61.ax
 611.ax
 6132.ax
@@ -289,6 +287,7 @@ alandsexpressen.ax
 alandsfaret.ax
 alandsfarjan.ax
 alandsfolkrace.ax
+alandsforsakringar.ax
 alandsframtid.ax
 alandsguider.ax
 alandshandel.ax
@@ -785,7 +784,6 @@ burgers.ax
 burkarochbin.ax
 bush.ax
 business.ax
-businesscentral.ax
 businessnet.ax
 bussiklubi.ax
 butcherandbanker.ax
@@ -1454,7 +1452,6 @@ fund.ax
 fundler.ax
 fur.ax
 furulundsgarden.ax
-futureframe.ax
 futureh.ax
 futureyou.ax
 fv.ax
@@ -1882,6 +1879,7 @@ io.ax
 iot.ax
 ip.ax
 ipc.ax
+iph.ax
 ipmdomains.ax
 iptv.ax
 ipv6.ax
@@ -2584,6 +2582,7 @@ music.ax
 musik.ax
 musikochdans.ax
 musix.ax
+muskelvarkstan.ax
 muurinen.ax
 mv.ax
 mvc.ax
@@ -3454,6 +3453,7 @@ spotify.ax
 spraka.ax
 sq.ax
 sr.ax
+srv.ax
 ss.ax
 ssl.ax
 st.ax
@@ -3640,6 +3640,7 @@ telecom.ax
 teledyne.ax
 telef.ax
 telegrafen.ax
+telegram.ax
 teli.ax
 telia.ax
 tem.ax
@@ -3996,6 +3997,7 @@ whois.ax
 wi.ax
 wickstroms.ax
 widelund.ax
+wideshot.ax
 widman.ax
 widmans.ax
 wifi.ax
@@ -4070,6 +4072,7 @@ xn--btfrvaring-15a0s.ax
 xn--byggaitr-7za.ax
 xn--con-tla.ax
 xn--da-xia.ax
+xn--eckerlinjen-vfb.ax
 xn--elnt-noa.ax
 xn--fglwrdshus-t5a6sc.ax
 xn--finstrm-f1a.ax
