@@ -49,12 +49,12 @@ TLD | Domain Count
 [`xn--54b7fta0cc`][xn--54b7fta0cc] [(raw)][xn--54b7fta0cc-raw] | <div align="right">339</div>
 [`car`][car] [(raw)][car-raw] | <div align="right">322</div>
 [`cars`][cars] [(raw)][cars-raw] | <div align="right">290</div>
-[`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">147</div>
+[`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">148</div>
 [`ve`][ve] [(raw)][ve-raw] | <div align="right">49</div>
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
-**Total** | <div align="right">2673230</div>
+**Total** | <div align="right">2673231</div>
 
 ## See Also
 
