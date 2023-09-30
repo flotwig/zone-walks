@@ -22,7 +22,6 @@
 1199.ci
 12.ci
 123.ci
-123jeumeveille.ci
 123printservices.ci
 1248.ci
 1314.ci
@@ -776,7 +775,6 @@ adonas-holding.ci
 adopt.ci
 adoptparfums.ci
 adouarchitecte.ci
-adoukestore.ci
 adprevoyance.ci
 adrural.ci
 adrwebmarketing.ci
@@ -877,6 +875,7 @@ afriqueboutique.ci
 afriqueconsommation.ci
 afriqueexpresse.ci
 afriquehabitat.ci
+afriqueindustries.ci
 afriqueintelligence.ci
 afriquepesage.ci
 afriregister.ci
@@ -1526,6 +1525,7 @@ atmtours.ci
 atoo.ci
 atorka.ci
 atos.ci
+atp.ci
 atpagroupeloko.ci
 atpvgroupeloko.ci
 atr.ci
@@ -2219,7 +2219,6 @@ businessexpress.ci
 businesskids.ci
 businessplan.ci
 butaneo.ci
-bv.ci
 bvet.ci
 bw.ci
 bwin.ci
@@ -2466,6 +2465,8 @@ cd-avocat.ci
 cdaim.ci
 cdbci.ci
 cdc.ci
+cdc-capital.ci
+cdccapital.ci
 cdci.ci
 cdfe.ci
 cdiscount.ci
@@ -3705,6 +3706,7 @@ cotedivoirepaie.ci
 cotedivoirepme.ci
 cotedivoirepmesa.ci
 cotedivoirepr.ci
+cotedivoiresolidarite.ci
 cotedivoireterminal.ci
 cotedivoiretourisme.ci
 cotedivoirexport.ci
@@ -3744,7 +3746,6 @@ cpupme.ci
 cqc.ci
 cr.ci
 craft.ci
-crampondefoot.ci
 crayoninternational.ci
 crdi4capec.ci
 crea.ci
@@ -4092,7 +4093,6 @@ digit.ci
 digit-al.ci
 digital.ci
 digital-mag.ci
-digital-rh.ci
 digitalactive.ci
 digitalcore.ci
 digitale.ci
@@ -4570,6 +4570,7 @@ edivan.ci
 edix.ci
 edlona.ci
 edloo-consulting.ci
+edmtravel.ci
 ednae.ci
 edo.ci
 edoc-mffe.ci
@@ -4705,6 +4706,7 @@ ega.ci
 egarage.ci
 egard.ci
 egbosarl.ci
+egci.ci
 egeci.ci
 egfop.ci
 egkhr.ci
@@ -5657,7 +5659,6 @@ gap.ci
 garba.ci
 garderielespetitsgenies.ci
 gardians.ci
-gardiennagecotedivoire.ci
 garmin.ci
 gasandoil.ci
 gat.ci
@@ -6033,7 +6034,6 @@ grouperostan-islg.ci
 groupesafi.ci
 groupesalem.ci
 groupesamandje.ci
-groupescolairelegrand.ci
 groupeselecsa.ci
 groupesocietefamiliale-sarl.ci
 groupeterra.ci
@@ -6366,6 +6366,7 @@ iam-abidjan.ci
 ibagim.ci
 ibazar.ci
 ibb.ci
+ibc.ci
 ibg.ci
 ibicorp.ci
 ibis.ci
@@ -7661,6 +7662,7 @@ lepatriote.ci
 lepepe.ci
 leperroquetlibere.ci
 lepetitberet.ci
+lepetitmarche.ci
 leplan24.ci
 leplanteur.ci
 lepointfeminin.ci
@@ -8700,7 +8702,6 @@ mrbricolage.ci
 mrclim.ci
 mrcn.ci
 mrconcept.ci
-mrcosta.ci
 mrdepannage.ci
 mrdiscount.ci
 mrgadget.ci
@@ -8878,6 +8879,7 @@ neko.ci
 nekoholding.ci
 nellhome.ci
 nembel.ci
+nembexpress.ci
 neo.ci
 neobureau.ci
 neocharging.ci
@@ -9255,6 +9257,7 @@ omnis.ci
 omranestate.ci
 on.ci
 on-vend-tout.ci
+onacci.ci
 onad.ci
 onafriq.ci
 onafrique.ci
@@ -9851,7 +9854,6 @@ plebis.ci
 plentygroup.ci
 plomberie.ci
 plombiers.ci
-plugin.ci
 pluriellesentreprises.ci
 pluss.ci
 pm.ci
@@ -11289,7 +11291,6 @@ socoges.ci
 socomec.ci
 socomelec.ci
 socomelecivoire.ci
-socoopagagny.ci
 socopans.ci
 socopi.ci
 socoprim.ci
@@ -11527,7 +11528,6 @@ sst.ci
 sstin.ci
 sta.ci
 stac.ci
-stadedabidjan.ci
 stage.ci
 stagiaire.ci
 stake.ci
@@ -11576,7 +11576,6 @@ stgroup.ci
 stihl.ci
 still.ci
 stl.ci
-stl-ekobak.ci
 stlgo.ci
 stmi.ci
 stone.ci
@@ -11669,7 +11668,6 @@ sydneytelecom.ci
 sygiamp.ci
 syllakissima.ci
 symbioll.ci
-symbioz.ci
 symbol.ci
 symetric.ci
 symposiummine.ci
@@ -12404,7 +12402,6 @@ voice.ci
 voiladoc.ci
 voisinage.ci
 voitures.ci
-voituresolidarite.ci
 volailleplus.ci
 volcanjunioracademie.ci
 volkswagen.ci
