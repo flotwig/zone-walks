@@ -209,7 +209,6 @@ arcea.mc
 architectes.mc
 architectes-deverini.mc
 arcmontecarlo.mc
-arcora.mc
 arcoragestion.mc
 arcsports.mc
 arctic-expedition.mc
@@ -769,6 +768,7 @@ cpa2.mc
 cpdb.mc
 cpm.mc
 cpmca.mc
+cppartnersmultifamillyoffice.mc
 crcm.mc
 crea-the-future.mc
 creaplan.mc
@@ -2819,7 +2819,6 @@ protea.mc
 protech.mc
 psb.mc
 psemonaco.mc
-psm.mc
 psrh.mc
 publicreations.mc
 pulcinella.mc
