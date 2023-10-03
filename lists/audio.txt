@@ -440,6 +440,7 @@ auftakt.audio
 augment.audio
 augmented.audio
 aural.audio
+aurelian.audio
 auric.audio
 auris.audio
 auro.audio
@@ -1490,7 +1491,6 @@ fabian.audio
 fabiopapa.audio
 facebook.audio
 facil.audio
-facile.audio
 faerder.audio
 fair.audio
 fair-play.audio
@@ -3134,7 +3134,6 @@ ortofon.audio
 osaka.audio
 osborn.audio
 oscillator.audio
-otaku.audio
 otherside.audio
 otl.audio
 otono.audio
@@ -3768,6 +3767,7 @@ sheerlink.audio
 sheersound.audio
 shhh.audio
 shift.audio
+shiftjam.audio
 shinecast.audio
 shinen.audio
 shipibo.audio
@@ -3932,6 +3932,7 @@ soundandfury.audio
 sounday.audio
 soundbath.audio
 soundbiscuit.audio
+soundbite.audio
 soundboard.audio
 soundcard.audio
 soundcart.audio
@@ -4003,6 +4004,7 @@ spatialize.audio
 speakercorrection.audio
 speakerfactory.audio
 speakingvolumesbooks.audio
+spearhead.audio
 spell.audio
 spencerlee.audio
 spendor.audio
@@ -4573,7 +4575,6 @@ voicebooking.audio
 voicebox.audio
 voicefirst.audio
 voiceknecht.audio
-voiceonpoint.audio
 voiceover.audio
 voiceovers.audio
 voices.audio
