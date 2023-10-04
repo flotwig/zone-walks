@@ -85,13 +85,13 @@ ana.tz
 andri.tz
 android.tz
 angloamerican.tz
-anibesa.tz
 apmterminals.tz
 apnosphere.tz
 aptus.tz
 armox.tz
 arrow.tz
 ashnova.tz
+ashton.tz
 ask.tz
 asos.tz
 assad.tz
@@ -206,6 +206,7 @@ bwin.tz
 cable.tz
 caju.tz
 canny.tz
+cardeals.tz
 carehealth.tz
 carglass.tz
 casino.tz
@@ -252,6 +253,7 @@ colla.tz
 collectorscorner.tz
 comirnatyeducation.tz
 comirnatyhcp.tz
+communitypay.tz
 comnet.tz
 connect.tz
 contavol.tz
@@ -462,6 +464,7 @@ holdbet.tz
 horseracing.tz
 host.tz
 hotel.tz
+hotelpay.tz
 hoteltronix.tz
 howdenpuri.tz
 howdentanzania.tz
@@ -608,6 +611,7 @@ library.tz
 liebherr.tz
 lightworks.tz
 link.tz
+linkpay.tz
 linx.tz
 lipa.tz
 lipi.tz
@@ -749,6 +753,7 @@ nokia.tz
 novash.tz
 novomatic.tz
 now.tz
+nowpay.tz
 nugen.tz
 nunua.tz
 nursery.tz
@@ -831,6 +836,7 @@ primefragrance.tz
 primevideo.tz
 print.tz
 proteahotels.tz
+protend.tz
 pru.tz
 prudential.tz
 ptt.tz
@@ -906,6 +912,7 @@ schmal.tz
 school.tz
 schooldataserver.tz
 schoolmap.tz
+schoolpay.tz
 schu.tz
 schubo.tz
 schul.tz
@@ -1029,7 +1036,6 @@ tanzania-safari.tz
 tanzaniteexperience.tz
 tappi.tz
 tatamotors.tz
-tawifresh.tz
 taxi.tz
 taylorswift.tz
 tcc.tz
