@@ -88,7 +88,6 @@
 313.kg
 32.kg
 321.kg
-321start.kg
 32karata.kg
 33.kg
 333.kg
@@ -422,6 +421,7 @@ aic.kg
 aid.kg
 aida.kg
 aidana.kg
+aidanek.kg
 aido.kg
 aidom.kg
 aidscenter.kg
@@ -584,7 +584,6 @@ alam.kg
 alaman.kg
 alamudun.kg
 alamudunlibrary.kg
-alana-show.kg
 alarm.kg
 alata.kg
 alatash.kg
@@ -1317,7 +1316,6 @@ autolab.kg
 autoland.kg
 autoline.kg
 autolombard.kg
-autolux.kg
 automag.kg
 automall.kg
 automation.kg
@@ -1854,7 +1852,6 @@ biba.kg
 bibip.kg
 bible.kg
 biblioteka.kg
-bibuild.kg
 bic.kg
 bicamc.kg
 bicis.kg
@@ -2171,6 +2168,7 @@ broiler.kg
 broker.kg
 brokers.kg
 brokk.kg
+brokmoney.kg
 bromhexin.kg
 bron-security.kg
 bronchostop.kg
@@ -2590,7 +2588,6 @@ climatefinance.kg
 climatehub.kg
 climattech.kg
 clinic.kg
-clinic-nova.kg
 clinica.kg
 clinics.kg
 clipper.kg
@@ -2599,7 +2596,6 @@ cloud1c.kg
 cloudpbx.kg
 cloudshop.kg
 cloudtelecom.kg
-cls.kg
 clubhotel.kg
 clubmed.kg
 cluster.kg
@@ -2811,6 +2807,7 @@ cutimed.kg
 cvetkoff.kg
 cvetnoidym.kg
 cvetok.kg
+cvp.kg
 cybernation.kg
 cybernet.kg
 cyberpower.kg
@@ -3942,6 +3939,7 @@ fashion.kg
 fashionrynok.kg
 fastbuy.kg
 fastcash.kg
+fastcom.kg
 fastnet.kg
 fastum.kg
 fastumgel.kg
@@ -4467,7 +4465,6 @@ glaxosmithkline.kg
 glaxowellcome.kg
 glencore.kg
 glicerol.kg
-glo.kg
 global.kg
 global-balance.kg
 global-edu.kg
@@ -4855,6 +4852,7 @@ hisense.kg
 hisense-air.kg
 history.kg
 historymuseum.kg
+hit.kg
 hit-travel.kg
 hitachi.kg
 hitbuy.kg
@@ -5120,6 +5118,7 @@ ilbirs.kg
 ilbirstrade.kg
 ilbirsvet.kg
 ilbirsvillage.kg
+ilcom.kg
 ilgeri.kg
 ilim.kg
 ilimbox.kg
@@ -5837,7 +5836,6 @@ kaynargroup.kg
 kazakiskvzo.kg
 kazan.kg
 kazankebab.kg
-kazankebap.kg
 kazco.kg
 kazeco.kg
 kazgrain.kg
@@ -5916,6 +5914,7 @@ kesc.kg
 kesip.kg
 ketmen-dobo.kg
 kettik.kg
+keu.kg
 key-bishkek.kg
 key-lock.kg
 key312.kg
@@ -6115,6 +6114,7 @@ kompra.kg
 kompromat.kg
 kondei.kg
 konder.kg
+konfet.kg
 konicaminolta.kg
 konka.kg
 konovalovsad.kg
@@ -6360,6 +6360,7 @@ kyrgyzupack.kg
 kyrlibnet.kg
 kyrseff.kg
 kyrtag.kg
+kyzmat.kg
 kyzmat-geo.kg
 kyzmatsayakat.kg
 kyzyl-kiya.kg
@@ -6403,6 +6404,7 @@ lamerepoulard.kg
 lamerepoulard-lemontsaintmichel.kg
 laminam.kg
 laminat.kg
+lamis.kg
 lamoda.kg
 lamoena.kg
 lance.kg
@@ -6955,7 +6957,6 @@ mayak-rebcentre.kg
 mayakbishkek.kg
 maybelline.kg
 maytoni.kg
-mazak.kg
 mazal.kg
 mazars.kg
 mazarsforvis.kg
@@ -7122,6 +7123,7 @@ mektep24.kg
 mektepliga.kg
 mel.kg
 melbet.kg
+melis.kg
 meloman.kg
 membrana.kg
 men.kg
@@ -7556,7 +7558,6 @@ mydom.kg
 myflowers.kg
 mygarden.kg
 mygig.kg
-myglo.kg
 mygreenway.kg
 myhalyk.kg
 myherbalife.kg
@@ -7770,7 +7771,6 @@ nexans.kg
 nexen.kg
 nexfil.kg
 nexon.kg
-next.kg
 nextbasket.kg
 nextgeneration.kg
 nextprint.kg
@@ -8408,6 +8408,7 @@ paxee.kg
 paxlovid.kg
 paxlovideducation.kg
 pay.kg
+pay24.kg
 paydala.kg
 paydaycasino.kg
 payfort.kg
@@ -9376,6 +9377,7 @@ sady.kg
 sael.kg
 saf.kg
 safe.kg
+safeandsound.kg
 safebishkek.kg
 safeburg.kg
 safekids.kg
@@ -9558,7 +9560,6 @@ sdmanas.kg
 sdo.kg
 sdpk.kg
 sdts.kg
-se.kg
 sea.kg
 sealy.kg
 search.kg
@@ -9838,7 +9839,6 @@ skyasiatechnics.kg
 skyberry.kg
 skybishkek.kg
 skycargo.kg
-skydombishkek.kg
 skyfall.kg
 skyfly.kg
 skyfru.kg
@@ -9851,6 +9851,7 @@ skyline.kg
 skymobile.kg
 skynance.kg
 skynens.kg
+skynet.kg
 skynur.kg
 skypay.kg
 skyscanner.kg
@@ -9925,10 +9926,7 @@ smilik.kg
 smirstroy.kg
 smlcluster.kg
 smltplus.kg
-smm.kg
 smmlab.kg
-smoant.kg
-smok.kg
 smoke.kg
 smokey.kg
 smotri.kg
@@ -10855,7 +10853,6 @@ topclimat.kg
 topdevelopment.kg
 topnews.kg
 topnutrition.kg
-topreklama.kg
 topshop.kg
 topsport.kg
 toptalent.kg
@@ -11335,7 +11332,6 @@ vap.kg
 vape.kg
 vape-art.kg
 vapiano.kg
-vaporesso.kg
 vari.kg
 variant.kg
 varietea.kg
@@ -11549,7 +11545,6 @@ volvocars.kg
 volvoce.kg
 volvotrucks.kg
 vonage.kg
-voopoo.kg
 vorota.kg
 vorotahouse.kg
 vosst.kg
@@ -11637,7 +11632,6 @@ webdesign.kg
 webformat.kg
 webhost.kg
 webkassa.kg
-webmail.kg
 webmarket.kg
 webmaster.kg
 webmoney.kg
@@ -11765,6 +11759,7 @@ www.kg
 www138.kg
 x.kg
 x-can.kg
+x10.kg
 xado.kg
 xbox.kg
 xboxlive.kg
@@ -11943,7 +11938,6 @@ zhzl-asia.kg
 zic.kg
 zigzag.kg
 zil.kg
-zilon.kg
 zima.kg
 zimaleto.kg
 zina.kg
@@ -11957,7 +11951,6 @@ zjm.kg
 zkteco.kg
 zlata.kg
 zm.kg
-zmail.kg
 znachok.kg
 znakomstva.kg
 zob.kg
