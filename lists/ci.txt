@@ -554,7 +554,6 @@ abidjanfashion.ci
 abidjanfrais.ci
 abidjaninformatique.ci
 abidjanmall.ci
-abidjanpagne.ci
 abidjanphotofestival.ci
 abidjanplanet.ci
 abidjansolution.ci
@@ -1607,7 +1606,6 @@ babsbat.ci
 baby-boom.ci
 babyliss.ci
 bac.ci
-bacademy.ci
 baci.ci
 background.ci
 backmarket.ci
@@ -3839,7 +3837,6 @@ datarecovery.ci
 datasat.ci
 datavillage.ci
 datcom.ci
-dates-concours.ci
 daud.ci
 dav.ci
 davconsulting.ci
@@ -3959,7 +3956,6 @@ dflocation.ci
 dfp.ci
 dfrs.ci
 dfsk.ci
-dgamp.ci
 dgampgestion.ci
 dgbf.ci
 dgcam-dgamp.ci
@@ -5035,6 +5031,7 @@ eurorepar.ci
 eurostudioafrique.ci
 ev.ci
 evadict.ci
+eval.ci
 evansgroup.ci
 evasion.ci
 evasion-vtt.ci
@@ -10561,7 +10558,6 @@ sap.ci
 sapame.ci
 sapcca.ci
 saph.ci
-saphir-btp.ci
 saplame.ci
 sapmap.ci
 saprim.ci
