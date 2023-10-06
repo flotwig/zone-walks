@@ -1425,6 +1425,7 @@ houston-palace.mc
 houstonpalace.mc
 hp-genie-energetique.mc
 hpp-pastor.mc
+hr-consulting.mc
 hrh.mc
 hrljp-monaco.mc
 hsb.mc
@@ -1645,7 +1646,6 @@ kiwi.mc
 kjt.mc
 koesio.mc
 koncept.mc
-kosmar.mc
 kpmg.mc
 krav-maga.mc
 kravmaga.mc
@@ -2161,7 +2161,6 @@ monacocyber.mc
 monacocybersecurite.mc
 monacodemat.mc
 monacodemenagement.mc
-monacodev.mc
 monacodigital.mc
 monacodomotique.mc
 monacoeconomicboard.mc
@@ -2333,7 +2332,6 @@ montecarloticket.mc
 montecarlovermouth.mc
 montecarloview.mc
 montecarloyachtshow.mc
-montech.mc
 monteclean.mc
 montepilli.mc
 monterra.mc
@@ -2427,7 +2425,6 @@ nailtech.mc
 nalbantis.mc
 namaka.mc
 namebay.mc
-namingadv.mc
 namira.mc
 nammos.mc
 nammosworld.mc
@@ -2778,7 +2775,9 @@ prettymemonaco.mc
 prettyyoumonaco.mc
 prime.mc
 prime-estate.mc
+prime-family.mc
 prime-law.mc
+prime-mfo.mc
 primecap.mc
 primefactorconsulting.mc
 primemfo.mc
@@ -2887,7 +2886,6 @@ remanencemc.mc
 reminiscence.mc
 renaissance.mc
 renaudrutkowska.mc
-renenergy.mc
 rennstall.mc
 renovconcept.mc
 repossi.mc
@@ -3371,7 +3369,6 @@ traductionslaurentpajou.mc
 trafalgarassetmanagers.mc
 trafiparc.mc
 trans-blinter.mc
-translatingart.mc
 transocean.mc
 transoilenergy.mc
 trasomar.mc
@@ -3385,7 +3382,6 @@ tribunalsupreme.mc
 trimetri.mc
 trinity.mc
 trinitydesign.mc
-trinityirishbar.mc
 trismegistos.mc
 troisseptsept.mc
 troubadour.mc
@@ -3468,7 +3464,6 @@ visicom.mc
 visitmonaco.mc
 vitavea.mc
 vitefait.mc
-vitefaitmonaco.mc
 vivremaville.mc
 vkp.mc
 vlieghe.mc
