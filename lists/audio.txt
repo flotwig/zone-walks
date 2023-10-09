@@ -1861,6 +1861,7 @@ heimwerk.audio
 heinrich.audio
 heist.audio
 helden.audio
+heli.audio
 helio.audio
 helios.audio
 hello.audio
@@ -3775,6 +3776,7 @@ showmode.audio
 showroom.audio
 shqip.audio
 shure.audio
+sick.audio
 sidestep.audio
 sidley.audio
 sidley-austin.audio
@@ -3874,7 +3876,6 @@ softube.audio
 sogeca.audio
 soiree.audio
 sol.audio
-solana.audio
 solaris.audio
 soledge.audio
 solfeggio.audio
