@@ -575,7 +575,6 @@ bibles.audio
 bigdaw.audio
 bigfish.audio
 bignoise.audio
-bignox.audio
 bigrok.audio
 bigwave.audio
 bijbel.audio
@@ -1041,6 +1040,7 @@ daisy.audio
 dales.audio
 dali.audio
 daltonpegel.audio
+damage.audio
 damavand.audio
 damon.audio
 dane.audio
@@ -1279,7 +1279,6 @@ drpodcast.audio
 drumpads.audio
 dsd.audio
 dsl.audio
-dsp.audio
 dspi.audio
 dual.audio
 dubai.audio
@@ -1637,9 +1636,7 @@ frequent.audio
 freshair.audio
 freshfruit.audio
 freshwater.audio
-froem.audio
 frolic.audio
-from.audio
 frontier.audio
 frontierradio.audio
 frontone.audio
@@ -4737,7 +4734,6 @@ yamaha.audio
 yankees.audio
 yayuma.audio
 yeah.audio
-yeshen.audio
 yeswecan.audio
 yixun.audio
 ylya.audio
