@@ -20,6 +20,7 @@
 1199.ci
 12.ci
 123.ci
+123jeumeveille.ci
 123printservices.ci
 1314.ci
 1337.ci
@@ -606,7 +607,6 @@ aceagency.ci
 acell.ci
 acf.ci
 acf-ra-impactum.ci
-acfecotedivoire.ci
 acformation.ci
 achat.ci
 achatfacile.ci
@@ -1968,6 +1968,7 @@ bo.ci
 boa.ci
 boccard.ci
 boconcept.ci
+bocoum.ci
 boe.ci
 bogazi.ci
 bogolan.ci
@@ -2504,6 +2505,7 @@ changanauto.ci
 change.ci
 chantier.ci
 chap-chap.ci
+chapachat.ci
 chapchapmarket.ci
 chapchapvoyage.ci
 chapoutils.ci
@@ -2727,6 +2729,8 @@ cleanmaster.ci
 cleannet.ci
 cleanpro.ci
 cleapet.ci
+clear-path.ci
+clearpath.ci
 clertech.ci
 cleverness.ci
 clicdesign.ci
@@ -3664,6 +3668,7 @@ cqc.ci
 cr.ci
 craft.ci
 crayoninternational.ci
+crbc-cnctpc.ci
 crdi4capec.ci
 crea.ci
 createam.ci
@@ -4094,6 +4099,7 @@ divinetrading.ci
 divo.ci
 diy.ci
 diyi.ci
+djaazy.ci
 djaazzmarket.ci
 djalee.ci
 djamo.ci
@@ -4151,7 +4157,6 @@ doc.ci
 doci.ci
 docker.ci
 dockerfile.ci
-docs.ci
 docteur.ci
 docteurcomputer.ci
 docteurpc.ci
@@ -4897,7 +4902,6 @@ eroximo.ci
 erta.ci
 erume.ci
 erutech.ci
-es.ci
 es-agboville.ci
 es2iformation.ci
 esa.ci
@@ -5073,9 +5077,11 @@ exotica.ci
 exp.ci
 expedia.ci
 experimax.ci
+expert-tech.ci
 expertbatiment.ci
 expertise.ci
 expertise-pdcp.ci
+expertise-technology.ci
 experts-group.ci
 expertsanogo.ci
 expertsassocies.ci
@@ -5972,6 +5978,7 @@ gsb.ci
 gscorporate.ci
 gse.ci
 gsgroup.ci
+gsgs-ufhb.ci
 gsi-ci.ci
 gsia.ci
 gsia-abidjan.ci
@@ -5998,6 +6005,7 @@ gtec.ci
 gtech.ci
 gtl.ci
 gtmobile.ci
+gtout.ci
 gts-plus.ci
 gtservice.ci
 gttps.ci
@@ -6074,6 +6082,7 @@ havas.ci
 havilah.ci
 havredelumiere.ci
 hayara-sarl.ci
+haysafrique.ci
 hb.ci
 hbiacces.ci
 hbmultiservices.ci
@@ -6106,6 +6115,7 @@ hellooccaz.ci
 helma.ci
 hempel.ci
 henricartan.ci
+heoh.ci
 heppner.ci
 herassou.ci
 herc.ci
@@ -6191,6 +6201,7 @@ hotel-le-granite.ci
 hotel-montkorhogo.ci
 hotelarcenciel.ci
 hotelcarrefour.ci
+hotelchateaublanc.ci
 hoteldesparlementaires.ci
 hoteldulac.ci
 hotelhanniel.ci
@@ -6212,7 +6223,6 @@ hotelsantamonica.ci
 hotelstamanan.ci
 hotelsupreme.ci
 hotmail.ci
-hotpackglobal.ci
 hotpoint.ci
 hotspot.ci
 houphouetisme.ci
@@ -6248,7 +6258,6 @@ hv.ci
 hx.ci
 hy.ci
 hybrid.ci
-hybride.ci
 hybso.ci
 hydrausolar.ci
 hydro.ci
@@ -6332,6 +6341,7 @@ icure.ci
 icwp.ci
 id.ci
 id-international.ci
+id30.ci
 idagroupe.ci
 idagroupeloko.ci
 idcard-report.ci
@@ -7065,6 +7075,7 @@ kageosig.ci
 kahe.ci
 kahira.ci
 kahve.ci
+kahzbat.ci
 kaiju.ci
 kaina-com.ci
 kairos-pharma.ci
@@ -7082,7 +7093,6 @@ kamak.ci
 kamal.ci
 kamapay.ci
 kamatech.ci
-kambala-perc.ci
 kamelo.ci
 kametiegroupe.ci
 kamguru.ci
@@ -7206,7 +7216,6 @@ kitchenpro.ci
 kitea.ci
 kiteaci.ci
 kitoyebtp.ci
-kitscolaire.ci
 kitsr.ci
 kiwi.ci
 kiwigroup.ci
@@ -7962,6 +7971,7 @@ mairie-agnibilekro.ci
 mairie-agnibilekrou.ci
 mairie-ayame.ci
 mairie-cocody.ci
+mairie-mayo.ci
 mairieassinie.ci
 mairieattecoube.ci
 mairieboundiali.ci
@@ -8461,6 +8471,7 @@ mohaye.ci
 mohizi.ci
 moinscher.ci
 moja.ci
+mojaa.ci
 mojakart.ci
 mokodo.ci
 molbak.ci
@@ -8541,6 +8552,7 @@ monpassepartout.ci
 monpasseport.ci
 monpersonnelparfait.ci
 monpharmacien.ci
+monprestataire.ci
 monpret.ci
 monprofchezmoi.ci
 monprofdemaths.ci
@@ -9526,7 +9538,6 @@ parc-des-expositions.ci
 parc-des-expositions-abidjan.ci
 parc-national-de-tai.ci
 parfums.ci
-pari-t.ci
 paridirect.ci
 parifoot.ci
 parifoot-apk.ci
@@ -10268,6 +10279,7 @@ residenceleflamboyant.ci
 residenceleneptune.ci
 residencemidid.ci
 residenceministre.ci
+residenceriviera.ci
 residences.ci
 residences-meublees.ci
 residencesbeauxfraisiers.ci
@@ -10555,6 +10567,7 @@ sap.ci
 sapame.ci
 sapcca.ci
 saph.ci
+saphir-btp.ci
 saplame.ci
 sapmap.ci
 saprim.ci
@@ -11030,6 +11043,7 @@ sitapa.ci
 sitarail.ci
 sitbai.ci
 sitcom.ci
+sitd-tourisme.ci
 site-technologie.ci
 siteca.ci
 siteweb.ci
@@ -11489,6 +11503,7 @@ stgroup.ci
 stihl.ci
 still.ci
 stl.ci
+stl-ekobak.ci
 stlgo.ci
 stmi.ci
 stone.ci
@@ -11660,7 +11675,6 @@ taxi2babi.ci
 taxiclick.ci
 taxidebabi.ci
 taxipt.ci
-taythe56.ci
 tb.ci
 tbc.ci
 tca.ci
@@ -11812,6 +11826,7 @@ ticafrique.ci
 ticket.ci
 ticketevent.ci
 tickets.ci
+tickey.ci
 tictac.ci
 tictachost.ci
 tictachosting.ci
@@ -12003,7 +12018,6 @@ tunisre.ci
 turbine.ci
 turione.ci
 turkoiz.ci
-tutorials.ci
 tuu.ci
 tv.ci
 tvlocale.ci
@@ -12110,6 +12124,7 @@ unite.ci
 unitec-sa.ci
 unitechnology.ci
 united.ci
+unitedstrategies.ci
 unitrading.ci
 univ.ci
 univ-cocody.ci
@@ -12190,6 +12205,7 @@ vale.ci
 valeoservice.ci
 valkola.ci
 vallesse.ci
+valleytechsolutions.ci
 valnhood.ci
 van.ci
 vanrysel.ci
@@ -12242,7 +12258,6 @@ viaplay.ci
 viasat.ci
 viberadio.ci
 vibes.ci
-vica.ci
 vicaflix.ci
 vicat.ci
 victoire.ci
