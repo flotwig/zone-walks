@@ -209,6 +209,7 @@ arcea.mc
 architectes.mc
 architectes-deverini.mc
 arcmontecarlo.mc
+arcora.mc
 arcoragestion.mc
 arcsports.mc
 arctic-expedition.mc
@@ -837,6 +838,7 @@ ddun.mc
 decathlon.mc
 decobat.mc
 decorstyle.mc
+decotrend.mc
 dei-monaco-aidimpact.mc
 dekotel.mc
 deliagracenoble.mc
@@ -1905,6 +1907,7 @@ mby.mc
 mc-lifestyle.mc
 mc-net.mc
 mc-sante.mc
+mc-soudure.mc
 mc2.mc
 mc2radio.mc
 mc3r.mc
@@ -2920,7 +2923,6 @@ rivieramfo.mc
 rivieraradio.mc
 rizzato.mc
 rjrichelmi.mc
-rmautosport.mc
 rmcnetwork.mc
 rmta.mc
 robbreport.mc
@@ -3052,6 +3054,7 @@ setec.mc
 severine.mc
 sexytacos.mc
 sfe.mc
+sfp-mh.mc
 sgd.mc
 sgimmobilier.mc
 sgprivatebanking.mc
@@ -3123,6 +3126,7 @@ smokinghot.mc
 smt.mc
 smte.mc
 smtfineart.mc
+snsolutions.mc
 soc-mc.mc
 soc-mcs.mc
 soc-monaco.mc
@@ -3204,6 +3208,7 @@ starmaritime.mc
 starpro.mc
 starr.mc
 stars.mc
+starsaviation.mc
 starscapital.mc
 starsnbars.mc
 stateo.mc
@@ -3513,7 +3518,6 @@ workhub.mc
 worldforestry.mc
 worldmediatrading.mc
 worldtime.mc
-wosasurveys.mc
 wppm.mc
 wpsam.mc
 wtc.mc
