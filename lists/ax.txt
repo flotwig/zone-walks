@@ -1,6 +1,7 @@
 00.ax
 01.ax
 04.ax
+06.ax
 07.ax
 0731.ax
 089.ax
@@ -39,10 +40,10 @@
 22.ax
 23.ax
 24.ax
-240.ax
 25.ax
 26.ax
 27.ax
+28.ax
 29.ax
 297.ax
 2d.ax
@@ -129,7 +130,6 @@
 8q.ax
 91.ax
 92.ax
-928.ax
 93.ax
 95.ax
 951.ax
@@ -745,6 +745,7 @@ brakok.ax
 brallan.ax
 bramatputtra.ax
 brand.ax
+brandbolaget.ax
 branders.ax
 brandkar.ax
 brando.ax
@@ -2130,6 +2131,7 @@ kortrutt.ax
 korttelikeittio.ax
 korttelikeittiot.ax
 kosttillskott.ax
+kotipizza.ax
 kp.ax
 kpe.ax
 kpmg.ax
@@ -2604,6 +2606,7 @@ name.ax
 naprapat.ax
 naringsliv.ax
 narmobergs.ax
+narwhal.ax
 nastapaikka.ax
 natbutiken.ax
 national.ax
@@ -3112,6 +3115,7 @@ ride.ax
 rin.ax
 rinta-jouppi.ax
 rintajouppi.ax
+riskkontroll.ax
 rl.ax
 rm.ax
 ro.ax
@@ -3150,6 +3154,7 @@ rr.ax
 rst.ax
 rt.ax
 ru.ax
+rubber.ax
 ruby.ax
 run.ax
 rundberg.ax
