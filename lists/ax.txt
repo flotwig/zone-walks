@@ -58,7 +58,6 @@
 32.ax
 33.ax
 333.ax
-35.ax
 36.ax
 361.ax
 365.ax
@@ -104,7 +103,6 @@
 67.ax
 68.ax
 69.ax
-72.ax
 73.ax
 74.ax
 75.ax
@@ -1189,6 +1187,7 @@ en.ax
 energi.ax
 energikontroll.ax
 energipartner.ax
+energyisland.ax
 energystorage.ax
 enfuce.ax
 engblom.ax
@@ -2551,6 +2550,7 @@ motorfordonsbyran.ax
 motormuseum.ax
 motorportalen.ax
 motrasism.ax
+mottagningen.ax
 mov.ax
 mow.ax
 mp.ax
@@ -3433,6 +3433,7 @@ sparhallen.ax
 sparky.ax
 sparm.ax
 speeding.ax
+sphh.ax
 spiceup.ax
 spike.ax
 spis.ax
@@ -4089,7 +4090,6 @@ xn--hgskoleprovet-imb.ax
 xn--hyvmuttahalpa-dfb.ax
 xn--jansgrvservice-bib.ax
 xn--jgare-gra.ax
-xn--jlit-qoa.ax
 xn--jussble-e1a.ax
 xn--kl-tr-kra.ax
 xn--klintvgenapartments-lwb.ax
