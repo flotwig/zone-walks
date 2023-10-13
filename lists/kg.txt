@@ -504,7 +504,6 @@ ajkr.kg
 ak.kg
 ak-bashat.kg
 ak-bata.kg
-ak-jar-aimak.kg
 ak-jol.kg
 ak-muz-aimak.kg
 ak-say.kg
@@ -684,6 +683,7 @@ alliance-sert.kg
 allianceplus.kg
 allianz.kg
 allieduniversal.kg
+alligator.kg
 alligator-green.kg
 allmotors.kg
 allo.kg
@@ -761,6 +761,7 @@ alur-avto.kg
 alustar.kg
 alutech.kg
 alutex.kg
+aluu-satuu.kg
 alykul.kg
 alym.kg
 alymbaev.kg
@@ -859,6 +860,7 @@ anime.kg
 ank.kg
 ankamedical.kg
 anketa.kg
+anm.kg
 ansari.kg
 antalyaplus.kg
 antares.kg
@@ -1152,7 +1154,6 @@ askona.kg
 asktravel.kg
 aslanstroi.kg
 asm.kg
-asmadi.kg
 asman.kg
 asman-city.kg
 asman-transfer.kg
@@ -1637,6 +1638,7 @@ bathandbodyworks.kg
 batir.kg
 batken.kg
 batkenshaary.kg
+batkentany.kg
 batmu.kg
 battery.kg
 battleprimekey.kg
@@ -2325,11 +2327,13 @@ caravan-sa.kg
 carcheck.kg
 carciti.kg
 carcity.kg
+card.kg
 card2card.kg
 cardiology.kg
 cardiosurgery.kg
 cardplus.kg
 cardstandard.kg
+cardtocard.kg
 cardtrade.kg
 career.kg
 careot.kg
@@ -2742,7 +2746,6 @@ crazybrothers.kg
 crazylove.kg
 crc.kg
 crdl.kg
-creality.kg
 create.kg
 createsite.kg
 creative.kg
@@ -3438,6 +3441,7 @@ eftown.kg
 eg.kg
 egahall.kg
 egcapital.kg
+egemberdieva.kg
 egemen.kg
 egeturkelevator.kg
 egis.kg
@@ -4132,7 +4136,6 @@ flx.kg
 fly.kg
 flycargo.kg
 flyers.kg
-flyingbear.kg
 flynas.kg
 flypgs.kg
 flysky.kg
@@ -4254,7 +4257,6 @@ fsa.kg
 fsd.kg
 fsds.kg
 fsi.kg
-fst.kg
 fstravel.kg
 ft.kg
 ftc.kg
@@ -4786,7 +4788,6 @@ hdf.kg
 headhunter.kg
 headliner.kg
 health.kg
-health-concept.kg
 health5.kg
 hebelkraft.kg
 hedef-dva.kg
@@ -4882,6 +4883,7 @@ hm.kg
 hmclause.kg
 hoandcorp.kg
 hobbypark.kg
+hobypark.kg
 hochu.kg
 hockeylife.kg
 hoco.kg
@@ -5576,6 +5578,7 @@ jamaat.kg
 jamcy.kg
 jamk.kg
 jan.kg
+janaryk.kg
 janeiredale.kg
 jannat.kg
 janssencosmetics.kg
@@ -6466,6 +6469,7 @@ lazer.kg
 lazo.kg
 lb.kg
 lck.kg
+lcoin.kg
 lctv.kg
 lcw.kg
 lcwaikiki.kg
@@ -6925,7 +6929,6 @@ masele.kg
 masha.kg
 mashina.kg
 mashine.kg
-maska.kg
 masla.kg
 maslo.kg
 mass.kg
@@ -7415,7 +7418,6 @@ moneysend.kg
 monezium.kg
 monica.kg
 monki.kg
-monokoleso.kg
 monolit.kg
 monolith-pamir.kg
 monroy.kg
@@ -7658,6 +7660,7 @@ naryn-med.kg
 naryn-region.kg
 naryncity.kg
 naryncorp.kg
+narynimport.kg
 narynlib.kg
 narynokmot.kg
 naryntufoms.kg
@@ -7699,7 +7702,6 @@ naves.kg
 navi.kg
 navien.kg
 navigator.kg
-navigator-cafe.kg
 navigator-shipping.kg
 navigatorgroup.kg
 navitel.kg
@@ -8860,6 +8862,7 @@ proex.kg
 prof.kg
 prof-climat.kg
 profertil.kg
+profertil-female.kg
 proff-lab.kg
 profflab.kg
 profgmu.kg
@@ -9104,6 +9107,7 @@ reach-initiative.kg
 real-security.kg
 realcom.kg
 realestate.kg
+realorganic.kg
 realt.kg
 realting.kg
 realtor.kg
@@ -9381,7 +9385,6 @@ ruli.kg
 rus.kg
 rusbelt.kg
 rusclub.kg
-ruselya.kg
 rusichi.kg
 russellbedford.kg
 russia.kg
@@ -9413,9 +9416,11 @@ safeandsound.kg
 safebishkek.kg
 safeburg.kg
 safekids.kg
+safement.kg
 safetrading.kg
 safety.kg
 saffran.kg
+safihealth.kg
 sagynbaeva.kg
 sahna.kg
 sailing.kg
@@ -9945,6 +9950,7 @@ smartshop.kg
 smartsystem.kg
 smartteam.kg
 smarttech.kg
+smarttour.kg
 smarttravel.kg
 smarttv.kg
 smartuchet.kg
@@ -11408,6 +11414,7 @@ velo.kg
 velomesto.kg
 velours-noir.kg
 veloursnoir.kg
+velstar.kg
 velux.kg
 velvet.kg
 vemastroy.kg
@@ -11510,6 +11517,7 @@ visa.kg
 visacenter.kg
 visametric.kg
 vision.kg
+visit.kg
 visitkyrgyzstan.kg
 vit.kg
 vita-dent-lux.kg
@@ -11701,7 +11709,6 @@ west-cigarettes.kg
 west-east.kg
 westasia.kg
 westernunion.kg
-westex.kg
 westwing.kg
 wf.kg
 wgasia.kg
