@@ -959,6 +959,7 @@ curling.ax
 cut.ax
 cv.ax
 cv-invest.ax
+cvfood.ax
 cw.ax
 cwlaw.ax
 cx.ax
@@ -1200,6 +1201,7 @@ enklaregler.ax
 enklareregler.ax
 ennieriksson.ax
 enros.ax
+entax.ax
 enterprise.ax
 entrepreneur.ax
 envilla.ax
@@ -1667,6 +1669,7 @@ hbhandels.ax
 hbom.ax
 hbomax.ax
 hbtqia.ax
+hcf.ax
 hd.ax
 hdrglobaltrading.ax
 hdrglobaltradingltd.ax
@@ -2284,6 +2287,7 @@ loans.ax
 localhost.ax
 locotech.ax
 lofstrom.ax
+log.ax
 login.ax
 logistikcentrum.ax
 logofactory.ax
@@ -3633,6 +3637,7 @@ teateralandica.ax
 tecon.ax
 tehy.ax
 teknik.ax
+teknikhjalpen.ax
 teknikpartner.ax
 teknikutryckningen.ax
 telecom.ax
@@ -3658,6 +3663,7 @@ thescore.ax
 theshit.ax
 thompson.ax
 thor.ax
+thorn.ax
 thr.ax
 threadneedle.ax
 threads.ax
@@ -3758,6 +3764,7 @@ twint.ax
 twitch.ax
 twitter.ax
 tx.ax
+txt.ax
 ty.ax
 tyc.ax
 tyger.ax
@@ -3932,10 +3939,12 @@ vor.ax
 voxel.ax
 vp.ax
 vpa.ax
+vpn.ax
 vps.ax
 vr.ax
 vs.ax
 vsevmeste.ax
+vsfbk.ax
 vt.ax
 vu.ax
 vuokra-asunnot.ax
