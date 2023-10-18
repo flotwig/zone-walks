@@ -117,7 +117,6 @@
 23.ci
 233.ci
 24.ci
-24clozel.ci
 24hk.ci
 27-31.ci
 29617.ci
@@ -596,7 +595,6 @@ acateru.ci
 acb.ci
 acbusiness.ci
 access.ci
-access-avocats.ci
 accessoiresboutique.ci
 accessoirespourhommes.ci
 acci.ci
@@ -870,6 +868,7 @@ agromax.ci
 agrotherapie.ci
 agrotv.ci
 ags.ci
+agt.ci
 agtrans.ci
 agts.ci
 aguaplast.ci
@@ -897,6 +896,7 @@ aidir.ci
 aifm.ci
 aigf.ci
 aiglepro.ci
+aigles.ci
 aiglon.ci
 aimangroup.ci
 aio.ci
@@ -1684,6 +1684,7 @@ bateaux.ci
 bati.ci
 batidecor.ci
 batiforme.ci
+batimat.ci
 batiment.ci
 batiments.ci
 batimmoplus.ci
@@ -1760,6 +1761,7 @@ beluci.ci
 bem.ci
 bemtech.ci
 ben.ci
+ben24.ci
 bench.ci
 benchmark.ci
 benco.ci
@@ -4473,6 +4475,7 @@ ect.ci
 assiland.ed.ci
 ensea.ed.ci
 wir.ed.ci
+edamoashop.ci
 edav.ci
 edc.ci
 eddiecian.ci
@@ -4618,6 +4621,7 @@ eeadci-admin.ci
 eeadyg.ci
 eece.ci
 eect.ci
+eep.ci
 ef.ci
 efa-multiservices.ci
 efapel.ci
@@ -5027,6 +5031,7 @@ eulaliekouassi.ci
 eurama.ci
 eurec.ci
 eurodrive.ci
+eurofeu.ci
 eurofind.ci
 euroinnova.ci
 eurol.ci
@@ -5257,6 +5262,7 @@ fibb.ci
 fibm.ci
 fibonac.ci
 fibrivoire.ci
+ficc.ci
 ficcc.ci
 ficotek.ci
 ficpartenaire.ci
@@ -6036,6 +6042,7 @@ guinness.ci
 guiservicesholding.ci
 gumter.ci
 gumtree.ci
+gunter.ci
 gushi.ci
 gv.ci
 gw.ci
@@ -6123,7 +6130,6 @@ heppner.ci
 herassou.ci
 herc.ci
 hercules.ci
-here.ci
 herve-coiffure.ci
 herve-diaz.ci
 hessa.ci
@@ -6311,7 +6317,6 @@ icbconsulting.ci
 icbm.ci
 icc.ci
 icc-ficadex.ci
-icel.ci
 icg.ci
 ici.ci
 iciholding.ci
@@ -6882,7 +6887,6 @@ jadex.ci
 jafa.ci
 jafci.ci
 jafconsulting.ci
-jaimebouafle.ci
 jaimejacko.ci
 jaimejacqueville.ci
 jaimeman.ci
@@ -7178,7 +7182,6 @@ kgsarl.ci
 kgsecurity.ci
 kh.ci
 kh-immoservice.ci
-khimane.ci
 ki.ci
 kiabi.ci
 kic.ci
@@ -7318,6 +7321,7 @@ ksb.ci
 ksconsulting.ci
 kscotedivoire.ci
 kse.ci
+ksk-mtn.ci
 ksmc.ci
 ksmfilms.ci
 ktaaquarium.ci
@@ -7491,8 +7495,6 @@ le-celadon.ci
 le-dit-vin-abidjan.ci
 le-grain.ci
 le10decembre.ci
-le24boulevardclozel.ci
-le24clozel.ci
 le2minutes.ci
 le8closdesbateaux.ci
 lead.ci
@@ -8000,6 +8002,7 @@ mairieguiberoua.ci
 mairiejacqueville.ci
 mairiekouibly.ci
 mairiesongon.ci
+mairietengrela.ci
 mairietreichville.ci
 mairieyamoussoukro.ci
 maison.ci
@@ -8044,6 +8047,7 @@ mamairieetmoi.ci
 mamaison.ci
 mamaisonparfaite.ci
 mamba-btp.ci
+mamifresh.ci
 mamig.ci
 mammamia.ci
 manaf.ci
@@ -8262,6 +8266,7 @@ mel-bet.ci
 melaph.ci
 melbet.ci
 melbets.ci
+melianekuny.ci
 melicris.ci
 mellivora.ci
 meloger.ci
@@ -8740,7 +8745,6 @@ mypack.ci
 mypcs.ci
 mypro.ci
 myprofs.ci
-mys.ci
 mysi.ci
 myspace.ci
 mysteriousmarketing.ci
@@ -8761,6 +8765,7 @@ nac.ci
 naclo.ci
 nactalia.ci
 nadegedandou.ci
+nader.ci
 nadi.ci
 nadq.ci
 nag.ci
@@ -8867,6 +8872,7 @@ newfeel.ci
 newsdebabi.ci
 newsgeek.ci
 newtelematics.ci
+newtransit.ci
 nexans.ci
 next.ci
 next-step.ci
@@ -9598,14 +9604,12 @@ paysan.ci
 paytm.ci
 paytou.ci
 payu.ci
-payzik.ci
 pazar.ci
 pb.ci
 pc-mtn.ci
 pcb.ci
 pccet.ci
 pcci.ci
-pci.ci
 pcis.ci
 pcmarket.ci
 pco.ci
@@ -10272,7 +10276,6 @@ rentals.ci
 repae.ci
 repare-moi.ci
 repetiteur.ci
-repo.ci
 repprelci.ci
 repuloma.ci
 resam8.ci
@@ -11928,7 +11931,6 @@ totalmall.ci
 touax.ci
 touba.ci
 toubasarl.ci
-toumodi.ci
 toupah.ci
 tourex.ci
 tourextracking.ci
