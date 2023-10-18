@@ -50,6 +50,7 @@
 1fit.kg
 1ge.kg
 1media.kg
+1metall.kg
 1sovetnik.kg
 1stom.kg
 1studio.kg
@@ -676,6 +677,7 @@ allergomed.kg
 allgene.kg
 alliance.kg
 alliance-altyn.kg
+alliance-energia.kg
 alliance-mining.kg
 alliance-motors.kg
 alliance-press.kg
@@ -1035,6 +1037,7 @@ arstanbekov.kg
 art.kg
 art-ceramica.kg
 art-deco.kg
+art-pro.kg
 art-v.kg
 artauto.kg
 arte.kg
@@ -1076,7 +1079,6 @@ arzon.kg
 arzu.kg
 as.kg
 asa.kg
-asana.kg
 ascend.kg
 asdc.kg
 aseabrownboveri.kg
@@ -2161,6 +2163,7 @@ brita.kg
 british-study.kg
 britneyspears.kg
 brizz.kg
+broadway.kg
 broiler.kg
 broker.kg
 brokers.kg
@@ -2586,7 +2589,6 @@ clevertouch.kg
 clickmed.kg
 clickpay.kg
 climat.kg
-climat-prof.kg
 climat312.kg
 climate.kg
 climatefinance.kg
@@ -2600,7 +2602,6 @@ cloud1c.kg
 cloudpbx.kg
 cloudshop.kg
 cloudtelecom.kg
-clubhotel.kg
 clubmed.kg
 cluster.kg
 cm.kg
@@ -2672,6 +2673,7 @@ concept.kg
 concert.kg
 condair.kg
 conference.kg
+confetto.kg
 confidence.kg
 conmodum.kg
 connect.kg
@@ -3367,6 +3369,7 @@ ecomade.kg
 ecomap.kg
 ecomarket.kg
 ecomelt.kg
+ecomexpo.kg
 ecommerce.kg
 ecomobile.kg
 econom.kg
@@ -3398,7 +3401,6 @@ ecowall.kg
 ecpostavki.kg
 ecv.kg
 ed.kg
-eda.kg
 edc.kg
 edelweiss.kg
 edem.kg
@@ -3835,6 +3837,7 @@ evosoft.kg
 evrazia.kg
 evrika.kg
 evro-market.kg
+evro-okna.kg
 evrookna.kg
 evropa.kg
 evropol.kg
@@ -4956,7 +4959,6 @@ hram-teploklyuchenka.kg
 hrc.kg
 hrgroup.kg
 hrlab.kg
-hrp.kg
 hrs.kg
 hrspace.kg
 hsbc.kg
@@ -5017,8 +5019,8 @@ iana.kg
 ianbek.kg
 iati.kg
 ib.kg
-ibadat.kg
 ibank.kg
+ibao.kg
 ibaza.kg
 ibc.kg
 ibilim.kg
@@ -5268,6 +5270,7 @@ inspiro.kg
 instagram.kg
 instantransit.kg
 instax.kg
+instrument.kg
 instyle.kg
 insult.kg
 insurance.kg
@@ -5324,6 +5327,7 @@ intervale.kg
 interway.kg
 intetics.kg
 intex.kg
+intimmate.kg
 intobr.kg
 intoffice.kg
 intradev.kg
@@ -5379,6 +5383,7 @@ iqvector.kg
 ir.kg
 iradio.kg
 iran.kg
+irankerama.kg
 irbis-tech.kg
 irbis22.kg
 irc.kg
@@ -5460,6 +5465,7 @@ itcenter.kg
 itcom.kg
 itcraft.kg
 itctech.kg
+itctrade.kg
 iteam.kg
 itec.kg
 itech.kg
@@ -5503,6 +5509,7 @@ iuk.kg
 ivision.kg
 ivoclar-vivadent.kg
 ivoclarvivadent.kg
+ivox.kg
 iw.kg
 iwa.kg
 iwabishkek.kg
@@ -5939,6 +5946,7 @@ kfmipp.kg
 kfu.kg
 kfv.kg
 kg.kg
+kg-group.kg
 kg-metal.kg
 kg-metall.kg
 kg-ts.kg
@@ -6536,6 +6544,7 @@ lexus-bishkek.kg
 lfh.kg
 lg.kg
 lga.kg
+lge.kg
 li-ning.kg
 liahona.kg
 lib.kg
@@ -7870,7 +7879,6 @@ nortech.kg
 norton.kg
 not.kg
 not-palata.kg
-nota.kg
 notariat.kg
 notarius.kg
 notary.kg
@@ -7941,6 +7949,7 @@ nurbala.kg
 nurcinema.kg
 nuristan.kg
 nurjak.kg
+nurmebel.kg
 nurmeri.kg
 nurmi.kg
 nurpress.kg
@@ -8273,6 +8282,7 @@ oshmail.kg
 oshmarket.kg
 oshmip.kg
 oshmpu.kg
+oshonline.kg
 oshpark.kg
 oshshamy.kg
 oshsu.kg
@@ -8325,6 +8335,7 @@ otzyvsk.kg
 ourgeneration.kg
 outdoor.kg
 outdoorworld.kg
+ova.kg
 oway.kg
 owen.kg
 owl.kg
@@ -8340,6 +8351,7 @@ ozon.kg
 ozonecenter.kg
 p.kg
 p-b.kg
+p-shine.kg
 p2p.kg
 pa.kg
 paa.kg
@@ -8455,6 +8467,7 @@ pcenter.kg
 pchela24.kg
 pchelovod.kg
 pd.kg
+pdc.kg
 pe.kg
 peak.kg
 peakart.kg
@@ -9142,6 +9155,7 @@ regnames.kg
 regservice.kg
 regulatortek.kg
 regus.kg
+rehab.kg
 rehau.kg
 reinakench.kg
 reise.kg
@@ -9904,7 +9918,6 @@ smallhotel.kg
 smart.kg
 smart-hr.kg
 smart-key.kg
-smart-kyzmat.kg
 smart-taxi.kg
 smart-technology.kg
 smartbank.kg
@@ -9912,6 +9925,7 @@ smartbilim.kg
 smartbox.kg
 smartbuh.kg
 smartconsol.kg
+smartdev.kg
 smartenergy.kg
 smartex.kg
 smartfacade.kg
@@ -10055,6 +10069,7 @@ space.kg
 spacelogistics.kg
 spar.kg
 spares.kg
+spark.kg
 sparko.kg
 spartech.kg
 spasibo.kg
@@ -10409,7 +10424,6 @@ t-mobile.kg
 t-systems.kg
 taalimforum.kg
 taanyshuu.kg
-tab.kg
 tabilga.kg
 tabilgaonline.kg
 tabylga.kg
@@ -10471,6 +10485,7 @@ tapsell.kg
 taptaza.kg
 tara.kg
 tarakan.kg
+tarbia.kg
 tarbiya.kg
 tarbiyachy.kg
 target.kg
@@ -10523,6 +10538,7 @@ tazaloo.kg
 tazalux.kg
 tazalyk.kg
 tazar.kg
+tazaservice.kg
 tazasuu.kg
 tbc.kg
 tbcenter.kg
@@ -10878,6 +10894,7 @@ topclimat.kg
 topdevelopment.kg
 topnews.kg
 topnutrition.kg
+topsecurity.kg
 topshop.kg
 topsport.kg
 toptalent.kg
@@ -11273,6 +11290,7 @@ upmarketing.kg
 upmodels.kg
 ups.kg
 upwork.kg
+uragatrade.kg
 uralactiv.kg
 uralairlines.kg
 urban.kg
@@ -11301,7 +11319,6 @@ uslugi.kg
 uspoloassn.kg
 ust.kg
 usta.kg
-usta-service.kg
 ustagroup.kg
 ustart.kg
 ustat.kg
@@ -11718,6 +11735,7 @@ wildwuchs.kg
 willgroup.kg
 wilmax.kg
 win.kg
+windex.kg
 wine.kg
 winebar.kg
 winhouse.kg
