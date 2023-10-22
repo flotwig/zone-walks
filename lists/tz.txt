@@ -321,7 +321,6 @@ dri.tz
 dropbox.tz
 dstv.tz
 dstvondemand.tz
-duhosting.tz
 duka.tz
 dukaa.tz
 e-motion.tz
@@ -465,7 +464,6 @@ hilti.tz
 hisense.tz
 hisp.tz
 hitachi.tz
-hive.tz
 hlu.tz
 hol.tz
 holcim.tz
@@ -942,6 +940,7 @@ semabet.tz
 semita.tz
 senhasegura.tz
 servers.tz
+setl.tz
 settlo.tz
 sew.tz
 sew-eurodrive.tz
