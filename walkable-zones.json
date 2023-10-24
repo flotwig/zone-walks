@@ -31,6 +31,9 @@
       "zone": "christmas"
     },
     {
+      "zone": "ci"
+    },
+    {
       "zone": "cy"
     },
     {
@@ -38,6 +41,9 @@
     },
     {
       "zone": "dz"
+    },
+    {
+      "zone": "er"
     },
     {
       "zone": "flowers"
