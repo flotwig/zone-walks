@@ -782,7 +782,6 @@ afriqsolus.ci
 afrique-emergence.ci
 afrique-sur7.ci
 afriqueboutique.ci
-afriqueconsommation.ci
 afriqueexpresse.ci
 afriquehabitat.ci
 afriqueindustries.ci
@@ -904,6 +903,7 @@ aip.ci
 aip-mbtp.ci
 aipc.ci
 aiph.ci
+aips.ci
 air.ci
 airalo.ci
 airbnb.ci
@@ -934,6 +934,7 @@ akagroup.ci
 akason.ci
 akasroresorts.ci
 akassoh.ci
+akconsulting.ci
 akdsoft.ci
 aker-solutions.ci
 akersolutions.ci
@@ -959,7 +960,6 @@ akwabet.ci
 akwaholding.ci
 akwalab.ci
 akwatic-hotel.ci
-akworldbusinesservices.ci
 akzivia.ci
 akzonobel.ci
 al.ci
@@ -1026,6 +1026,7 @@ allocine.ci
 alloconso.ci
 allodoc.ci
 allodocteur.ci
+allodoto.ci
 allodriver.ci
 alloecole.ci
 allofinance.ci
@@ -3753,6 +3754,7 @@ ctc.ci
 ctech.ci
 cten.ci
 ctimmobiliers.ci
+ctm-construction.ci
 ctrl.ci
 cu.ci
 cua.ci
@@ -3904,6 +3906,7 @@ delia.ci
 delice.ci
 delicesbio.ci
 delinia.ci
+delivcom.ci
 dell.ci
 dell-emc.ci
 dell-tech.ci
@@ -3993,6 +3996,7 @@ diadagani.ci
 diagbox.ci
 diagoo.ci
 dialog.ci
+diamonddiscotheque.ci
 diamonds.ci
 dianox.ci
 diasponewtv.ci
@@ -5519,7 +5523,6 @@ freelance.ci
 freemarket.ci
 freesoft.ci
 freeview.ci
-freezone.ci
 frenchtechabidjan.ci
 fresco-info.ci
 freseniusmedicalcare.ci
@@ -5768,7 +5771,6 @@ glastint.ci
 glbgroup.ci
 glencoreagriculture.ci
 glenwood.ci
-glo.ci
 global.ci
 global-exchange.ci
 global-lab.ci
@@ -5970,7 +5972,6 @@ groupesamandje.ci
 groupeselecsa.ci
 groupesocietefamiliale-sarl.ci
 groupeterra.ci
-groupevignon.ci
 groupgranitbtp.ci
 groupmovalifreres.ci
 groupnour.ci
@@ -6420,7 +6421,6 @@ ilianncga.ci
 iliko.ci
 illigo.ci
 ilm.ci
-iloveabidjan.ci
 ilt.ci
 ilux.ci
 im.ci
@@ -7416,6 +7416,7 @@ lamaisonplus.ci
 lamajbel.ci
 lamamisarl.ci
 lambclub.ci
+lambda.ci
 lamblin.ci
 lame-academie.ci
 lamerepoulard.ci
@@ -7871,6 +7872,7 @@ luxeimmobilier.ci
 luxeking.ci
 luxes.ci
 luxoil.ci
+luxuria.ci
 luxurystore.ci
 lx.ci
 ns1.ly-bm.ci
@@ -8028,6 +8030,9 @@ majorevents.ci
 majortechnologie.ci
 makeup.ci
 makeuprevolution.ci
+maki-cinema.ci
+maki-lab.ci
+makicinema.ci
 makilab.ci
 makit.ci
 makkity.ci
@@ -8493,6 +8498,7 @@ moli.ci
 momo.ci
 momobank.ci
 momomarket.ci
+mon-imprimeur.ci
 mon-job.ci
 mon-livreur.ci
 monadressepostale.ci
@@ -8648,6 +8654,7 @@ mrsmart.ci
 ms.ci
 msa.ci
 msante.ci
+msbuilding.ci
 msc.ci
 msgroup.ci
 mshpcmu.ci
@@ -8933,6 +8940,7 @@ no.ci
 noblemultiservices.ci
 node.ci
 nodina.ci
+nolavie.ci
 nic.nom.ci
 nom-de-domaine.ci
 nom-domaine.ci
@@ -9282,6 +9290,7 @@ opportunitesjeunes.ci
 opportunity.ci
 opressing.ci
 ops.ci
+opticcenter.ci
 optikar.ci
 optima.ci
 optimarchegouro.ci
@@ -9733,7 +9742,6 @@ pigier.ci
 pihda.ci
 piment.ci
 pimentbleu.ci
-pinkberry.ci
 pinterest.ci
 pinut-dpe.ci
 pip.ci
@@ -9966,6 +9974,7 @@ profilegroup.ci
 profit-numerique.ci
 profood.ci
 progalva.ci
+progepef.ci
 progitech.ci
 program.ci
 programme-cancer.ci
@@ -10610,6 +10619,7 @@ sawimmobilier.ci
 sb.ci
 sba.ci
 sbc.ci
+sbdatessidistribution.ci
 sbholding.ci
 sbn.ci
 sbtic.ci
@@ -11864,6 +11874,7 @@ timgs.ci
 timo.ci
 timoos.ci
 tinapr.ci
+tinitz.ci
 tiny.ci
 tip.ci
 tiphara.ci
@@ -12106,6 +12117,7 @@ ult.ci
 ultracell.ci
 umc.ci
 umci.ci
+umindcreations.ci
 ummat.ci
 umo.ci
 umusic.ci
@@ -12154,6 +12166,7 @@ universdulivre.ci
 universelportrait.ci
 universite.ci
 universiteephrata.ci
+universitesoumare.ci
 universtelecoms.ci
 universtropic.ci
 univmetiers.ci
@@ -12538,7 +12551,6 @@ womy.ci
 wondoo.ci
 wood.ci
 woodin.ci
-woodindustry.ci
 woodmizer.ci
 woodoo.ci
 woodstauhn.ci
@@ -12717,6 +12729,7 @@ yopcitymall.ci
 yoplait.ci
 yopougon.ci
 yotech-africa.ci
+youagency.ci
 yougo.ci
 youscribe.ci
 youse.ci
