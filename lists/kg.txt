@@ -477,6 +477,7 @@ airmanas.kg
 airmatic.kg
 airport.kg
 airproducts.kg
+airqon.kg
 airsoft.kg
 airsupport.kg
 airticket.kg
@@ -560,7 +561,6 @@ aksa.kg
 aksakal.kg
 aksarai.kg
 aksay.kg
-akstroy.kg
 aksuu.kg
 aksuukenesh.kg
 aksy.kg
@@ -736,6 +736,7 @@ alpstroy.kg
 alsat.kg
 alsept.kg
 alstom.kg
+alt.kg
 altai.kg
 altair.kg
 altamira.kg
@@ -868,7 +869,6 @@ anketa.kg
 anm.kg
 ansa.kg
 ansari.kg
-antalyaplus.kg
 antares.kg
 antarex.kg
 antcar.kg
@@ -953,6 +953,7 @@ aquastylebishkek.kg
 aquatech.kg
 ar.kg
 araba.kg
+arabaev.kg
 arabiancenter.kg
 arabiansecrets.kg
 arabis.kg
@@ -1001,7 +1002,6 @@ argo.kg
 argument.kg
 argumenti.kg
 arhimed.kg
-aria.kg
 ariadnagroup.kg
 arico.kg
 ariet.kg
@@ -1039,7 +1039,6 @@ arsins.kg
 arstan-tech.kg
 arstan-tower.kg
 arstanbap.kg
-arstanbekov.kg
 art.kg
 art-ceramica.kg
 art-deco.kg
@@ -1048,6 +1047,7 @@ art-v.kg
 artauto.kg
 arte.kg
 arte-lamp.kg
+artel.kg
 artelgroup.kg
 artenika.kg
 arterium.kg
@@ -3091,6 +3091,7 @@ dilbartextile.kg
 dilgir.kg
 dilli-neo.kg
 dinamo.kg
+dino.kg
 dinocodes.kg
 dinosaur.kg
 dio.kg
@@ -3173,7 +3174,6 @@ dom.kg
 dom-bruschatki.kg
 dom-com.kg
 domain.kg
-domcom.kg
 domfrunze.kg
 domhome.kg
 domik.kg
@@ -4472,6 +4472,7 @@ git.kg
 github.kg
 givbox.kg
 givee.kg
+giz-employment.kg
 giz-health.kg
 gk.kg
 gknb.kg
@@ -4898,6 +4899,7 @@ hobypark.kg
 hochu.kg
 hockeylife.kg
 hoco.kg
+hodlex.kg
 hoff.kg
 hofmann.kg
 hohofilm.kg
@@ -5306,6 +5308,7 @@ interbilimosh.kg
 intercar.kg
 intercert.kg
 intercitytaxi.kg
+intercom.kg
 interconsult.kg
 interdean.kg
 interdom.kg
@@ -5380,6 +5383,7 @@ ipchain.kg
 ipfm.kg
 ipg.kg
 iphone.kg
+iplook.kg
 ipmatika.kg
 ipnet.kg
 ipoteka.kg
@@ -6120,6 +6124,7 @@ kofe.kg
 kogart.kg
 kohler.kg
 kohlerpowersystems.kg
+koishahotel.kg
 kok-jar-aimak.kg
 kokboru.kg
 koketka.kg
@@ -6127,6 +6132,7 @@ kokomeren.kg
 koksai.kg
 koldoo.kg
 kolesa.kg
+kolibri.kg
 kolin.kg
 kolpos.kg
 koltaxi.kg
@@ -6247,8 +6253,6 @@ kse-trade.kg
 ksf.kg
 ksh.kg
 ksk.kg
-kskdrev.kg
-ksktorg.kg
 ksla.kg
 ksmi.kg
 ksms.kg
@@ -6294,7 +6298,6 @@ kuntuu-aimak.kg
 kupi.kg
 kupicn.kg
 kupislona.kg
-kupuev.kg
 kurak.kg
 kurama.kg
 kurenkeev.kg
@@ -6849,7 +6852,6 @@ makers.kg
 makesite.kg
 makeup.kg
 makeupstore.kg
-makimania.kg
 makler312.kg
 makroconstruction.kg
 maks-tsn-osoo.kg
@@ -7376,6 +7378,7 @@ mnu.kg
 mo.kg
 moalemaviation.kg
 mobi.kg
+mobiba.kg
 mobil.kg
 mobilab.kg
 mobile.kg
@@ -8429,6 +8432,7 @@ parfumer.kg
 parfums.kg
 pargorkogo.kg
 pari.kg
+parimatch.kg
 park.kg
 parket.kg
 parkhotel.kg
@@ -8519,6 +8523,7 @@ penz.kg
 peoplehostel.kg
 pepex.kg
 pepsi.kg
+pereboi.kg
 pereezd.kg
 peregorodka.kg
 peregorodki.kg
@@ -8741,6 +8746,7 @@ poligrafiyabishkek.kg
 poliklinika.kg
 polimer.kg
 polis.kg
+polit.kg
 politklinika.kg
 politmer.kg
 poliv.kg
@@ -8948,6 +8954,7 @@ promprivod.kg
 prompt.kg
 promsystemi.kg
 promtech.kg
+promzona.kg
 pronet.kg
 pronova.kg
 pronta.kg
@@ -9074,7 +9081,6 @@ radisson.kg
 radissonblu.kg
 raduga.kg
 radugaplus.kg
-radugawest.kg
 raev.kg
 raevsky-clinic.kg
 rafting.kg
@@ -9436,7 +9442,6 @@ sadik.kg
 sadovnik.kg
 sady.kg
 sael.kg
-saf.kg
 safe.kg
 safeandsound.kg
 safebishkek.kg
@@ -9533,6 +9538,7 @@ santehnikbishkek.kg
 santehniki.kg
 santehnikprofi.kg
 santehplast.kg
+santehprofi.kg
 santo.kg
 sany.kg
 sanzhyraexpress.kg
@@ -9910,6 +9916,7 @@ skyfru.kg
 skygroup.kg
 skyhome.kg
 skyhotel.kg
+skyjet.kg
 skylab.kg
 skyline.kg
 skymobile.kg
@@ -10506,7 +10513,6 @@ tap.kg
 tapalak.kg
 tape.kg
 tapigo.kg
-tapki.kg
 tapsell.kg
 taptaza.kg
 tara.kg
@@ -11476,6 +11482,7 @@ vesta.kg
 vestel.kg
 vester.kg
 vesti.kg
+vestnik.kg
 vet.kg
 vetinstitut.kg
 vetmedservis.kg
@@ -12020,7 +12027,6 @@ zippo.kg
 zitagita.kg
 zivert.kg
 ziyarat.kg
-zjm.kg
 zkteco.kg
 zlata.kg
 zm.kg
