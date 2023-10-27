@@ -169,7 +169,6 @@
 2p.ci
 2pai-belier.ci
 2parsms.ci
-2probat-africa.ci
 2r.ci
 2saisons.ci
 2st.ci
@@ -1499,7 +1498,6 @@ auditinter.ci
 auici.ci
 aupadis.ci
 auparchemin.ci
-aupcn.ci
 aura.ci
 auriga.ci
 auromanagement.ci
@@ -1591,7 +1589,6 @@ ayoba.ci
 ayocar.ci
 ayoka.ci
 ayokarestaurant.ci
-ayooka.ci
 aysfintech.ci
 az.ci
 azadsecretariat.ci
@@ -1725,6 +1722,7 @@ baudouin.ci
 bayer.ci
 bayo.ci
 bayobab.ci
+bazouamarket.ci
 bazurhome.ci
 bb.ci
 bbbc.ci
@@ -2207,6 +2205,7 @@ cabinetezzeddine.ci
 cabinetfofana.ci
 cabinetgce.ci
 cabinetgesma.ci
+cabinetgsc.ci
 cabinethkb.ci
 cabineti2c.ci
 cabinetsarretallard.ci
@@ -2332,7 +2331,6 @@ carreauxluxe.ci
 carredor.ci
 carrefour.ci
 carrefour-ordinal.ci
-carrosseriedesamis.ci
 cartagro.ci
 carte-resident.ci
 cartecgroup.ci
@@ -4448,7 +4446,6 @@ eckbtpsa.ci
 ecl-fp.ci
 eclic.ci
 ecmafrique.ci
-ecnam.ci
 eco.ci
 eco-bio.ci
 eco-cuisine.ci
@@ -4718,7 +4715,6 @@ ekf.ci
 ekiptech.ci
 ekkou.ci
 eklectic.ci
-eklo.ci
 ekonett.ci
 ekosaf.ci
 eks.ci
@@ -5031,6 +5027,7 @@ etranzact.ci
 etravel.ci
 etrb.ci
 etsaida.ci
+etsamangoua.ci
 etsbmo.ci
 etscapaciteplus.ci
 etscoulibaly.ci
@@ -5146,7 +5143,6 @@ eyolike.ci
 ez.ci
 ezviz.ci
 f-37.ci
-f-decor.ci
 f1.ci
 f2.ci
 f2i.ci
@@ -5386,6 +5382,7 @@ fkt.ci
 flashauto.ci
 flashdor.ci
 flashresultats.ci
+flavor.ci
 flawlessskin.ci
 flctv.ci
 fleet.ci
@@ -5752,6 +5749,7 @@ getcom.ci
 gethsemane.ci
 getma.ci
 getzner.ci
+gextel.ci
 geza.ci
 gezaexpertises.ci
 gf.ci
@@ -5778,7 +5776,6 @@ ginnov.ci
 ginou.ci
 gip.ci
 gipf.ci
-gipse.ci
 girisim.ci
 girly.ci
 gis.ci
@@ -6971,6 +6968,7 @@ jenkins.ci
 jennifer.ci
 jenningslyon.ci
 jennyfer.ci
+jentreprends.ci
 jerecherche.ci
 jerryvalentin.ci
 jersey.ci
@@ -8023,6 +8021,7 @@ mairiededimbokro.ci
 mairiedejacqueville.ci
 mairiedeman.ci
 mairiedembatto.ci
+mairiedenapie.ci
 mairiedesoubre.ci
 mairiedetienko.ci
 mairiedezouanhounien.ci
@@ -8253,6 +8252,7 @@ medcy.ci
 medecin.ci
 medecinsdumonde.ci
 medequip.ci
+medex.ci
 medi.ci
 media.ci
 mediacenter.ci
@@ -8423,7 +8423,6 @@ millefirstbtp.ci
 millenia.ci
 millenium.ci
 millproservice.ci
-mima.ci
 min-jeunesse.ci
 minac.ci
 minagri.ci
@@ -9192,7 +9191,6 @@ oj.ci
 ojei.ci
 ok.ci
 okaidi.ci
-okam.ci
 okazit.ci
 okccommunication.ci
 okeygroup.ci
@@ -9219,7 +9217,6 @@ olt.ci
 olymp.ci
 om.ci
 omarche.ci
-omcg.ci
 omedia.ci
 omegatelecom.ci
 omenu.ci
@@ -9467,6 +9464,7 @@ osep.ci
 oser.ci
 oshdi.ci
 osicom.ci
+osnou.ci
 osonslerenouveau.ci
 osports.ci
 ospviaci.ci
@@ -10370,6 +10368,7 @@ rh360.ci
 rhcomgroup.ci
 rhcomgroupeloko.ci
 rhconnect.ci
+rhd-conseils.ci
 rhdp-bouake.ci
 rhdpofficiel.ci
 rhea.ci
@@ -10536,7 +10535,6 @@ safe.ci
 safe23.ci
 safed.ci
 safer.ci
-safetpro.ci
 safivoire.ci
 sagard.ci
 sageci.ci
@@ -11099,6 +11097,7 @@ sitcom.ci
 sitd-tourisme.ci
 site-technologie.ci
 siteca.ci
+sitere.ci
 siteweb.ci
 sith.ci
 sitho.ci
@@ -11209,6 +11208,7 @@ smsbox.ci
 smsc-vipnet.ci
 smscloud.ci
 smscomputer.ci
+smsnumeriques.ci
 smspro24.ci
 smtb.ci
 sn.ci
@@ -11918,7 +11918,6 @@ tishi.ci
 titho-express.ci
 tiu.ci
 tiva.ci
-tivumafrica.ci
 tjentreprise.ci
 tk.ci
 tl.ci
