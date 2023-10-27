@@ -43,7 +43,6 @@
 26.ax
 27.ax
 28.ax
-29.ax
 297.ax
 2d.ax
 2h.ax
@@ -53,7 +52,6 @@
 301.ax
 31.ax
 3152.ax
-317.ax
 32.ax
 33.ax
 333.ax
@@ -132,10 +130,8 @@
 92.ax
 93.ax
 95.ax
-951.ax
 96.ax
 97.ax
-976.ax
 98.ax
 985.ax
 99.ax
@@ -897,7 +893,6 @@ cityblommor.ax
 cityjuristerna.ax
 citylakarna.ax
 citymariehamn.ax
-citysport.ax
 civ.ax
 ck.ax
 ckh.ax
@@ -1316,6 +1311,7 @@ fc.ax
 fcaland.ax
 fcm.ax
 fd.ax
+fdc.ax
 fe.ax
 feelgood.ax
 feffe.ax
@@ -1656,7 +1652,6 @@ handicampen.ax
 handikappforbundet.ax
 handledning.ax
 hangouts.ax
-hanke.ax
 hankkija.ax
 hannes.ax
 hansen.ax
@@ -3880,6 +3875,7 @@ vedspisar.ax
 vendor.ax
 venmo.ax
 venn.ax
+ver.ax
 vera.ax
 verafilmfestival.ax
 verical.ax
