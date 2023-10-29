@@ -575,7 +575,6 @@ jupiter.tz
 kadihai.tz
 kaffon.tz
 kahawa.tz
-kahawapamoja.tz
 kandanda.tz
 kanisahalisi.tz
 kansaiplascon.tz
@@ -614,14 +613,12 @@ konyagi.tz
 kopa.tz
 kozica.tz
 kpmg.tz
-kptl.tz
 krabu.tz
 kran.tz
 krantz.tz
 kub.tz
 kuchi.tz
 kuchijogoo.tz
-kuda.tz
 kudaapp.tz
 kudabank.tz
 kuhoo.tz
@@ -678,7 +675,6 @@ madeintanzania.tz
 maersk.tz
 mag.tz
 magarimotors.tz
-magicnumber.tz
 mails.tz
 maisha.tz
 maisha-bora.tz
@@ -743,6 +739,7 @@ mmfl.tz
 mnadani.tz
 mobi.tz
 mobilebetting.tz
+mobitrack.tz
 mohamed.tz
 mollubricants.tz
 money.tz
@@ -1218,6 +1215,7 @@ zanzibarfurniture.tz
 zanzibarrealestate.tz
 zanzibartaxi.tz
 zanzipesa.tz
+zawadi.tz
 zesha.tz
 zmt.tz
 zmtltd.tz
