@@ -1076,7 +1076,6 @@ alstom.ci
 alt.ci
 alt-istea.ci
 altacado.ci
-altereco.ci
 alternative-si.ci
 altmtn.ci
 alubiz.ci
@@ -2748,7 +2747,6 @@ clarionoperations.ci
 clark.ci
 clasoftmedia.ci
 classeisrael.ci
-clci.ci
 cld.ci
 clean.ci
 clean-eburnie.ci
@@ -3607,7 +3605,6 @@ convergence.ci
 cookielabs.ci
 coop-asi.ci
 coopasag.ci
-coopawebcoop-ca.ci
 coopca-djouman.ci
 coopcan.ci
 cooperpharma.ci
@@ -4511,7 +4508,6 @@ edenia.ci
 edenservices.ci
 edgar.ci
 edi.ci
-edianoplus.ci
 ediattah.ci
 edificesreligieux.ci
 edimat.ci
@@ -5014,6 +5010,7 @@ ethicalfinance.ci
 ethique-sante.ci
 etia.ci
 etic.ci
+etigec.ci
 etikette.ci
 etipack.ci
 etm.ci
@@ -5556,7 +5553,6 @@ freshfridge.ci
 freym.ci
 fri.ci
 fricagri.ci
-frisch.ci
 frogans.ci
 fruinov.ci
 fruitiere.ci
@@ -5775,6 +5771,7 @@ ginnov.ci
 ginou.ci
 gip.ci
 gipf.ci
+gipse.ci
 girisim.ci
 girly.ci
 gis.ci
@@ -5960,6 +5957,7 @@ greniersolidaire.ci
 grid.ci
 griot.ci
 grkconsulting.ci
+grouilleurmind.ci
 ground-technologies.ci
 group-dfsh.ci
 group-ec.ci
@@ -7060,6 +7058,7 @@ jumiaproductionservices.ci
 jumiaservices.ci
 jumiatravel.ci
 jun.ci
+juris.ci
 jurisconseils.ci
 juristic.ci
 juru.ci
@@ -7093,7 +7092,6 @@ ka2i.ci
 kaba-freresgroup.ci
 kabowdtransport.ci
 kac-sarl.ci
-kachika.ci
 kaconseils.ci
 kacsarl.ci
 kadima.ci
@@ -7421,7 +7419,6 @@ lageco.ci
 lagence.ci
 lagnole.ci
 lagoonatours.ci
-lagripreneur.ci
 lagunaimmobilier.ci
 lagunaresort.ci
 lahoban.ci
@@ -8112,7 +8109,6 @@ manscaped.ci
 mantchan.ci
 manuhcigars.ci
 manut.ci
-manuti.ci
 map.ci
 mapa.ci
 mape-y.ci
@@ -8134,6 +8130,7 @@ marcheivoirien.ci
 marchespublics.ci
 marcory.ci
 marcushoward.ci
+marhabahotel.ci
 maridav.ci
 marinemarchande.ci
 marinenationale.ci
@@ -8456,7 +8453,6 @@ missportbouet.ci
 misterclean.ci
 mistersize.ci
 mistertic.ci
-misua.ci
 mit-institute.ci
 mitec.ci
 mito.ci
@@ -8757,7 +8753,6 @@ mycanal.ci
 mycarflix.ci
 mycwt.ci
 myfeedback.ci
-myfiducia.ci
 myfitness.ci
 myfitnesspal.ci
 myfood.ci
@@ -9753,6 +9748,7 @@ physis.ci
 phytoci.ci
 phytomer.ci
 pi.ci
+pi-card.ci
 pia.ci
 pic.ci
 pic-immobilier.ci
@@ -10347,7 +10343,6 @@ reve.ci
 revealschool.ci
 reveiloil.ci
 reverselinkage.ci
-reveye.ci
 revision.ci
 revisions.ci
 revist.ci
@@ -12467,7 +12462,6 @@ wci.ci
 wdmatic.ci
 we.ci
 wealthtechinnovations.ci
-web.ci
 web3.ci
 webaccess.ci
 webbfontaine.ci
@@ -12568,6 +12562,7 @@ wodana.ci
 wolflubes.ci
 wolfram.ci
 wolno.ci
+womy.ci
 wondoo.ci
 wood.ci
 woodin.ci
@@ -12795,7 +12790,6 @@ zelishop.ci
 zemarket.ci
 zen.ci
 zenithfm.ci
-zenmarket.ci
 zentiva.ci
 zerodegree.ci
 zerogachis.ci
