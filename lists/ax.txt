@@ -424,7 +424,6 @@ appspot.ax
 aprf.ax
 april.ax
 aprilkommunikation.ax
-aptusboka.ax
 aq.ax
 ar.ax
 arc.ax
@@ -2342,6 +2341,7 @@ lykko.ax
 lyko.ax
 lyyski.ax
 lyyskihome.ax
+lyyskis.ax
 lyyskitravels.ax
 m3.ax
 ma.ax
@@ -3056,6 +3056,7 @@ ravintolasoster.ax
 ray.ax
 rayo.ax
 rayostudios.ax
+rb.ax
 rc.ax
 rcaland.ax
 rd.ax
