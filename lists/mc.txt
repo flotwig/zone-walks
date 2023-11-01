@@ -1009,6 +1009,7 @@ eds.mc
 education.mc
 education-nationale.mc
 edwards.mc
+eec.mc
 eeckman-monaco.mc
 efgbank-monaco.mc
 egb.mc
@@ -1403,7 +1404,6 @@ harmoniesens.mc
 harmonisens.mc
 harrochrealestate.mc
 harrywinston.mc
-haumea.mc
 hautcommissariat.mc
 haute.mc
 hautemodels.mc
@@ -3225,6 +3225,7 @@ souvenirs-shop.mc
 spac.mc
 space-retail.mc
 spaceretail.mc
+spamonaco.mc
 spazioitaliano.mc
 speakeasy.mc
 specialolympicsmonaco.mc
