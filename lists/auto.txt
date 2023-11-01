@@ -131,6 +131,7 @@ diagbox.auto
 digital.auto
 direct.auto
 distributor-tires.auto
+dlr.auto
 domain.auto
 domains.auto
 dontwombatit.auto
@@ -453,7 +454,6 @@ tx.auto
 uber.auto
 ufabet.auto
 uniregistry.auto
-unlock.auto
 unr.auto
 upside.auto
 upstream.auto
