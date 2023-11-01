@@ -762,6 +762,7 @@ aluco.kg
 aluglass.kg
 alumil.kg
 aluplast.kg
+aluprof.kg
 alur-avto.kg
 alustar.kg
 alutech.kg
@@ -1076,7 +1077,6 @@ arzan.kg
 arzanall.kg
 arzanapteka.kg
 arzanmag.kg
-arzanosh.kg
 arzanpharm.kg
 arzon.kg
 arzu.kg
@@ -1179,6 +1179,7 @@ assist.kg
 assistent.kg
 association.kg
 assorti.kg
+astars.kg
 astellaspharma.kg
 aster.kg
 astergroup.kg
@@ -2577,6 +2578,7 @@ civicspacemonitor.kg
 civitta.kg
 ck1.kg
 ckggup.kg
+cks.kg
 cl.kg
 clariant.kg
 clarivate.kg
@@ -2854,6 +2856,7 @@ daimler-ag.kg
 daimlertruck.kg
 daina-tur.kg
 daira.kg
+dairyunion.kg
 daiyrhouse.kg
 dali.kg
 dalidali.kg
@@ -3244,7 +3247,6 @@ dremel.kg
 dresscode.kg
 drill.kg
 drinkit.kg
-drive.kg
 driver.kg
 drmartens.kg
 drogerie.kg
@@ -3574,7 +3576,6 @@ elmoney.kg
 elmuras.kg
 elo.kg
 elpay.kg
-elpharm.kg
 elplast.kg
 elpro.kg
 elpts.kg
@@ -4122,6 +4123,7 @@ flo.kg
 floor.kg
 floormax.kg
 floradordoi.kg
+floraltail.kg
 florist.kg
 flovell.kg
 flower.kg
@@ -4838,6 +4840,7 @@ hh.kg
 hh-software.kg
 hi.kg
 hi-fi.kg
+hi-tech.kg
 hibeta.kg
 hidayat.kg
 hidro-mek.kg
@@ -5219,7 +5222,6 @@ indimassage.kg
 indo.kg
 industrialcompany.kg
 industry.kg
-inec.kg
 inecon.kg
 inerto.kg
 inesse.kg
@@ -5763,6 +5765,7 @@ kalpen.kg
 kama.kg
 kamalov.kg
 kamasana.kg
+kamaz.kg
 kambarkan.kg
 kambarova.kg
 kamen.kg
@@ -6091,7 +6094,6 @@ kln.kg
 kloop.kg
 klp.kg
 kls.kg
-klv.kg
 kma.kg
 kmed.kg
 kmedical.kg
@@ -6157,6 +6159,7 @@ konicaminolta.kg
 konka.kg
 konovalovsad.kg
 konsul.kg
+kontakt.kg
 kontora.kg
 kontrafakt.kg
 kontrolit.kg
@@ -6790,7 +6793,6 @@ m-security.kg
 m-service.kg
 m-tc.kg
 m1.kg
-m1-service.kg
 m2.kg
 ma.kg
 maalymat.kg
@@ -6891,7 +6893,6 @@ mangyt-aimak.kg
 mann-schroeder.kg
 mannol.kg
 manty.kg
-manual.kg
 manul.kg
 manultrade.kg
 map.kg
@@ -7036,6 +7037,7 @@ mebel.kg
 mebel-forum.kg
 mebelgid.kg
 mebelin.kg
+mebelmixx.kg
 mebelpark.kg
 mebelpl.kg
 mebels.kg
@@ -7178,6 +7180,7 @@ mepeg.kg
 mercedes.kg
 mercedes-benz.kg
 mercedesbenz.kg
+merch.kg
 merchant.kg
 merchy.kg
 merci.kg
@@ -7595,6 +7598,7 @@ my-way.kg
 myagent.kg
 mybank.kg
 mybazar.kg
+mycafe.kg
 mycar.kg
 mychef.kg
 mycloud.kg
@@ -8279,7 +8283,6 @@ orthotech.kg
 ortomaster.kg
 ortoped.kg
 ortopedia.kg
-ortus.kg
 orukzar.kg
 orunbaikurbanbaev.kg
 os.kg
@@ -8537,6 +8540,7 @@ peri-film.kg
 perila.kg
 perimetr.kg
 perlator.kg
+perset.kg
 personagrata.kg
 personawatches.kg
 pervomaiskiy.kg
@@ -8780,7 +8784,6 @@ porsche.kg
 port.kg
 portal.kg
 portalpnk.kg
-porter.kg
 portertaxi.kg
 portwest.kg
 pos.kg
@@ -9144,6 +9147,7 @@ realorganic.kg
 realt.kg
 realting.kg
 realtor.kg
+realtors.kg
 rec.kg
 recensio.kg
 reclama.kg
