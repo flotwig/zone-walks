@@ -50,7 +50,6 @@
 1class.kg
 1fit.kg
 1ge.kg
-1media.kg
 1metall.kg
 1sovetnik.kg
 1stom.kg
@@ -950,6 +949,7 @@ aquastylebishkek.kg
 aquatech.kg
 ar.kg
 araba.kg
+arabaev.kg
 arabiancenter.kg
 arabiansecrets.kg
 arabis.kg
@@ -1922,7 +1922,6 @@ biohouse.kg
 biologique-recherche.kg
 biom.kg
 biomerieux.kg
-biometric.kg
 biomir.kg
 bionic.kg
 bionorica.kg
@@ -2317,7 +2316,6 @@ capital-group.kg
 capital-safe.kg
 capitalbank.kg
 capitalbroker.kg
-capitalplus.kg
 caps.kg
 capstroy.kg
 capsule-hostel.kg
@@ -3764,6 +3762,7 @@ etibakirtereksai.kg
 etiketka.kg
 etiketki.kg
 etiler.kg
+etno.kg
 etnomedia.kg
 etoro.kg
 etrade.kg
@@ -4016,6 +4015,7 @@ festo.kg
 fevek.kg
 fey.kg
 feya.kg
+ff.kg
 ffin.kg
 ffkr.kg
 fftrace.kg
@@ -4174,6 +4174,7 @@ foodprofi.kg
 foodproject.kg
 football.kg
 footballacademy.kg
+fop.kg
 for.kg
 forbes.kg
 forcepoint.kg
@@ -5204,7 +5205,6 @@ imu.kg
 imurab.kg
 in.kg
 in-cargo.kg
-in-love.kg
 inai.kg
 inbox.kg
 inc.kg
@@ -5260,7 +5260,6 @@ inhouse.kg
 inhouse-app.kg
 ink.kg
 inkor.kg
-inlove.kg
 inmarket.kg
 inmarko.kg
 inmobiles.kg
@@ -5509,6 +5508,7 @@ itproxy.kg
 itrade.kg
 itref.kg
 itresource.kg
+itrun.kg
 itrusco.kg
 its.kg
 itsaboutyou.kg
@@ -5741,12 +5741,12 @@ kaesun.kg
 kafe.kg
 kafesoft.kg
 kaflu.kg
+kaganat-solar.kg
 kaganatfc.kg
 kaganatinvest.kg
 kagaz.kg
 kai.kg
 kaidabaram.kg
-kaif.kg
 kaiflo.kg
 kaikonder.kg
 kaimak.kg
@@ -5953,7 +5953,6 @@ kesip.kg
 ketmen-dobo.kg
 kettik.kg
 keu.kg
-key-bishkek.kg
 key-lock.kg
 key312.kg
 keydev.kg
@@ -6587,6 +6586,7 @@ licei25.kg
 license.kg
 licenzia.kg
 licenzii.kg
+licenziya.kg
 licey.kg
 licey19.kg
 licey49.kg
@@ -6660,6 +6660,8 @@ lit.kg
 litech.kg
 litenergy.kg
 literatura.kg
+litsenzii.kg
+litsenziya.kg
 littlejapan.kg
 litum.kg
 liu.kg
@@ -6689,6 +6691,7 @@ lockstock.kg
 loctech.kg
 lodestar.kg
 lodgik.kg
+lodyr.kg
 loft.kg
 log.kg
 logic.kg
@@ -7053,6 +7056,7 @@ medart.kg
 medayim.kg
 medbase.kg
 medcenter.kg
+medcenterkgma.kg
 medcheck.kg
 medcity.kg
 medclinic.kg
@@ -7301,6 +7305,7 @@ mildronate.kg
 milk.kg
 milk-master.kg
 milkkids.kg
+milkyway.kg
 millas.kg
 millenium-s.kg
 million.kg
@@ -7674,6 +7679,7 @@ naniko.kg
 nano.kg
 naprokat.kg
 narahate.kg
+nardy.kg
 nargizafin.kg
 narod.kg
 naryn.kg
@@ -8012,7 +8018,6 @@ obereg.kg
 oberon.kg
 oblako.kg
 obmen.kg
-obnovis.kg
 obo.kg
 oboi.kg
 obondoru.kg
@@ -8059,6 +8064,7 @@ officeexpert.kg
 officehr.kg
 officepoint.kg
 offpoly.kg
+offroadmoto.kg
 offspring.kg
 ogo.kg
 ogogo.kg
@@ -8071,7 +8077,6 @@ oil.kg
 oil-products-llc.kg
 oimedia.kg
 oimo.kg
-oimotash.kg
 oimotech.kg
 oir.kg
 oit.kg
@@ -9002,6 +9007,7 @@ pt.kg
 ptech.kg
 pto.kg
 pts.kg
+ptt.kg
 publicis.kg
 pulscen.kg
 pulsetec.kg
@@ -9291,6 +9297,7 @@ rielta.kg
 rifar.kg
 riha.kg
 riho.kg
+rimalog.kg
 riman.kg
 rimar.kg
 rimi.kg
@@ -9684,6 +9691,7 @@ serenity.kg
 serep.kg
 serial.kg
 serials.kg
+serm.kg
 sert.kg
 serten.kg
 sertescentr.kg
@@ -9812,6 +9820,7 @@ shopware.kg
 shoro.kg
 showgo.kg
 showmax.kg
+showroom.kg
 shows.kg
 showsurpriz312.kg
 showtoday.kg
@@ -10166,6 +10175,7 @@ spubl.kg
 sputnik.kg
 spz03.kg
 sq.kg
+sr.kg
 srelectrocars.kg
 srimpex.kg
 sris.kg
@@ -10299,6 +10309,7 @@ stroydvor.kg
 stroyka.kg
 stroylevel.kg
 stroymarket.kg
+stroymig.kg
 stroyprice.kg
 stroytehnika.kg
 stswb.kg
@@ -10506,7 +10517,6 @@ tana.kg
 tanauto.kg
 tandoo.kg
 tangaroa-co.kg
-tangatarov.kg
 tanit.kg
 tank.kg
 tansu.kg
@@ -10573,7 +10583,6 @@ tazabek.kg
 tazabulak.kg
 tazakoom.kg
 tazaloo.kg
-tazalux.kg
 tazalyk.kg
 tazar.kg
 tazaservice.kg
@@ -10626,6 +10635,7 @@ technogym-kg.kg
 technoland-pf.kg
 technology.kg
 technomarket.kg
+technomart.kg
 technomix.kg
 technonicol.kg
 technopark.kg
@@ -11127,7 +11137,6 @@ tumarsoft.kg
 tumblr.kg
 tuncal.kg
 tunduk.kg
-tunduk-hostel.kg
 tunduktravel.kg
 tuning.kg
 tunuke.kg
@@ -11655,7 +11664,6 @@ vozovoz.kg
 vpdn.kg
 vpn.kg
 vr.kg
-vremyauborki.kg
 vroom.kg
 vsb.kg
 vsbrothers.kg
@@ -11913,6 +11921,7 @@ ydoc.kg
 yealink.kg
 yel.kg
 yes.kg
+yess.kg
 yk.kg
 yk61.kg
 ykc.kg
@@ -12034,6 +12043,7 @@ zhzl-asia.kg
 zic.kg
 zigzag.kg
 zil.kg
+zilon.kg
 zima.kg
 zimaleto.kg
 zina.kg
