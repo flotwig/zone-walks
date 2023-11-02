@@ -157,9 +157,13 @@
       "zone": "gn"
     },
     {
+      "domains": "7",
+      "zone": "er"
+    },
+    {
       "domains": "5",
       "zone": "lb"
     }
   ],
-  "total": "2681400"
+  "total": "2681407"
 }
