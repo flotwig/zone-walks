@@ -21,7 +21,6 @@
 12.ax
 123.ax
 123domain.ax
-13.ax
 1337.ax
 138.ax
 15.ax
@@ -582,6 +581,7 @@ beautybay.ax
 becker.ax
 beesw.ax
 beesyssla.ax
+befree.ax
 beherzig.ax
 belcanto.ax
 bemanning.ax
@@ -1000,7 +1000,6 @@ deal.ax
 debtcollection.ax
 decuro.ax
 deepoil.ax
-defi.ax
 degamlashem.ax
 degerbygasthamn.ax
 degersand.ax
@@ -1010,7 +1009,6 @@ delicatessen.ax
 deluxe.ax
 delvik.ax
 demens.ax
-demo.ax
 dentalcenter.ax
 design.ax
 designtothem.ax
@@ -1037,6 +1035,7 @@ disponent.ax
 disponenta.ax
 disponenthuset.ax
 dj.ax
+djm.ax
 djupsund.ax
 djur.ax
 djurlyckan.ax
@@ -1190,6 +1189,7 @@ energi.ax
 energikontroll.ax
 energipartner.ax
 energyisland.ax
+energyislandaland.ax
 energystorage.ax
 enfuce.ax
 engblom.ax
@@ -2138,7 +2138,9 @@ kpe.ax
 kpmg.ax
 kr.ax
 kraftnat.ax
+kran.ax
 kranab.ax
+kranaland.ax
 kranis.ax
 kranmarkt.ax
 kravmaga.ax
@@ -2373,7 +2375,6 @@ maria.ax
 mariebad.ax
 mariehamn.ax
 mariehamndansarochler.ax
-mariehamnsbyggtjanst.ax
 mariehamnshamn.ax
 mariehamnsliberalerna.ax
 marievet.ax
@@ -2425,6 +2426,7 @@ mattexpressen.ax
 mattssons.ax
 mattssonssvets.ax
 max.ax
+maxim.ax
 maxinge.ax
 maxingecenter.ax
 maxm.ax
@@ -2529,6 +2531,8 @@ mo.ax
 mobi.ax
 mobil.ax
 mobile.ax
+mobilkran.ax
+mobilkranaland.ax
 moderat.ax
 moderaterna.ax
 moderatsamling.ax
@@ -4031,6 +4035,7 @@ wo.ax
 wohnmobil.ax
 wohnmobile.ax
 wolf.ax
+wolff.ax
 won.ax
 woodline.ax
 woody.ax
@@ -4116,7 +4121,6 @@ xn--landshandel-w8a.ax
 xn--landsidrott-w8a.ax
 xn--landslagting-scb.ax
 xn--landspilen-05a.ax
-xn--lembtesdergrds-vib8xd.ax
 xn--lex-tla.ax
 xn--lindstromland-xfb.ax
 xn--lnedag-wxa.ax
