@@ -23,7 +23,6 @@
 123domain.ax
 1337.ax
 138.ax
-15.ax
 166.ax
 168.ax
 171.ax
@@ -509,6 +508,7 @@ ax-el.ax
 ax-stallions.ax
 ax3.ax
 axa.ax
+axc.ax
 axcec.ax
 axcon.ax
 axe.ax
@@ -1450,6 +1450,7 @@ ftp.ax
 fujitsu.ax
 fulh.ax
 fundler.ax
+funktionsrattaland.ax
 fur.ax
 furulundsgarden.ax
 futureh.ax
@@ -1642,7 +1643,8 @@ hamsafe.ax
 hancock.ax
 handel.ax
 handicampen.ax
-handikappforbundet.ax
+handlahemma.ax
+handlalokalt.ax
 handledning.ax
 hangouts.ax
 hankkija.ax
@@ -2374,6 +2376,7 @@ maria.ax
 mariebad.ax
 mariehamn.ax
 mariehamndansarochler.ax
+mariehamnsbyggtjanst.ax
 mariehamnshamn.ax
 mariehamnsliberalerna.ax
 marievet.ax
@@ -3079,6 +3082,7 @@ ref.ax
 refinitiv.ax
 refuture.ax
 regeringen.ax
+register.ax
 registrar.ax
 registrera.ax
 registry.ax
