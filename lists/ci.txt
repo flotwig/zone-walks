@@ -329,6 +329,7 @@
 61ty.ci
 62.ci
 62-37.ci
+626.ci
 6277.ci
 63.ci
 65.ci
@@ -814,7 +815,6 @@ afritechsol.ci
 afrivente.ci
 afro.ci
 afrogeek.ci
-afrogeeks.ci
 afrolead.ci
 afropari.ci
 afs.ci
@@ -1685,7 +1685,6 @@ barm.ci
 barney.ci
 barnoininformatique.ci
 barold.ci
-barrier.ci
 barriere-bet.ci
 barriere-play.ci
 barrierebet.ci
@@ -1917,7 +1916,6 @@ biooil.ci
 biopharma.ci
 biopharmacy.ci
 biosave.ci
-biosource.ci
 biosynergie.ci
 biotech.ci
 bioyam.ci
@@ -2408,6 +2406,7 @@ ccm.ci
 ccmena.ci
 ccp.ci
 ccrm.ci
+ccs.ci
 cd.ci
 cd-avocat.ci
 cdaim.ci
@@ -2569,6 +2568,7 @@ chiami.ci
 chic.ci
 chic-coin.ci
 chic-coq.ci
+chicafricabeauty.ci
 chicco.ci
 chicking.ci
 chicpanier.ci
@@ -3847,7 +3847,6 @@ damemature.ci
 damtrans.ci
 dan.ci
 dandouco.ci
-danfe.ci
 danistore.ci
 danixt.ci
 dansar.ci
@@ -4350,6 +4349,7 @@ e-inclusion.ci
 e-jlm.ci
 e-jober.ci
 e-lavandiere.ci
+e-life.ci
 e-mark.ci
 e-mpd.ci
 e-planning.ci
@@ -4509,6 +4509,7 @@ edenia.ci
 edenservices.ci
 edgar.ci
 edi.ci
+edianoplus.ci
 ediattah.ci
 edificesreligieux.ci
 edimat.ci
@@ -4892,10 +4893,8 @@ epea.ci
 eperlan.ci
 epermis.ci
 epi.ci
-epicerie-epicure.ci
 epicesdegraces.ci
 epici.ci
-epicure.ci
 episcrm.ci
 epistrophe.ci
 epitech.ci
@@ -5661,7 +5660,6 @@ gece.ci
 gecer.ci
 gecgroupeloko.ci
 geco.ci
-gecos.ci
 ged-aip.ci
 ged1-orange.ci
 gedjustice.ci
@@ -5736,6 +5734,7 @@ gestimo.ci
 gestion-projets.ci
 gestionauto.ci
 gestionisa.ci
+gestmag.ci
 gestoci.ci
 gestopark.ci
 gesvisbaa.ci
@@ -6650,6 +6649,7 @@ intraverse.ci
 intucielservices.ci
 inu.ci
 inventorys.ci
+investir.ci
 invicta.ci
 inviskimmo.ci
 invoi.ci
@@ -6675,6 +6675,7 @@ ipmservices.ci
 ipnetp.ci
 ipravi.ci
 iprodis.ci
+ips.ci
 ips-equipment.ci
 ips-wa.ci
 ipscnam.ci
@@ -7071,6 +7072,7 @@ juulpod.ci
 juulpods.ci
 juvenile-dde.ci
 jv.ci
+jw-consulting.ci
 jx.ci
 k-62.ci
 k-education.ci
@@ -7235,7 +7237,6 @@ kinka.ci
 kiosque.ci
 kiosquemtn.ci
 kip.ci
-kipay.ci
 kiprun.ci
 kipsta.ci
 kira.ci
@@ -7298,7 +7299,6 @@ konecoservice.ci
 konefamaria.ci
 koneyinholding.ci
 konicaminolta.ci
-konichenergies.ci
 konnect.ci
 kontinental.ci
 konvergo.ci
@@ -7323,7 +7323,6 @@ kouralis.ci
 koutouan.ci
 kp.ci
 kpatta.ci
-kpdelivery.ci
 kpmg.ci
 kpmgci-academie.ci
 kpmgcirecrutement.ci
@@ -7509,7 +7508,6 @@ ld.ci
 ld-mining.ci
 ldb.ci
 ldc.ci
-lde.ci
 le.ci
 le-batisseur.ci
 le-celadon.ci
@@ -7628,7 +7626,6 @@ lerevendeur.ci
 lerichelieu.ci
 lerizdesmontagnes.ci
 leroy-merlin.ci
-leroyalpalace.ci
 leroymerlin.ci
 lerucher.ci
 les-bouquets-canal-plus.ci
@@ -7771,7 +7768,7 @@ livescorebet.ci
 livescorepro.ci
 livewithconfidence.ci
 livingtomorrowintoday.ci
-livraison-express.ci
+livreur.ci
 livronschezvous.ci
 ljastore.ci
 lka-app.ci
@@ -7786,7 +7783,6 @@ lmai-vie.ci
 lmc.ci
 lmci.ci
 lmci2003.ci
-lmdc.ci
 lms.ci
 lmunatt.ci
 ln.ci
@@ -8243,7 +8239,6 @@ mecalux.ci
 mecano.ci
 mecci.ci
 med.ci
-medcy.ci
 medecin.ci
 medecinsdumonde.ci
 medequip.ci
@@ -8545,7 +8540,6 @@ monconfort.ci
 monconseillerimmobilier.ci
 monconsultant.ci
 moncourrier.ci
-moncoursier.ci
 moncredit.ci
 monde-informatique.ci
 mondealer.ci
@@ -9186,6 +9180,7 @@ oj.ci
 ojei.ci
 ok.ci
 okaidi.ci
+okam.ci
 okazit.ci
 okccommunication.ci
 okeygroup.ci
@@ -9834,6 +9829,7 @@ pmp-capm.ci
 pmp-pmo.ci
 pmrh.ci
 pmua.ci
+pnci.ci
 pndap.ci
 pndc.ci
 pneus-online.ci
@@ -9868,6 +9864,7 @@ pompesfunebresdefrance.ci
 pong.ci
 pongori.ci
 pont-hkb.ci
+popocarnavalbonoua.ci
 pops.ci
 porcelanosa.ci
 pordes.ci
@@ -10086,6 +10083,7 @@ pushafrica.ci
 pushnpull.ci
 putlocker.ci
 pv.ci
+pvancodinorm.ci
 pvrh-org.ci
 pvrh2.ci
 pw.ci
@@ -10146,6 +10144,7 @@ qwankido-thanhlong.ci
 qwe.ci
 qx.ci
 qz.ci
+r-tech.ci
 r1883.ci
 r5.ci
 r6.ci
@@ -10251,7 +10250,6 @@ reduction.ci
 reeseric.ci
 ref.ci
 refer.ci
-refloat.ci
 regie.ci
 regieindenie.ci
 regiesilences.ci
@@ -11607,6 +11605,7 @@ supciterneocit.ci
 supeco.ci
 supelite.ci
 supercadeaux.ci
+supercarte.ci
 superforce.ci
 supergooal.ci
 superkart.ci
@@ -11870,7 +11869,9 @@ tic4ed.ci
 ticafrique.ci
 tichshop.ci
 ticket.ci
+ticket-fif.ci
 tickets.ci
+tickets-fif.ci
 tickey.ci
 tictachost.ci
 tictachosting.ci
@@ -12223,7 +12224,6 @@ usr.ci
 ussa.ci
 ussac.ci
 uta.ci
-uta-universite.ci
 utb.ci
 utc.ci
 uti.ci
@@ -12279,7 +12279,6 @@ vendezvotrevoiture.ci
 venividivi.ci
 venoa.ci
 vente.ci
-venteflash.ci
 ventesprivees.ci
 ventoo.ci
 ventouz.ci
@@ -12549,6 +12548,7 @@ winex.ci
 winfleetservices.ci
 winihost.ci
 winlogic.ci
+winlogistics.ci
 winner.ci
 winnerbet.ci
 wino.ci
