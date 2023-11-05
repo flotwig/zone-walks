@@ -51,7 +51,6 @@
 1fit.kg
 1ge.kg
 1metall.kg
-1sovetnik.kg
 1stom.kg
 1studio.kg
 1tv.kg
@@ -268,7 +267,6 @@ active.kg
 activedesign.kg
 activegroup.kg
 activeleasing.kg
-activity.kg
 actrading.kg
 ad.kg
 ad-limited.kg
@@ -627,7 +625,6 @@ alex-style.kg
 alexa.kg
 alexcatering.kg
 alfa.kg
-alfa-stroy.kg
 alfa-wpn.kg
 alfabit.kg
 alfaleader.kg
@@ -3434,7 +3431,6 @@ educationfirst.kg
 edudos.kg
 edugate.kg
 eduordo.kg
-edupress.kg
 eduroam.kg
 edus.kg
 eduviso.kg
@@ -4518,7 +4514,6 @@ globaltaxi.kg
 globaltech.kg
 globaltrading.kg
 globaltrend.kg
-globalway.kg
 globbing.kg
 globotrans.kg
 globus.kg
@@ -5791,7 +5786,6 @@ kancmaster.kg
 kancservice.kg
 kant.kg
 kantcement.kg
-kantoil.kg
 kantslate.kg
 kantsut.kg
 kanysh-kya.kg
@@ -8284,6 +8278,7 @@ orienthotel.kg
 oriflame.kg
 oriflame-cosmetics.kg
 oriflamecosmetics.kg
+orion.kg
 oriontrans.kg
 orlovka.kg
 ormed.kg
@@ -9150,7 +9145,6 @@ rcn.kg
 rcpn.kg
 rcs.kg
 rct.kg
-rcut.kg
 rd.kg
 rdevice.kg
 rdf.kg
@@ -10418,6 +10412,7 @@ suraya.kg
 surdolodgy.kg
 suroo.kg
 sursil.kg
+surya.kg
 sushi.kg
 sushi-master.kg
 sushi-star.kg
@@ -10495,7 +10490,6 @@ tabilga.kg
 tabilgaonline.kg
 tabylga.kg
 tabylgaonline.kg
-tabys.kg
 tachka.kg
 tachki.kg
 taekwondo.kg
@@ -11844,7 +11838,6 @@ womenintech.kg
 wonderland.kg
 wonlex.kg
 wood-pellets.kg
-woodstandard.kg
 woody-art.kg
 woox.kg
 wordpress.kg
