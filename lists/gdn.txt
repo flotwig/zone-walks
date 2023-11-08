@@ -5122,7 +5122,6 @@ echo.gdn
 echocardiograph.gdn
 echosoundinginstruments.gdn
 ecig.gdn
-ecigs.gdn
 ecm.gdn
 ecn.gdn
 ecn-broker.gdn
@@ -5348,7 +5347,6 @@ electrolysismachines.gdn
 electron.gdn
 electronic.gdn
 electroniccalculators.gdn
-electroniccigarette.gdn
 electronicdiaries.gdn
 electronicgoods.gdn
 electronicinstruments.gdn
@@ -12013,7 +12011,6 @@ unesi.gdn
 unfair.gdn
 unfinishedfurniture.gdn
 unfinishedwoodfurniture.gdn
-ungcc.gdn
 uni.gdn
 unifonic.gdn
 uniform.gdn
