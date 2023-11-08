@@ -817,7 +817,6 @@ canon.ax
 canva.ax
 cap.ax
 capital.ax
-car.ax
 caravan.ax
 caravanclub.ax
 carb.ax
@@ -897,7 +896,6 @@ clima.ax
 climatepledge.ax
 cln.ax
 clock.ax
-cloud.ax
 clt.ax
 clubclas.ax
 clubmarin.ax
@@ -2530,6 +2528,7 @@ mobil.ax
 mobile.ax
 mobilkran.ax
 mobilkranaland.ax
+model.ax
 moderat.ax
 moderaterna.ax
 moderatsamling.ax
