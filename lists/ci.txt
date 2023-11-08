@@ -689,7 +689,6 @@ adik.ci
 adiko-immobilier.ci
 adiqa.ci
 adis.ci
-adisa.ci
 adjola.ci
 adjuwa.ci
 admin.ci
@@ -1032,6 +1031,7 @@ allcommoditiescompany.ci
 allegion.ci
 allemand24.ci
 allforsight.ci
+alliance.ci
 alliance-overseas.ci
 alliancesun.ci
 alliancevoyages.ci
@@ -1309,7 +1309,6 @@ artens.ci
 arthurandersen.ci
 arthurmartin.ci
 arti.ci
-articlescolaires.ci
 artisanat.ci
 artistes.ci
 arts.ci
@@ -1629,6 +1628,7 @@ baby-boom.ci
 babyliss.ci
 bac.ci
 bacademy.ci
+bacenligne.ci
 baci.ci
 background.ci
 backmarket.ci
@@ -2562,7 +2562,6 @@ chery.ci
 cherylgroup.ci
 chevous.ci
 chezartisan.ci
-chezmarc.ci
 chezmoi.ci
 chiami.ci
 chic.ci
@@ -2637,6 +2636,7 @@ cicotrans.ci
 cidafrique.ci
 cidex.ci
 cidexmotors.ci
+cidfor.ci
 cidt.ci
 cie.ci
 cied.ci
@@ -3915,7 +3915,6 @@ decoratep.ci
 decoration.ci
 decorex.ci
 decoria.ci
-decorivoire.ci
 decouverte.ci
 deepcleaning.ci
 defi.ci
@@ -4659,6 +4658,7 @@ egarage.ci
 egard.ci
 egbosarl.ci
 egci.ci
+egeb.ci
 egeci.ci
 egfop.ci
 egkhr.ci
@@ -4838,7 +4838,6 @@ ena.ci
 enap49.ci
 enaudit.ci
 enboucle.ci
-encheres.ci
 enerci.ci
 energy-pool.ci
 energyxipi.ci
@@ -5171,6 +5170,7 @@ faischap.ci
 fajardogroup.ci
 faka.ci
 fala-fala-code.ci
+fallyticket.ci
 famien.ci
 famiravoyages.ci
 fan.ci
@@ -5279,6 +5279,7 @@ fi.ci
 fiamc.ci
 fiat.ci
 fiatprofessional.ci
+fibad.ci
 fibb.ci
 fibm.ci
 fibonac.ci
@@ -5609,7 +5610,6 @@ galileo-cashport.ci
 gamca.ci
 game.ci
 gamemaster.ci
-games.ci
 gamservices.ci
 gap.ci
 garderielespetitsgenies.ci
@@ -5691,6 +5691,7 @@ genesis.ci
 genetrix.ci
 geniall.ci
 geniegroupe.ci
+geniesenherbe.ci
 genietechimmobilier.ci
 genius.ci
 geniusbet.ci
@@ -5787,6 +5788,7 @@ gkl.ci
 gl.ci
 glamira.ci
 glastint.ci
+gleam.ci
 glencoreagriculture.ci
 glenwood.ci
 global.ci
@@ -5958,6 +5960,7 @@ grouilleurmind.ci
 ground-technologies.ci
 group-dfsh.ci
 group-ec.ci
+groupadkplenty.ci
 groupado.ci
 groupbsd.ci
 groupe-ctc.ci
@@ -6446,6 +6449,7 @@ ilt.ci
 ilux.ci
 im.ci
 ima.ci
+imagenismedia.ci
 imagin-plus.ci
 imaginecom.ci
 imaginefair.ci
@@ -6837,6 +6841,7 @@ ivoireserviceplus.ci
 ivoiresms.ci
 ivoiretaxis.ci
 ivoiretechnocom.ci
+ivoireterrain.ci
 ivoireticdigital.ci
 ivoiretoner.ci
 ivoiretrader.ci
@@ -7135,6 +7140,7 @@ kanequipements.ci
 kangaroos.ci
 kanguru.ci
 kanri.ci
+kanstore.ci
 kantis.ci
 kanvoo.ci
 kap-expertise.ci
@@ -7475,7 +7481,6 @@ latulipefood.ci
 latulipegroup.ci
 latulipetransit.ci
 launch.ci
-laura.ci
 laurastar.ci
 lauri.ci
 lautrerive.ci
@@ -7553,6 +7558,7 @@ led.ci
 ledcom.ci
 ledemarcheur.ci
 ledestockage.ci
+ledonantonio.ci
 leec.ci
 leeh.ci
 leflair.ci
@@ -7677,7 +7683,6 @@ letspay.ci
 letudiant.ci
 levci.ci
 levelup.ci
-levieperetudiant.ci
 levirtuel.ci
 lexafricaconsulting.ci
 lexman.ci
@@ -8162,7 +8167,6 @@ masterworks.ci
 mat.ci
 mata.ci
 matarshop.ci
-matassgroup.ci
 matca.ci
 matchmaking.ci
 matchvalue.ci
@@ -8303,6 +8307,7 @@ mendob.ci
 menes.ci
 menet.ci
 menforce.ci
+meninfoservices.ci
 mentleyandpartners.ci
 menuisier.ci
 menuisiers.ci
@@ -8396,7 +8401,6 @@ mike.ci
 mikmarine.ci
 mikrotik.ci
 mil.ci
-milane.ci
 milano.ci
 milaroses.ci
 milcva.ci
@@ -8471,7 +8475,9 @@ mobi.ci
 mobil.ci
 mobile.ci
 mobile-money.ci
+mobileadvertising.ci
 mobileauto.ci
+mobilecash.ci
 mobileinterpay.ci
 mobilekoonet.ci
 mobilemarket.ci
@@ -8578,6 +8584,7 @@ monmaquis.ci
 monmarket.ci
 monogaga.ci
 monpain.ci
+monpass.ci
 monpassepartout.ci
 monpasseport.ci
 monpays.ci
@@ -8724,6 +8731,7 @@ murema.ci
 murielamichia.ci
 musamci.ci
 musclesstore.ci
+museeducostume.ci
 musix.ci
 muslimshoco.ci
 muslimshop.ci
@@ -9716,6 +9724,7 @@ pharmacie-tchologo.ci
 pharmacie-tereza.ci
 pharmacieduchateau.ci
 pharmaciedujubile.ci
+pharmaciedumall.ci
 pharmacieenligne.ci
 pharmaciejubile.ci
 pharmacien.ci
@@ -9889,7 +9898,6 @@ postenumerique.ci
 postesante.ci
 postgres.ci
 potentialcompany.ci
-poulivoire.ci
 pourelle.ci
 pourlui.ci
 pourluigaf.ci
@@ -9934,6 +9942,7 @@ pressing.ci
 pressionepneumati.ci
 prestac.ci
 prestaservices.ci
+prestation.ci
 prestibitume.ci
 presticom.ci
 prestigeciment.ci
@@ -10286,7 +10295,6 @@ renault.ci
 rencontres-digitales-franchise.ci
 rencontres-ivoiriennes-de-la-franchise.ci
 rendeavour.ci
-renova.ci
 renovat.ci
 renovbtp.ci
 rental-car.ci
@@ -10711,7 +10719,6 @@ scpabmi.ci
 scpadialloloa.ci
 scpakonanfolquet.ci
 scpatamaya.ci
-scprichmond.ci
 scs.ci
 scsglobalservices.ci
 sda.ci
@@ -11102,7 +11109,6 @@ siti.ci
 sitibim.ci
 sitinfra.ci
 sitiscompany.ci
-sitmaci.ci
 sito.ci
 sitol.ci
 sitp.ci
@@ -11179,6 +11185,7 @@ smartmarket.ci
 smartmysi.ci
 smartpos.ci
 smartprof.ci
+smartrental.ci
 smartretail.ci
 smartsc.ci
 smartservices.ci
@@ -11609,7 +11616,6 @@ supercadeaux.ci
 supercarte.ci
 superforce.ci
 supergooal.ci
-superkart.ci
 superlife.ci
 superlock.ci
 supernova.ci
@@ -11885,7 +11891,6 @@ tiemokocoulibaly.ci
 tigrant.ci
 tik.ci
 tikcar.ci
-tiktits.ci
 tiktok.ci
 tim.ci
 timar.ci
@@ -12330,6 +12335,7 @@ vini.ci
 vinividivi.ci
 vinko.ci
 vintageboutique.ci
+vinted.ci
 vip.ci
 vip-slot.ci
 vipercleaning.ci
@@ -12796,6 +12802,7 @@ zeinabboutik.ci
 zelishop.ci
 zemarket.ci
 zen.ci
+zenacosmetique.ci
 zenithfm.ci
 zentiva.ci
 zerodegree.ci
