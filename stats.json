@@ -125,10 +125,6 @@
       "zone": "lr"
     },
     {
-      "domains": "335",
-      "zone": "xn--54b7fta0cc"
-    },
-    {
       "domains": "316",
       "zone": "car"
     },
@@ -161,9 +157,13 @@
       "zone": "er"
     },
     {
+      "domains": "6",
+      "zone": "xn--54b7fta0cc"
+    },
+    {
       "domains": "5",
       "zone": "lb"
     }
   ],
-  "total": "2682786"
+  "total": "2682457"
 }
