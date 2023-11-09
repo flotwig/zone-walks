@@ -23,6 +23,7 @@
 123jeumeveille.ci
 123printservices.ci
 13.ci
+1314.ci
 1337.ci
 1359.ci
 13597.ci
@@ -173,6 +174,7 @@
 2saisons.ci
 2st.ci
 2t.ci
+2thepoint.ci
 2u.ci
 2v.ci
 2w.ci
@@ -642,6 +644,7 @@ acm.ci
 acome.ci
 acoonda.ci
 acquadiparma.ci
+acr-afma.ci
 acropolis.ci
 acs.ci
 acsdk.ci
@@ -661,6 +664,7 @@ ada.ci
 adage.ci
 adama.ci
 adamabictogo.ci
+adamsgroup-travel.ci
 adayekessie.ci
 adbe.ci
 adbservices.ci
@@ -807,6 +811,7 @@ afriqueexpresse.ci
 afriquehabitat.ci
 afriqueindustries.ci
 afriqueintelligence.ci
+afriqueliaisons.ci
 afriquepesage.ci
 afriregister.ci
 afritechsol.ci
@@ -1002,6 +1007,7 @@ alc-structuration.ci
 alc-titrisation.ci
 alcatel.ci
 alcoran.ci
+ald-entreprise.ci
 aldoshoes.ci
 alearning.ci
 aleph.ci
@@ -1754,7 +1760,6 @@ bearingpoint.ci
 beaurivage.ci
 beautifulsoul.ci
 beautilogue.ci
-beauty.ci
 beauty-plus.ci
 beautycare.ci
 becash.ci
@@ -1917,6 +1922,7 @@ biopharmacy.ci
 biosave.ci
 biosynergie.ci
 biotech.ci
+biotifulfaith.ci
 bioyam.ci
 bip-immobilier.ci
 bipassistance.ci
@@ -2113,7 +2119,6 @@ bricksci.ci
 bricodeco.ci
 bricoman.ci
 bricomaster.ci
-bricomat.ci
 brictusimmo.ci
 bridgebankgroup.ci
 bridgelanguage.ci
@@ -2121,6 +2126,7 @@ bridgestone.ci
 brightprivatesecurity.ci
 brightsecurity.ci
 brightstudio.ci
+bringo.ci
 brinkswa.ci
 brique.ci
 brl.ci
@@ -2132,6 +2138,7 @@ brvm.ci
 bs.ci
 bsc.ci
 bsd.ci
+bsef.ci
 bsic.ci
 bssim.ci
 bt.ci
@@ -2277,6 +2284,7 @@ canalsat.ci
 canalsat-afrique.ci
 canam.ci
 canaveral.ci
+canbabi.ci
 cancer.ci
 canci.ci
 canciv2023.ci
@@ -2822,6 +2830,7 @@ cmi.ci
 cmintima.ci
 cmpc.ci
 cms.ci
+cmsentreprise.ci
 cmspurisol.ci
 cmstviateur.ci
 cmti.ci
@@ -3153,7 +3162,6 @@ colas.ci
 colasci.ci
 coldstonecreamery.ci
 colibris.ci
-collabora.ci
 collaracademia.ci
 collectifdesfreresenchrist.ci
 college-cpesarah.ci
@@ -3910,7 +3918,6 @@ deccherifla.ci
 dechenous.ci
 decideandbuild.ci
 decoci.ci
-decoivoire.ci
 decoratep.ci
 decoration.ci
 decorex.ci
@@ -5000,6 +5007,7 @@ etel-power.ci
 etfp.ci
 etg.ci
 eth.ci
+ethanali.ci
 ethereum.ci
 ethica-group.ci
 ethicalfinance.ci
@@ -5320,6 +5328,11 @@ fin.ci
 fin-invest.ci
 finactu.ci
 finafrica.ci
+finafrica-assurance.ci
+finafrica-assurances.ci
+finafrica-group.ci
+finafrica-microfinance.ci
+finafrica-microfinances.ci
 finagri.ci
 finalinvest.ci
 finalyst.ci
@@ -5414,13 +5427,13 @@ fns.ci
 fo.ci
 foamtec.ci
 foani.ci
+foat.ci
 fobara.ci
 focusclient.ci
 focusinfo.ci
 focusinfos.ci
 fodi.ci
 foerch.ci
-fofadams.ci
 fofanamahoua-notaire.ci
 foherb.ci
 foiredechine.ci
@@ -6259,7 +6272,6 @@ hotelstamanan.ci
 hotelsupreme.ci
 hotmail.ci
 hotpoint.ci
-hotspot.ci
 houphouetisme.ci
 houphouetkone.ci
 hp.ci
@@ -6754,7 +6766,6 @@ itec.ci
 itechgroup.ci
 items.ci
 ithosconsulting.ci
-iti-sa.ci
 itiwit.ci
 itl.ci
 itm.ci
@@ -7020,6 +7031,7 @@ jobbo.ci
 jobcamp.ci
 jobchain.ci
 jobdoor.ci
+jobexpress.ci
 jobpoint.ci
 jobstation.ci
 joedel.ci
@@ -7505,6 +7517,7 @@ lce.ci
 lcpackaging.ci
 lcpackagingshop.ci
 lcsca.ci
+lcw.ci
 lcwaikiki.ci
 ld.ci
 ld-mining.ci
@@ -8043,7 +8056,6 @@ maisonpatheo.ci
 maisons.ci
 maitec.ci
 maitre-polneau.ci
-maivels.ci
 majesticcinema.ci
 majorel.ci
 majorevent.ci
@@ -8522,6 +8534,7 @@ momomarket.ci
 mon-imprimeur.ci
 mon-job.ci
 mon-livreur.ci
+mon-mogo.ci
 monadressepostale.ci
 monartisan.ci
 monassistantadministratif.ci
@@ -10473,6 +10486,7 @@ rq.ci
 rr.ci
 rs.ci
 rsagroup.ci
+rsp.ci
 rss-fm.ci
 rsu.ci
 rt.ci
@@ -10489,6 +10503,7 @@ rubber.ci
 ruby.ci
 ruedubazar.ci
 run.ci
+runners.ci
 rust.ci
 rv.ci
 rvtt.ci
@@ -11564,7 +11579,6 @@ store225.ci
 storebet.ci
 stormforger.ci
 stormgain.ci
-storybuz.ci
 stradiss-afrique.ci
 strapes.ci
 strategieetesperance.ci
@@ -12380,6 +12394,7 @@ vj.ci
 vk.ci
 vkcosmos.ci
 vkstores.ci
+vl.ci
 vlog.ci
 vlogistics.ci
 vmware.ci
@@ -12721,6 +12736,7 @@ yepado.ci
 yepia.ci
 yer.ci
 yerama.ci
+yerhe.ci
 yes.ci
 yesdoc.ci
 yeslo.ci
