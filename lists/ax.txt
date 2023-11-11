@@ -278,7 +278,6 @@ alandsguider.ax
 alandshandel.ax
 alandshugg.ax
 alandsidrott.ax
-alandskdemokrati.ax
 alandskistan.ax
 alandskulturhistoriskamuseum.ax
 alandslagting.ax
@@ -326,6 +325,7 @@ algots.ax
 algotshus.ax
 algotsmarina.ax
 ali.ax
+alibaba.ax
 alko.ax
 alkolas.ax
 all-logistics.ax
@@ -853,6 +853,7 @@ centern.ax
 central-apoteket.ax
 centrumimariehamn.ax
 cf.ax
+cg.ax
 cgengineering.ax
 ch.ax
 ch1ll.ax
@@ -888,6 +889,7 @@ cityjuristerna.ax
 citylakarna.ax
 citymariehamn.ax
 civ.ax
+cj.ax
 ck.ax
 ckh.ax
 cl.ax
@@ -943,6 +945,7 @@ cov.ax
 covid.ax
 covid-19.ax
 cp.ax
+cq.ax
 cr.ax
 cranim.ax
 creategreat.ax
@@ -966,6 +969,7 @@ cx.ax
 cybersource.ax
 cyberworks.ax
 cynthia.ax
+cz.ax
 da.ax
 dahlensstugor.ax
 dahlmans.ax
@@ -1671,6 +1675,7 @@ hbhandels.ax
 hbom.ax
 hbomax.ax
 hbtqia.ax
+hc.ax
 hcf.ax
 hd.ax
 hdrglobaltrading.ax
@@ -1773,6 +1778,7 @@ hs.ax
 ht.ax
 http.ax
 https.ax
+huawei.ax
 hub.ax
 hubris.ax
 huf.ax
@@ -1952,6 +1958,7 @@ jik.ax
 jimh.ax
 jj.ax
 jjsn.ax
+jk.ax
 jkc.ax
 jl.ax
 jm.ax
@@ -2460,6 +2467,7 @@ medlingsbyran.ax
 mega.ax
 megu.ax
 megusta.ax
+meituan.ax
 mekonomen.ax
 melander.ax
 melbet.ax
@@ -2804,6 +2812,7 @@ op-livforsakrings.ax
 op-services.ax
 opbank.ax
 open.ax
+openai.ax
 openwaterbrewery.ax
 opera.ax
 opforetagsbanken.ax
@@ -2836,6 +2845,7 @@ osuuspankki.ax
 ot.ax
 ou.ax
 outlook.ax
+ov.ax
 overnasgarden.ax
 overt.ax
 ovk.ax
@@ -3025,6 +3035,7 @@ qa.ax
 qb.ax
 qc.ax
 qd.ax
+qn.ax
 qom.ax
 qos.ax
 qp.ax
@@ -3267,6 +3278,7 @@ schubert.ax
 schuetten.ax
 scout.ax
 scouterna.ax
+sd.ax
 sdi.ax
 se.ax
 sea.ax
@@ -3453,7 +3465,6 @@ sp.ax
 space.ax
 sparhallen.ax
 sparky.ax
-sparm.ax
 speeding.ax
 sphh.ax
 spiceup.ax
@@ -3615,6 +3626,7 @@ syn.ax
 synt.ax
 syrrans.ax
 sysoon.ax
+sz.ax
 t1.ax
 ta.ax
 tac.ax
@@ -3672,6 +3684,7 @@ teli.ax
 telia.ax
 tem.ax
 tema.ax
+tencent.ax
 terrieristens.ax
 territoni.ax
 tesla.ax
@@ -4087,11 +4100,14 @@ xd.ax
 xdr.ax
 xe.ax
 xf.ax
+xg.ax
 xh.ax
 xhamster.ax
 xi.ax
+xiaomi.ax
 xj.ax
 xjoy.ax
+xk.ax
 xl.ax
 xm.ax
 xmont.ax
@@ -4192,11 +4208,14 @@ xnxx.ax
 xo.ax
 xoom.ax
 xp.ax
+xq.ax
 xr.ax
+xreal.ax
 xs.ax
 xt.ax
 xtom.ax
 xu.ax
+xuwu.ax
 xv.ax
 xvideos.ax
 xw.ax
