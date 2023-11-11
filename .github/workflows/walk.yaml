@@ -24,6 +24,7 @@ jobs:
         - bt
         - car
         - cars
+        - ch
         - christmas
         - ci
         - diet
@@ -37,6 +38,7 @@ jobs:
         - ir
         - kg
         - lb
+        - li
         - lk
         - lol
         - lr
