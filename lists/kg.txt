@@ -51,6 +51,7 @@
 1fit.kg
 1ge.kg
 1metall.kg
+1sovetnik.kg
 1stom.kg
 1studio.kg
 1tv.kg
@@ -242,7 +243,6 @@ academy-mvd.kg
 academyart.kg
 acapulco.kg
 acc.kg
-acckg.kg
 accom.kg
 accorda.kg
 account.kg
@@ -489,7 +489,6 @@ ais.kg
 aisalkyn.kg
 aisoft.kg
 aist.kg
-aistenok.kg
 aisys.kg
 aitbaev.kg
 aiter.kg
@@ -541,6 +540,7 @@ akipress.kg
 akiykat.kg
 akjol.kg
 akjoltoi.kg
+akk.kg
 akka.kg
 akkeme.kg
 akkr.kg
@@ -1395,6 +1395,7 @@ aviator.kg
 aviatravel.kg
 avicenna-edu.kg
 avigeya.kg
+avimu.kg
 avior.kg
 avisa.kg
 avita.kg
@@ -1519,6 +1520,7 @@ ba.kg
 baa.kg
 baarybar.kg
 baburtolbaev.kg
+baby.kg
 babyfood.kg
 babygap.kg
 babyone.kg
@@ -1549,7 +1551,6 @@ baike-foods.kg
 baikonur.kg
 baira.kg
 baisel.kg
-baiterek.kg
 baitorg.kg
 baitushum.kg
 bak.kg
@@ -1632,6 +1633,7 @@ barstranzit.kg
 barter.kg
 baru.kg
 barybar.kg
+basa.kg
 bashat.kg
 basilea.kg
 basket.kg
@@ -1790,13 +1792,11 @@ berloga.kg
 bermet.kg
 berries.kg
 berry.kg
-bes.kg
 besharcha.kg
 beshikjon.kg
 besmart.kg
 besoft.kg
 besplatno.kg
-bespoke.kg
 besser.kg
 best.kg
 best-asia.kg
@@ -2114,7 +2114,6 @@ bookit.kg
 bookofmormon.kg
 books.kg
 boom.kg
-boorsok.kg
 boost.kg
 bootcamp.kg
 bopiun.kg
@@ -3267,7 +3266,6 @@ dron.kg
 drone.kg
 dropbox.kg
 drpepper.kg
-drx.kg
 drycleaning.kg
 ds.kg
 dsclinic.kg
@@ -3562,6 +3560,7 @@ eliteplast.kg
 elitetowers.kg
 elitevent.kg
 elitka.kg
+elizaveta.kg
 eljur.kg
 elkard.kg
 elkart.kg
@@ -3602,7 +3601,6 @@ elsyst.kg
 eltaoexpress.kg
 eltest.kg
 eltor.kg
-eltr.kg
 eltrade.kg
 elvirasurabaldieva.kg
 em.kg
@@ -3822,7 +3820,6 @@ eurostroy.kg
 eurostudent.kg
 eurostyle.kg
 eurotool.kg
-eurotrade.kg
 euroway.kg
 eutectic.kg
 ev.kg
@@ -3958,6 +3955,7 @@ fanat.kg
 fanera.kg
 fansale.kg
 fanta.kg
+fantasia.kg
 fantom.kg
 faq.kg
 fara.kg
@@ -4165,7 +4163,6 @@ fm.kg
 fmfc.kg
 fmtg.kg
 fnt.kg
-fo.kg
 focus-clinic.kg
 focusair.kg
 focustrading.kg
@@ -4566,7 +4563,6 @@ goldendrinks.kg
 goldeneagle.kg
 goldenhotel.kg
 goldenhouse.kg
-goldenlion.kg
 goldenpages.kg
 goldenruleairlines.kg
 goldenstroy.kg
@@ -4642,6 +4638,7 @@ grandstone.kg
 grandstroy.kg
 granit-master.kg
 grantthornton.kg
+graph.kg
 grappling.kg
 graude.kg
 gravity.kg
@@ -5372,9 +5369,9 @@ inventory.kg
 invescore.kg
 invest.kg
 investgaz.kg
-investholding.kg
 investlombard.kg
 investment.kg
+investmentcouncil.kg
 investor.kg
 investors.kg
 investtrade.kg
@@ -5966,7 +5963,6 @@ kes.kg
 kesc.kg
 kesip.kg
 ketmen-dobo.kg
-kettik.kg
 keu.kg
 key-lock.kg
 key312.kg
@@ -6174,7 +6170,6 @@ konka.kg
 konovalovsad.kg
 konsul.kg
 kontakt.kg
-kontora.kg
 kontrafakt.kg
 kontrolit.kg
 konurat.kg
@@ -6246,6 +6241,7 @@ krgprimecity.kg
 kripta.kg
 krjc.kg
 krka.kg
+krl.kg
 krm.kg
 krma.kg
 krocus.kg
@@ -6819,6 +6815,7 @@ maarif.kg
 maarifeducationalcomplex.kg
 maarifschools.kg
 macburger.kg
+maccaferri.kg
 macchoco.kg
 macchocolate.kg
 maccoffee.kg
@@ -6997,7 +6994,6 @@ matt.kg
 maupfib.kg
 mavala.kg
 mavic.kg
-mavik.kg
 mavy.kg
 max.kg
 maxclinic.kg
@@ -7248,7 +7244,6 @@ metallstroy.kg
 metalltorg.kg
 metalux.kg
 metamessenger.kg
-metanmining.kg
 metanovi.kg
 metapharma.kg
 metaquest.kg
@@ -10054,7 +10049,6 @@ smsgold.kg
 smspro.kg
 smstaxi.kg
 smstraffic.kg
-smt.kg
 smu.kg
 smy.kg
 snab-komplekt.kg
@@ -10152,7 +10146,6 @@ spares.kg
 spark.kg
 sparko.kg
 spartech.kg
-spasibo.kg
 spb.kg
 spbsot.kg
 spec.kg
@@ -10350,6 +10343,7 @@ studio-love.kg
 studiobeton.kg
 study.kg
 studyinchina.kg
+studyinczech.kg
 studyinkyrgyzstan.kg
 studynow.kg
 studyusa.kg
@@ -10660,7 +10654,6 @@ techno.kg
 techno-oil.kg
 technobrand.kg
 technocave.kg
-technocity.kg
 technocominvest.kg
 technocomtrade.kg
 technodom.kg
@@ -10680,7 +10673,6 @@ technoprestige.kg
 technoprom.kg
 technoshock.kg
 technotochka.kg
-technotop.kg
 technotraining.kg
 techpoint.kg
 techsed.kg
@@ -10701,7 +10693,6 @@ tehkomplekt.kg
 tehnika-karcher.kg
 tehno.kg
 tehno-nikol.kg
-tehnohol.kg
 tehnomir.kg
 tehnonikol.kg
 tehnosklad.kg
@@ -10824,7 +10815,6 @@ tgif.kg
 tgifridays.kg
 tgs.kg
 thaiconsulate.kg
-thailer.kg
 thawte.kg
 the-pool.kg
 thebodyshop.kg
@@ -11024,7 +11014,6 @@ tpms.kg
 tps.kg
 tr-logistik.kg
 tracing.kg
-tracker.kg
 trade.kg
 trade-express.kg
 trade-sol.kg
