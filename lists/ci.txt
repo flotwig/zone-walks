@@ -117,6 +117,7 @@
 225events.ci
 225immo.ci
 225invest.ci
+225services.ci
 225sport.ci
 22bet.ci
 23.ci
@@ -344,7 +345,6 @@
 678.ci
 68.ci
 68markavenue.ci
-68markavenuebtob.ci
 69.ci
 6a.ci
 6c.ci
@@ -1524,6 +1524,7 @@ autojet.ci
 autojeu.ci
 autolibre.ci
 autoline.ci
+automachines.ci
 automag.ci
 automark.ci
 automatisation.ci
@@ -1644,7 +1645,6 @@ bahai.ci
 bahblessonfoods.ci
 bahleroux-avocats.ci
 bahservices.ci
-bahshop.ci
 baidu.ci
 bakaa.ci
 bakertilly.ci
@@ -2170,6 +2170,7 @@ businesskids.ci
 businessplan.ci
 butaneo.ci
 buy.ci
+bv.ci
 bvet.ci
 bw.ci
 bwin.ci
@@ -4832,7 +4833,6 @@ en.ci
 ena.ci
 enap49.ci
 enaudit.ci
-enboucle.ci
 enerci.ci
 energy-pool.ci
 energyxipi.ci
@@ -6088,6 +6088,7 @@ h-zprojects.ci
 h1cicmu.ci
 h24resa.ci
 h24services.ci
+h2c-africa.ci
 h2cicmu.ci
 h6.ci
 habg.ci
@@ -6743,7 +6744,6 @@ isuzu-trucks.ci
 isuzutrucks.ci
 isv.ci
 it.ci
-it-formations.ci
 it-smart.ci
 ita.ci
 ita-educ.ci
@@ -7442,6 +7442,7 @@ lajfo-uao.ci
 lajungle.ci
 lalibellule-emploi.ci
 lalicence.ci
+lallas.ci
 lalorraine.ci
 lamaison.ci
 lamaisondumaroc.ci
@@ -8622,7 +8623,6 @@ monsieurvapo.ci
 monsite.ci
 monsiteauteur.ci
 monsiteweb.ci
-montaxi.ci
 monticket.ci
 monticketenligne.ci
 montoit.ci
@@ -8830,7 +8830,6 @@ natgeogold.ci
 nathiebi.ci
 natimeo.ci
 nativa.ci
-natraconsultant.ci
 naturalia.ci
 naturebeaute.ci
 natuzzi.ci
@@ -12337,7 +12336,6 @@ vi.ci
 viaplay.ci
 viasat.ci
 viberadio.ci
-vibes.ci
 vicaflix.ci
 vicat.ci
 victoire.ci
@@ -12845,6 +12843,7 @@ zeturf.ci
 zeus.ci
 zfitspa.ci
 zh.ci
+zhe.ci
 zhong.ci
 zi.ci
 ziebart.ci
