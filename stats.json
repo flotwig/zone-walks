@@ -129,7 +129,7 @@
       "zone": "lr"
     },
     {
-      "domains": "333",
+      "domains": "332",
       "zone": "xn--54b7fta0cc"
     },
     {
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2753541"
+  "total": "2753540"
 }
