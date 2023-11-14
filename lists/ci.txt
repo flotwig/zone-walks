@@ -1251,6 +1251,7 @@ aptonia.ci
 apuph.ci
 apvonline.ci
 aq.ci
+aquifereforage.ci
 ar.ci
 aramex.ci
 aran.ci
@@ -2157,6 +2158,7 @@ builden.ci
 builden-sarl.ci
 bull.ci
 bulto.ci
+buraqtrans.ci
 bureaunaturalisation.ci
 bureauveritas.ci
 bureaux.ci
@@ -2289,7 +2291,6 @@ canciv2023.ci
 cancotedivoire2023.ci
 cancoteivoire.ci
 cancoteivoire2023.ci
-candy.ci
 cannabis.ci
 canterbury.ci
 cantic.ci
@@ -2865,7 +2866,6 @@ cnova.ci
 cnpc-mcc.ci
 cnpeci.ci
 cnps.ci
-cnptir.ci
 cnra.ci
 cnrct.ci
 cns.ci
@@ -3519,7 +3519,6 @@ come.ci
 comef.ci
 cometivoire.ci
 comexas.ci
-comexmap.ci
 comirnatyeducation.ci
 comirnatyhcp.ci
 comit.ci
@@ -4960,6 +4959,7 @@ espacenet.ci
 espacessaada.ci
 espagri.ci
 espana-naturesantet.ci
+esperancebatiplus.ci
 esperancetvemu.ci
 espiscines.ci
 espoircyber.ci
@@ -5389,7 +5389,6 @@ flixtor.ci
 flopy.ci
 florasuper.ci
 flormar.ci
-flou.ci
 flow.ci
 flta-associes.ci
 fluen.ci
@@ -5797,6 +5796,7 @@ global-exchange.ci
 global-lab.ci
 globalconnection.ci
 globalcropmanagement.ci
+globaldepannage.ci
 globalenergy.ci
 globalexpansion.ci
 globalimmo.ci
@@ -6129,6 +6129,7 @@ hc-pharma.ci
 hcm.ci
 hcms.ci
 hd.ci
+hd-sarl.ci
 hda.ci
 hdprod.ci
 he.ci
@@ -6251,7 +6252,6 @@ hotelkama.ci
 hotellebonheur.ci
 hotellevaisseau.ci
 hotelmeambly.ci
-hotelministre.ci
 hotelmontkorhogo.ci
 hotelpalmclub.ci
 hotelpresident.ci
@@ -6517,6 +6517,7 @@ inam.ci
 inasseq.ci
 inautech.ci
 inbox.ci
+incoges.ci
 incognito-by-afflelou.ci
 incognitobyafflelou.ci
 incomm.ci
@@ -6802,6 +6803,7 @@ ivoire-global-security.ci
 ivoire-systemes.ci
 ivoireairways.ci
 ivoirebazar.ci
+ivoirebestcleaningservices.ci
 ivoireboissons.ci
 ivoireboutik.ci
 ivoirebutane.ci
@@ -7270,6 +7272,7 @@ kiyani.ci
 kj.ci
 kk.ci
 kkbox.ci
+kkhagency.ci
 klaconstruction.ci
 klaptonafrica.ci
 klaris-de-suisse.ci
@@ -8826,6 +8829,7 @@ natgeogold.ci
 nathiebi.ci
 natimeo.ci
 nativa.ci
+natraconsultant.ci
 naturalia.ci
 naturebeaute.ci
 natuzzi.ci
@@ -9101,6 +9105,7 @@ nzassaafrique.ci
 nzassagroup.ci
 nziriverlodge.ci
 nziriverlodges.ci
+nzo-services.ci
 nzramafestival.ci
 nzue.ci
 o2careservices.ci
@@ -9908,7 +9913,6 @@ portsec-ferke.ci
 portsecferke.ci
 portsecurite.ci
 portwest.ci
-position69.ci
 positiveimpulse.ci
 posta.ci
 postefutur.ci
@@ -9922,6 +9926,7 @@ pourluigaf.ci
 poussindor.ci
 poutoulou.ci
 powercom-engineering.ci
+powerlinks.ci
 powernet.ci
 powertechplus.ci
 pp.ci
@@ -10208,6 +10213,7 @@ raf.ci
 rafiki.ci
 rails.ci
 rain.ci
+rainbowtech.ci
 raisboutique.ci
 rakuten.ci
 ram.ci
@@ -10240,6 +10246,7 @@ rd.ci
 rdv.ci
 rdv-consulat.ci
 rdv-digital.ci
+rdv-gudepme.ci
 rdv-sesame.ci
 rdvconsulat.ci
 re.ci
@@ -10781,7 +10788,6 @@ sef.ci
 segc.ci
 segh.ci
 segici.ci
-sehi.ci
 sehiconstructions.ci
 seifa.ci
 seigneurie.ci
@@ -11004,6 +11010,7 @@ siemens-energy.ci
 siemensenergy.ci
 siessashop.ci
 sieth.ci
+sietravaux.ci
 sietta.ci
 sifab.ci
 sifca.ci
@@ -11517,6 +11524,7 @@ srv.ci
 ss.ci
 ssanmo.ci
 ssbet.ci
+ssci.ci
 sses-tech.ci
 ssoe.ci
 sspabidjan.ci
@@ -11673,6 +11681,7 @@ symetric.ci
 symposiummine.ci
 synafig.ci
 synafisc.ci
+synapgpci.ci
 synapse-technologie.ci
 synatransci.ci
 synchrone-techno.ci
@@ -12696,7 +12705,6 @@ yakromarket.ci
 yalwa.ci
 yam.ci
 yamaison.ci
-yamas.ci
 yamis.ci
 yamobet.ci
 yamsgroup.ci
