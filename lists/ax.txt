@@ -17,7 +17,6 @@
 1040t.ax
 10mm.ax
 11.ax
-111.ax
 112.ax
 123.ax
 123domain.ax
@@ -798,7 +797,6 @@ byggvaruhuset.ax
 byttillallwinds.ax
 bz.ax
 c4.ax
-c5.ax
 c8.ax
 ca.ax
 cab.ax
@@ -2346,6 +2344,7 @@ luvid.ax
 lv.ax
 lvi-verkkokauppa.ax
 lvl.ax
+ly.ax
 lyceum.ax
 lycko.ax
 lyco.ax
