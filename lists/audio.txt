@@ -1838,7 +1838,6 @@ heimwerk.audio
 heinrich.audio
 heist.audio
 helden.audio
-heli.audio
 helio.audio
 helios.audio
 hello.audio
@@ -2707,7 +2706,6 @@ mobilfunk.audio
 mod.audio
 moda.audio
 modal.audio
-mode.audio
 modem.audio
 modena.audio
 moderate.audio
@@ -3539,6 +3537,7 @@ robotic.audio
 rock11.audio
 rockaum.audio
 rocket.audio
+rocketfuel.audio
 rockhopper.audio
 rockies.audio
 rockit.audio
