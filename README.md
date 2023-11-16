@@ -35,7 +35,7 @@ TLD | Domain Count
 [`game`][game] [(raw)][game-raw] | <div align="right">4143</div>
 [`mc`][mc] [(raw)][mc-raw] | <div align="right">3600</div>
 [`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2692</div>
-[`pr`][pr] [(raw)][pr-raw] | <div align="right">2167</div>
+[`pr`][pr] [(raw)][pr-raw] | <div align="right">2166</div>
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">2103</div>
 [`br`][br] [(raw)][br-raw] | <div align="right">1349</div>
 [`bt`][bt] [(raw)][bt-raw] | <div align="right">1263</div>
@@ -56,7 +56,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">8</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">5</div>
-**Total** | <div align="right">2754192</div>
+**Total** | <div align="right">2754191</div>
 
 ## See Also
 
