@@ -655,6 +655,7 @@ liebherr.tz
 lightworks.tz
 link.tz
 linkpay.tz
+linux.tz
 linx.tz
 lipa.tz
 lipi.tz
@@ -894,6 +895,7 @@ ptt.tz
 push.tz
 pxp.tz
 pycon.tz
+python.tz
 qatarairways.tz
 qigroup.tz
 quar.tz
@@ -1059,6 +1061,7 @@ stanbic.tz
 stanbicbank.tz
 standardbank.tz
 starlitevision.tz
+starsmiles.tz
 statoil.tz
 stbongo.tz
 stiegli.tz
@@ -1163,9 +1166,12 @@ tyson.tz
 tysonfoods.tz
 tzs.tz
 tzserver.tz
+ulearn.tz
+umart.tz
 usafiri.tz
 utajiri.tz
 utrade.tz
+uworld.tz
 uza.tz
 vacations.tz
 vanguard.tz
