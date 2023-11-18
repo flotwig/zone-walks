@@ -1788,6 +1788,7 @@ benco.ci
 bendev.ci
 beneko.ci
 benestore.ci
+benevolemunicipal.ci
 benian.ci
 benicci.ci
 benicci-immobilier.ci
@@ -2389,6 +2390,7 @@ cbi.ci
 cbm.ci
 cboutiq.ci
 cc.ci
+cc-caed.ci
 cca.ci
 cca-consulting.ci
 ccacy.ci
@@ -2501,7 +2503,6 @@ cfcdci.ci
 cfcm.ci
 cfge.ci
 cfjt.ci
-cfnestlerecrutement.ci
 cfp.ci
 cg2f.ci
 cga.ci
@@ -4048,6 +4049,7 @@ digitale.ci
 digitaleagence.ci
 digitalheroes.ci
 digitalhouses.ci
+digitalize.ci
 digitalkstudio.ci
 digitalland.ci
 digitalmag.ci
@@ -4056,6 +4058,7 @@ digitalmath.ci
 digitalpay.ci
 digitalplus.ci
 digitalpro.ci
+digitalsante.ci
 digitalspace.ci
 digitalstore.ci
 digitalsun.ci
@@ -4243,7 +4246,6 @@ doumbia.ci
 dourous.ci
 doutysarl.ci
 douvag.ci
-down.ci
 dozo.ci
 dp.ci
 dpci.ci
@@ -4287,7 +4289,6 @@ droneacademie.ci
 dronebusiness.ci
 drones.ci
 dropbox.ci
-dsi.ci
 dsimmobilier.ci
 dsnmenuonline.ci
 dss.ci
@@ -4380,7 +4381,6 @@ easyhotel.ci
 easyinsurance.ci
 easymove.ci
 easypieces.ci
-easyservices.ci
 easytransfert.ci
 easytravelgroup.ci
 easytv.ci
@@ -5673,7 +5673,6 @@ gemacare.ci
 gemaconstruct.ci
 gemaconstuct.ci
 gemasa.ci
-gemma.ci
 gemo.ci
 gems-cigroup.ci
 gen.ci
@@ -5733,6 +5732,7 @@ gestmag.ci
 gestoci.ci
 gestopark.ci
 gesvisbaa.ci
+get.ci
 getcarbon.ci
 getcom.ci
 gethsemane.ci
@@ -5912,7 +5912,6 @@ gp.ci
 gpeedheg-abidjan.ci
 gpn.ci
 gpp.ci
-gps.ci
 gpstech.ci
 gpsyakrobnetd.ci
 gpt.ci
@@ -6973,6 +6972,7 @@ jenningslyon.ci
 jennyfer.ci
 jentreprends.ci
 jerecherche.ci
+jereserve.ci
 jerryvalentin.ci
 jersey.ci
 jesejourne.ci
@@ -8558,6 +8558,7 @@ monclienroi.ci
 monconfort.ci
 monconseillerimmobilier.ci
 monconsultant.ci
+moncoran.ci
 moncourrier.ci
 moncredit.ci
 monde-informatique.ci
@@ -8762,6 +8763,7 @@ my-canal.ci
 myaland.ci
 mycanal.ci
 mycarflix.ci
+myclean.ci
 mycream.ci
 mycwt.ci
 myfeedback.ci
@@ -8811,6 +8813,7 @@ nall.ci
 name.ci
 nameexoworlds.ci
 nan.ci
+nanette.ci
 nangaimmobilier.ci
 nanotic.ci
 naos.ci
@@ -8923,7 +8926,6 @@ nextsolar.ci
 nexus.ci
 nf.ci
 nft.ci
-nfts.ci
 ngci.ci
 nge-contracting.ci
 ngecontracting.ci
@@ -9608,6 +9610,7 @@ parkinou.ci
 paroisse.ci
 paroissesaintebernadettebingerville.ci
 paroissesaintkizito.ci
+parquetgeneralccce.ci
 partech.ci
 partirepublicain.ci
 partisans.ci
@@ -11058,6 +11061,7 @@ silicom.ci
 sillon.ci
 silog.ci
 silverglass.ci
+silverleague.ci
 sim.ci
 simac.ci
 simael.ci
@@ -11785,7 +11789,6 @@ technoboss.ci
 technologieplus.ci
 technologiesesit.ci
 technomedia.ci
-technostore.ci
 technoworld.ci
 techouse.ci
 techpro.ci
@@ -12063,7 +12066,6 @@ trituraf.ci
 trivago.ci
 trocplus.ci
 troiscerveaux.ci
-tron.ci
 tropicaletransit.ci
 tropicmango.ci
 trouvay-cauvin.ci
@@ -12232,6 +12234,7 @@ upb.ci
 upendoconseils.ci
 upesup.ci
 upha-egliseharriste.ci
+upid.ci
 upjohn.ci
 upl.ci
 upr.ci
@@ -12305,6 +12308,7 @@ veillesanitaire.ci
 velma-sas.ci
 vename.ci
 vendezvotrevoiture.ci
+veniseboutique.ci
 venividivi.ci
 venoa.ci
 ventesprivees.ci
