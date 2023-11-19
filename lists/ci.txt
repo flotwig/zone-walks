@@ -344,7 +344,6 @@
 677.ci
 678.ci
 68.ci
-68markavenue.ci
 69.ci
 6a.ci
 6c.ci
@@ -1737,7 +1736,6 @@ bccshop.ci
 bccsigec.ci
 bcdtravel.ci
 bcnews225.ci
-bcs.ci
 bcsgroup.ci
 bct.ci
 bd.ci
@@ -1924,6 +1922,7 @@ bip-immobilier.ci
 bipassistance.ci
 bipia.ci
 birena.ci
+bis.ci
 bison.ci
 bissia.ci
 bit.ci
@@ -2024,6 +2023,7 @@ boncoin.ci
 bondereduction.ci
 bondin.ci
 boniconstruction.ci
+bonjourdoc.ci
 bonjourjournal.ci
 bonken.ci
 bonneaffaire.ci
@@ -2533,6 +2533,7 @@ chambragri.ci
 chames.ci
 championbet.ci
 championlubes.ci
+championtv.ci
 chancellerie.ci
 chancellerie-federale.ci
 chancelleriefederale.ci
@@ -4278,7 +4279,6 @@ drh-fonctionpubliques.ci
 drhetfpa.ci
 drhgend.ci
 drhsante.ci
-drigroupe.ci
 driven.ci
 driver.ci
 drivoo.ci
@@ -4396,7 +4396,6 @@ eazle.ci
 eb.ci
 eban.ci
 ebanktresor.ci
-ebanquedesang.ci
 ebatp.ci
 ebay.ci
 ebcorporation.ci
@@ -5543,7 +5542,6 @@ freeview.ci
 frenchtechabidjan.ci
 fresco-info.ci
 freseniusmedicalcare.ci
-freshandgreen.ci
 freshfridge.ci
 freym.ci
 fri.ci
@@ -5912,6 +5910,7 @@ gp.ci
 gpeedheg-abidjan.ci
 gpn.ci
 gpp.ci
+gps.ci
 gpstech.ci
 gpsyakrobnetd.ci
 gpt.ci
@@ -6967,7 +6966,6 @@ jemassure.ci
 jemeprotegeenligne.ci
 jemoovfree.ci
 jenkins.ci
-jennifer.ci
 jenningslyon.ci
 jennyfer.ci
 jentreprends.ci
@@ -11196,7 +11194,6 @@ smartcar.ci
 smartcity.ci
 smartcity-abidjan.ci
 smartdev.ci
-smartegy.ci
 smartenergy.ci
 smartgps.ci
 smarthometechnology.ci
