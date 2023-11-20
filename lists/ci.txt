@@ -1077,6 +1077,7 @@ alshana.ci
 alstom.ci
 alt.ci
 alt-istea.ci
+altabib.ci
 altacado.ci
 alternative-si.ci
 altmtn.ci
@@ -1501,7 +1502,6 @@ auroserv.ci
 aus.ci
 aus-g4s.ci
 ausecurity.ci
-authentique.ci
 autistan.ci
 auto.ci
 auto-moto.ci
@@ -1840,6 +1840,7 @@ betwinner.ci
 betwinner-apk.ci
 beugremambe.ci
 bewin.ci
+bexley.ci
 beyonce.ci
 bezo.ci
 bf.ci
@@ -1928,7 +1929,6 @@ bissia.ci
 bit.ci
 bita.ci
 bitcoin.ci
-bitcoins.ci
 bitech.ci
 bitmambo.ci
 bitmex.ci
@@ -3549,7 +3549,6 @@ computec.ci
 computer.ci
 computervillage.ci
 conceptplusimmo.ci
-conciergeriedeslagunes.ci
 concordet.ci
 concours-fonctionpublique.ci
 concourse.ci
@@ -6006,6 +6005,7 @@ gsb.ci
 gscorporate.ci
 gsdb.ci
 gse.ci
+gservices.ci
 gsgroup.ci
 gsgs-ufhb.ci
 gsi-ci.ci
@@ -6403,6 +6403,7 @@ ids-ci.ci
 idt.ci
 idu.ci
 idylle-media.ci
+idyllique-event.ci
 ie.ci
 ieca.ci
 ies.ci
@@ -6973,7 +6974,6 @@ jerecherche.ci
 jereserve.ci
 jerryvalentin.ci
 jersey.ci
-jesejourne.ci
 jesus.ci
 jet.ci
 jetbrains.ci
@@ -8051,7 +8051,6 @@ maisondeluxe.ci
 maisondesmeubles.ci
 maisonemeraude.ci
 maisonetvoiture.ci
-maisonkayser.ci
 maisonmetisse.ci
 maisonpakken.ci
 maisonpatheo.ci
@@ -9491,6 +9490,7 @@ otomagic.ci
 ottawa.ci
 ouamelhoro.ci
 ouattara.ci
+oudormir.ci
 ouestmedia.ci
 ouidocteur.ci
 oukami.ci
@@ -9579,7 +9579,6 @@ panorama-de-la-franchise.ci
 paonbleu.ci
 papajohns.ci
 papan.ci
-papel.ci
 paperone.ci
 papigraph.ci
 papse.ci
@@ -9719,7 +9718,6 @@ petrocisa.ci
 petrociusa.ci
 petrocivirtualdataroom.ci
 petroivoire.ci
-petrolub.ci
 petronas.ci
 petropower.ci
 petrossian.ci
@@ -9752,7 +9750,6 @@ pharmafrique.ci
 pharmages.ci
 pharmivoire.ci
 pharmsite.ci
-pharmunik.ci
 phciemarchebingerville.ci
 phenicia.ci
 philip-morris.ci
@@ -10190,7 +10187,6 @@ radiodelapaix.ci
 radioespoir.ci
 radiogeneration.ci
 radiojam.ci
-radiolive.ci
 radiomaria.ci
 radiopaixsanwi.ci
 radiotreichville.ci
@@ -10370,6 +10366,7 @@ revagri.ci
 reve.ci
 revealschool.ci
 reveiloil.ci
+revela.ci
 reverselinkage.ci
 revision.ci
 revisions.ci
@@ -10955,7 +10952,6 @@ siavom.ci
 sib.ci
 sibag.ci
 sibagec.ci
-sibas.ci
 sibatec.ci
 sibeton.ci
 sibm.ci
@@ -11163,8 +11159,6 @@ sky.ci
 sky-internationalgroup.ci
 skyblog.ci
 skybusiness.ci
-skydive.ci
-skydive-assinie.ci
 skyfitness.ci
 skyfms.ci
 skygirls.ci
@@ -12101,7 +12095,6 @@ tvlocale.ci
 tw.ci
 twiga.ci
 twinkl.ci
-twitter.ci
 twosigma.ci
 tx.ci
 ty.ci
