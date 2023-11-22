@@ -125,7 +125,6 @@
 588.kg
 5element.kg
 5g.kg
-5manty.kg
 5plus.kg
 6.kg
 60.kg
@@ -583,6 +582,7 @@ alaarchapark.kg
 alab.kg
 alabuka.kg
 aladdinmachinery.kg
+alaget.kg
 alakel.kg
 alaket.kg
 alakol.kg
@@ -916,6 +916,7 @@ aplus.kg
 aplus-automotive.kg
 apollo-soyuz.kg
 apollosoyuz.kg
+apop.kg
 aport.kg
 apos.kg
 aposta.kg
@@ -1155,6 +1156,7 @@ ask-locals.kg
 ask312.kg
 aska.kg
 aska-gt.kg
+askabail.kg
 askahotel.kg
 askakurulush.kg
 asker.kg
@@ -1523,6 +1525,7 @@ baden.kg
 badge.kg
 badk.kg
 badoo.kg
+bae.kg
 baek.kg
 bagira.kg
 bagyt.kg
@@ -2984,7 +2987,6 @@ dentalpharmacy.kg
 dentist.kg
 dentistree.kg
 dentons.kg
-denttrade.kg
 depo.kg
 deposit.kg
 depozit.kg
@@ -3335,7 +3337,6 @@ ebebek.kg
 ebox.kg
 ebrd.kg
 eca.kg
-ecars.kg
 echamber.kg
 echefs.kg
 eckonom.kg
@@ -3759,7 +3760,6 @@ ethnotravel.kg
 etibakirtereksai.kg
 etiketka.kg
 etiketki.kg
-etiler.kg
 etno.kg
 etnomedia.kg
 etoro.kg
@@ -3774,6 +3774,7 @@ eur-pallet.kg
 eura.kg
 euragroup.kg
 eurasia.kg
+eurasia-group.kg
 eures.kg
 euro-frost.kg
 euro-pallet.kg
@@ -5708,6 +5709,7 @@ juullabs.kg
 juulpods.kg
 juulvapor.kg
 jyldynmyktylary-1-tv.kg
+jyldyz.kg
 jypar.kg
 jyrgalan.kg
 k-a.kg
@@ -6683,6 +6685,7 @@ llcdiamond.kg
 llg.kg
 llumar.kg
 lm.kg
+lms.kg
 lmz.kg
 ln.kg
 lnmc.kg
@@ -6924,6 +6927,7 @@ marker.kg
 market.kg
 marketing.kg
 marketplace.kg
+markhun.kg
 markmonitor.kg
 marks.kg
 marks-and-spencer.kg
@@ -7266,6 +7270,8 @@ mfitness.kg
 mfk1.kg
 mfm.kg
 mg.kg
+mgcars.kg
+mgmotor.kg
 mgs-tech.kg
 mgt.kg
 mhi.kg
@@ -7488,6 +7494,7 @@ moto.kg
 motoadventures.kg
 motoblok.kg
 motodor.kg
+motoekip.kg
 motohouse.kg
 motor.kg
 motoshop.kg
@@ -7511,7 +7518,6 @@ mplus.kg
 mportal.kg
 mpz.kg
 mramor.kg
-mrc.kg
 mrdoors.kg
 mrf.kg
 mrfin.kg
@@ -7639,6 +7645,7 @@ myphoneonline.kg
 mypizza.kg
 mypool.kg
 mypost.kg
+myprofi.kg
 myrafood.kg
 myservice.kg
 mysite.kg
@@ -7796,6 +7803,7 @@ nerse.kg
 nescafe.kg
 nesk.kg
 nespresso.kg
+nespresso-bishkek.kg
 ness.kg
 nessfashion.kg
 nestle.kg
@@ -8025,6 +8033,7 @@ oba.kg
 obbo.kg
 obed.kg
 obereg.kg
+oberon.kg
 oblaka.kg
 oblako.kg
 obmen.kg
@@ -8435,7 +8444,6 @@ paneli.kg
 panorama.kg
 pantera.kg
 pantrade.kg
-panurtex.kg
 pao.kg
 papajohns.kg
 papajphns.kg
@@ -8630,6 +8638,7 @@ pinap-bet.kg
 pinap-casino.kg
 pinapbet.kg
 pinapcasino.kg
+pinduoduo.kg
 pinnacle.kg
 pinterest.kg
 pinup.kg
@@ -8650,7 +8659,6 @@ pit.kg
 piu.kg
 piumotc.kg
 pixel.kg
-pixelstore.kg
 pizza.kg
 pizza-svidanie.kg
 pizzaosh.kg
@@ -8811,7 +8819,6 @@ posh.kg
 posiflex.kg
 positano.kg
 positive.kg
-post.kg
 postech.kg
 poster.kg
 posteriya.kg
@@ -8979,6 +8986,7 @@ promoland.kg
 promoto.kg
 promprivod.kg
 prompt.kg
+promstal.kg
 promsystemi.kg
 promtech.kg
 promzona.kg
@@ -9178,6 +9186,7 @@ rec.kg
 recensio.kg
 reclama.kg
 record.kg
+recovery.kg
 recruiting.kg
 rectrade.kg
 recuperator.kg
@@ -9270,6 +9279,7 @@ republic.kg
 repxpert.kg
 resanta.kg
 research.kg
+research-pro.kg
 reserv.kg
 resetservice.kg
 resident.kg
@@ -9339,7 +9349,6 @@ rixline.kg
 rkeeper.kg
 rkglobal.kg
 rkk.kg
-rl.kg
 rmconsult.kg
 rmdd.kg
 rmddaviation.kg
@@ -9417,6 +9426,7 @@ royalmed.kg
 royalmotors.kg
 royalservice.kg
 royalsport.kg
+royalthermo.kg
 royaltrade.kg
 roza.kg
 rp.kg
@@ -9452,6 +9462,7 @@ rus.kg
 rusbelt.kg
 rusclub.kg
 rusichi.kg
+rusklimat.kg
 russellbedford.kg
 russia.kg
 russia-neft.kg
@@ -9578,6 +9589,7 @@ santehplast.kg
 santehprofi.kg
 santo.kg
 sany.kg
+sanzhyraexpress.kg
 sap.kg
 sapar.kg
 sapargul-smm.kg
@@ -9725,7 +9737,6 @@ sertperson.kg
 server.kg
 servers.kg
 service.kg
-service-geo.kg
 servicefb.kg
 servicepak.kg
 servicepro.kg
@@ -9853,6 +9864,7 @@ shrift.kg
 shryft.kg
 shtora.kg
 shtrih.kg
+shuft.kg
 shumaher.kg
 shumkar.kg
 shved.kg
@@ -11084,6 +11096,7 @@ travelto.kg
 travelvision.kg
 travelwings.kg
 travelworld.kg
+travertine.kg
 trb.kg
 trcargo.kg
 treego.kg
@@ -11125,6 +11138,7 @@ trust-union.kg
 trustchain.kg
 trustex.kg
 trustpilot.kg
+trustsend.kg
 trx.kg
 trxtraining.kg
 trz.kg
@@ -11477,7 +11491,6 @@ vax.kg
 vb.kg
 vbet.kg
 vbizsoft.kg
-vbr.kg
 vc.kg
 vconsult.kg
 vcv.kg
@@ -11579,6 +11592,7 @@ viju.kg
 vikup.kg
 vikupavto.kg
 vilar.kg
+vilarstroy.kg
 vilbi.kg
 viled.kg
 villa.kg
@@ -11878,6 +11892,7 @@ worldremit.kg
 worldshare.kg
 worldskills.kg
 worldtaekwondo.kg
+wow.kg
 wp.kg
 wpc.kg
 ws.kg
