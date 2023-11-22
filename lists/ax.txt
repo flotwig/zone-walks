@@ -1,6 +1,5 @@
 00.ax
 01.ax
-04.ax
 06.ax
 07.ax
 0731.ax
@@ -98,6 +97,7 @@
 77.ax
 777.ax
 78.ax
+79.ax
 7x.ax
 80.ax
 80211.ax
@@ -3293,7 +3293,6 @@ shop.ax
 shop-apotheke.ax
 shopify.ax
 shopifyplus.ax
-short.ax
 showm.ax
 si.ax
 sievinet.ax
@@ -4183,6 +4182,7 @@ xp.ax
 xq.ax
 xr.ax
 xreal.ax
+xs.ax
 xt.ax
 xtom.ax
 xu.ax
