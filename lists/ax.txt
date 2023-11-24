@@ -55,7 +55,6 @@
 3x.ax
 41.ax
 42.ax
-43.ax
 4399.ax
 44.ax
 45.ax
@@ -67,15 +66,11 @@
 51.ax
 5132.ax
 5138.ax
-52.ax
 53.ax
 54.ax
 55.ax
-56.ax
 58.ax
 588.ax
-59.ax
-5b.ax
 60.ax
 61.ax
 6132.ax
@@ -105,13 +100,10 @@
 888.ax
 8888.ax
 94.ax
-96.ax
-97.ax
 985.ax
 99.ax
 999.ax
 9h.ax
-9k.ax
 _nicname._tcp.ax
 a1.ax
 a1k.ax
@@ -1000,6 +992,7 @@ det.ax
 deutsch.ax
 dev.ax
 df.ax
+dg.ax
 dgh.ax
 dh.ax
 di.ax
@@ -1536,6 +1529,7 @@ goparking.ax
 gopuff.ax
 goransfasad.ax
 gosh.ax
+gotlandalandiacruises.ax
 gottbyskaniner.ax
 gov.ax
 government.ax
@@ -2258,7 +2252,6 @@ living.ax
 livslust.ax
 lj.ax
 lk.ax
-ll.ax
 lm.ax
 lmj.ax
 lnk.ax
@@ -2575,7 +2568,6 @@ musikochdans.ax
 musix.ax
 muskelvarkstan.ax
 muurinen.ax
-mv.ax
 mvc.ax
 mw.ax
 mwa.ax
@@ -2613,7 +2605,6 @@ nautical.ax
 nauticalclub.ax
 nautilus.ax
 navisphere.ax
-nb.ax
 nc.ax
 nd.ax
 ne.ax
@@ -2777,7 +2768,6 @@ online.ax
 onlinecasino.ax
 onniorava.ax
 ono.ax
-oo.ax
 ooo.ax
 op.ax
 op-hem.ax
@@ -3001,7 +2991,6 @@ py.ax
 pyssel.ax
 q6.ax
 q8.ax
-q9.ax
 qa.ax
 qb.ax
 qc.ax
