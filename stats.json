@@ -81,7 +81,7 @@
       "zone": "mc"
     },
     {
-      "domains": "2690",
+      "domains": "2684",
       "zone": "hosting"
     },
     {
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2757191"
+  "total": "2757185"
 }
