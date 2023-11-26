@@ -790,13 +790,11 @@ afridev-group.ci
 afridocteur.ci
 afridoctor.ci
 afrigroupe.ci
-afrikadoc.ci
 afrikana.ci
 afrikannonces.ci
 afrikastor.ci
 afrikbtp.ci
 afrikfashion.ci
-afrikfrais.ci
 afrikimmo.ci
 afrikimmomag.ci
 afrikservices.ci
@@ -1619,7 +1617,6 @@ babigo.ci
 babiinfo.ci
 babiken.ci
 babilocation.ci
-babiloto.ci
 babimall.ci
 babimarket.ci
 babiminute.ci
@@ -1727,7 +1724,6 @@ bayou.ci
 bazouamarket.ci
 bazurhome.ci
 bb.ci
-bbbc.ci
 bbc.ci
 bboxx.ci
 bbsstore.ci
@@ -2161,7 +2157,6 @@ bureauveritas.ci
 bureaux.ci
 burida.ci
 burinfort.ci
-buroprint.ci
 burozone.ci
 businessexpress.ci
 businessfrance.ci
@@ -2375,6 +2370,7 @@ cassivo.ci
 castel.ci
 castelli1892.ci
 casumo.ci
+cataloguedesfetes.ci
 catana-expertise.ci
 cateci.ci
 catenac.ci
@@ -2856,7 +2852,6 @@ cndteams.ci
 cne.ci
 cneadh.ci
 cnf.ci
-cnf-ci.ci
 cnfci.ci
 cni-cosim.ci
 cnitie.ci
@@ -2864,7 +2859,6 @@ cnlc.ci
 cnmaep.ci
 cnmci.ci
 cno-civ.ci
-cnoa.ci
 cnova.ci
 cnpc-mcc.ci
 cnpeci.ci
@@ -4261,7 +4255,6 @@ dr.ci
 dramacool9.ci
 drbmgp.ci
 dream-trading.ci
-dreamcorporation.ci
 dreamhouse.ci
 dreammarket.ci
 dreamnet.ci
@@ -4351,7 +4344,6 @@ e-stars-editions.ci
 e-store.ci
 e-tourisme.ci
 e-variete.ci
-e2t.ci
 e3.ci
 e3bat.ci
 ea.ci
@@ -6140,6 +6132,7 @@ hellodoctor.ci
 hellomoto.ci
 hellooccaz.ci
 helma.ci
+help.ci
 hempel.ci
 henricartan.ci
 heoh.ci
@@ -6373,7 +6366,6 @@ id-international.ci
 id30.ci
 idagroupe.ci
 idagroupeloko.ci
-idcard-report.ci
 idealista.ci
 idealoptic.ci
 idealvoyage.ci
@@ -6402,6 +6394,7 @@ ies.ci
 iesd.ci
 ifc.ci
 ifciinternational.ci
+ifmc.ci
 ifobs.ci
 iforas.ci
 ifran.ci
@@ -6639,7 +6632,6 @@ internetsociety.ci
 interoutlet.ci
 interpack.ci
 interrent.ci
-interview.ci
 intouch.ci
 intra-orange.ci
 intraverse.ci
@@ -7201,7 +7193,6 @@ kfbusiness.ci
 kfc.ci
 kfcorporation.ci
 kfinter.ci
-kgsarl.ci
 kgsecurity.ci
 kh.ci
 ki.ci
@@ -7684,7 +7675,6 @@ lesursaut.ci
 lesvoyageurs.ci
 lesyndicat.ci
 letheoricien.ci
-leticmarket.ci
 lets.ci
 letsgo.ci
 letudiant.ci
@@ -9165,6 +9155,7 @@ office.ci
 officeciel.ci
 officeplus.ci
 officielimmobilier.ci
+officina.ci
 officine.ci
 offload.ci
 offre-emploi.ci
@@ -9500,6 +9491,7 @@ ovh.ci
 ovo.ci
 ow.ci
 ownpartners.ci
+owo.ci
 ox.ci
 oxahost.ci
 oxelo.ci
@@ -11922,7 +11914,6 @@ tiva.ci
 tjentreprise.ci
 tk.ci
 tl.ci
-tld.ci
 tm.ci
 tmbusiness.ci
 tme.ci
