@@ -41,7 +41,6 @@
 2ndtrip.ax
 2x.ax
 301.ax
-31.ax
 32.ax
 33.ax
 333.ax
@@ -62,7 +61,6 @@
 4h.ax
 4m.ax
 50.ax
-51.ax
 5132.ax
 5138.ax
 53.ax
@@ -73,13 +71,10 @@
 60.ax
 61.ax
 6132.ax
-62.ax
 6277.ax
-64.ax
 65.ax
 6547.ax
 66.ax
-67.ax
 69.ax
 70.ax
 71.ax
@@ -92,8 +87,6 @@
 7x.ax
 80.ax
 80211.ax
-81.ax
-82.ax
 857.ax
 88.ax
 888.ax
@@ -1986,7 +1979,6 @@ juulpods.ax
 juulvapor.ax
 jx.ax
 jz.ax
-k2.ax
 k3.ax
 k98.ax
 ka.ax
@@ -2271,6 +2263,7 @@ loikas.ax
 loka.ax
 lokal.ax
 lokaltapiola.ax
+lokalvader.ax
 loli.ax
 lom.ax
 london.ax
@@ -4199,7 +4192,6 @@ ytterst.ax
 yu.ax
 yx.ax
 yy.ax
-z8.ax
 za.ax
 zagat.ax
 zandra.ax
