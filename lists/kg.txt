@@ -29,6 +29,7 @@
 123124.kg
 13.kg
 138.kg
+139express.kg
 14.kg
 1402.kg
 1430.kg
@@ -769,6 +770,7 @@ aluglass.kg
 alumil.kg
 aluplast.kg
 aluprof.kg
+aluprof-system.kg
 alur-avto.kg
 alustar.kg
 alutech.kg
@@ -1003,6 +1005,7 @@ ardi.kg
 arena.kg
 arenda.kg
 arendator.kg
+areol.kg
 areplivir.kg
 argamak.kg
 argo.kg
@@ -3264,7 +3267,6 @@ drone.kg
 dropbox.kg
 drpepper.kg
 drycleaning.kg
-ds.kg
 dsclinic.kg
 dska.kg
 dstk.kg
@@ -4314,7 +4316,6 @@ ga.kg
 gaa.kg
 gabbtrade.kg
 gac.kg
-gadalca-roksana.kg
 gadalka.kg
 gadget.kg
 gagarin.kg
@@ -5601,6 +5602,7 @@ james.kg
 jamk.kg
 jamt.kg
 jan.kg
+janapost.kg
 janaryk.kg
 janeiredale.kg
 jannat.kg
@@ -7354,6 +7356,7 @@ mineterra.kg
 minfin.kg
 mini.kg
 minimalist.kg
+mining.kg
 mininggroup.kg
 miningshop.kg
 miniwinnie.kg
@@ -7462,7 +7465,6 @@ moltur.kg
 mombekov.kg
 momondo.kg
 momsfood.kg
-monarch.kg
 moneta.kg
 monetka.kg
 money.kg
@@ -8430,6 +8432,7 @@ paa.kg
 paascompany.kg
 pacificauto.kg
 pack.kg
+packandgo.kg
 padysha.kg
 page.kg
 pai.kg
@@ -10305,6 +10308,7 @@ steklo.kg
 steklostroi.kg
 stellagroup.kg
 stellateam.kg
+stellox.kg
 stemma.kg
 stenders.kg
 stenders-cosmetics.kg
@@ -11202,6 +11206,7 @@ tumblr.kg
 tuncal.kg
 tunduk.kg
 tunduk-hostel.kg
+tunduktravel.kg
 tuning.kg
 tunuke.kg
 tunuksuu.kg
@@ -11763,6 +11768,7 @@ walkers.kg
 wallet.kg
 wallet1.kg
 walletone.kg
+wallstone.kg
 walmart.kg
 walrus.kg
 wals.kg
@@ -11774,7 +11780,6 @@ wasabiprofdocs.kg
 washprofiservice.kg
 washservice.kg
 washtec.kg
-wastenet.kg
 watch.kg
 water.kg
 water-climate.kg
