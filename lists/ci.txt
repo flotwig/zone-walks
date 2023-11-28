@@ -643,7 +643,6 @@ acibadem.ci
 acino.ci
 acipac.ci
 ackservices.ci
-acm.ci
 acome.ci
 acoonda.ci
 acquadiparma.ci
@@ -1131,7 +1130,6 @@ amio.ci
 amiria.ci
 amistad.ci
 amm.ci
-amoniamarket.ci
 amore.ci
 amr.ci
 ams.ci
@@ -1612,7 +1610,6 @@ babi.ci
 babi-shop.ci
 babiauto.ci
 babibox.ci
-babiconnexion.ci
 babigo.ci
 babiinfo.ci
 babiken.ci
@@ -2854,6 +2851,7 @@ cndteams.ci
 cne.ci
 cneadh.ci
 cnf.ci
+cnf-ci.ci
 cnfci.ci
 cni-cosim.ci
 cnitie.ci
@@ -3666,13 +3664,11 @@ coteivoire2023.ci
 coteouest.ci
 cotevivriere.ci
 cotiplast.ci
-cotraf.ci
 cotti.ci
 couadro.ci
 couleurbois.ci
 couleurscacao.ci
 coulomb.ci
-coulpanf.ci
 countertrade.ci
 coupeafriquedesnations2023.ci
 coupedafriquedesnations2023.ci
@@ -3799,7 +3795,6 @@ cvdvaccine.ci
 cvgroupeloko.ci
 cvrd.ci
 cvrdinternational.ci
-cy.ci
 cyber.ci
 cybercenter.ci
 cyberlanca.ci
@@ -5210,7 +5205,6 @@ felix.ci
 femboy.ci
 feminineafrica.ci
 femmedaujourdhui.ci
-femmesensuelle.ci
 femmesentrepreneures.ci
 femmespour-agc.ci
 femmesprecieuses.ci
@@ -5522,6 +5516,7 @@ freelance.ci
 freemarket.ci
 freesoft.ci
 freeview.ci
+freezone.ci
 frenchtechabidjan.ci
 fresco-info.ci
 freseniusmedicalcare.ci
@@ -5544,6 +5539,7 @@ ft.ci
 ftmnet.ci
 ftr.ci
 fu.ci
+fuel.ci
 fuelex.ci
 fujitsu.ci
 fulltechnologies.ci
@@ -5714,7 +5710,6 @@ gestopark.ci
 gesvisbaa.ci
 get.ci
 getcarbon.ci
-getcom.ci
 gethsemane.ci
 getma.ci
 getzner.ci
@@ -5797,7 +5792,6 @@ globuxtechnology.ci
 glodie.ci
 gloris-conseil.ci
 gloryapp.ci
-glorycars.ci
 glovo.ci
 glovoapp.ci
 glovostore.ci
@@ -5895,7 +5889,6 @@ gpeedheg-abidjan.ci
 gpn.ci
 gpp.ci
 gps.ci
-gpstech.ci
 gpsyakrobnetd.ci
 gpt.ci
 gpts.ci
@@ -6129,6 +6122,7 @@ helium-construction.ci
 heliumingenierie.ci
 hello.ci
 helloabidjan.ci
+hellocoryd.ci
 hellodoctor.ci
 hellomoto.ci
 hellooccaz.ci
@@ -6395,6 +6389,7 @@ ies.ci
 iesd.ci
 ifc.ci
 ifciinternational.ci
+ifdtm.ci
 ifmc.ci
 ifobs.ci
 iforas.ci
@@ -6441,6 +6436,7 @@ imagin-plus.ci
 imaginecom.ci
 imaginefair.ci
 imaginefair-la-franchise.ci
+imaginus.ci
 imanex.ci
 imans-hotel.ci
 imcci.ci
@@ -6477,6 +6473,7 @@ imperial-english.ci
 impressionkdo.ci
 impressionrapide.ci
 impricom.ci
+imprimclic.ci
 imprimer.ci
 imprimerie-ihs.ci
 imprimerienationale.ci
@@ -6800,7 +6797,6 @@ ivoireculture.ci
 ivoiredigitalconsulting.ci
 ivoiredoc.ci
 ivoiredocs.ci
-ivoireetude.ci
 ivoirefirmsucces.ci
 ivoirefm.ci
 ivoireformation.ci
@@ -6869,6 +6865,7 @@ iy.ci
 iyako.ci
 iyf.ci
 iz.ci
+izi.ci
 izigo.ci
 iziizaconstructiondecoration.ci
 iziizaconstructionimmobiliere.ci
@@ -7171,6 +7168,7 @@ kdm.ci
 kdprestige.ci
 ke.ci
 kedeshgroupeentreprise.ci
+kedj-securite.ci
 keemala.ci
 keitatechnologies.ci
 keletick.ci
@@ -7976,6 +7974,7 @@ mag.ci
 magarantie.ci
 magasinshark.ci
 maggi.ci
+maggie.ci
 magic.ci
 magic-auto.ci
 magicsuite.ci
@@ -8019,6 +8018,7 @@ mairiejacqueville.ci
 mairiekouibly.ci
 mairieouelle.ci
 mairietengrela.ci
+mairietouba.ci
 mairietreichville.ci
 mairieyamoussoukro.ci
 mairieyopougon.ci
@@ -8428,6 +8428,7 @@ mipa.ci
 mirah.ci
 mirah-csp.ci
 miri.ci
+miri-group.ci
 mirigroup.ci
 missagri.ci
 missiondcf.ci
@@ -8815,7 +8816,6 @@ nawayou.ci
 nayou.ci
 nbci.ci
 nc.ci
-ncb.ci
 ncbaraka.ci
 nci.ci
 nd.ci
@@ -9020,6 +9020,7 @@ nowstore.ci
 np.ci
 npcdb.ci
 npsp.ci
+nq.ci
 ns.ci
 ns2po.ci
 nsahotel.ci
@@ -9102,7 +9103,6 @@ obled.ci
 obrains.ci
 obv.ci
 obviate.ci
-obwstore.ci
 oc.ci
 oca.ci
 occasion.ci
@@ -9607,6 +9607,7 @@ patesmaman.ci
 pathe.ci
 patheo.ci
 patisserie.ci
+paton.ci
 patreon.ci
 patrimoineimmobilier.ci
 paul.ci
@@ -9698,6 +9699,7 @@ petrocisa.ci
 petrociusa.ci
 petrocivirtualdataroom.ci
 petroivoire.ci
+petrolub.ci
 petronas.ci
 petropower.ci
 petrossian.ci
@@ -10354,6 +10356,7 @@ revservices.ci
 revuecommerceexterieure.ci
 rexroth.ci
 rezi.ci
+rezo.ci
 rf.ci
 rg.ci
 rgl.ci
@@ -10991,7 +10994,6 @@ sigecoges.ci
 sigel.ci
 sigem.ci
 sigema.ci
-sigep.ci
 siges.ci
 sigfu.ci
 sighor.ci
@@ -11624,6 +11626,7 @@ swapafrica.ci
 swarkprocurement.ci
 sweet.ci
 sweethome.ci
+sweethomehotel.ci
 sweethotels.ci
 swissumef.ci
 switch-made.ci
@@ -11740,6 +11743,7 @@ team-maya.ci
 teambi.ci
 teammagazine.ci
 tech.ci
+tech-open.ci
 techbatgroup.ci
 techdigital.ci
 techdomains.ci
