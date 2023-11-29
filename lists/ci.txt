@@ -584,7 +584,6 @@ abiguikokobley.ci
 abinews.ci
 abissa.ci
 abjbc.ci
-aboffice.ci
 aboisso24tv.ci
 aboissomag.ci
 aboissomagazine.ci
@@ -864,6 +863,7 @@ agnibilekro.ci
 agnibilekrou.ci
 agogo.ci
 agproperty.ci
+agrac.ci
 agrh.ci
 agri-dev.ci
 agriandland.ci
@@ -1257,7 +1257,6 @@ archangevoyage.ci
 archi-techbat.ci
 archibat.ci
 archiconcept.ci
-archipro.ci
 architech.ci
 architecte.ci
 architectes.ci
@@ -1407,7 +1406,6 @@ astra-x.ci
 astraining.ci
 astrax.ci
 astrid.ci
-astro.ci
 astronomie.ci
 astrotech.ci
 astrum.ci
@@ -2193,7 +2191,6 @@ cabinet-berveram.ci
 cabinet-ceeka.ci
 cabinet-hermska.ci
 cabinet-s2a.ci
-cabinetallegra.ci
 cabinetavocat-aenzakonate.ci
 cabinetbelievegroup.ci
 cabinetbokoka.ci
@@ -2225,6 +2222,7 @@ cafesbondin.ci
 cafopyakro.ci
 caftan.ci
 caftic-istc.ci
+caftrading.ci
 cagrh.ci
 caic.ci
 caidamultiservices.ci
@@ -2690,7 +2688,6 @@ cinetechfestival.ci
 cinetpay.ci
 cinews.ci
 cinfci.ci
-cinn.ci
 cipaad.ci
 cipemsa.ci
 cipex.ci
@@ -2856,9 +2853,11 @@ cnfci.ci
 cni-cosim.ci
 cnitie.ci
 cnlc.ci
+cnlvc.ci
 cnmaep.ci
 cnmci.ci
 cno-civ.ci
+cnoa.ci
 cnova.ci
 cnpc-mcc.ci
 cnpeci.ci
@@ -3954,6 +3953,7 @@ desgateauxetdupain.ci
 designlab.ci
 desk.ci
 desmotsdesimages.ci
+despii.ci
 despse.ci
 destinationderev.ci
 destinygroup.ci
@@ -4337,6 +4337,7 @@ e-mpd.ci
 e-planning.ci
 e-recommande.ci
 e-sante.ci
+e-services.ci
 e-stars-editions.ci
 e-store.ci
 e-tourisme.ci
@@ -4627,6 +4628,7 @@ efcaconseils.ci
 efebsarl.ci
 efemmes.ci
 effetindesirable.ci
+eflorale.ci
 ega.ci
 egarage.ci
 egard.ci
@@ -4636,6 +4638,7 @@ egeb.ci
 egeci.ci
 egetech.ci
 egfop.ci
+egit-solutions.ci
 egkhr.ci
 eglceleste.ci
 eglin.ci
@@ -4787,6 +4790,7 @@ emerson.ci
 emian.ci
 emic.ci
 emica.ci
+emilitant-rhdp.ci
 emirates.ci
 emirav.ci
 emlak.ci
@@ -5123,6 +5127,7 @@ fabellashop.ci
 fac-ads.ci
 fac-app.ci
 facaci.ci
+faci.ci
 faciliss.ci
 facilityconcept.ci
 facilitysg.ci
@@ -5170,7 +5175,6 @@ fat-holding.ci
 fatoufit.ci
 fau.ci
 faw.ci
-fawtrucks.ci
 fb.ci
 fbci.ci
 fcgegroupeloko.ci
@@ -5397,6 +5401,7 @@ focusinfos.ci
 fodi.ci
 foerch.ci
 fofanamahoua-notaire.ci
+fognonmaimouna.ci
 foherb.ci
 foiredechine.ci
 foiredivoire.ci
@@ -5575,7 +5580,6 @@ gadget.ci
 gahaa.ci
 gai-ci.ci
 gala.ci
-galaamp22-lesmagnifiques.ci
 galai-home.ci
 galaxynumeric.ci
 galeri.ci
@@ -6557,9 +6561,9 @@ initiativecacaoforets.ci
 initiativpgc.ci
 injsabidjan.ci
 inka.ci
-inn.ci
 innaya-ts.ci
 innotech.ci
+innov-school.ci
 innov4agri.ci
 innova-groupafrica.ci
 innovarts.ci
@@ -6685,6 +6689,7 @@ irrigation.ci
 irs.ci
 irsd.ci
 is.ci
+isaacimmobilier.ci
 isafety.ci
 isam.ci
 isatech.ci
@@ -7340,7 +7345,6 @@ kube.ci
 kucoin.ci
 kuik.ci
 kuikma.ci
-kukuza-africa.ci
 kumatala.ci
 kun.ci
 kunta.ci
@@ -8605,6 +8609,7 @@ montreuxbeautyandspa.ci
 montrotech.ci
 monvisa.ci
 monvoyageur.ci
+moo.ci
 moobicom.ci
 moonla.ci
 moonservices.ci
@@ -9159,7 +9164,6 @@ og.ci
 ogbobabusiness.ci
 ogbobacave.ci
 oh.ci
-ohayo.ci
 ohm.ci
 ohmdesign.ci
 ohs.ci
@@ -9451,7 +9455,6 @@ oseil.ci
 osep.ci
 oser.ci
 oshdi.ci
-osicom.ci
 osnou.ci
 osonslerenouveau.ci
 osports.ci
@@ -10811,7 +10814,6 @@ serelec.ci
 serenity.ci
 serfinsa.ci
 seritex.ci
-serjetbio.ci
 sermes.ci
 sertel.ci
 serv-dev.ci
@@ -12359,7 +12361,6 @@ vitibzonefranche.ci
 vitnet-inter.ci
 vitrine.ci
 vitropicafrica.ci
-vitu.ci
 vivapub.ci
 vivoenergy.ci
 vivre.ci
@@ -12467,6 +12468,7 @@ web-record.ci
 web3.ci
 webaccess.ci
 webbfontaine.ci
+webdigit.ci
 webhelp.ci
 webimmo.ci
 webit.ci
@@ -12666,7 +12668,6 @@ yakromarket.ci
 yalwa.ci
 yamaison.ci
 yamis.ci
-yamobet.ci
 yamsgroup.ci
 yana.ci
 yandalux.ci
