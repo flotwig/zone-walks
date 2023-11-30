@@ -508,9 +508,11 @@ ajkr.kg
 ak.kg
 ak-bashat.kg
 ak-bata.kg
+ak-bulakpluse.kg
 ak-jol.kg
 ak-muz-aimak.kg
 ak-say.kg
+ak-sut.kg
 ak-suu.kg
 akaba.kg
 akademia-sluha.kg
@@ -531,6 +533,7 @@ akchalay.kg
 akchamat.kg
 akdas.kg
 akemgek.kg
+akfabuild.kg
 akfagroup.kg
 akfix.kg
 akfmis.kg
@@ -759,7 +762,6 @@ altyn.kg
 altyn-azyk.kg
 altynbox.kg
 altynbulak.kg
-altyndoor.kg
 altynken.kg
 altynkol.kg
 altynkur.kg
@@ -1588,6 +1590,7 @@ bananarepublic.kg
 banda-panda.kg
 bank.kg
 bank24.kg
+banka.kg
 bankasia.kg
 banket.kg
 banki.kg
@@ -1633,6 +1636,7 @@ barstranzit.kg
 barter.kg
 baru.kg
 basa.kg
+bashat.kg
 basilea.kg
 basket.kg
 basketball.kg
@@ -1792,6 +1796,7 @@ berloga.kg
 bermet.kg
 berries.kg
 berry.kg
+bes.kg
 besharcha.kg
 beshikjon.kg
 besmart.kg
@@ -1857,6 +1862,7 @@ bhotel.kg
 bht.kg
 bhu.kg
 bi.kg
+bi-logistik.kg
 bia.kg
 bianhim.kg
 biast.kg
@@ -2162,7 +2168,6 @@ brandambassador.kg
 brandly.kg
 brandmonitor.kg
 brandplus.kg
-brandten.kg
 brandtoys.kg
 braslet.kg
 bravo.kg
@@ -2202,6 +2207,7 @@ bsc.kg
 bsk.kg
 bsk-pro.kg
 bsklad.kg
+bsmart.kg
 bsp.kg
 bstarco.kg
 bstudio.kg
@@ -2480,7 +2486,6 @@ change.kg
 chapan.kg
 charchy.kg
 charity.kg
-chart.kg
 charter.kg
 chasy.kg
 chat.kg
@@ -2705,6 +2710,7 @@ connecta.kg
 conokservice.kg
 consensus.kg
 conservatory.kg
+consigliere.kg
 constpalata.kg
 constsot.kg
 consulate.kg
@@ -3476,6 +3482,7 @@ ekassa.kg
 ekitash.kg
 ekitep.kg
 ekol.kg
+ekomilk.kg
 ekopol.kg
 ekos.kg
 ekran.kg
@@ -3710,7 +3717,6 @@ erenek.kg
 ergometric.kg
 ericsson.kg
 erkin-too.kg
-erkinbek.kg
 erkindiklab.kg
 erkintoo.kg
 ermannoscervino.kg
@@ -4648,6 +4654,7 @@ grecha.kg
 greco.kg
 greco-jlt.kg
 gree.kg
+greece.kg
 green.kg
 green-alliance.kg
 green-life.kg
@@ -5038,7 +5045,6 @@ hyundai-ce.kg
 hyundai-kyrgyzstan.kg
 hz.kg
 i.kg
-i-k.kg
 i-kul.kg
 i-tex.kg
 i-trade.kg
@@ -5120,6 +5126,7 @@ ifunfun.kg
 igc.kg
 igconsult.kg
 igf.kg
+igfim.kg
 igor.kg
 igromafia.kg
 igroup.kg
@@ -5545,6 +5552,7 @@ iuk.kg
 ivision.kg
 ivoclar-vivadent.kg
 ivoclarvivadent.kg
+ivory.kg
 ivox.kg
 iw.kg
 iwa.kg
@@ -6856,6 +6864,7 @@ mady.kg
 madykan.kg
 maersk.kg
 mafia.kg
+mafler.kg
 mag.kg
 magaz.kg
 magazin.kg
@@ -6917,7 +6926,6 @@ manas-discovery.kg
 manas-taxi.kg
 manasacademy.kg
 manasordo.kg
-manasrma.kg
 manastour.kg
 manastv.kg
 manchester.kg
@@ -6948,6 +6956,7 @@ marinemenkar.kg
 mark.kg
 mark-six.kg
 marka-audit.kg
+marker.kg
 market.kg
 marketing.kg
 marketplace.kg
@@ -7329,6 +7338,7 @@ middleasiastone.kg
 midea.kg
 mido.kg
 miele.kg
+mifepristone.kg
 mig.kg
 migompro.kg
 migrant.kg
@@ -7413,6 +7423,7 @@ mixmedia.kg
 mk.kg
 mkassa.kg
 mkmc.kg
+mkp.kg
 mkt.kg
 ml.kg
 mlsp.kg
@@ -7597,7 +7608,6 @@ munara.kg
 munichre.kg
 municipalitet.kg
 muras-official.kg
-muras-sertificat.kg
 murasdistr.kg
 murasmedia.kg
 murastelecom.kg
@@ -7735,7 +7745,6 @@ naryncorp.kg
 narynimport.kg
 narynlib.kg
 narynokmot.kg
-naryntufoms.kg
 nasa.kg
 nasaat.kg
 nasaatmedia.kg
@@ -8028,6 +8037,7 @@ nurmedia.kg
 nurmeri.kg
 nurmi.kg
 nurnews.kg
+nurpress.kg
 nursace.kg
 nurstroy.kg
 nurtech.kg
@@ -8233,7 +8243,6 @@ onza.kg
 oo.kg
 ooba.kg
 oobamarket.kg
-ookat.kg
 oomat.kg
 ooo.kg
 op.kg
@@ -8313,6 +8322,7 @@ organicfarming.kg
 organon.kg
 orgasm.kg
 orgazm.kg
+oricom.kg
 orientcapital.kg
 orienthotel.kg
 oriflame.kg
@@ -8747,6 +8757,7 @@ plaza.kg
 plazaclinic.kg
 plazahotel.kg
 plazmamarket.kg
+pleyana.kg
 plg.kg
 plitonit.kg
 plomba.kg
@@ -9088,6 +9099,7 @@ pythonbar.kg
 q.kg
 q-matic.kg
 qalife.kg
+qaragat.kg
 qarashlab.kg
 qbtools.kg
 qezek.kg
@@ -9174,7 +9186,6 @@ ratel.kg
 rating.kg
 rating-edu.kg
 rating-iarc.kg
-ratinovclinic.kg
 ratio.kg
 ravenol.kg
 ravenstvo.kg
@@ -10116,6 +10127,7 @@ sochi.kg
 socialpedagogues.kg
 socialwork.kg
 socmarket.kg
+sofa.kg
 sofby.kg
 sofi.kg
 soft.kg
@@ -10378,6 +10390,7 @@ strong.kg
 stroy.kg
 stroy-grand.kg
 stroy-service.kg
+stroybaza.kg
 stroycentr.kg
 stroydom.kg
 stroydvor.kg
@@ -10960,6 +10973,7 @@ tmall.kg
 tmavlynov11.kg
 tmg.kg
 tmi-centralasia.kg
+tmlogistics.kg
 tmobile.kg
 tms.kg
 tmt-service.kg
@@ -11353,6 +11367,7 @@ umrah.kg
 umraservice.kg
 umsosh.kg
 umut.kg
+umut-co.kg
 umutshamy.kg
 umutstroy.kg
 un.kg
