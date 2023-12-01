@@ -97,12 +97,12 @@
       "zone": "br"
     },
     {
-      "domains": "1267",
-      "zone": "bt"
+      "domains": "1268",
+      "zone": "tz"
     },
     {
-      "domains": "1266",
-      "zone": "tz"
+      "domains": "1267",
+      "zone": "bt"
     },
     {
       "domains": "1211",
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2757932"
+  "total": "2757934"
 }
