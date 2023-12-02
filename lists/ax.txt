@@ -69,6 +69,7 @@
 55.ax
 58.ax
 588.ax
+59.ax
 60.ax
 61.ax
 6132.ax
@@ -477,7 +478,6 @@ axcec.ax
 axcon.ax
 axe.ax
 axel.ax
-axer.ax
 axfinans.ax
 axhiss.ax
 axis.ax
@@ -655,6 +655,7 @@ bmw.ax
 bo.ax
 bobil.ax
 bobiten.ax
+bobra.ax
 bocknasvatten.ax
 bodegan.ax
 boeckmanncenter.ax
@@ -973,7 +974,6 @@ dehaas.ax
 dekoora.ax
 delicatessen.ax
 deluxe.ax
-delvik.ax
 demens.ax
 demo.ax
 dentalcenter.ax
@@ -3084,7 +3084,6 @@ repvvs.ax
 resa.ax
 reservist.ax
 resmedgoran.ax
-restaurangcikada.ax
 restaurantbabista.ax
 rethinkcvrisk.ax
 retriever.ax
@@ -3286,7 +3285,6 @@ simplyhosting.ax
 sin.ax
 sint.ax
 siren.ax
-sisa.ax
 sittkoff.ax
 sittkoffs.ax
 sittkoffska.ax
