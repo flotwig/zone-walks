@@ -2507,7 +2507,6 @@ cg2f.ci
 cga.ci
 cga-agy.ci
 cga-gracedivine.ci
-cgb.ci
 cgcf.ci
 cgdby.ci
 cge.ci
@@ -4715,7 +4714,6 @@ elenkhos.ci
 elephant.ci
 elephantech.ci
 elephone.ci
-elevage.ci
 eleveur4.ci
 eleveur40.ci
 elg-inter.ci
@@ -5071,7 +5069,6 @@ examens-oeeci.ci
 exat.ci
 exceliam.ci
 excellfinances.ci
-exchange.ci
 exciv.ci
 exeed.ci
 exel.ci
@@ -6467,7 +6464,6 @@ imoney.ci
 impac.ci
 impact.ci
 impact-digi-systems.ci
-impactcommunication.ci
 impactpolytechs.ci
 impactrapide.ci
 imperial-english.ci
@@ -12060,6 +12056,7 @@ twiga.ci
 twinkl.ci
 twosigma.ci
 tx.ci
+txt.ci
 ty.ci
 tyc.ci
 tynelacademie.ci
@@ -12604,6 +12601,7 @@ wx.ci
 wy.ci
 wynajme.ci
 x0.ci
+x1.ci
 x3.ci
 x6.ci
 xbet.ci
