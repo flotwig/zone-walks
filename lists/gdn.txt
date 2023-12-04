@@ -730,7 +730,6 @@
 56829.gdn
 56856.gdn
 56980.gdn
-56981.gdn
 57-22.gdn
 57-23.gdn
 57-25.gdn
@@ -1031,7 +1030,6 @@
 81157.gdn
 81236.gdn
 81269.gdn
-81352.gdn
 81411.gdn
 81623.gdn
 81726.gdn
@@ -1062,9 +1060,7 @@
 85073.gdn
 85132.gdn
 85151.gdn
-85216.gdn
 8522.gdn
-85231.gdn
 85317.gdn
 85326.gdn
 8533.gdn
@@ -1213,7 +1209,6 @@
 93068.gdn
 93186.gdn
 93267.gdn
-93281.gdn
 93372.gdn
 93377.gdn
 93452.gdn
@@ -2028,6 +2023,7 @@ autoservice.gdn
 autosport.gdn
 autotransport.gdn
 autousate.gdn
+ava.gdn
 available.gdn
 avatar.gdn
 avex.gdn
@@ -2299,6 +2295,7 @@ beds.gdn
 bedsofa.gdn
 bedspreads.gdn
 bedvalances.gdn
+bee.gdn
 beecher.gdn
 beedileaves.gdn
 beedis.gdn
@@ -4099,6 +4096,7 @@ damage.gdn
 damaged.gdn
 dame.gdn
 damien.gdn
+dan.gdn
 danawa.gdn
 danby.gdn
 dancer.gdn
@@ -4885,6 +4883,7 @@ dragonair.gdn
 drain.gdn
 draincovers.gdn
 drama.gdn
+dramacool.gdn
 dramatic.gdn
 dranesville.gdn
 drape.gdn
@@ -11388,6 +11387,7 @@ soho.gdn
 soicaumienbac.gdn
 soil.gdn
 sol.gdn
+solana.gdn
 solaris.gdn
 solarpanel.gdn
 solarsystem.gdn
@@ -11844,6 +11844,7 @@ tell.gdn
 telusinternational.gdn
 template.gdn
 templates.gdn
+tempmail.gdn
 tempobet.gdn
 ten.gdn
 tencent.gdn
