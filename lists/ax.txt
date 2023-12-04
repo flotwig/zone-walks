@@ -1339,6 +1339,7 @@ flux.ax
 flygfoto.ax
 flygklubben.ax
 flyplay.ax
+flyttligan.ax
 fm.ax
 fma.ax
 fmakjsgrav.ax
@@ -1719,7 +1720,6 @@ horsvik.ax
 hospoda.ax
 host.ax
 hosted.ax
-hosting.ax
 hostinger.ax
 hotel.ax
 hotellarkipelag.ax
@@ -3442,7 +3442,6 @@ sq.ax
 sr.ax
 srv.ax
 ss.ax
-ssl.ax
 st.ax
 st1.ax
 stablehost.ax
