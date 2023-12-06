@@ -71,7 +71,6 @@
 588.ax
 59.ax
 60.ax
-61.ax
 6132.ax
 6277.ax
 65.ax
@@ -387,12 +386,12 @@ appspot.ax
 aprf.ax
 april.ax
 aprilkommunikation.ax
+aptusboka.ax
 aq.ax
 ar.ax
 arc.ax
 arch.ax
 archipelago.ax
-ardex.ax
 areal.ax
 ari.ax
 arista.ax
@@ -918,6 +917,7 @@ crestum.ax
 cro.ax
 croftco.ax
 crosskey.ax
+crypto.ax
 cryptocurrency.ax
 cs.ax
 csh.ax
@@ -1010,6 +1010,7 @@ djur.ax
 djurlyckan.ax
 djurskydd.ax
 djurvik.ax
+dk.ax
 dkco.ax
 dl.ax
 dlc.ax
@@ -2304,6 +2305,7 @@ lustans.ax
 lutec.ax
 lutzm.ax
 luvid.ax
+luxm.ax
 lv.ax
 lvi-verkkokauppa.ax
 lvl.ax
@@ -4041,6 +4043,8 @@ www.ax
 wx.ax
 wz.ax
 x0reaxe.ax
+x8.ax
+x9.ax
 xa.ax
 xai.ax
 xan.ax
@@ -4211,6 +4215,7 @@ zh.ax
 zi.ax
 ziczac.ax
 zj.ax
+zk.ax
 zl.ax
 zm.ax
 zo.ax
