@@ -159,6 +159,7 @@
 2i.ci
 2ic.ci
 2imtechnology.ci
+2is.ci
 2its.ci
 2j.ci
 2k.ci
@@ -727,6 +728,7 @@ ae2c.ci
 aeci.ci
 aedmstcf.ci
 aeeci.ci
+aelec.ci
 aeolus.ci
 aeria.ci
 aeropole.ci
@@ -1686,6 +1688,7 @@ barriere-play.ci
 barrierebet.ci
 barriereplay.ci
 bartoluc.ci
+basetp.ci
 baseus.ci
 baseus-store.ci
 basicshop.ci
@@ -2156,7 +2159,6 @@ burida.ci
 burinfort.ci
 buroprint.ci
 burozone.ci
-businessexpress.ci
 businessfrance.ci
 businesskids.ci
 businessplan.ci
@@ -3850,10 +3852,10 @@ data.ci
 database.ci
 databaseforapps.ci
 datacenter.ci
-datacloud.ci
 datacom.ci
 dataconnect.ci
 dataconsulting-group.ci
+datagreffe.ci
 dataguard.ci
 datakit.ci
 dataprotect.ci
@@ -4064,7 +4066,6 @@ dimba-actiondeveloppement.ci
 dimbaactiondeveloppement.ci
 dimecom.ci
 dimerl.ci
-dimora.ci
 dingouin.ci
 dinnerwithchrist.ci
 dinoretmoi.ci
@@ -4379,7 +4380,6 @@ ebatp.ci
 ebay.ci
 ebcorporation.ci
 ebelier.ci
-eben.ci
 ebi-group.ci
 ebimpe.ci
 ebox.ci
@@ -4517,7 +4517,6 @@ ecole.edu.ci
 ed-bio-env-sante.edu.ci
 ensea.edu.ci
 epcci.edu.ci
-esaa.edu.ci
 esatic.edu.ci
 etudesk.edu.ci
 etudiants.edu.ci
@@ -4930,7 +4929,6 @@ espa.ci
 espace-arena.ci
 espacearena.ci
 espaceledofan.ci
-espacenet.ci
 espacessaada.ci
 espagri.ci
 espana-naturesantet.ci
@@ -5042,7 +5040,6 @@ event.ci
 event-ticket.ci
 event225.ci
 eventhub.ci
-eventia.ci
 eventquick.ci
 eventsetstudios.ci
 everest.ci
@@ -5274,6 +5271,7 @@ fifo.ci
 fifplus.ci
 fifranchise.ci
 fifter.ci
+fiiri.ci
 filac.ci
 file.ci
 fillesdafrique.ci
@@ -5298,6 +5296,7 @@ finance.ci
 financementpme.ci
 financeplus.ci
 financezvotrevoiture.ci
+financial-performance.ci
 financialedge.ci
 fincorp.ci
 fincraftci.ci
@@ -5728,6 +5727,7 @@ gibtp.ci
 gic.ci
 gicop.ci
 gie.ci
+gig.ci
 gigisfood.ci
 gilsenglish.ci
 gima.ci
@@ -6810,7 +6810,6 @@ ivoiremotor.ci
 ivoirenetworkimmobiler.ci
 ivoirenewspaper.ci
 ivoireprudentsecurite.ci
-ivoiresanteplus.ci
 ivoiresantepublique.ci
 ivoireserviceplus.ci
 ivoiresms.ci
@@ -6820,7 +6819,6 @@ ivoireterrain.ci
 ivoireticdigital.ci
 ivoiretoner.ci
 ivoiretrader.ci
-ivoiretransport.ci
 ivoiretravel.ci
 ivoirevetconsulting.ci
 ivoirewin.ci
@@ -7235,7 +7233,6 @@ kk.ci
 kkbox.ci
 kkhagency.ci
 klaconstruction.ci
-klaptonafrica.ci
 klaris-de-suisse.ci
 klassroom.ci
 klconstruction.ci
@@ -7460,6 +7457,7 @@ launch.ci
 laurastar.ci
 lauri.ci
 lautrerive.ci
+lavagueorange.ci
 lavenir.ci
 lavie.ci
 lavieclaire.ci
@@ -7574,7 +7572,6 @@ lemeridien.ci
 lemetro.ci
 lemetro-abidjan.ci
 lemetrodabidjan.ci
-lemobilier.ci
 lemot.ci
 lenecrologue.ci
 lenegociateurimmobilier.ci
@@ -8582,7 +8579,6 @@ montoit.ci
 montrajet.ci
 montransport.ci
 montreuxbeautyandspa.ci
-montrotech.ci
 monvisa.ci
 monvoyageur.ci
 moo.ci
@@ -8796,6 +8792,7 @@ nawayou.ci
 nayou.ci
 nbci.ci
 nbh.ci
+nbhorganisateur.ci
 nc.ci
 ncb.ci
 ncbaraka.ci
@@ -9086,6 +9083,7 @@ obled.ci
 obrains.ci
 obv.ci
 obviate.ci
+obwstore.ci
 oc.ci
 oca.ci
 occasion.ci
@@ -9709,6 +9707,7 @@ pharmaciejubile.ci
 pharmacien.ci
 pharmaciesainteagathe.ci
 pharmacy.ci
+pharmadis.ci
 pharmafrique.ci
 pharmages.ci
 pharmivoire.ci
@@ -10327,7 +10326,6 @@ reve.ci
 revealschool.ci
 reveiloil.ci
 revela.ci
-reverselinkage.ci
 revision.ci
 revisions.ci
 revist.ci
@@ -11008,7 +11006,6 @@ sim.ci
 simac.ci
 simael.ci
 simage-csa.ci
-simam.ci
 simat.ci
 simbv.ci
 simet.ci
@@ -11526,6 +11523,7 @@ strategix.ci
 streamline.ci
 streamline-t.ci
 street.ci
+streetmarketing.ci
 striatum.ci
 strieders.ci
 strong.ci
@@ -11661,6 +11659,7 @@ tamansu.ci
 tambour.ci
 tamir.ci
 tamoil.ci
+tamponenligne.ci
 tamron.ci
 tamsystem.ci
 tamtam.ci
@@ -11931,6 +11930,7 @@ tourex.ci
 tourextracking.ci
 tourismecotedivoire.ci
 touristhotel.ci
+tourivoire.ci
 tous.ci
 toussaintadjobi.ci
 toutici.ci
@@ -12130,6 +12130,7 @@ unifood.ci
 unifund.ci
 unikcgroupe.ci
 unilever.ci
+unilumin.ci
 unipesca.ci
 unisat.ci
 unisys.ci
@@ -12454,7 +12455,6 @@ weenovit.ci
 wefix.ci
 weichai.ci
 weinvest.ci
-wel.ci
 wele.ci
 welikeciv.ci
 welldone.ci
