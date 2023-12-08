@@ -134,6 +134,7 @@
 6277.kg
 63.kg
 6547.kg
+65app.kg
 66.kg
 666.kg
 68.kg
@@ -334,7 +335,6 @@ aeg-electrolux.kg
 aek.kg
 aero.kg
 aeroadv.kg
-aerokassa.kg
 aerokyrgyzstan.kg
 aerolab.kg
 aeroman.kg
@@ -650,7 +650,6 @@ algar.kg
 algara.kg
 algida.kg
 algoritmplus.kg
-alhadaya-omega3.kg
 alhakim.kg
 alhalal.kg
 ali.kg
@@ -890,6 +889,7 @@ anti-klop.kg
 antiage.kg
 anticorruption.kg
 antimonopolia.kg
+anto.kg
 antre.kg
 ants.kg
 anturaj.kg
@@ -1152,7 +1152,6 @@ asiaspeckomplekt.kg
 asiastandart.kg
 asiasteel.kg
 asiastore.kg
-asiasushi.kg
 asiatau.kg
 asiaterm.kg
 asiatobacco.kg
@@ -1674,7 +1673,6 @@ baysom.kg
 baystore.kg
 baytalaa.kg
 baytashgroup.kg
-baytik.kg
 baytiklux.kg
 baytiktower.kg
 baytur.kg
@@ -1999,6 +1997,7 @@ bit.kg
 bitaxi.kg
 bitbanker.kg
 bitcash.kg
+bitchange.kg
 bitcoin.kg
 bitcom.kg
 bitconstruct.kg
@@ -2043,6 +2042,7 @@ bkstroi.kg
 bl.kg
 blackbox.kg
 blacklama.kg
+blacksharks.kg
 blammo.kg
 blandgroup.kg
 blastmaker.kg
@@ -2671,10 +2671,12 @@ coffeeboom.kg
 coffeeshopcompany.kg
 cognac.kg
 coin.kg
+coinchange.kg
 coinex.kg
 coinmart.kg
 coins.kg
 coinsat.kg
+coinstar.kg
 coinx.kg
 coke.kg
 colgate.kg
@@ -2782,6 +2784,7 @@ crdl.kg
 create.kg
 createsite.kg
 creative.kg
+creative-academy.kg
 creative-wave.kg
 creator.kg
 credit.kg
@@ -2823,6 +2826,7 @@ crystal.kg
 crystal-lux.kg
 crystalbay.kg
 crystallux.kg
+crystalwater.kg
 cs.kg
 cs-market.kg
 csgo.kg
@@ -2846,7 +2850,6 @@ curaprox.kg
 curling.kg
 curltai.kg
 customer.kg
-customs.kg
 cutimed.kg
 cvetkoff.kg
 cvetnoidym.kg
@@ -2903,6 +2906,7 @@ dana.kg
 dance.kg
 dandan.kg
 dandb.kg
+dandelion.kg
 danfoss.kg
 daniel.kg
 danielfood.kg
@@ -3762,6 +3766,7 @@ esportscores.kg
 espumisan.kg
 esquire.kg
 esri.kg
+esri-cis.kg
 essen.kg
 essens.kg
 essity.kg
@@ -4094,7 +4099,9 @@ finmarket.kg
 finomo.kg
 finrank.kg
 finsabat.kg
+fintegro.kg
 fintex.kg
+finuchet.kg
 fiorucci.kg
 fipron.kg
 fipron-canarias.kg
@@ -4311,6 +4318,7 @@ fujitsu.kg
 fulfillmentleader.kg
 fulfilment.kg
 fullservice.kg
+funberry.kg
 fund-alliance-altyn.kg
 fundamental.kg
 funday.kg
@@ -4439,6 +4447,7 @@ gendigital.kg
 genealogy.kg
 genenote.kg
 general-akmatov.kg
+generalpro.kg
 generaltrading.kg
 generator.kg
 generators.kg
@@ -5090,6 +5099,7 @@ icde.kg
 ice.kg
 icea.kg
 icee.kg
+icel.kg
 iceland.kg
 icemaster.kg
 ichat.kg
@@ -5209,7 +5219,6 @@ imc.kg
 ime.kg
 imedia.kg
 imei.kg
-imexfarm.kg
 imexstore.kg
 imextl.kg
 imey.kg
@@ -5736,6 +5745,7 @@ judo.kg
 jumakgroup.kg
 jumeirah.kg
 jump.kg
+jumush.kg
 jumush-sgp.kg
 jupiter-airlines.kg
 jurok.kg
@@ -6920,7 +6930,6 @@ malbazar.kg
 malc.kg
 maliktrd.kg
 malina.kg
-malinafood.kg
 malish.kg
 mama.kg
 mamako.kg
@@ -7138,7 +7147,6 @@ mediavest.kg
 mediawave.kg
 medic.kg
 medical-pharm.kg
-medical-pro.kg
 medicalgroup.kg
 medicaltrade.kg
 medicana.kg
@@ -7806,7 +7814,6 @@ ncdproject.kg
 ncg.kg
 ncn.kg
 ncog.kg
-ncokoit.kg
 ncomid.kg
 ncsjeans.kg
 ndita.kg
@@ -8390,12 +8397,14 @@ oshto.kg
 oshtu.kg
 oshtu-koreanstudy.kg
 oshtv.kg
+oshvodokanal.kg
 osk.kg
 osk-osh.kg
 oskar.kg
 oskins.kg
 osmo.kg
 osmp.kg
+oson.kg
 osoo.kg
 osoo-poisk.kg
 ospp.kg
@@ -8576,6 +8585,7 @@ pchela24.kg
 pchelovod.kg
 pd.kg
 pdc.kg
+pe.kg
 peaceclub.kg
 peak.kg
 peakart.kg
@@ -8651,7 +8661,6 @@ philips.kg
 phlebolog.kg
 phlebology.kg
 phlogenzym.kg
-phoenix.kg
 phomi.kg
 photo.kg
 photomosaic.kg
@@ -9812,7 +9821,6 @@ sex.kg
 sex-shop.kg
 sexshop.kg
 sexshop69.kg
-sez.kg
 sezam.kg
 sf.kg
 sf-building.kg
@@ -11007,10 +11015,10 @@ tokmokcity.kg
 toktogul.kg
 toktom.kg
 toktoshev.kg
-tokyo.kg
 tokyorope.kg
 tokyosushi.kg
 tolbaev.kg
+tolkun.kg
 toll.kg
 tolom.kg
 tolonmuseum.kg
@@ -11697,7 +11705,6 @@ vivio.kg
 vivo.kg
 viwaflower.kg
 vizahod.kg
-vizaroil.kg
 vizitka.kg
 vk.kg
 vkontakte.kg
@@ -11750,6 +11757,7 @@ volvotrucks.kg
 vonage.kg
 vorota.kg
 vorotahouse.kg
+vortex.kg
 vosst.kg
 vostok-7.kg
 vostok-invest-group.kg
