@@ -512,7 +512,6 @@ back.ax
 backman.ax
 backmansoptik.ax
 bad.ax
-badhuspaviljongen.ax
 badminton.ax
 bagarstugan.ax
 bagelbee.ax
@@ -1062,6 +1061,7 @@ e-aland.ax
 e-cat.ax
 e-commerce.ax
 e-handel.ax
+e-mail.ax
 e-rent.ax
 e-tjanster.ax
 ea.ax
@@ -1100,12 +1100,14 @@ edu.ax
 ee.ax
 eec.ax
 ef.ax
+eg.ax
 egard.ax
 egethantverk.ax
 eh.ax
 ehequestrian.ax
 ehiglobal.ax
 ehns.ax
+ei.ax
 ek.ax
 ekenlycka.ax
 eklund.ax
