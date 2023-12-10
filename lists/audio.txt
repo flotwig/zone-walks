@@ -926,7 +926,6 @@ commons.audio
 communal.audio
 community.audio
 como.audio
-compilando.audio
 completeaccess.audio
 composer.audio
 comprar.audio
@@ -1165,7 +1164,6 @@ desired-effect.audio
 desiredeffect.audio
 deso.audio
 destination.audio
-destroy.audio
 detroit.audio
 detroittigers.audio
 deutschland.audio
@@ -1676,6 +1674,7 @@ gdcpmh.audio
 gecko.audio
 gem.audio
 gems.audio
+gemwin.audio
 genai.audio
 generate.audio
 generative.audio
@@ -1897,6 +1896,8 @@ hiremyfriend.audio
 hirez.audio
 hise.audio
 history.audio
+hit.audio
+hitclub.audio
 hkp.audio
 hlabs.audio
 hmmbuzzclick.audio
@@ -4077,6 +4078,7 @@ sunkiss.audio
 sunset.audio
 sunspire.audio
 sunvox.audio
+sunwin.audio
 sup.audio
 supabase.audio
 super.audio
