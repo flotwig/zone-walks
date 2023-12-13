@@ -127,6 +127,7 @@
 23.ci
 233.ci
 24.ci
+24clozel.ci
 24hk.ci
 25.ci
 27.ci
@@ -739,6 +740,7 @@ afa.ci
 afad.ci
 afcar.ci
 afchem.ci
+afchemsofaco.ci
 afcom.ci
 afd.ci
 afeal.ci
@@ -1348,7 +1350,6 @@ ashcorp.ci
 asics.ci
 asicstiger.ci
 aside-agency.ci
-asimmobtp.ci
 ask.ci
 ask-assurance.ci
 asksta.ci
@@ -1618,7 +1619,6 @@ babilocation.ci
 babimall.ci
 babimarket.ci
 babiminute.ci
-babitravelservices.ci
 babiverse.ci
 babiwin.ci
 babsbat.ci
@@ -1947,7 +1947,6 @@ blackdiamond.ci
 blackhawk.ci
 blackhawksecurity.ci
 blackmarket.ci
-blackpepper.ci
 blackscorpions.ci
 blaisepascal.ci
 blancoimmobilier.ci
@@ -2301,6 +2300,7 @@ capro.ci
 capsa.ci
 capsarl.ci
 capstore.ci
+car.ci
 carbatci.ci
 carbon.ci
 carbon365.ci
@@ -2670,6 +2670,7 @@ cimentguepard.ci
 cimentsafrique.ci
 cimfs.ci
 ciminter.ci
+cimooc.ci
 cimpor.ci
 cimporcimentos.ci
 cimporcotedivoire.ci
@@ -3856,6 +3857,7 @@ datacenter.ci
 datacom.ci
 dataconnect.ci
 dataconsulting-group.ci
+datafromafrica.ci
 datagreffe.ci
 dataguard.ci
 datakit.ci
@@ -4432,6 +4434,7 @@ ecofermedelokoli.ci
 ecofirma.ci
 ecoflow.ci
 ecofoncier.ci
+ecoges.ci
 ecoindustry.ci
 ecolaser.ci
 ecole.ci
@@ -5111,8 +5114,6 @@ f7.ci
 fa.ci
 faaci.ci
 fabellashop.ci
-fac-ads.ci
-fac-app.ci
 facaci.ci
 faci.ci
 faciliss.ci
@@ -5251,7 +5252,6 @@ ficc.ci
 ficcc.ci
 ficotek.ci
 ficpartenaire.ci
-fid.ci
 fidelesarassoro.ci
 fidelity.ci
 fidelityinternational.ci
@@ -6216,6 +6216,7 @@ hotel-hibiscus.ci
 hotel-le-granite.ci
 hotel-montkorhogo.ci
 hotelarcenciel.ci
+hotelbellecote.ci
 hotelcarrefour.ci
 hotelchateaublanc.ci
 hoteldesparlementaires.ci
@@ -6481,6 +6482,7 @@ ims-sarl.ci
 ims-service.ci
 imssecurite.ci
 imviso.ci
+1win.in.ci
 1xbet.in.ci
 bet365.in.ci
 betclic.in.ci
@@ -6893,6 +6895,7 @@ jaimejacqueville.ci
 jaimeman.ci
 jakgbeke2023.ci
 jalertelanp.ci
+jamaal-ivoirelogistics.ci
 jamu.ci
 januscorporation.ci
 jaquar.ci
@@ -7257,6 +7260,7 @@ koayam.ci
 kobesgroup.ci
 kocenobtp.ci
 kodann.ci
+kodi.ci
 kodimasso.ci
 koffi.ci
 kognitiv.ci
@@ -7395,6 +7399,7 @@ lagence.ci
 lagoonatours.ci
 lagripreneur.ci
 lagunaimmobilier.ci
+lagunaresort.ci
 lahoban.ci
 lahoubeach.ci
 lahoucauribeach.ci
@@ -7445,6 +7450,7 @@ larit.ci
 laroche-posay.ci
 larocheposay.ci
 larotisserie.ci
+laserpark.ci
 lasertelecom.ci
 lasfab.ci
 lasvegas.ci
@@ -8307,6 +8313,7 @@ mesfactures.ci
 mesnia.ci
 mesradios.ci
 messagedugraal.ci
+messageriepro.ci
 messiah.ci
 messinaline.ci
 mesulab.ci
@@ -8507,7 +8514,6 @@ monbili.ci
 monblofoue.ci
 monbo225.ci
 monbolide.ci
-monbusiness.ci
 monbusinessplan.ci
 moncadeau.ci
 monchantier.ci
@@ -9030,6 +9036,7 @@ ntv.ci
 nubicos.ci
 num.ci
 numerics.ci
+numeriquarts.ci
 numerique.ci
 numeris.ci
 numerys.ci
@@ -9360,6 +9367,7 @@ oreaholding.ci
 oreatelecom.ci
 orelcabconseils.ci
 oremus.ci
+1win.org.ci
 a2ic.org.ci
 africamagic.org.ci
 aitci.org.ci
@@ -9774,7 +9782,6 @@ pji.ci
 pl.ci
 place.ci
 place225.ci
-placentor.ci
 plan.ci
 plana.ci
 planafilms.ci
@@ -10619,7 +10626,6 @@ sbn.ci
 sbtic.ci
 sbtl.ci
 sc.ci
-sc-consulting.ci
 sca.ci
 sca-sa.ci
 scaa.ci
@@ -11108,7 +11114,6 @@ skysoft.ci
 skywayafrica.ci
 sl.ci
 slci.ci
-sleece.ci
 slotgacor.ci
 slotpoker188.ci
 slp.ci
@@ -11118,7 +11123,6 @@ sm-plus.ci
 sma.ci
 smaauto.ci
 smabtp.ci
-smadi.ci
 smadt-rea.ci
 smart.ci
 smart-case.ci
@@ -11265,7 +11269,6 @@ soft4all.ci
 softcare.ci
 softcomputer.ci
 softconcept.ci
-softech.ci
 softplus.ci
 softskills.ci
 softsys.ci
@@ -11586,7 +11589,6 @@ sva-orange.ci
 svcib.ci
 swan-assistance.ci
 swapafrica.ci
-swarkprocurement.ci
 sweet.ci
 sweethome.ci
 sweethomehotel.ci
