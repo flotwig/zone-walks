@@ -26,7 +26,6 @@
 2cents.audio
 2wei.audio
 3-d.audio
-360.audio
 365.audio
 3bergen.audio
 3cx.audio
@@ -1162,6 +1161,7 @@ desired-effect.audio
 desiredeffect.audio
 deso.audio
 destination.audio
+destroy.audio
 detroit.audio
 detroittigers.audio
 deutschland.audio
@@ -1432,6 +1432,7 @@ eti-research.audio
 etr.audio
 etracks.audio
 etunes.audio
+eua.audio
 eukali.audio
 euphonie.audio
 euphonious.audio
@@ -2161,6 +2162,7 @@ jtgust.audio
 jthompson.audio
 juce.audio
 juiced.audio
+jukebox.audio
 jump.audio
 jumpstyle.audio
 junger.audio
@@ -4107,7 +4109,6 @@ swt.audio
 sxsw.audio
 sxswfm.audio
 sybel.audio
-sydney.audio
 sylva.audio
 symphonic.audio
 sync.audio
@@ -4226,6 +4227,7 @@ thirdeyeheavy.audio
 thisisit.audio
 thomann.audio
 thomasfersen.audio
+thomasmayer.audio
 thomasmeijer.audio
 thorens.audio
 thorn.audio
@@ -4319,7 +4321,6 @@ transformer.audio
 transformers.audio
 transistory.audio
 transmisje.audio
-transmute.audio
 transparent.audio
 travelguide.audio
 travello.audio
@@ -4491,7 +4492,6 @@ video.audio
 video-game.audio
 videocam.audio
 vienna.audio
-vihar.audio
 viking.audio
 vinahouse.audio
 vine.audio
