@@ -32,8 +32,6 @@ angleautofinance.auto
 anwalt.auto
 api.auto
 apollo.auto
-apollorobo.auto
-apollorobot.auto
 apolloscape.auto
 apolong.auto
 apple.auto
@@ -375,16 +373,9 @@ rimac.auto
 rivian.auto
 roam.auto
 robocar.auto
-roboglobal.auto
-robomove.auto
 roboride.auto
-roborideglobal.auto
-roborun.auto
 robotcar.auto
-robotmove.auto
 robotride.auto
-robotrun.auto
-robovehicle.auto
 rockingham.auto
 rok.auto
 rolex.auto
