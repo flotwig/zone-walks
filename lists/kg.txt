@@ -181,6 +181,7 @@ a-systems.kg
 a1.kg
 a1g.kg
 a1project.kg
+a2.kg
 a5.kg
 aa.kg
 aaa.kg
@@ -263,7 +264,6 @@ acorp.kg
 acquadiparma.kg
 acquiring.kg
 acres.kg
-acrostone.kg
 acrymatt.kg
 act.kg
 actavis.kg
@@ -783,7 +783,6 @@ alykul.kg
 alym.kg
 alymbaev.kg
 alymstroi.kg
-alyshdan.kg
 am.kg
 amadeus.kg
 amail.kg
@@ -1020,6 +1019,7 @@ aria.kg
 ariadnagroup.kg
 arico.kg
 arigato.kg
+arika.kg
 arikalab.kg
 arinos.kg
 arion.kg
@@ -1086,6 +1086,7 @@ aryba.kg
 aryktime.kg
 aryshinvest.kg
 aryz.kg
+arz.kg
 arzan.kg
 arzanall.kg
 arzanmag.kg
@@ -2256,6 +2257,7 @@ buhinsait.kg
 buhta.kg
 build.kg
 builtfordproud.kg
+buket.kg
 bukhara.kg
 bukva.kg
 bulak.kg
@@ -2297,7 +2299,6 @@ bytebox.kg
 bz.kg
 c.kg
 caa.kg
-caam.kg
 cab.kg
 cac.kg
 cacapital.kg
@@ -2506,9 +2507,9 @@ chatkal.kg
 cheaptickets.kg
 cheber.kg
 cheber-building.kg
+cheberel.kg
 check.kg
 checkin.kg
-checking123api.kg
 checkit.kg
 checkpoint.kg
 cheese.kg
@@ -2666,7 +2667,6 @@ cocacolalight.kg
 cocoon.kg
 coddy.kg
 code.kg
-coderbooks.kg
 codetip.kg
 coexsyrup.kg
 coffee.kg
@@ -3765,7 +3765,6 @@ esetofficial.kg
 esf.kg
 esg.kg
 eshop.kg
-esim.kg
 esky.kg
 esp.kg
 espa.kg
@@ -3774,6 +3773,7 @@ espumisan.kg
 esquire.kg
 esri.kg
 esri-cis.kg
+esse.kg
 essen.kg
 essens.kg
 essity.kg
@@ -3856,6 +3856,7 @@ eutectic.kg
 ev.kg
 eva.kg
 evaathome.kg
+evakuator.kg
 evakuator-garant.kg
 evakuator01.kg
 evakuator23.kg
@@ -4649,6 +4650,7 @@ gps.kg
 gpspirtzavod.kg
 gpstech.kg
 gr.kg
+gr8auto.kg
 graboplast.kg
 graco.kg
 gradsovet.kg
@@ -5160,7 +5162,6 @@ igfim.kg
 igor.kg
 igromafia.kg
 igroup.kg
-igrow.kg
 iheart.kg
 iheartradio.kg
 iherb.kg
@@ -5198,6 +5199,7 @@ ilbirsvet.kg
 ilbirsvillage.kg
 ilcom.kg
 ilgeri.kg
+ilgso.kg
 ilim.kg
 ilimbox.kg
 ilimcompany.kg
@@ -5215,7 +5217,6 @@ iman.kg
 iman-plaza.kg
 imanplaza.kg
 imaqliq.kg
-imaratbeton.kg
 imaratgroup.kg
 imaratprogress.kg
 imaratresort.kg
@@ -5244,6 +5245,7 @@ imperia-chistoty.kg
 imperial.kg
 imperial-tobacco.kg
 imperialhall.kg
+imperialhouse.kg
 imperialrose.kg
 imperialtobacco.kg
 impextrade.kg
@@ -5530,6 +5532,7 @@ it-giant.kg
 it-help.kg
 it-office.kg
 it-pro.kg
+italiano.kg
 italon.kg
 italonceramica.kg
 itc.kg
@@ -5744,7 +5747,6 @@ joybuy.kg
 joycasino.kg
 joyfulstore.kg
 joyshop.kg
-jp.kg
 js.kg
 jsubanov.kg
 jtbc.kg
@@ -6039,6 +6041,7 @@ kgbiollc.kg
 kgbox.kg
 kgc.kg
 kgcn.kg
+kgcs.kg
 kgetk.kg
 kggt.kg
 kghu.kg
@@ -6367,6 +6370,7 @@ kupislona.kg
 kupit-dom.kg
 kurak.kg
 kurama.kg
+kurama-msu.kg
 kurenkeev.kg
 kurjun.kg
 kurjun-ex.kg
@@ -6715,6 +6719,7 @@ liqui-moly.kg
 liquimoly.kg
 lirt.kg
 lirus.kg
+lis.kg
 lisei94.kg
 list.kg
 listerine.kg
@@ -6772,6 +6777,7 @@ logistics.kg
 logisticsolutions.kg
 logistshop.kg
 logitech.kg
+logo.kg
 logoped.kg
 logos-school.kg
 logosgroup.kg
@@ -7041,6 +7047,7 @@ masterokon.kg
 masterplast.kg
 masterslide.kg
 mastersplace.kg
+masterstroiteli.kg
 masterstroy.kg
 mastertour.kg
 mat.kg
@@ -7354,7 +7361,6 @@ michelin.kg
 michelle.kg
 michurin.kg
 micmagic.kg
-micoder.kg
 micom.kg
 micro-t.kg
 microfinance.kg
@@ -8375,7 +8381,6 @@ orocaffe.kg
 oropay.kg
 orosport.kg
 orozbekov.kg
-orsofit.kg
 ort.kg
 orthotech.kg
 ortomaster.kg
@@ -8753,7 +8758,6 @@ pl33.kg
 pl34.kg
 pl37.kg
 pl4-kesip.kg
-pl43.kg
 pl57.kg
 pl59.kg
 pl61.kg
@@ -9454,7 +9458,6 @@ rock.kg
 rocketsmm.kg
 rocktape.kg
 rockwell.kg
-rockwellautomation.kg
 rockwool.kg
 rocon.kg
 rodem.kg
@@ -9633,7 +9636,6 @@ samosval.kg
 sams-club.kg
 samsaland.kg
 samsclub.kg
-samson.kg
 samsung.kg
 samsungb2b.kg
 samsungbusiness.kg
@@ -9894,6 +9896,7 @@ sheriff.kg
 sherikulov.kg
 shesterenka.kg
 shex.kg
+shift.kg
 shik.kg
 shimano.kg
 shina.kg
@@ -10220,7 +10223,6 @@ sound.kg
 sound-center.kg
 soundmaster.kg
 southbeach.kg
-southinstrument.kg
 souvenir.kg
 souz.kg
 sovetnik.kg
@@ -10247,7 +10249,6 @@ spectransburo.kg
 spectrum.kg
 spectrum-bit.kg
 spectrumbit.kg
-speleo.kg
 spenergkey.kg
 spetsnazdeti.kg
 spey.kg
@@ -10306,6 +10307,7 @@ ssooda.kg
 sss.kg
 st.kg
 st-art.kg
+sta.kg
 stada.kg
 staff.kg
 staffaugmentation.kg
@@ -11496,7 +11498,6 @@ usdt.kg
 user.kg
 ushakov.kg
 ushakova.kg
-uslugi.kg
 uspoloassn.kg
 ust.kg
 usta.kg
@@ -11560,6 +11561,7 @@ vari.kg
 variant.kg
 varietea.kg
 varikoz.kg
+varkos.kg
 varta.kg
 vash-psiholog.kg
 vashbuhgalter.kg
@@ -11912,7 +11914,6 @@ wholefoodsmarket.kg
 whopper.kg
 wi-tek.kg
 wicona.kg
-wifi.kg
 wificity.kg
 wildberries.kg
 wildcasino.kg
