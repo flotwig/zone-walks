@@ -533,7 +533,6 @@ a-plusivoire.ci
 a0.ci
 a2.ci
 a2a.ci
-a2gc.ci
 a2kimmobilier.ci
 a2mconseil.ci
 a2s-plus.ci
@@ -1116,7 +1115,6 @@ amavi.ci
 amazing.ci
 amazon.ci
 amazongo.ci
-amb.ci
 ambacongo.ci
 ambalg.ci
 ambaliban.ci
@@ -1633,7 +1631,6 @@ background.ci
 backmarket.ci
 backmedia.ci
 badoo.ci
-badu.ci
 baeji.ci
 bafci.ci
 bahai.ci
@@ -2136,6 +2133,7 @@ bssim.ci
 bta.ci
 btc.ci
 btech.ci
+btim.ci
 btp.ci
 btpex.ci
 btpmat.ci
@@ -2252,7 +2250,6 @@ campususa.ci
 camservices.ci
 camt-cargo.ci
 camtech.ci
-camuse.ci
 can2023.ci
 can2024.ci
 can23shop.ci
@@ -2538,6 +2535,7 @@ chancellerie-federale.ci
 chancelleriefederale.ci
 changanauto.ci
 change.ci
+channelsattechnologie.ci
 chantier.ci
 chap-chap.ci
 chapachat.ci
@@ -3299,6 +3297,7 @@ fitness.com.ci
 flysaa.com.ci
 fohoway.com.ci
 football.com.ci
+forvis-mazars.com.ci
 forvismazars.com.ci
 fox.com.ci
 foxsports.com.ci
@@ -3356,6 +3355,7 @@ masante.com.ci
 masco.com.ci
 maxigout.com.ci
 mazars.com.ci
+mazars-forvis.com.ci
 mazarsforvis.com.ci
 mediq.com.ci
 mercadolibre.com.ci
@@ -3965,7 +3965,6 @@ detentehotel.ci
 deuzicronapine.ci
 dev.ci
 devagri.ci
-devanlay.ci
 devea.ci
 developers-institute.ci
 devin.ci
@@ -4914,6 +4913,7 @@ esavann.ci
 esavoo.ci
 esbingerville.ci
 esca.ci
+escalad.ci
 escao-edu.ci
 escapegameover.ci
 escomespacefloradaloa.ci
@@ -5460,9 +5460,11 @@ forever.ci
 forex.ci
 forexbrokers.ci
 forexi.ci
+forgoodconnections.ci
 forjeron.ci
 forkliftonline.ci
 formation.ci
+formationcivique.ci
 formationgroupecifc.ci
 formationnobel.ci
 formations.ci
@@ -5476,6 +5478,7 @@ fortyafflelou.ci
 forumdiaspora.ci
 forumecoles.ci
 forumongenfance.ci
+forvis-mazars.ci
 forvismazars.ci
 fotamana.ci
 foton.ci
@@ -5750,6 +5753,7 @@ gipse.ci
 girisim.ci
 girly.ci
 gis.ci
+gisada.ci
 gisti.ci
 git.ci
 gitea.ci
@@ -5916,7 +5920,6 @@ graphologie.ci
 grassavoye.ci
 gravity.ci
 graya.ci
-grc.ci
 grci.ci
 grconsult.ci
 gre.ci
@@ -5949,6 +5952,7 @@ groupe-ita.ci
 groupe-nazarie.ci
 groupe-saintlouis.ci
 groupe-sma.ci
+groupe4dmel.ci
 groupeavos.ci
 groupeba.ci
 groupebms.ci
@@ -5973,7 +5977,6 @@ groupeselecsa.ci
 groupesocietefamiliale-sarl.ci
 groupeterra.ci
 groupgranitbtp.ci
-groupmovalifreres.ci
 groupnour.ci
 grplante.ci
 grundfos.ci
@@ -6293,7 +6296,6 @@ i-distributions.ci
 i-solution.ci
 i-solutions.ci
 i-teleges.ci
-i-textile.ci
 i-textiles.ci
 i2ad.ci
 i2n.ci
@@ -6426,7 +6428,6 @@ ikevents.ci
 ikks.ci
 il.ci
 ilboursa.ci
-ilebleue.ci
 ilevel.ci
 ilianncga.ci
 iliko.ci
@@ -6904,6 +6905,7 @@ jakgbeke2023.ci
 jalertelanp.ci
 jamaal-ivoirelogistics.ci
 jamu.ci
+janislab.ci
 januscorporation.ci
 jaquar.ci
 jardingourmandplus.ci
@@ -7323,7 +7325,6 @@ kre.ci
 krej.ci
 kribo.ci
 krishna.ci
-kristbusinesschool.ci
 krmp.ci
 krysalis.ci
 ks.ci
@@ -7375,7 +7376,6 @@ laboiteaidees.ci
 labonneaffaire.ci
 laboratoiresolea.ci
 laboservices.ci
-laboussoleimmobilier.ci
 laboutiquedubienetre.ci
 laboutiqueofficielle.ci
 laboutiquesarl.ci
@@ -7527,6 +7527,7 @@ lebassamois.ci
 lebatisseur.ci
 lebleu.ci
 lebleudistribution.ci
+lebonartisan.ci
 lebonberger.ci
 leboncoin.ci
 lebondeal.ci
@@ -8188,6 +8189,7 @@ maya.ci
 mayedo.ci
 mayo2sports.ci
 mazars.ci
+mazars-forvis.ci
 mazarsforvis.ci
 mazda.ci
 mba-audio.ci
@@ -8779,7 +8781,6 @@ nadegedandou.ci
 nader.ci
 nadi.ci
 nadq.ci
-nag.ci
 nall.ci
 name.ci
 nameexoworlds.ci
@@ -9278,6 +9279,7 @@ openacademy.ci
 openai.ci
 opendata.ci
 openhq.ci
+openinsight.ci
 openinsights.ci
 openlab.ci
 openmartech.ci
@@ -9816,6 +9818,7 @@ playce-marcory.ci
 playce-palmeraie.ci
 playcemarcory.ci
 playcepalmeraie.ci
+playstation.ci
 plazatower.ci
 plebis.ci
 plentygroup.ci
@@ -10034,7 +10037,6 @@ protectionpourtous.ci
 protectplus.ci
 protrack-info.ci
 protrading.ci
-providencetechnologie.ci
 providensshopping.ci
 provisuel.ci
 proxity.ci
@@ -10341,6 +10343,7 @@ rev.ci
 revagri.ci
 reve.ci
 revealschool.ci
+reveillonesca.ci
 reveiloil.ci
 revela.ci
 revision.ci
@@ -11442,6 +11445,7 @@ sport.ci
 sport-ivoire.ci
 sport3.ci
 sportcash.ci
+sportmania.ci
 sportpari.ci
 sportpourlavie.ci
 sports.ci
