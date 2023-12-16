@@ -22,6 +22,7 @@
 123domain.ax
 1337.ax
 138.ax
+16.ax
 166.ax
 168.ax
 171.ax
@@ -1435,7 +1436,6 @@ fv.ax
 fw.ax
 fx.ax
 fxcm.ax
-fynda.ax
 fyndet.ax
 fysioaland.ax
 fysioterapi.ax
@@ -3575,6 +3575,7 @@ suup.ax
 sv.ax
 svanebo.ax
 svartakatten.ax
+svedberga.ax
 svedbergs.ax
 sveden.ax
 svenskttenn.ax
