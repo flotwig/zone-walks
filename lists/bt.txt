@@ -241,6 +241,7 @@ bhutanupwardtravels.bt
 bhutanvaara.bt
 bhutanwelcometours.bt
 bhutanyouth.bt
+bhutanyudentours.bt
 bhutanyudruk.bt
 bia.bt
 bicma.bt
@@ -558,14 +559,14 @@ garudainn.bt
 garudalegal.bt
 gasebconstruction.bt
 gawashop.bt
+gaylegphug.bt
+gaylephug.bt
 gbcl.bt
-gc.bt
 gca.bt
 gcc.bt
 gelegphu.bt
 gelephu.bt
 gelephuthrom.bt
-gelyegphug.bt
 gelyephug.bt
 gement.bt
 geo-consult.bt
@@ -573,7 +574,6 @@ gerab.bt
 glancebhutan.bt
 globalreach.bt
 glt.bt
-gmcc.bt
 gnhe.bt
 gnhtour.bt
 godaddy.bt
@@ -736,6 +736,7 @@ kubota.bt
 kuendruel.bt
 kuengatours.bt
 kuenphenautoworkshop.bt
+kuenphenrabtenresort.bt
 kuensel.bt
 kuenshey.bt
 kuensheytours.bt
@@ -799,7 +800,6 @@ marvels.bt
 matsutaketravels.bt
 mayihelpyou.bt
 mbpl.bt
-mc.bt
 mcc.bt
 mecrit.bt
 mercury.bt
@@ -833,6 +833,7 @@ nameysamey.bt
 namgyelecpf.bt
 namlha.bt
 namsey.bt
+namshingtour.bt
 namshingtrader.bt
 nana.bt
 nano.bt
