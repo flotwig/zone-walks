@@ -1404,6 +1404,7 @@ astra-x.ci
 astraining.ci
 astrax.ci
 astrid.ci
+astrolab.ci
 astronomie.ci
 astrotech.ci
 astrum.ci
@@ -1908,6 +1909,7 @@ biopharmacy.ci
 biosave.ci
 biosynergie.ci
 biotech.ci
+biotechusa.ci
 biotifulfaith.ci
 bioyam.ci
 bip-immobilier.ci
@@ -1960,7 +1962,6 @@ bluecom.ci
 bluex.ci
 blum.ci
 bm.ci
-bmagroup.ci
 bmagroupe.ci
 bme.ci
 bmethod.ci
@@ -2600,6 +2601,7 @@ chuangre.ci
 chudecocody.ci
 ci.ci
 ci-am.ci
+ci-concours.ci
 ci-data.ci
 ci-energies.ci
 ci-engineering.ci
@@ -2669,6 +2671,7 @@ cimpor.ci
 cimporcimentos.ci
 cimporcotedivoire.ci
 cin.ci
+cine-xpert.ci
 cine18.ci
 cinema.ci
 cinema225.ci
@@ -2708,7 +2711,6 @@ cit-ica.ci
 citadel.ci
 citc.ci
 cite.ci
-citec.ci
 citelecom.ci
 citi.ci
 citiz.ci
@@ -2724,6 +2726,7 @@ cityads.ci
 citybeachauto.ci
 civ-climat.ci
 civ2023.ci
+civagrihack.ci
 civdjerba2022.ci
 civi.ci
 civix.ci
@@ -2756,7 +2759,6 @@ clearpath.ci
 clertech.ci
 cleverness.ci
 clicdesign.ci
-click-app.ci
 clickhouse.ci
 clikodoc.ci
 clim-energieservices.ci
@@ -2785,6 +2787,7 @@ cloud4africa.ci
 cloudassur.ci
 clouded.ci
 cloudnative.ci
+cloudpbx.ci
 cloudsmith.ci
 cloudstore.ci
 cloudstudio.ci
@@ -4693,7 +4696,6 @@ ekoute.ci
 eks.ci
 eksecurity.ci
 el.ci
-elbethel.ci
 eldavi-routes.ci
 elearning-iupia.ci
 elearning-studio.ci
@@ -4960,7 +4962,6 @@ esteticar.ci
 estore.ci
 esys.ci
 etabaa.ci
-etaf.ci
 etam.ci
 etam-lingerie.ci
 etamlingerie.ci
@@ -5086,6 +5087,7 @@ expertbatiment.ci
 expertise.ci
 expertise-pdcp.ci
 expertise-technology.ci
+expertiseafrica.ci
 expertisepetroliere.ci
 experts-group.ci
 expertsanogo.ci
@@ -5197,7 +5199,6 @@ feeera.ci
 feeling.ci
 feetle.ci
 feja.ci
-fejeci.ci
 felceazzurra.ci
 felix.ci
 femboy.ci
@@ -5278,6 +5279,7 @@ fifo.ci
 fifplus.ci
 fifranchise.ci
 fifter.ci
+figuresivoiriennes.ci
 fiiri.ci
 filac.ci
 file.ci
@@ -5597,6 +5599,7 @@ garmin.ci
 gasandoil.ci
 gat.ci
 gaudys.ci
+gav.ci
 gay.ci
 gayagroupe.ci
 gazexpress.ci
@@ -5638,7 +5641,6 @@ gecos.ci
 ged-aip.ci
 ged1-orange.ci
 gedjustice.ci
-gedmmpe.ci
 gedsante.ci
 geducp-fe.ci
 geedo.ci
@@ -6004,7 +6006,6 @@ gslespatronages.ci
 gsm-com.ci
 gsma.ci
 gsmarierosedelima.ci
-gsnddivinegrace.ci
 gspm.ci
 gspmci.ci
 gss-ci.ci
@@ -6409,7 +6410,6 @@ igedis.ci
 igm.ci
 igouabologistics.ci
 igp.ci
-igtech.ci
 ih.ci
 ihale.ci
 ihstowers.ci
@@ -6508,6 +6508,7 @@ incomm.ci
 ind.ci
 indabaxcotedivoire.ci
 indexmedia.ci
+indianbynature.ci
 indicametrie.ci
 indigits.ci
 indigo.ci
@@ -7378,6 +7379,7 @@ laboiteaidees.ci
 labonneaffaire.ci
 laboratoiresolea.ci
 laboservices.ci
+laboussoleimmobilier.ci
 laboutiquedubienetre.ci
 laboutiqueofficielle.ci
 laboutiquesarl.ci
@@ -7868,7 +7870,6 @@ lubafrique.ci
 lubitechsarl.ci
 luc.ci
 lucem.ci
-luckybambou.ci
 ludshop.ci
 lugik.ci
 lulu.ci
@@ -8703,7 +8704,6 @@ mtnplay.ci
 mtnsdp.ci
 mtts.ci
 mu.ci
-mu2s.ci
 muaythai.ci
 mucab.ci
 mudci.ci
@@ -8991,6 +8991,7 @@ nostalgie.ci
 nostr.ci
 nostress.ci
 notaire.ci
+note.ci
 noticia.ci
 notify.ci
 notredamedecana.ci
@@ -9549,6 +9550,7 @@ palsgaard.ci
 pam.ci
 pamdagro.ci
 pamosa.ci
+pan.ci
 panarubber.ci
 panasonic.ci
 panbio.ci
@@ -9681,7 +9683,6 @@ performer.ci
 performix.ci
 performsystems.ci
 pergola.ci
-perledeslagunes.ci
 permis2conduire-mysonec.ci
 permisdeconduire.ci
 permutation.ci
@@ -9942,7 +9943,6 @@ pressecotedivoire.ci
 presses-itcj.ci
 pressing.ci
 pressionepneumati.ci
-prestac.ci
 prestaservices.ci
 prestation.ci
 prestibitume.ci
@@ -10635,6 +10635,7 @@ satrico.ci
 sau.ci
 savane.ci
 savane-ivoire-promiel.ci
+savelife.ci
 savi.ci
 savoirfairelinux.ci
 savon-noir.ci
@@ -11639,7 +11640,6 @@ synclegs.ci
 synelia.ci
 synergiegroup.ci
 synergieintegrale.ci
-syninfci.ci
 synopsiscompany.ci
 syntt-ci.ci
 synylodge.ci
@@ -11906,6 +11906,7 @@ tl.ci
 tm.ci
 tmbusiness.ci
 tme.ci
+tmp.ci
 tmsi.ci
 tn.ci
 tntsatafrica.ci
@@ -12204,6 +12205,7 @@ upsi.ci
 uptimise.ci
 urball.ci
 urban-concept.ci
+urbanbus.ci
 urbanchic.ci
 urbanik.ci
 urbanmedia.ci
@@ -12677,7 +12679,6 @@ yaoemmanuel.ci
 yaoparfait48.ci
 yaqooa.ci
 yara.ci
-yasmina.ci
 yasmina-beauty.ci
 yasmina-ouegnin.ci
 yassboutique.ci
@@ -12819,7 +12820,6 @@ zk.ci
 zk-construction.ci
 zkc.ci
 zkteco.ci
-zl.ci
 zls-consulting.ci
 zm.ci
 zocdoc.ci
