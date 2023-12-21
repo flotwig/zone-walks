@@ -9,6 +9,7 @@
 0x.ci
 1-e9.ci
 1-win.ci
+1-win-bet.ci
 1000saveurs.ci
 101.ci
 101domain.ci
@@ -865,8 +866,6 @@ agip.ci
 agir-sante.ci
 agitel.ci
 agnebytiassa.ci
-agnibilekro.ci
-agnibilekrou.ci
 agproperty.ci
 agrac.ci
 agrh.ci
@@ -1174,7 +1173,6 @@ angelotkognot.ci
 angepharma.ci
 anggban.ci
 angiesimmobilier.ci
-annacosmetique.ci
 anneedelajeunesse.ci
 annonce.ci
 annonces.ci
@@ -1276,7 +1274,6 @@ ariel-kentreprise.ci
 arielallbase.ci
 arielglaser.ci
 aris-intelligence.ci
-arisio.ci
 ariston.ci
 arjh.ci
 ark.ci
@@ -1575,6 +1572,7 @@ axis.ci
 axton.ci
 ay.ci
 ayael.ci
+aydoo.ci
 ayela.ci
 ayenan.ci
 aynid.ci
@@ -1818,6 +1816,7 @@ betbonanza.ci
 betclic.ci
 betfirst.ci
 betfox.ci
+bethel.ci
 bethelco.ci
 betking.ci
 betmojo.ci
@@ -2233,7 +2232,6 @@ cakebyama.ci
 cal.ci
 calderkrej.ci
 call-ivoire.ci
-callacademy.ci
 callcenter.ci
 callhouse.ci
 callivoire.ci
@@ -2452,6 +2450,7 @@ center.ci
 centif.ci
 centos.ci
 centrale-distribution.ci
+centralet.ci
 centralindustrie.ci
 centraltech.ci
 centre-medical.ci
@@ -3696,7 +3695,6 @@ craft.ci
 crayoninternational.ci
 crbc-cnctpc.ci
 crdi4capec.ci
-crea.ci
 createam.ci
 creativ.ci
 creativeengineering.ci
@@ -4077,7 +4075,6 @@ dimecom.ci
 dimerl.ci
 dingouin.ci
 dinnerwithchrist.ci
-dinoretmoi.ci
 diocese-agboville.ci
 diocesedegrandbassam.ci
 dionysus.ci
@@ -4338,7 +4335,6 @@ e-khaira.ci
 e-life.ci
 e-mark.ci
 e-mpd.ci
-e-planning.ci
 e-recommande.ci
 e-sante.ci
 e-services.ci
@@ -4500,6 +4496,7 @@ editionseburnie.ci
 editis.ci
 edivan.ci
 edix.ci
+edk-btp.ci
 edlona.ci
 edloo-consulting.ci
 edmtravel.ci
@@ -5013,7 +5010,6 @@ etudecbk.ci
 etudecurneyangaman.ci
 etudedemaitremarlenekouassi.ci
 etudemahoua.ci
-etudemesidibetkramo.ci
 etudes.ci
 etudescanada.ci
 etudiant.ci
@@ -5259,6 +5255,7 @@ ficc.ci
 ficcc.ci
 ficotek.ci
 ficpartenaire.ci
+fid.ci
 fidelesarassoro.ci
 fidelity.ci
 fidelityinternational.ci
@@ -6191,6 +6188,7 @@ hollywood.ci
 holytech.ci
 holyvision.ci
 home.ci
+homebro.ci
 homedepot.ci
 homega.ci
 homelab.ci
@@ -6362,6 +6360,7 @@ ict4dev.ci
 ictconsulting.ci
 ictmess-orange.ci
 icure.ci
+icwp.ci
 id.ci
 id-international.ci
 id30.ci
@@ -6655,6 +6654,7 @@ ip-d.ci
 ip2s.ci
 ipam.ci
 ipb.ci
+ipbxnow.ci
 ipc.ci
 ipcisolidarite.ci
 ipconsulting.ci
@@ -7174,6 +7174,7 @@ kd-securite.ci
 kdm.ci
 kdprestige.ci
 ke.ci
+kebro.ci
 kedeshgroupeentreprise.ci
 kedj-securite.ci
 keemala.ci
@@ -8012,7 +8013,6 @@ mairiedenapie.ci
 mairiedesakassou.ci
 mairiedesoubre.ci
 mairiedetabou.ci
-mairiedetienko.ci
 mairiedezouanhounien.ci
 mairiedjebonoua.ci
 mairiefronan.ci
@@ -8029,6 +8029,7 @@ maison.ci
 maison-123.ci
 maison123.ci
 maisonalouer.ci
+maisonberiyth.ci
 maisondeluxe.ci
 maisondesmeubles.ci
 maisonemeraude.ci
@@ -8576,6 +8577,7 @@ monhotel.ci
 monicash.ci
 monimmobilier.ci
 monin.ci
+moninfas.ci
 monlavage.ci
 monlivreur.ci
 monmaquis.ci
@@ -8926,6 +8928,7 @@ nhv.ci
 ni.ci
 nic.ci
 nicci.ci
+nick.ci
 nicomci.ci
 nieruchomos.ci
 nigt.ci
@@ -10302,7 +10305,6 @@ rentalcars.ci
 rentals.ci
 repae.ci
 repare-moi.ci
-repetiteur.ci
 repprelci.ci
 repuloma.ci
 resam8.ci
@@ -10395,7 +10397,6 @@ rile.ci
 rilhvi.ci
 rim.ci
 rimait.ci
-rimrae.ci
 rimu.ci
 ringier.ci
 riomare.ci
@@ -11622,7 +11623,6 @@ swissumef.ci
 switch-made.ci
 switchup.ci
 sx.ci
-syandco-btp.ci
 sydneytelecom.ci
 sygiamp.ci
 syllakissima.ci
@@ -11923,13 +11923,13 @@ tokenisation.ci
 tom.ci
 tomaci.ci
 tomate.ci
+tomtom.ci
 tondeusedor.ci
 toner.ci
 tongoenergy.ci
 tontine.ci
 tool.ci
 tooro.ci
-toowa.ci
 top.ci
 topannonce.ci
 topannonces.ci
@@ -12400,8 +12400,8 @@ voyagez.ci
 voza.ci
 vozol.ci
 vpscoteivoire.ci
-vr.ci
 vridiako.ci
+vroom.ci
 vscloths.ci
 vsco.ci
 vsevmeste.ci
@@ -12474,6 +12474,7 @@ webit.ci
 webivoirgaz.ci
 weblogy.ci
 webmedias.ci
+webplus.ci
 webpro.ci
 webschool.ci
 websolutions.ci
