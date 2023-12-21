@@ -1207,6 +1207,7 @@ disneynow.audio
 disneyplus.audio
 displaced.audio
 disrpt.audio
+disruptive.audio
 distinct.audio
 distort.audio
 distorted.audio
@@ -3231,7 +3232,6 @@ playing.audio
 playlist.audio
 playmusic.audio
 playnow.audio
-playstation.audio
 plecostomus.audio
 pliki.audio
 plingr.audio
@@ -3730,8 +3730,6 @@ shift.audio
 shinecast.audio
 shinen.audio
 shipibo.audio
-shopee.audio
-shopeepay.audio
 shopify.audio
 short.audio
 shortform.audio
