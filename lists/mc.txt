@@ -2374,8 +2374,10 @@ montecarlo-online.mc
 montecarlo-wines.mc
 montecarloadvertising.mc
 montecarloautomobiles.mc
+montecarloazur.mc
 montecarlobay.mc
 montecarlobeauty.mc
+montecarloblush.mc
 montecarloboatsales.mc
 montecarlocarrental.mc
 montecarlofestival.mc
@@ -2385,6 +2387,7 @@ montecarlogalafortheocean.mc
 montecarlograndhotel.mc
 montecarlolifestyle.mc
 montecarlopoloclub.mc
+montecarloprestige.mc
 montecarlorenovation.mc
 montecarloriviera.mc
 montecarlorolexmasters.mc
@@ -3120,6 +3123,7 @@ sfp-mh.mc
 sgd.mc
 sgimmobilier.mc
 sgprivatebanking.mc
+sharkprod.mc
 shelleywalker.mc
 shipandcastle.mc
 shlcapital.mc
@@ -3499,6 +3503,7 @@ vaar.mc
 valenter.mc
 valentin.mc
 valine.mc
+valjob.mc
 vallat.mc
 valplast.mc
 value-job.mc
