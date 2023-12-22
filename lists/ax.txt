@@ -656,7 +656,6 @@ blomstringe.ax
 blue.ax
 bm.ax
 bmf.ax
-bmw.ax
 bo.ax
 bobil.ax
 bobiten.ax
@@ -699,6 +698,7 @@ borgdala.ax
 borjan.ax
 borreliakliniken.ax
 bosgrav.ax
+bosidan.ax
 bostad.ax
 bot.ax
 boviksbygg.ax
@@ -1816,6 +1816,7 @@ ilse.ax
 im.ax
 imd.ax
 img.ax
+imm.ax
 in.ax
 inc.ax
 indigo.ax
@@ -1919,7 +1920,6 @@ jeab.ax
 jessica.ax
 jesus.ax
 jetskialand.ax
-jf.ax
 jfbk.ax
 jfs.ax
 jh.ax
@@ -2181,6 +2181,7 @@ lajka.ax
 lambd.ax
 land.ax
 landsbygd.ax
+langkvist.ax
 langnashamn.ax
 langoren.ax
 langviken.ax
@@ -2542,6 +2543,7 @@ morpheus.ax
 mortgage.ax
 mote.ax
 motion.ax
+motleydenim.ax
 motorcompany.ax
 motorfordonsbyran.ax
 motormuseum.ax
