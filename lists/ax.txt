@@ -16,7 +16,6 @@
 100kvinnor.ax
 1040t.ax
 10mm.ax
-11.ax
 112.ax
 123.ax
 123domain.ax
@@ -2675,7 +2674,6 @@ nordenholmfysio.ax
 nordex-food.ax
 nordexfood.ax
 nordicbim.ax
-nordicmystery.ax
 nordictrout.ax
 nordin.ax
 nordqvistsstugor.ax
@@ -3184,7 +3182,6 @@ s-ravintolat.ax
 s-ruokakauppa.ax
 s12.ax
 s3.ax
-sa.ax
 saaristonkasvatit.ax
 saaristonkasvatti.ax
 safetycenter.ax
@@ -3511,6 +3508,7 @@ storagatan3.ax
 storby-byalag.ax
 storklobb.ax
 stormskar.ax
+stormskarsmaja.ax
 str.ax
 strah.ax
 straightf.ax
