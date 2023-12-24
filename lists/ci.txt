@@ -1345,7 +1345,6 @@ asics.ci
 asicstiger.ci
 aside-agency.ci
 ask.ci
-ask-assurance.ci
 asksta.ci
 asmaco.ci
 asmen.ci
@@ -1422,6 +1421,7 @@ atasolution.ci
 atb-services.ci
 atbservices.ci
 atc.ci
+atcommunication.ci
 ate.ci
 atech.ci
 atechno.ci
@@ -2203,6 +2203,7 @@ cabinetfofana.ci
 cabinetgce.ci
 cabinetgesma.ci
 cabinetgsc.ci
+cabinethkb.ci
 cabineti2c.ci
 cabinetsarretallard.ci
 cabinetzebeyoux.ci
@@ -4065,7 +4066,6 @@ digitalstore.ci
 digitalsun.ci
 digitalubuntu.ci
 digitalyst.ci
-digitapp.ci
 digitarstudio.ci
 digitaxcollect.ci
 digitcommunication.ci
@@ -4159,7 +4159,6 @@ dkhtech.ci
 dkp1.ci
 dks.ci
 dktechnology.ci
-dkyi.ci
 dl.ci
 dled.ci
 dlh.ci
@@ -4254,7 +4253,6 @@ dpm.ci
 dpogroup.ci
 dppse.ci
 dps.ci
-dpse-mfp.ci
 dpstat-mesrs.ci
 dpz.ci
 dr.ci
@@ -4283,6 +4281,7 @@ droneacademie.ci
 dronebusiness.ci
 drones.ci
 dropbox.ci
+dscars.ci
 dsimmobilier.ci
 dsnmenuonline.ci
 dss.ci
@@ -4737,7 +4736,6 @@ elite.ci
 elitebeton.ci
 elitec.ci
 elitecloud.ci
-eliteconnection.ci
 eliteconseil.ci
 elitecosmetic.ci
 elitefitness.ci
@@ -5669,6 +5667,7 @@ gen.ci
 gendarmerie-nationale.ci
 gendigital.ci
 gene6.ci
+generalautosite.ci
 generalls.ci
 generalpieces.ci
 generalvagondodiomande.ci
@@ -5688,7 +5687,6 @@ geo.ci
 geo-online.ci
 geobankweb.ci
 geobtp.ci
-geobtpsarl.ci
 geoci.ci
 geodiswilson.ci
 geolia.ci
@@ -6006,7 +6004,6 @@ gsia-abidjan.ci
 gsip.ci
 gskncapital.ci
 gslesdelphineaux.ci
-gslesfiguiers.ci
 gslesminimes.ci
 gslespatronages.ci
 gsm-com.ci
@@ -6675,6 +6672,7 @@ ipif.ci
 iplast.ci
 ipmservices.ci
 ipnetp.ci
+ippcfj.ci
 ipravi.ci
 iprodis.ci
 ips.ci
@@ -6785,6 +6783,7 @@ ivoirbazar.ci
 ivoircostmetics.ci
 ivoire.ci
 ivoire-bets.ci
+ivoire-bia.ci
 ivoire-boissons.ci
 ivoire-click.ci
 ivoire-concours.ci
@@ -7314,6 +7313,7 @@ koris.ci
 korok.ci
 koroko.ci
 kosafiannonce.ci
+koss.ci
 kossonoutrading.ci
 kotalent.ci
 kotche.ci
@@ -7628,7 +7628,6 @@ lepetitmarche.ci
 leplan24.ci
 leplanteur.ci
 lepointfeminin.ci
-leportail.ci
 leprix.ci
 leprogres.ci
 leqg.ci
@@ -9870,7 +9869,6 @@ poc.ci
 podium.ci
 pofci.ci
 pog.ci
-poha.ci
 point-s.ci
 pointfocal.ci
 pojebalo.ci
@@ -9934,7 +9932,6 @@ precix-sarl.ci
 precommit.ci
 prefa-immobilier.ci
 premier6.ci
-premierbet.ci
 premierbets.ci
 premieredame.ci
 premierloto.ci
@@ -10461,11 +10458,11 @@ rota.ci
 rotary.ci
 rotaryabjgolf.ci
 routes.ci
-routiers.ci
 royalaviation.ci
 royalbase.ci
 royalhotel.ci
 royalmining.ci
+royalpalm.ci
 royalprestige.ci
 royalsca.ci
 royalservices-inter.ci
@@ -10565,6 +10562,7 @@ salm.ci
 salon-de-la-franchise.ci
 salon-franchise-ivoire.ci
 salon-ivoirien-de-la-franchise.ci
+salondelinvestissement.ci
 salondesanimauxdecompagnie.ci
 salondespme.ci
 salondhonneur.ci
@@ -11071,6 +11069,7 @@ sir.ci
 siraba.ci
 sirbam.ci
 sirec.ci
+sirenesdassinie.ci
 siriointer.ci
 sirius.ci
 siriusfinances.ci
@@ -11861,6 +11860,7 @@ tibs.ci
 tic.ci
 tic-academy.ci
 tic-car.ci
+tic-carpay.ci
 tic4ed.ci
 ticafrique.ci
 ticcar.ci
@@ -11950,6 +11950,7 @@ topmariage.ci
 topmoteur.ci
 topographie.ci
 topwork.ci
+tor.ci
 toshiba.ci
 total.ci
 total-energies.ci
