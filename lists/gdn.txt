@@ -184,7 +184,6 @@
 20308.gdn
 212512.gdn
 21354.gdn
-21490.gdn
 21574.gdn
 21786.gdn
 217935.gdn
@@ -846,7 +845,6 @@
 65718.gdn
 65743.gdn
 65897.gdn
-66207.gdn
 66233.gdn
 666.gdn
 66739.gdn
@@ -1012,7 +1010,6 @@
 79185.gdn
 79271.gdn
 79486.gdn
-79834.gdn
 7997.gdn
 7k7k.gdn
 7lw.gdn
@@ -6501,7 +6498,10 @@ globalmarket.gdn
 globalnews.gdn
 globalsearch.gdn
 globalsources.gdn
+globalstockandreward.gdn
 globalstockandrewardlogon.gdn
+globalstockandrewards.gdn
+globalstockandrewardslogon.gdn
 globalstore.gdn
 globaltalent.gdn
 globaltrade.gdn
@@ -7526,6 +7526,7 @@ jjj.gdn
 jjjj.gdn
 jls02.gdn
 jm.gdn
+jms.gdn
 jn6.gdn
 jngs1.gdn
 jo.gdn
@@ -11138,6 +11139,8 @@ shape.gdn
 share.gdn
 sharedhosting.gdn
 sharemydinner.gdn
+shareworkslogin.gdn
+shareworkslogon.gdn
 shark.gdn
 sharmel-sheikhhotels.gdn
 shave.gdn
@@ -11457,6 +11460,8 @@ solidoakfurniture.gdn
 solidwoodfurniture.gdn
 solitaire.gdn
 soliton.gdn
+soliumlogin.gdn
+soliumlogon.gdn
 solo.gdn
 somalian.gdn
 somehow.gdn
