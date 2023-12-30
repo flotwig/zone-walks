@@ -93,7 +93,6 @@
 1wins-bet.ci
 1x.ci
 1xbet.ci
-1xbet-apk.ci
 1xbet-app.ci
 1xbet-ci.ci
 1xbet-mobile.ci
@@ -1477,6 +1476,7 @@ audi.ci
 audiotexci.ci
 audirec.ci
 auditinter.ci
+audyshop.ci
 auici.ci
 aupadis.ci
 auparchemin.ci
@@ -1670,7 +1670,6 @@ barakatshop.ci
 barclayresources.ci
 bargain.ci
 barikaa.ci
-barm.ci
 barney.ci
 barnoininformatique.ci
 barold.ci
@@ -2752,7 +2751,6 @@ cleaneburnie.ci
 cleanmaster.ci
 cleannet.ci
 cleanpro.ci
-cleapet.ci
 clear-path.ci
 clearpath.ci
 clertech.ci
@@ -3566,6 +3564,7 @@ conseil-etat.ci
 conseilauto.ci
 conseilcafecacao.ci
 conseilcotonanacarde.ci
+conseildespsychologues.ci
 conseilheveapalmier.ci
 conseiljuridique.ci
 conseilregionalbafing.ci
@@ -4113,7 +4112,6 @@ divamintegra.ci
 divinamour.ci
 divinatransport.ci
 divinedev.ci
-divinetrading.ci
 divo.ci
 diy.ci
 diyi.ci
@@ -5018,7 +5016,6 @@ eurofind.ci
 euroinnova.ci
 eurol.ci
 eurolait.ci
-eurolight.ci
 eurona.ci
 europcar.ci
 eurorepar.ci
@@ -6599,7 +6596,6 @@ intelligence.ci
 intelligenz.ci
 intellomeet.ci
 intelsat.ci
-interbat.ci
 intercosme.ci
 intercoton.ci
 interface.ci
@@ -7223,6 +7219,7 @@ kitea.ci
 kiteaci.ci
 kitoyebtp.ci
 kiwi.ci
+kiwigroup.ci
 kiwii.ci
 kiyani.ci
 kk.ci
@@ -8047,7 +8044,6 @@ managementproperties.ci
 manageo.ci
 manawa.ci
 mancala.ci
-manci.ci
 mande.ci
 mande-securite.ci
 mandianor.ci
@@ -8488,6 +8484,7 @@ momo.ci
 momobank.ci
 momomarket.ci
 mon-imprimeur.ci
+mon-job.ci
 mon-mogo.ci
 monadressepostale.ci
 monartisan.ci
@@ -8998,6 +8995,7 @@ ns2po.ci
 nsahotel.ci
 nsconsulting.ci
 nscosmetics.ci
+nsi.ci
 nsiaassurances.ci
 nsiabanque.ci
 nsiachapchap.ci
@@ -9258,6 +9256,7 @@ opentic.ci
 openvtc.ci
 opes.ci
 opfeel.ci
+ophiceas.ci
 ophircom.ci
 opindustrielectronik.ci
 opisms.ci
@@ -9590,7 +9589,6 @@ pc-mtn.ci
 pccet.ci
 pcci.ci
 pcis.ci
-pcmarket.ci
 pco.ci
 pcs.ci
 pcsp.ci
@@ -10761,7 +10759,6 @@ servair.ci
 servcom-ufhb.ci
 server.ci
 serverless.ci
-service-accueil.ci
 serviceong-sante.ci
 serviceongsante.ci
 services-ci.ci
@@ -10892,9 +10889,6 @@ sics.ci
 sicsarl.ci
 sicta.ci
 sidam.ci
-sidam-digitale.ci
-sidamdigital.ci
-sidamdigitale.ci
 sidc-shilo.ci
 sidcao.ci
 sidepa.ci
@@ -11364,6 +11358,7 @@ southernit.ci
 soutra.ci
 soutrali.ci
 sovapro.ci
+sovoibat.ci
 sozanyecommerce.ci
 sp.ci
 spabynoom.ci
@@ -12525,6 +12520,7 @@ woodmizer.ci
 woodoo.ci
 woodstauhn.ci
 wooju.ci
+wordtech.ci
 workcloud.ci
 world.ci
 worldcoin.ci
