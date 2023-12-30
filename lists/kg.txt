@@ -267,6 +267,7 @@ acquiring.kg
 acres.kg
 acrymatt.kg
 act.kg
+act-building.kg
 actavis.kg
 actimove.kg
 action.kg
@@ -2475,6 +2476,7 @@ centr.kg
 centr-krasok.kg
 central-asia.kg
 centralasia.kg
+centralasianfilms.kg
 centralasiastone.kg
 centrallab.kg
 centrelectro.kg
@@ -3577,6 +3579,7 @@ electrosila.kg
 electrotok.kg
 electrounaa.kg
 elegancestroy.kg
+elegant.kg
 elegant-kamen.kg
 elegant-socks.kg
 elehant.kg
@@ -4058,6 +4061,7 @@ fc.kg
 fc-dordoi.kg
 fc-pr.kg
 fcaa.kg
+fcb.kg
 fccu.kg
 fcmu.kg
 fcmuras.kg
@@ -5306,6 +5310,7 @@ incom.kg
 income.kg
 incomtek.kg
 incredibleosh.kg
+incruises.kg
 incubator.kg
 index.kg
 indigo.kg
@@ -5992,7 +5997,6 @@ kbi.kg
 kbl.kg
 kbm.kg
 kbtrade.kg
-kce.kg
 kchm.kg
 kcso.kg
 kdc.kg
@@ -6024,7 +6028,6 @@ kench.kg
 kender.kg
 kendo.kg
 kenesh.kg
-kenesha.kg
 kenguru.kg
 kengurupro.kg
 keno.kg
@@ -6423,7 +6426,6 @@ kursat.kg
 kursy.kg
 kurt.kg
 kurtgeiger.kg
-kurultai.kg
 kurultay.kg
 kurulush.kg
 kurulushtsh.kg
@@ -6516,6 +6518,7 @@ kyzyl-kiya.kg
 kyzyl-ozgorush.kg
 kyzyl-suu.kg
 kyzyl-tegirmen.kg
+kyzyl-tuu.kg
 kyzyltuu.kg
 kyzylunkur.kg
 kz.kg
@@ -6626,7 +6629,6 @@ lego.kg
 legomebel.kg
 legprom.kg
 legrand.kg
-leica.kg
 leica-geosystems.kg
 lekalo.kg
 lekar.kg
@@ -6719,7 +6721,6 @@ lifeshop.kg
 lift.kg
 liftes.kg
 liftm.kg
-liga.kg
 liga-bet.kg
 liga-robotov.kg
 ligabet.kg
@@ -7152,6 +7153,7 @@ mdclinic.kg
 mdgroup.kg
 mdigital.kg
 mdm.kg
+mdma.kg
 mdn.kg
 mdregion.kg
 mdv.kg
@@ -7658,7 +7660,6 @@ msp.kg
 mspos.kg
 mssduet.kg
 mssoft.kg
-mstore.kg
 msv.kg
 mtc.kg
 mtk.kg
@@ -8431,7 +8432,6 @@ orocaffe.kg
 oropay.kg
 orosport.kg
 orozbekov.kg
-ort.kg
 orthotech.kg
 ortomaster.kg
 ortoped.kg
@@ -9153,7 +9153,6 @@ protocol.kg
 proton.kg
 protorg.kg
 proverka.kg
-proweb.kg
 proxy.kg
 psg.kg
 psihoanaliz.kg
@@ -9492,6 +9491,7 @@ rmconsult.kg
 rmdd.kg
 rmddaviation.kg
 rmk.kg
+rms.kg
 rmsoft.kg
 rnd.kg
 rnmc.kg
@@ -9591,6 +9591,7 @@ rubetek.kg
 rubezh.kg
 rubikon.kg
 rufina.kg
+ruh.kg
 ruhaniat.kg
 ruhesh.kg
 rui.kg
@@ -9718,6 +9719,7 @@ santehmarket.kg
 santehnica.kg
 santehnica-shop.kg
 santehnik.kg
+santehnik1.kg
 santehnika.kg
 santehnikbishkek.kg
 santehniki.kg
@@ -9754,7 +9756,6 @@ sasa.kg
 sasa-plastic.kg
 sat.kg
 satal.kg
-satam.kg
 satcom.kg
 satel.kg
 satellite.kg
@@ -10060,6 +10061,7 @@ sk.kg
 sk-broker.kg
 sk-elizaveta.kg
 sk24.kg
+skachki.kg
 skai.kg
 skazka.kg
 skbroker.kg
@@ -10116,6 +10118,7 @@ skyscanner.kg
 skysoft.kg
 skyworth.kg
 skzic.kg
+sl.kg
 slast.kg
 slavyane.kg
 sleep.kg
@@ -10837,7 +10840,6 @@ tefal.kg
 teg.kg
 tegaasia.kg
 tegereshki.kg
-tegim.kg
 teginart.kg
 tegirmen.kg
 tegola.kg
