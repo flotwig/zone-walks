@@ -1978,8 +1978,6 @@ audiotours.gdn
 audition.gdn
 auditions.gdn
 augmentation.gdn
-augmented.gdn
-augmentedreality.gdn
 augur.gdn
 augustana.gdn
 aura.gdn
@@ -3282,6 +3280,7 @@ cheapbedroomsets.gdn
 cheapcruises.gdn
 cheapdomain.gdn
 cheapdomains.gdn
+cheapest.gdn
 cheapflight.gdn
 cheapflights.gdn
 cheapfurniture.gdn
@@ -8012,13 +8011,11 @@ lincolnwood.gdn
 lindenhurst.gdn
 lindenwold.gdn
 lindon.gdn
-line.gdn
 linearalkylbenezenes.gdn
 linearlowdensitypolyethlene.gdn
 linearmediumdensitypolyethylene.gdn
 linearultra.gdn
 linefishingtackle.gdn
-lines.gdn
 linetelegraphy.gdn
 linetelephony.gdn
 linganore.gdn
@@ -9471,6 +9468,7 @@ omani.gdn
 omega.gdn
 omen.gdn
 omg138.gdn
+omni.gdn
 one88.gdn
 onehour.gdn
 oneill.gdn
@@ -9576,6 +9574,7 @@ overwatch.gdn
 ovh.gdn
 owens.gdn
 owl.gdn
+own.gdn
 ownbusiness.gdn
 owo.gdn
 oxbet.gdn
@@ -11320,6 +11319,7 @@ smallbusinessmarketing.gdn
 smallsectionalsofa.gdn
 smallsofa.gdn
 smallsteps.gdn
+smartglasses.gdn
 smarthome.gdn
 smartnet.gdn
 smartpurse.gdn
@@ -12561,6 +12561,8 @@ why.gdn
 wicker.gdn
 widely.gdn
 wideroe.gdn
+widget.gdn
+widgets.gdn
 wiesmann.gdn
 wifi.gdn
 wificamera.gdn
