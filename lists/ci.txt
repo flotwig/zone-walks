@@ -868,6 +868,7 @@ agrac.ci
 agrh.ci
 agri-dev.ci
 agriandland.ci
+agriculture.ci
 agriculturecommerciale.ci
 agriform.ci
 agriline.ci
@@ -1482,7 +1483,6 @@ aupcn.ci
 auriga.ci
 auromanagement.ci
 aurore.ci
-auroreassistantuniverselle.ci
 auroserv.ci
 aus.ci
 aus-g4s.ci
@@ -1567,6 +1567,7 @@ axis.ci
 axton.ci
 ay.ci
 ayael.ci
+ayanlavilla.ci
 aydoo.ci
 ayela.ci
 ayenan.ci
@@ -1951,6 +1952,7 @@ blogspot.ci
 blontifla.ci
 bloomit.ci
 bloosat.ci
+blou.ci
 blua.ci
 blue-x.ci
 bluebiz.ci
@@ -2051,6 +2053,7 @@ bossimpactsociety.ci
 bossplaya.ci
 botanique.ci
 bottegaveneta.ci
+bouake.ci
 bouakeimmobilier.ci
 boudepe.ci
 boulanger.ci
@@ -3973,7 +3976,6 @@ dexter.ci
 dey.ci
 df.ci
 dflocation.ci
-dfp.ci
 dfrs.ci
 dfsk.ci
 dgamp.ci
@@ -4049,7 +4051,6 @@ digitalpro.ci
 digitalsante.ci
 digitalspace.ci
 digitalstore.ci
-digitalsun.ci
 digitalubuntu.ci
 digitalyst.ci
 digitarstudio.ci
@@ -4068,7 +4069,6 @@ dimbaactiondeveloppement.ci
 dimecom.ci
 dimerl.ci
 dingouin.ci
-dinnerwithchrist.ci
 diocese-agboville.ci
 diocesedegrandbassam.ci
 dionysus.ci
@@ -4630,6 +4630,7 @@ eglceleste.ci
 eglin.ci
 eglise.ci
 eglise-cedg.ci
+eglise-kizito.ci
 eglise-mukasa.ci
 eglisecma.ci
 eglisedejesus-christ.ci
@@ -5844,7 +5845,6 @@ gombo.ci
 goo.ci
 goodcard.ci
 gooddealsservices.ci
-goodevent.ci
 goodies.ci
 goodis.ci
 goodtimes.ci
@@ -6403,6 +6403,7 @@ ikks.ci
 il.ci
 ilboursa.ci
 ilevel.ci
+ilianncga.ci
 iliko.ci
 illigo.ci
 ilm.ci
@@ -6584,6 +6585,7 @@ samsung.int.ci
 smemarkethub.int.ci
 integra.ci
 integral.ci
+integrale.ci
 integralresources.ci
 intelafrique.ci
 intelcia.ci
@@ -6594,6 +6596,7 @@ intelligence.ci
 intelligenz.ci
 intellomeet.ci
 intelsat.ci
+interbat.ci
 intercosme.ci
 intercoton.ci
 interface.ci
@@ -6739,6 +6742,7 @@ iupa-ismt.ci
 iusse-edu.ci
 ivcao.ci
 ivcom.ci
+ive.ci
 ivenco.ci
 ivimarket.ci
 ivmci.ci
@@ -8084,7 +8088,6 @@ marchespublics.ci
 marcory.ci
 marcushoward.ci
 marhabahotel.ci
-maridav.ci
 marinemarchande.ci
 marinenationale.ci
 mark-six.ci
@@ -8544,6 +8547,7 @@ monpain.ci
 monpass.ci
 monpassepartout.ci
 monpasseport.ci
+monpatrimoine.ci
 monpays.ci
 monpersonnelparfait.ci
 monpharmacien.ci
@@ -8839,6 +8843,7 @@ tasteofafrica.net.ci
 thescore.net.ci
 www.net.ci
 netcom.ci
+netconnect.ci
 netflix.ci
 neto.ci
 netservicestransport.ci
@@ -9435,7 +9440,6 @@ outlook.ci
 outofthebox.ci
 outshock.ci
 ovation.ci
-overstock.ci
 ovh.ci
 ovo.ci
 ow.ci
@@ -9518,6 +9522,7 @@ paperone.ci
 papigraph.ci
 papse.ci
 paracleteditions.ci
+paradisdesnounours.ci
 paradisegame.ci
 paradisestore.ci
 paradisia.ci
@@ -9831,6 +9836,7 @@ pordes.ci
 porlahla.ci
 porn.ci
 pornhub.ci
+poroawards.ci
 poropower1.ci
 port-bouet.ci
 portabidjan.ci
@@ -9927,6 +9933,7 @@ probo.ci
 probricolage.ci
 probuilding.ci
 procash.ci
+prochem.ci
 prochesservices.ci
 prochicos.ci
 proclean.ci
@@ -10210,7 +10217,6 @@ regioncavally.ci
 regiondelame.ci
 regiondugontougo.ci
 regionduguemon.ci
-regiondutchologo.ci
 regiondutonkpi.ci
 regionfolon.ci
 regionhautsassandra.ci
@@ -10884,6 +10890,10 @@ sics.ci
 sicsarl.ci
 sicta.ci
 sidam.ci
+sidam-digital.ci
+sidam-digitale.ci
+sidamdigital.ci
+sidamdigitale.ci
 sidc-shilo.ci
 sidcao.ci
 sidepa.ci
@@ -11528,6 +11538,7 @@ supbarakat.ci
 supciterneocit.ci
 supeco.ci
 supelite.ci
+super-sport.ci
 supercadeaux.ci
 supercarte.ci
 superforce.ci
@@ -12334,7 +12345,6 @@ volontairescocan2023.ci
 volvotrucks.ci
 voomstore.ci
 vooz.ci
-voucher.ci
 vovegroup.ci
 vovegroupe.ci
 voyage.ci
