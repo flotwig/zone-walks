@@ -177,6 +177,7 @@ fordcredit.auto
 formula1.auto
 fpt.auto
 full.auto
+fuskimai.auto
 geely.auto
 geico.auto
 genesis.auto
@@ -342,6 +343,7 @@ preston.auto
 prime.auto
 privatelease.auto
 prix.auto
+pro.auto
 prompt.auto
 qag.auto
 qq.auto
@@ -454,6 +456,7 @@ volvo.auto
 voyage.auto
 walmart.auto
 wama.auto
+wama1.auto
 wards.auto
 watermark.auto
 waymo.auto
