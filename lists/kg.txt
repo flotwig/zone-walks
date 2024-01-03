@@ -124,7 +124,6 @@
 4x4.kg
 5.kg
 5-tv.kg
-50.kg
 55.kg
 56.kg
 58.kg
@@ -1017,6 +1016,7 @@ areplivir.kg
 arfen.kg
 argamak.kg
 argo.kg
+argument.kg
 argumenti.kg
 arhimed.kg
 aria.kg
@@ -1251,6 +1251,7 @@ atiso.kg
 atk.kg
 atlant.kg
 atlant-group.kg
+atlantis.kg
 atlas.kg
 atlasasia.kg
 atlascopco.kg
@@ -5897,7 +5898,6 @@ kanzler.kg
 kanzpark.kg
 kao.kg
 kap.kg
-kapadokya.kg
 kapriz.kg
 kapriz-ik.kg
 kaprizik.kg
@@ -6102,7 +6102,6 @@ kgt.kg
 kgtelecom.kg
 kgtex.kg
 kgti.kg
-kgtoll.kg
 kgtrading.kg
 kguki.kg
 kgz.kg
@@ -6555,7 +6554,6 @@ laletty.kg
 lalofo.kg
 lamaisonduvoyageur.kg
 lambdacenter.kg
-lamerepoulard.kg
 lamerepoulard-lemontsaintmichel.kg
 laminam.kg
 laminat.kg
@@ -7501,6 +7499,7 @@ mirvodopadov.kg
 mirzvuka.kg
 mis.kg
 miss.kg
+miste.kg
 mistore.kg
 mitsubishi.kg
 mitsubishi-motors.kg
@@ -7614,6 +7613,7 @@ motexc.kg
 motion.kg
 moto.kg
 motoblok.kg
+motodor.kg
 motoekip.kg
 motohouse.kg
 motor.kg
@@ -7911,6 +7911,7 @@ neme.kg
 neo.kg
 neobank.kg
 neobis.kg
+neoclinic.kg
 neofiscal.kg
 neofit.kg
 neoline.kg
@@ -8735,7 +8736,6 @@ pharmnews.kg
 pharmtrade.kg
 pharmunion.kg
 pharmznanie.kg
-phd.kg
 philip-morris.kg
 philipmorris.kg
 philips.kg
@@ -9739,7 +9739,6 @@ sany.kg
 sanzhyraexpress.kg
 sap.kg
 sapar.kg
-sapargul-smm.kg
 sapat.kg
 sapat-test.kg
 sapatasia.kg
@@ -12136,7 +12135,6 @@ yataxi.kg
 ydoc.kg
 yealink.kg
 yel.kg
-yes.kg
 yess.kg
 yk.kg
 yk61.kg
