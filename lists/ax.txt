@@ -1355,6 +1355,7 @@ focus.ax
 fogelberg.ax
 fogelvagen.ax
 foglo.ax
+foglofastighetsbolag.ax
 foglohembygd.ax
 fogloskola.ax
 folkdansarna.ax
@@ -1907,7 +1908,6 @@ jansens.ax
 jansson.ax
 jar.ax
 jass.ax
-jay.ax
 jb.ax
 jbmaland.ax
 jcimariehamn.ax
@@ -3932,7 +3932,6 @@ vl.ax
 vm.ax
 vo.ax
 voces.ax
-voice.ax
 voip.ax
 volkswagen.ax
 volvopentaahvenanmaa.ax
@@ -3955,7 +3954,6 @@ vuokraa.ax
 vuokrakoti.ax
 vuokralle.ax
 vuokrattavana.ax
-vv.ax
 vvs.ax
 vvs-boden.ax
 vvs-webbutik.ax
