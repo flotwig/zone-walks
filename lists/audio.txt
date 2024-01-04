@@ -1425,7 +1425,6 @@ estereo.audio
 eternal.audio
 eternity.audio
 eth.audio
-ether.audio
 ethereum.audio
 ethglobal.audio
 ethnoloops.audio
@@ -2580,7 +2579,6 @@ mbspro.audio
 mbsr.audio
 mccullough.audio
 mcguganator.audio
-mcmillan.audio
 meck.audio
 medel.audio
 mediacomm.audio
@@ -3933,6 +3931,8 @@ soundsxplosive.audio
 soundsystem.audio
 soundsystems.audio
 soundtoys.audio
+soundtrack.audio
+soundtracks.audio
 soundwallet.audio
 soundwave.audio
 soundwavepro.audio
@@ -4134,6 +4134,7 @@ takkapow.audio
 talbot.audio
 talk.audio
 talk5.audio
+talkbuzz.audio
 talkingshop.audio
 tamil.audio
 tampabayrays.audio
@@ -4305,6 +4306,7 @@ tp.audio
 tplusa.audio
 trabi.audio
 track.audio
+tracks.audio
 tradefair.audio
 trailofbits.audio
 trailofbitspod.audio
