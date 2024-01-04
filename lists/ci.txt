@@ -301,7 +301,6 @@
 588.ci
 59.ci
 59068.ci
-59738.ci
 5a.ci
 5c.ci
 5d.ci
@@ -1476,7 +1475,6 @@ audiotexci.ci
 audirec.ci
 auditinter.ci
 audyshop.ci
-auici.ci
 aupadis.ci
 auparchemin.ci
 aupcn.ci
@@ -2219,6 +2217,7 @@ cafopyakro.ci
 caftan.ci
 caftic-istc.ci
 caftrading.ci
+cag.ci
 cagrh.ci
 caic.ci
 caidamultiservices.ci
@@ -3593,6 +3592,7 @@ contact.ci
 contactalimentaire.ci
 contentsquare.ci
 context.ci
+continentalauto.ci
 continentalrubber.ci
 continentalsecurity.ci
 continentaltravaux.ci
@@ -3694,6 +3694,7 @@ cr.ci
 crayoninternational.ci
 crbc-cnctpc.ci
 crdi4capec.ci
+crea.ci
 createam.ci
 creativ.ci
 creativeengineering.ci
@@ -3713,7 +3714,6 @@ cristalcom.ci
 criterion.ci
 criterion360.ci
 crl.ci
-crmarahoue.ci
 cro.ci
 croire.ci
 croisieres.ci
@@ -5143,7 +5143,6 @@ fareeda.ci
 farix.ci
 farma.ci
 farzhom.ci
-fashend.ci
 fashion.ci
 fasi.ci
 fast.ci
@@ -7171,6 +7170,7 @@ keynewsmedia.ci
 kfbusiness.ci
 kfc.ci
 kfcorporation.ci
+kfland.ci
 kgsecurity.ci
 kh.ci
 ki.ci
@@ -7456,7 +7456,6 @@ lavenir.ci
 laverie.ci
 lavie.ci
 lavieclaire.ci
-lavillaconcept.ci
 lavnet.ci
 lavoadzope.ci
 lavoiesainte.ci
@@ -7852,7 +7851,6 @@ lunni.ci
 luoli.ci
 luttecontreviechere.ci
 luxe.ci
-luxedoor.ci
 luxeimmobilier.ci
 luxeking.ci
 luxes.ci
@@ -7891,6 +7889,7 @@ mabilletterie.ci
 maboutik.ci
 maboutique.ci
 mabtools.ci
+mabybouake.ci
 mac.ci
 macaci.ci
 macantine.ci
@@ -7996,6 +7995,7 @@ maisonalouer.ci
 maisonberiyth.ci
 maisondeluxe.ci
 maisondesmeubles.ci
+maisondirect.ci
 maisonemeraude.ci
 maisonetvoiture.ci
 maisonmetisse.ci
@@ -8088,6 +8088,7 @@ marchespublics.ci
 marcory.ci
 marcushoward.ci
 marhabahotel.ci
+maridav.ci
 marinemarchande.ci
 marinenationale.ci
 mark-six.ci
@@ -8194,6 +8195,7 @@ mdc.ci
 mde.ci
 mdenergy.ci
 mdi.ci
+mdisarl.ci
 mdkassamba.ci
 mdpartners.ci
 mdsgroup.ci
@@ -9013,7 +9015,6 @@ nts.ci
 ntservices.ci
 ntsgroup.ci
 ntv.ci
-nubicos.ci
 num.ci
 numerics.ci
 numeriquarts.ci
@@ -9544,6 +9545,7 @@ parimobile.ci
 parkcenter.ci
 parkinou.ci
 paroisse.ci
+paroisse-kizito.ci
 paroissesaintebernadettebingerville.ci
 paroissesaintkizito.ci
 parquetgeneralccce.ci
@@ -9599,6 +9601,7 @@ pdci.ci
 pdcid.ci
 pdcirda.ci
 pde.ci
+pdp.ci
 pdu.ci
 pe.ci
 pec.ci
@@ -9634,6 +9637,7 @@ performer.ci
 performix.ci
 performsystems.ci
 pergola.ci
+perlesimmo.ci
 permis2conduire-mysonec.ci
 permisdeconduire.ci
 permutation.ci
@@ -10874,7 +10878,6 @@ sica-abidjan.ci
 sica2023.ci
 sicable.ci
 sicablepirelli.ci
-sicca.ci
 siccao.ci
 sicd.ci
 siceb.ci
@@ -11084,7 +11087,6 @@ slotpoker188.ci
 slp.ci
 slt.ci
 sm.ci
-sm-plus.ci
 sma.ci
 smaauto.ci
 smabtp.ci
@@ -11094,6 +11096,7 @@ smart-case.ci
 smart-city.ci
 smart-rc.ci
 smart-technology.ci
+smartbusiness.ci
 smartcar.ci
 smartcity.ci
 smartcity-abidjan.ci
@@ -11727,7 +11730,6 @@ telia.ci
 telicosarl.ci
 temoinsdelesperance.ci
 temu.ci
-tenuetradimodernewe.ci
 terau.ci
 terpone.ci
 terra.ci
@@ -12290,7 +12292,6 @@ visco.ci
 viseo.ci
 visicard.ci
 vision.ci
-visiondegloire.ci
 visionelectricite.ci
 visionprint.ci
 visionsmart.ci
@@ -12436,6 +12437,7 @@ webtiq.ci
 webup.ci
 webus.ci
 webuycars.ci
+wecall.ci
 wecode.ci
 wecom.ci
 wedze.ci
@@ -12464,7 +12466,6 @@ whatsapp.ci
 whieda.ci
 who.ci
 whois.ci
-whoswho.ci
 wia.ci
 wic.ci
 wicsafrica.ci
