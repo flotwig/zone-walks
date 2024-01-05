@@ -123,6 +123,7 @@
 225logements.ci
 225services.ci
 225sport.ci
+226.ci
 22bet.ci
 23.ci
 233.ci
@@ -478,7 +479,6 @@
 9-25.ci
 9-f5.ci
 9001.ci
-91750.ci
 92.ci
 93526.ci
 93527.ci
@@ -1014,6 +1014,7 @@ alfadil.ci
 alfalaval.ci
 alfapower.ci
 alfaromeo.ci
+alfattah.ci
 algest.ci
 alibaba.ci
 alibert.ci
@@ -1046,7 +1047,6 @@ allo-location.ci
 allo116.ci
 allocine.ci
 alloconso.ci
-allodoc.ci
 allodocteur.ci
 allodoto.ci
 allodriver.ci
@@ -1056,6 +1056,7 @@ alloimmo.ci
 allone.ci
 allonsauchamp.ci
 allopolice.ci
+allopressing.ci
 alloservice.ci
 allsix.ci
 alltec.ci
@@ -1475,6 +1476,7 @@ audiotexci.ci
 audirec.ci
 auditinter.ci
 audyshop.ci
+auici.ci
 aupadis.ci
 auparchemin.ci
 aupcn.ci
@@ -2537,7 +2539,6 @@ chap-chap.ci
 chapachat.ci
 chapchapmarket.ci
 chapchapvoyage.ci
-chapoutils.ci
 charge.ci
 chari.ci
 charts.ci
@@ -3811,6 +3812,7 @@ cyza.ci
 cz.ci
 czo.ci
 d-as.ci
+d-mif-africa.ci
 d4.ci
 d5.ci
 da.ci
@@ -4154,6 +4156,7 @@ dmdigitalwp.ci
 dmg.ci
 dmhp.ci
 dmib.ci
+dmif-africa.ci
 dmit.ci
 dmo.ci
 dmr.ci
@@ -5312,7 +5315,6 @@ firstinnovations.ci
 firstlady.ci
 fis.ci
 fisat.ci
-fisca.ci
 fischer.ci
 fit.ci
 fitline.ci
@@ -5325,7 +5327,6 @@ fiv.ci
 fiva.ci
 fivc.ci
 five.ci
-fivoir.ci
 fivoirgroup.ci
 fix.ci
 fjmatic.ci
@@ -5720,6 +5721,7 @@ gibtp.ci
 gic.ci
 gicop.ci
 gie.ci
+gifi.ci
 gig.ci
 gigisfood.ci
 gilsenglish.ci
@@ -5927,7 +5929,6 @@ groupado.ci
 groupdmhk.ci
 groupe-ctc.ci
 groupe-essor.ci
-groupe-ita.ci
 groupe-nazarie.ci
 groupe-saintlouis.ci
 groupe-sma.ci
@@ -6070,6 +6071,7 @@ hao123.ci
 happy.ci
 happyhouse.ci
 happykidz.ci
+happyteam.ci
 harbourabidjan.ci
 hautdebit.ci
 hautsassandra.ci
@@ -6125,7 +6127,6 @@ hestia.ci
 hetec.ci
 hevea.ci
 hey.ci
-heyz.ci
 hf.ci
 hh.ci
 hi.ci
@@ -6778,6 +6779,7 @@ ivoireconsommables.ci
 ivoireconstruction.ci
 ivoireconsulting.ci
 ivoireculture.ci
+ivoiredeals.ci
 ivoiredigitalconsulting.ci
 ivoiredoc.ci
 ivoirefirmsucces.ci
@@ -7025,7 +7027,6 @@ jun.ci
 jup.ci
 juris.ci
 jurisconseils.ci
-juristic.ci
 juru.ci
 just.ci
 just1click.ci
@@ -7272,6 +7273,7 @@ kontinental.ci
 konvergo.ci
 koodza.ci
 koreph.ci
+korha.ci
 korhogo.ci
 koris.ci
 korok.ci
@@ -7595,6 +7597,7 @@ lerelais.ci
 lerevendeur.ci
 lerichelieu.ci
 lerizdesmontagnes.ci
+lerond-point.ci
 leroy-merlin.ci
 leroyalpalace.ci
 leroymerlin.ci
@@ -8043,6 +8046,7 @@ managementproperties.ci
 manageo.ci
 manawa.ci
 mancala.ci
+manci.ci
 mande.ci
 mande-securite.ci
 mandianor.ci
@@ -8490,6 +8494,7 @@ monadressepostale.ci
 monartisan.ci
 monassistantadministratif.ci
 monassurance.ci
+monauto.ci
 monbadjo.ci
 monbara.ci
 monbebe.ci
@@ -9041,7 +9046,6 @@ nys-maya.ci
 nyvepria.ci
 nz.ci
 nzassa.ci
-nzassaafrique.ci
 nzassagroup.ci
 nziriverlodge.ci
 nziriverlodges.ci
@@ -9996,6 +10000,7 @@ protectionpourtous.ci
 protectplus.ci
 protrack-info.ci
 protrading.ci
+providencetechnologie.ci
 providensshopping.ci
 provisuel.ci
 proxity.ci
@@ -10330,6 +10335,7 @@ rhoteon.ci
 rhs.ci
 ria.ci
 riamcosmetique.ci
+ric.ci
 ric-ci.ci
 rich.ci
 richbond.ci
@@ -10423,6 +10429,7 @@ rss-fm.ci
 rt.ci
 rti.ci
 rti-digital.ci
+rti-distribution.ci
 rti-info.ci
 rtinfo.ci
 rtis-tech.ci
@@ -10469,7 +10476,6 @@ sadisflix.ci
 sadur.ci
 saebd.ci
 saeton.ci
-safar.ci
 safaricloud.ci
 safaritransport.ci
 safcacao.ci
@@ -11298,7 +11304,6 @@ somappro.ci
 somavie.ci
 somed.ci
 somfy.ci
-sommetdelelevage.ci
 sommetuaue2017.ci
 somone.ci
 somopci.ci
@@ -11768,6 +11773,7 @@ tgroup.ci
 tgtx.ci
 th.ci
 th3ssa.ci
+thalyafamily.ci
 thani.ci
 thanici.ci
 thankyou.ci
@@ -12270,7 +12276,6 @@ villa.ci
 villablanca.ci
 villas.ci
 villayaba.ci
-ville.ci
 villedegrandbassam.ci
 vin.ci
 vineriadebabi.ci
@@ -12478,7 +12483,6 @@ wiko.ci
 wikomobile.ci
 wilaservices.ci
 wilfriedn.ci
-wilkmedia.ci
 will.ci
 williamhill.ci
 willistowerswatson.ci
@@ -12530,7 +12534,6 @@ wordtech.ci
 workcloud.ci
 world.ci
 worldcoin.ci
-worldev.ci
 worldhotel.ci
 worldremit.ci
 woukale.ci
@@ -12751,8 +12754,8 @@ zenacosmetique.ci
 zenithfm.ci
 zentiva.ci
 zerodegree.ci
-zerogachis.ci
 zerolayer.ci
+zeta.ci
 zetech.ci
 zetes.ci
 zeturf.ci
