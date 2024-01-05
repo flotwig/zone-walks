@@ -194,6 +194,7 @@ alandbanken.ax
 alandevent.ax
 alandexpeditions.ax
 alandfishing.ax
+alandgallup.ax
 alandglimrar.ax
 alandgronskar.ax
 alandguide.ax
@@ -1033,6 +1034,7 @@ doristanner.ax
 dot.ax
 doubleclick.ax
 doug.ax
+down.ax
 dp.ax
 dq.ax
 dr.ax
@@ -1136,7 +1138,6 @@ elisavet.ax
 elmvik.ax
 elnat.ax
 elon.ax
-elvaruhuset.ax
 elvira.ax
 elvis.ax
 em.ax
@@ -1585,6 +1586,8 @@ gymnasium.ax
 gymnastik.ax
 h0.ax
 h4.ax
+h7.ax
+h8.ax
 h88.ax
 ha.ax
 habbo.ax
@@ -2263,7 +2266,6 @@ load-balance.ax
 load-balancer.ax
 loadbalance.ax
 loadbalancer.ax
-loans.ax
 localhost.ax
 locotech.ax
 lofstrom.ax
@@ -2393,6 +2395,7 @@ massage.ax
 massagecenter.ax
 massagenu.ax
 masterbrewer.ax
+mastodon.ax
 mat.ax
 matd.ax
 matexpressen.ax
@@ -2513,7 +2516,6 @@ mlform.ax
 mlk.ax
 mm.ax
 mmm.ax
-mn.ax
 mo.ax
 mobi.ax
 mobil.ax
@@ -2733,7 +2735,6 @@ offert.ax
 offerter.ax
 oficina.ax
 ofvergards.ax
-og.ax
 oh.ax
 ohhoh.ax
 ohmansbil.ax
@@ -3344,7 +3345,6 @@ skylift.ax
 skylten.ax
 sl.ax
 sleipner.ax
-slots.ax
 slottsbonan.ax
 slottsund.ax
 slutagrav.ax
