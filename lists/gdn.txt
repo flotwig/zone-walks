@@ -153,7 +153,6 @@
 18-kt.gdn
 18-nx.gdn
 18239.gdn
-18249.gdn
 18276.gdn
 18279.gdn
 18518.gdn
@@ -560,7 +559,6 @@
 45172.gdn
 45173.gdn
 45174.gdn
-45200.gdn
 45319.gdn
 45374.gdn
 45375.gdn
@@ -606,7 +604,6 @@
 48301.gdn
 48393.gdn
 484342.gdn
-48645.gdn
 48888.gdn
 49-76.gdn
 495008.gdn
@@ -895,7 +892,6 @@
 71594.gdn
 71709.gdn
 71936.gdn
-71948.gdn
 71957.gdn
 71963.gdn
 72150.gdn
@@ -1010,7 +1006,6 @@
 800.gdn
 800445.gdn
 800783.gdn
-80348.gdn
 808.gdn
 80807.gdn
 80888.gdn
@@ -1495,6 +1490,8 @@ ahuimanu.gdn
 ai.gdn
 ai-app.gdn
 ai1.gdn
+aiapp.gdn
+aiapps.gdn
 aicpa.gdn
 aidsdiagnosingreagents.gdn
 aiea.gdn
@@ -1504,6 +1501,7 @@ aikido-test.gdn
 aime.gdn
 ainu.gdn
 aios.gdn
+aiprompt.gdn
 airarabia.gdn
 airasia.gdn
 airastana.gdn
@@ -2547,6 +2545,7 @@ bit.gdn
 bit-coin.gdn
 bitcoin.gdn
 bitcoinmarket.gdn
+bitcoinminer.gdn
 bitcoins.gdn
 bitcoinwallet.gdn
 bithlo.gdn
@@ -2606,6 +2605,7 @@ blockchainzoo.gdn
 blocker.gdn
 blockparty.gdn
 blockplane.gdn
+blocks.gdn
 blog.gdn
 blog-newstime.gdn
 blogfa.gdn
@@ -4542,6 +4542,7 @@ digitalnetworks.gdn
 digitalthermometers.gdn
 digitaltrends.gdn
 digitalvideodisc.gdn
+digitalwallet.gdn
 digitizing.gdn
 digoxin.gdn
 digs.gdn
@@ -7149,6 +7150,7 @@ hysdm.gdn
 hytale.gdn
 hz1.gdn
 i.gdn
+i-live.gdn
 i-medidata.gdn
 i-mehl.gdn
 i1314.gdn
@@ -7446,6 +7448,7 @@ jackson.gdn
 jacksonholerealestate.gdn
 jacuzzi.gdn
 jade.gdn
+jaeger.gdn
 jafa.gdn
 jaga.gdn
 jaggery.gdn
@@ -7919,6 +7922,7 @@ lebanese.gdn
 lebanonhotels.gdn
 lech.gdn
 leclercq.gdn
+ledger.gdn
 ledgeview.gdn
 ledyard.gdn
 lee.gdn
@@ -8514,6 +8518,7 @@ mathieu.gdn
 mathsgames.gdn
 matsticks.gdn
 matt.gdn
+matteo.gdn
 matters.gdn
 mattings.gdn
 mattocks.gdn
