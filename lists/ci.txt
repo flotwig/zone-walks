@@ -378,7 +378,6 @@
 7337.ci
 75.ci
 76.ci
-76423.ci
 77.ci
 777.ci
 7788.ci
@@ -1118,6 +1117,7 @@ amr.ci
 ams.ci
 amsci.ci
 amso.ci
+amssarl.ci
 amuga.ci
 an.ci
 an2000.ci
@@ -1171,6 +1171,7 @@ ansut.ci
 antiochesarl.ci
 anviso.ci
 ao.ci
+aostudy.ci
 ap.ci
 apatam.ci
 apave.ci
@@ -2194,7 +2195,6 @@ cacao.ci
 cace.ci
 cadir.ci
 cadresdirigeants.ci
-caex.ci
 caf-consulting.ci
 cafecacao.ci
 caferimbaud.ci
@@ -2411,11 +2411,6 @@ cecacademie.ci
 ceci.ci
 cedivoire.ci
 ceetrus.ci
-cefatbusinesscenter.ci
-cefatconsulting.ci
-cefatholding.ci
-cefatimmobilier.ci
-cefatlogistic.ci
 cefet-geometre.ci
 ceffage.ci
 cefi.ci
@@ -2709,7 +2704,6 @@ citybeachauto.ci
 civ-climat.ci
 civ2023.ci
 civagrihack.ci
-civdjerba2022.ci
 civi.ci
 civix.ci
 ck-energy.ci
@@ -3135,7 +3129,6 @@ collaracademia.ci
 collectifdesfreresenchrist.ci
 college-cpesarah.ci
 collegeanador.ci
-collegecefatinter.ci
 collegelaperouse.ci
 collegelespalmes.ci
 collegeprivedoza.ci
@@ -3498,6 +3491,7 @@ comexmap.ci
 comirnatyeducation.ci
 comirnatyhcp.ci
 comit.ci
+comitemiss.ci
 comiteorganisationcan2023.ci
 comiteorganisationcanciv2023.ci
 comme.ci
@@ -3707,6 +3701,7 @@ crossroadsgroup.ci
 croua2.ci
 crouabidjan.ci
 crouabidjan1.ci
+croubondoukou.ci
 croubouake.ci
 croudaloa.ci
 croudeman.ci
@@ -4030,6 +4025,7 @@ digitalmath.ci
 digitalplus.ci
 digitalpro.ci
 digitalsante.ci
+digitalschool.ci
 digitalspace.ci
 digitalstore.ci
 digitalubuntu.ci
@@ -4106,7 +4102,6 @@ djekehavredepaix.ci
 djeks.ci
 djela.ci
 djembey.ci
-djibieco.ci
 djibo.ci
 djilx.ci
 djokstore.ci
@@ -4837,6 +4832,7 @@ epermis.ci
 ephraboisso.ci
 epi.ci
 epici.ci
+epin.ci
 episcrm.ci
 epistrophe.ci
 epitech.ci
@@ -5023,7 +5019,6 @@ everest.ci
 eviden.ci
 evidian.ci
 evisa.ci
-evolaille.ci
 evology.ci
 evolunet.ci
 evolution.ci
@@ -5698,6 +5693,7 @@ ghandour.ci
 ghost.ci
 giapie.ci
 gibtp.ci
+gic.ci
 gicop.ci
 gie.ci
 gifi.ci
@@ -5799,6 +5795,7 @@ unikorea.go.ci
 go-cascades.ci
 gochap.ci
 goci.ci
+gociken.ci
 gociv.ci
 godaddy.ci
 godeinter.ci
@@ -6454,7 +6451,6 @@ in-speedmarket.ci
 inad.ci
 inadesfo.ci
 inam.ci
-inasseq.ci
 inautech.ci
 inbox.ci
 incoges.ci
@@ -7323,6 +7319,7 @@ kymoo.ci
 kymservices.ci
 kyndryl.ci
 kysi.ci
+kz.ci
 l-m.ci
 la.ci
 la-2ieme-maison.ci
@@ -7517,7 +7514,6 @@ leec.ci
 leeh.ci
 lef.ci
 leflair.ci
-lefourno-by.ci
 legafrik.ci
 legaledgeconsulting.ci
 legalize.ci
@@ -7628,7 +7624,6 @@ lessoft.ci
 lessublimes.ci
 lestadedabidjan.ci
 lestournesols.ci
-lesursaut.ci
 lesvoyageurs.ci
 lesyndicat.ci
 letheoricien.ci
@@ -9002,6 +8997,7 @@ nts.ci
 ntservices.ci
 ntsgroup.ci
 ntv.ci
+nul.ci
 num.ci
 numerics.ci
 numeriquarts.ci
@@ -9094,6 +9090,7 @@ odora.ci
 odrive.ci
 odylight.ci
 oe.ci
+oec.ci
 oeeci.ci
 oel.ci
 oesg.ci
@@ -9127,6 +9124,7 @@ ois.ci
 oissu.ci
 oj.ci
 ojei.ci
+ojusteprix.ci
 ok.ci
 okaidi.ci
 okam.ci
@@ -9995,6 +9993,7 @@ prudential.ci
 prudentialbelife.ci
 psa.ci
 psd-bonon.ci
+psd-daloa.ci
 psdat.ci
 psdi.ci
 psf.ci
@@ -10283,6 +10282,7 @@ restaurantbanian.ci
 restauration.ci
 restautresor.ci
 resto.ci
+results.ci
 retre.ci
 rets.ci
 rev.ci
@@ -11235,6 +11235,7 @@ softsys.ci
 softsystem.ci
 software.ci
 software-world.ci
+softwin.ci
 sogb.ci
 sogeca.ci
 sogecar.ci
@@ -11499,7 +11500,6 @@ strong.ci
 stt.ci
 studio-s.ci
 studio1.ci
-studio6.ci
 studyworld.ci
 stylebygdo.ci
 su.ci
@@ -11637,7 +11637,6 @@ tao.ci
 taorn.ci
 tappi.ci
 target.ci
-target-gg-partners.ci
 targetgroup.ci
 tarmak.ci
 taskforcesectorielle.ci
@@ -12008,6 +12007,7 @@ turione.ci
 tutorials.ci
 tuu.ci
 tv.ci
+tvlocale.ci
 tw.ci
 twiga.ci
 twin.ci
@@ -12345,7 +12345,6 @@ voyagez.ci
 voza.ci
 vozol.ci
 vpscoteivoire.ci
-vridiako.ci
 vroom.ci
 vscloths.ci
 vsevmeste.ci
@@ -12537,7 +12536,6 @@ wskf.ci
 wt.ci
 wte.ci
 wu.ci
-wuri.ci
 wurth.ci
 ww.ci
 wwa.ci
