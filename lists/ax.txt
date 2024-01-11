@@ -17,6 +17,7 @@
 1040t.ax
 10mm.ax
 112.ax
+12.ax
 123.ax
 123domain.ax
 1337.ax
@@ -44,7 +45,6 @@
 2h.ax
 2m.ax
 2ndtrip.ax
-2x.ax
 301.ax
 32.ax
 33.ax
@@ -1005,7 +1005,6 @@ disponenthuset.ax
 dj.ax
 djm.ax
 djupsund.ax
-djur.ax
 djurlyckan.ax
 djurskydd.ax
 djurvik.ax
@@ -4186,6 +4185,7 @@ xxx.ax
 xy.ax
 xylo.ax
 xyz.ax
+xz.ax
 ya.ax
 yachtservice.ax
 yahoo.ax
