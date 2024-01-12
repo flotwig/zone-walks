@@ -279,7 +279,6 @@ atlantic-agency.mc
 atlantis.mc
 atlantys.mc
 atlasarttalent.mc
-atrium-paysage-monaco.mc
 ats.mc
 attolagency.mc
 au-depart.mc
@@ -848,6 +847,7 @@ dce.mc
 dci-monaco-aidimpact.mc
 dcm.mc
 dcs.mc
+dcyd.mc
 ddun.mc
 decathlon.mc
 decobat.mc
@@ -1439,7 +1439,6 @@ hellosarra.mc
 helloservices.mc
 helperiance.mc
 herculefitnessclub.mc
-heritage.mc
 heritage-construction.mc
 heritage-metal.mc
 heritage-properties.mc
