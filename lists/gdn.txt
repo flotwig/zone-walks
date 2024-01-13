@@ -156,11 +156,9 @@
 18279.gdn
 18518.gdn
 18521.gdn
-18732.gdn
 18879.gdn
 18888.gdn
 18965.gdn
-18972.gdn
 19-fs.gdn
 19216811.gdn
 19286.gdn
@@ -204,7 +202,6 @@
 23-gh.gdn
 23-ty.gdn
 23169.gdn
-23516.gdn
 23517.gdn
 23518.gdn
 23579.gdn
@@ -230,7 +227,6 @@
 2577.gdn
 25793.gdn
 25823.gdn
-25897.gdn
 2599.gdn
 26-23.gdn
 26-25.gdn
@@ -349,7 +345,6 @@
 32865.gdn
 32876.gdn
 32915.gdn
-32917.gdn
 33295.gdn
 333.gdn
 333000.gdn
@@ -435,7 +430,6 @@
 36882.gdn
 36888.gdn
 36917.gdn
-36985.gdn
 37192.gdn
 37473.gdn
 37486.gdn
@@ -445,7 +439,6 @@
 377914.gdn
 37852.gdn
 37894.gdn
-37921.gdn
 37941.gdn
 380.gdn
 38176.gdn
@@ -1547,7 +1540,6 @@ alarmclocks.gdn
 alarms.gdn
 alaska.gdn
 alaskacruise.gdn
-alaskausa.gdn
 alavangoos.gdn
 albanian.gdn
 albert.gdn
@@ -2160,6 +2152,7 @@ bard.gdn
 bardmoor.gdn
 barelylegal.gdn
 barfurniture.gdn
+bargain.gdn
 barges.gdn
 bariumcarbonate.gdn
 bariumchlorates.gdn
@@ -2983,7 +2976,6 @@ capoeira.gdn
 capon.gdn
 capp.gdn
 capsule.gdn
-captcha.gdn
 caracashotels.gdn
 caraccessories.gdn
 caraccident.gdn
@@ -3460,6 +3452,7 @@ ck.gdn
 ckwal.gdn
 cl.gdn
 claeys.gdn
+claim.gdn
 clairvoyant.gdn
 clarin.gdn
 clarke.gdn
@@ -3480,6 +3473,7 @@ cleveland.gdn
 cli.gdn
 click.gdn
 click2read.gdn
+clickit.gdn
 client-boursorama.gdn
 clifton.gdn
 clinics.gdn
@@ -7031,7 +7025,6 @@ hotfoodcabinet.gdn
 hotline.gdn
 hotporn.gdn
 hotsauce.gdn
-hotsex.gdn
 hotspringsvillage.gdn
 hotvideochat.gdn
 hotwaterbottles.gdn
@@ -7703,7 +7696,6 @@ koenig.gdn
 koha.gdn
 kohler.gdn
 komornik.gdn
-komto.gdn
 koni.gdn
 korea.gdn
 korean.gdn
@@ -12255,6 +12247,7 @@ uptime.gdn
 urban.gdn
 urbanfurniture.gdn
 urbitbox.gdn
+uri.gdn
 url.gdn
 uruguayan.gdn
 us.gdn
