@@ -67,7 +67,6 @@
 4m.ax
 50.ax
 5138.ax
-53.ax
 54.ax
 55.ax
 58.ax
@@ -647,6 +646,7 @@ blockchain.ax
 blockheads.ax
 blogger.ax
 blogspot.ax
+blombergs.ax
 blomqvist.ax
 blomstringe.ax
 blue.ax
@@ -933,6 +933,7 @@ cybersource.ax
 cyberworks.ax
 cynthia.ax
 cz.ax
+d11.ax
 da.ax
 dahlensstugor.ax
 dahlmans.ax
@@ -1417,6 +1418,7 @@ fslinks.ax
 ft.ax
 ftb.ax
 ftp.ax
+fu.ax
 fujitsu.ax
 fulh.ax
 fundler.ax
@@ -3165,7 +3167,6 @@ rush.ax
 rv.ax
 rw.ax
 rx.ax
-ry.ax
 ryans.ax
 ryssklapp.ax
 rz.ax
@@ -3362,7 +3363,6 @@ smelektro.ax
 smf.ax
 smoothdog.ax
 sms.ax
-smtp.ax
 smygel.ax
 sn.ax
 snackars.ax
@@ -3449,6 +3449,7 @@ sprint.ax
 sq.ax
 sr.ax
 srv.ax
+ssh.ax
 ssl.ax
 st.ax
 st1.ax
@@ -4161,7 +4162,6 @@ xn--utemilj-g1a.ax
 xn--varumrke-4za.ax
 xn--varumrket-z2a.ax
 xn--vder-loa.ax
-xn--vdervnner-v2ae.ax
 xn--viltspr-jxa.ax
 xn--vk-xia.ax
 xn--vxthus-bua.ax
@@ -4236,3 +4236,4 @@ zub.ax
 zx.ax
 zxz.ax
 zy.ax
+zz.ax
