@@ -26,7 +26,6 @@
 13.ci
 1314.ci
 1337.ci
-1359.ci
 1382.ci
 15.ci
 15-38.ci
@@ -412,11 +411,9 @@
 7z.ci
 8-t6.ci
 8-y6.ci
-8314.ci
 84.ci
 85.ci
 85-64.ci
-85uj.ci
 875.ci
 88.ci
 8800.ci
@@ -1889,7 +1886,6 @@ birena.ci
 bis.ci
 bison.ci
 bissia.ci
-bit.ci
 bita.ci
 bitcoin.ci
 bitech.ci
@@ -6431,7 +6427,6 @@ imprimerie-ihs.ci
 imprimerienationale.ci
 imprimerienumerique.ci
 improci.ci
-ims.ci
 ims-sarl.ci
 ims-service.ci
 imssecurite.ci
@@ -6716,7 +6711,6 @@ ive.ci
 ivenco.ci
 ivimarket.ci
 ivmci.ci
-ivocare.ci
 ivoco.ci
 ivoigo.ci
 ivoirbat.ci
@@ -7571,7 +7565,6 @@ leprogres.ci
 leqg.ci
 leregenthotel.ci
 lerelais.ci
-lerevendeur.ci
 lerichelieu.ci
 lerizdesmontagnes.ci
 lerond-point.ci
@@ -8355,7 +8348,6 @@ milano.ci
 milaroses.ci
 milcva.ci
 mildove.ci
-milele.ci
 mili.ci
 milie.ci
 millefirstbtp.ci
@@ -8484,7 +8476,6 @@ moncadeau.ci
 monchantier.ci
 monchemoi.ci
 monchoix.ci
-monclienroi.ci
 monconfort.ci
 monconseillerimmobilier.ci
 monconsultant.ci
@@ -10403,6 +10394,7 @@ rr.ci
 rs.ci
 rsagroup.ci
 rsp.ci
+rsu.ci
 rt.ci
 rti.ci
 rti-digital.ci
@@ -10627,6 +10619,7 @@ scisages.ci
 scisourale.ci
 scm.ci
 scodi.ci
+scoopat.ci
 scoopsbananord.ci
 scoopsecab.ci
 scoopswale.ci
@@ -10763,7 +10756,6 @@ sesameservicesconseils.ci
 setao.ci
 setbc.ci
 setr-sn.ci
-setrex.ci
 seva.ci
 sevci.ci
 sevdietetiqueci.ci
@@ -11529,7 +11521,6 @@ supelite.ci
 super-sport.ci
 supercadeaux.ci
 supercarte.ci
-superforce.ci
 supergooal.ci
 superlife.ci
 superlock.ci
@@ -11723,7 +11714,6 @@ terre-ivoire.ci
 terreivoire.ci
 terres-ivoire.ci
 terrescotedivoire.ci
-terresdivoire.ci
 terresdunord.ci
 terresiliente.ci
 terresoleil.ci
