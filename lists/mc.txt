@@ -54,7 +54,6 @@ acpartners.mc
 acr.mc
 acs-consulting.mc
 acsconsulting.mc
-acta.mc
 action.mc
 actis.mc
 activerest.mc
@@ -707,7 +706,6 @@ cobimmonaco.mc
 codesportmonaco.mc
 codicee.mc
 codima.mc
-codimco.mc
 cofimo.mc
 cogefi.mc
 cogemat.mc
@@ -1995,7 +1993,6 @@ mccr.mc
 mccs.mc
 ns1.mcd.mc
 ns2.mcd.mc
-mcd-monaco.mc
 mcdelivery.mc
 mcestates.mc
 mcfarlane-shipdesign.mc
@@ -2567,6 +2564,7 @@ nonexplo.mc
 nordauto.mc
 normanalex.mc
 norte.mc
+northernaccess.mc
 nortonrosefulbright.mc
 nosem.mc
 notaire.mc
@@ -3604,7 +3602,6 @@ worldforestry.mc
 worldmediatrading.mc
 worldtime.mc
 wppm.mc
-wpsam.mc
 wtc.mc
 wtt.mc
 wurz.mc
@@ -3637,4 +3634,3 @@ zestmonaco.mc
 zilli.mc
 zoia-art.mc
 zolfo.mc
-zzino.mc
