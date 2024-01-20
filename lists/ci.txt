@@ -854,6 +854,7 @@ agristore.ci
 agrivision.ci
 agro.ci
 agro-home.ci
+agro225.ci
 agroci.ci
 agrodeveloppementdurable.ci
 agroexpertise.ci
@@ -1204,7 +1205,6 @@ apromac.ci
 aprosapci.ci
 aprotic.ci
 apsa.ci
-apsdistri-orga.ci
 apsfd.ci
 apsi.ci
 apsonic.ci
@@ -1455,7 +1455,6 @@ aupcn.ci
 auriga.ci
 auromanagement.ci
 aurore.ci
-auroserv.ci
 aus.ci
 aus-g4s.ci
 ausecurity.ci
@@ -1594,7 +1593,6 @@ bacenligne.ci
 baci.ci
 background.ci
 backmarket.ci
-backmedia.ci
 badoo.ci
 baeji.ci
 bafci.ci
@@ -3512,7 +3510,6 @@ comptalia.ci
 compucenter.ci
 computec.ci
 computer.ci
-computervillage.ci
 conceptplusimmo.ci
 concordet.ci
 concours-fonctionpublique.ci
@@ -3903,6 +3900,7 @@ dellemc.ci
 delltech.ci
 delltechnologies.ci
 delltechnology.ci
+deloitte.ci
 dematralexpress.ci
 demenager.ci
 demenageur.ci
@@ -4601,7 +4599,6 @@ egard.ci
 egbosarl.ci
 egci.ci
 egeb.ci
-egeci.ci
 eges-groupe.ci
 egetech.ci
 egfop.ci
@@ -4633,6 +4630,7 @@ eia.ci
 eibma.ci
 eicgim.ci
 eici.ci
+eics.ci
 eida.ci
 eidb.ci
 eie.ci
@@ -5168,6 +5166,7 @@ felix.ci
 femboy.ci
 feminineafrica.ci
 femmedaujourdhui.ci
+femmesactives.ci
 femmesentrepreneures.ci
 femmespour-agc.ci
 femmesprecieuses.ci
@@ -7190,7 +7189,6 @@ kiragroup.ci
 kiramotors.ci
 kirene.ci
 kissimallah.ci
-kistech.ci
 kitchen.ci
 kitchenpro.ci
 kitea.ci
@@ -7433,6 +7431,7 @@ latsecurite.ci
 latulipefood.ci
 latulipetransit.ci
 launch.ci
+laura.ci
 laurastar.ci
 lauri.ci
 lautrerive.ci
@@ -9625,6 +9624,7 @@ permis2conduire-mysonec.ci
 permisdeconduire.ci
 permutation.ci
 pes.ci
+pesina.ci
 petci.ci
 petersen.ci
 petit-costumier.ci
@@ -10610,6 +10610,7 @@ schoolap.ci
 schoolexpert.ci
 sci.ci
 sci-ekobak.ci
+sci-lumiere.ci
 sci-mafah.ci
 sci-noksa.ci
 sci-paul.ci
@@ -10663,7 +10664,6 @@ secopower.ci
 secretel.ci
 secretlora.ci
 sectronic.ci
-secuprime.ci
 securas.ci
 securdoc.ci
 secureit.ci
@@ -11788,7 +11788,6 @@ thomas.ci
 threads.ci
 thsp.ci
 thursdaydigital.ci
-thysner.ci
 ti.ci
 ti2e.ci
 tiacom.ci
@@ -11993,6 +11992,7 @@ tsb.ci
 tskstudios.ci
 tsr.ci
 tt.ci
+ttklassik.ci
 tts.ci
 tuatoo.ci
 tuc.ci
