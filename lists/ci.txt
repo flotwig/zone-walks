@@ -370,7 +370,6 @@
 7-j9.ci
 7-k8.ci
 70.ci
-71.ci
 72.ci
 7253.ci
 73.ci
@@ -511,7 +510,6 @@ a2s-plus.ci
 a2ztransit.ci
 a3.ci
 a6a.ci
-a8.ci
 a9.ci
 aa.ci
 aac.ci
@@ -587,6 +585,7 @@ academia.ci
 academie.ci
 academie-elites.ci
 academieduservice.ci
+academiedycoco.ci
 acas.ci
 acateru.ci
 acb.ci
@@ -1035,7 +1034,6 @@ allopressing.ci
 alloservice.ci
 allsix.ci
 alltec.ci
-alltradecenter.ci
 alm-ao.ci
 alma.ci
 almamou-services.ci
@@ -1378,7 +1376,6 @@ aswanaccessories.ci
 async.ci
 at.ci
 at225.ci
-ata.ci
 atafai-info.ci
 atamabou.ci
 atasolution.ci
@@ -2551,7 +2548,6 @@ chl.ci
 chn.ci
 choco.ci
 chocolat.ci
-chocolatboutique.ci
 chocolatdedaloa.ci
 chocolate-academy.ci
 chocolateacademy.ci
@@ -4776,6 +4772,7 @@ enap49.ci
 enaudit.ci
 encotedivoire.ci
 enerci.ci
+energeoo.ci
 energizer.ci
 energy-pool.ci
 energyxipi.ci
@@ -4903,7 +4900,6 @@ espacearena.ci
 espaceledofan.ci
 espacessaada.ci
 espagri.ci
-espana-naturesantet.ci
 esperancebatiplus.ci
 esperancetvemu.ci
 espiscines.ci
@@ -4978,7 +4974,6 @@ etudemahoua.ci
 etudemesidibetkramo.ci
 etudes.ci
 etudescanada.ci
-etudiant.ci
 etudierenfrance.ci
 etudions.ci
 eu.ci
@@ -5001,6 +4996,7 @@ ev.ci
 evadict.ci
 eval.ci
 evaluation-manager-cie.ci
+evannath.ci
 evansgroup.ci
 evasion.ci
 evasion-vtt.ci
@@ -5308,7 +5304,6 @@ fjn.ci
 fk.ci
 fkma.ci
 fkobon.ci
-fkt.ci
 flash.ci
 flashauto.ci
 flashintervention.ci
@@ -5710,6 +5705,7 @@ ginou.ci
 gip.ci
 gipf.ci
 gipse.ci
+girisim.ci
 girly.ci
 gis.ci
 gisada.ci
@@ -5760,6 +5756,7 @@ globuxtechnology.ci
 glodie.ci
 gloire.ci
 gloris-conseil.ci
+glory.ci
 gloryapp.ci
 glovo.ci
 glovoapp.ci
@@ -5970,7 +5967,6 @@ gstockkimi.ci
 gt.ci
 gtbank.ci
 gtci.ci
-gtec.ci
 gtech.ci
 gtl.ci
 gtmobile.ci
@@ -9323,6 +9319,7 @@ orangeworld.ci
 orao.ci
 orbion.ci
 orca.ci
+ordesign.ci
 ordinateur225.ci
 orditic.ci
 ordredesavocats.ci
@@ -11002,7 +10999,6 @@ sirec.ci
 sirenesdassinie.ci
 siriointer.ci
 sirius.ci
-siriusfinances.ci
 siriustechnologies.ci
 sis.ci
 sis-ci.ci
@@ -11765,7 +11761,6 @@ thanici.ci
 thankyou.ci
 thatrans.ci
 the.ci
-the100.ci
 theagencygroup.ci
 thebeautybar.ci
 thefutureisnow.ci
@@ -12183,8 +12178,6 @@ v1.ci
 v4.ci
 v5.ci
 v6.ci
-v7.ci
-v8.ci
 v9.ci
 va.ci
 vaccentre.ci
