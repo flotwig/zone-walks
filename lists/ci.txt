@@ -146,7 +146,6 @@
 2bintec.ci
 2c.ci
 2d.ci
-2e.ci
 2f.ci
 2fatm.ci
 2fsolutions.ci
@@ -194,11 +193,9 @@
 31.ci
 32.ci
 321.ci
-32v.ci
 33.ci
 333.ci
 34.ci
-34n.ci
 35.ci
 36.ci
 36-48.ci
@@ -236,6 +233,7 @@
 3m.ci
 3n.ci
 3p.ci
+3p-industries.ci
 3pz.ci
 3r.ci
 3rtech.ci
@@ -392,7 +390,6 @@
 7j.ci
 7k.ci
 7m.ci
-7n.ci
 7o.ci
 7p.ci
 7r.ci
@@ -437,7 +434,6 @@
 8b.ci
 8e.ci
 8etan.ci
-8f.ci
 8h.ci
 8huw.ci
 8i.ci
@@ -519,6 +515,7 @@ aastudios.ci
 aatg.ci
 aavie.ci
 ab.ci
+ababi.ci
 abawa.ci
 abb.ci
 abc.ci
@@ -1796,6 +1793,7 @@ betterconsulting.ci
 betting.ci
 betwinner.ci
 betwinner-apk.ci
+betwinners.ci
 beugremambe.ci
 bewin.ci
 bexley.ci
@@ -2759,6 +2757,7 @@ cloudstudio.ci
 cloudtelecom.ci
 cls.ci
 club.ci
+clubcourtiers.ci
 clubdhommes.ci
 clubdsi.ci
 clubmed.ci
@@ -3899,8 +3898,6 @@ delltechnologies.ci
 delltechnology.ci
 deloitte.ci
 dematralexpress.ci
-demenager.ci
-demenageur.ci
 demir.ci
 demissa.ci
 demivoire.ci
@@ -4178,6 +4175,7 @@ dominiquefolloroux.ci
 dominiquefollorouxouattara.ci
 dominiquenouvian.ci
 dominiqueouattara.ci
+domoso.ci
 domotech.ci
 domotis.ci
 dompetroff.ci
@@ -5349,7 +5347,6 @@ foat.ci
 fobara.ci
 focusclient.ci
 focusinfo.ci
-focusinfos.ci
 fodi.ci
 foerch.ci
 fofanamahoua-notaire.ci
@@ -7049,6 +7046,8 @@ kaiser.ci
 kaiten.ci
 kaizen.ci
 kajgroup.ci
+kakile.ci
+kakilesolutions.ci
 kalabousarl.ci
 kalay.ci
 kalenji.ci
@@ -7309,7 +7308,6 @@ kyac.ci
 kybtp.ci
 kylekrej.ci
 kymoo.ci
-kymservices.ci
 kyndryl.ci
 kysi.ci
 kz.ci
@@ -7716,7 +7714,6 @@ livescorepro.ci
 livewithconfidence.ci
 livingtomorrowintoday.ci
 livreur.ci
-livronschezvous.ci
 ljastore.ci
 lka-app.ci
 lkelectronics.ci
@@ -8519,7 +8516,6 @@ monimmobilier.ci
 monin.ci
 moninfas.ci
 monlavage.ci
-monlivreur.ci
 monmaquis.ci
 monmarket.ci
 monogaga.ci
@@ -8707,7 +8703,6 @@ mysi.ci
 mysteriousmarketing.ci
 myt.ci
 myvisa.ci
-mywebsolution.ci
 myyara.ci
 mz.ci
 mzstudio.ci
@@ -9203,6 +9198,7 @@ onimprim.ci
 oniris.ci
 onitsukatiger.ci
 onlinecasino.ci
+onlineshop.ci
 onlinestore.ci
 onlouetout.ci
 onloutou.ci
@@ -9519,6 +9515,7 @@ parifoot.ci
 parifoot-apk.ci
 parigames.ci
 parimobile.ci
+parissportif.ci
 parkcenter.ci
 parkinou.ci
 paroisse.ci
@@ -9737,6 +9734,7 @@ plana.ci
 planafilms.ci
 planaprod.ci
 planeteauto.ci
+planetecommunication.ci
 planetemag.ci
 planetetelecom.ci
 planethoster.ci
@@ -11503,6 +11501,7 @@ sublimecotedivoire.ci
 sublimesdutourisme.ci
 suc.ci
 sucaf.ci
+succes.ci
 successco.ci
 succesvoyage.ci
 sucden.ci
@@ -11867,8 +11866,6 @@ tontine.ci
 tool.ci
 tooro.ci
 top.ci
-topannonce.ci
-topannonces.ci
 topbureau.ci
 topchrono.ci
 topcontact.ci
@@ -12457,9 +12454,6 @@ wilaservices.ci
 wilfriedn.ci
 will.ci
 williamhill.ci
-willistowerswatson.ci
-willyaccessoire.ci
-willyaccessoires.ci
 win.ci
 win-part.ci
 wincom.ci
