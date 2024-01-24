@@ -228,7 +228,6 @@
 3h.ci
 3i.ci
 3j.ci
-3k.ci
 3kzal.ci
 3m.ci
 3n.ci
@@ -346,10 +345,8 @@
 6dfh.ci
 6f.ci
 6g.ci
-6j.ci
 6k.ci
 6m.ci
-6n.ci
 6net.ci
 6p.ci
 6r.ci
@@ -583,6 +580,7 @@ academie-elites.ci
 academieduservice.ci
 academiedycoco.ci
 acas.ci
+acasfoot.ci
 acateru.ci
 acb.ci
 acbusiness.ci
@@ -774,6 +772,7 @@ afrimarket.ci
 afrimedis.ci
 afriqiyah.ci
 afriqsolus.ci
+afriqtp.ci
 afrique-emergence.ci
 afrique-sur7.ci
 afriqueboutique.ci
@@ -1428,6 +1427,7 @@ attijariwafa.ci
 attijariwestafrica.ci
 attinguie.ci
 attote.ci
+attyto-immobilier.ci
 atys.ci
 au.ci
 auchan.ci
@@ -1579,6 +1579,7 @@ babiverse.ci
 babiwin.ci
 babsbat.ci
 babyliss.ci
+babytuning.ci
 bac.ci
 bacademy.ci
 bacenligne.ci
@@ -1763,6 +1764,7 @@ bestbets.ci
 bestbread.ci
 bestbuildingservice.ci
 bestbuy.ci
+bestcom.ci
 bestcompetence.ci
 bestinfo.ci
 bet.ci
@@ -1823,7 +1825,6 @@ bids.ci
 bidvest.ci
 bidy.ci
 bien.ci
-bigbazar.ci
 bighyperecords.ci
 bigkourou.ci
 bigmat.ci
@@ -1991,7 +1992,6 @@ bonni.ci
 bonplans.ci
 bonprix.ci
 bonsejour.ci
-bonticket.ci
 bonus.ci
 bonuscode.ci
 bonzogroup.ci
@@ -2111,6 +2111,7 @@ buc.ci
 budget.ci
 budgetis.ci
 build.ci
+builden.ci
 builden-sarl.ci
 bulbe.ci
 bull.ci
@@ -2129,7 +2130,6 @@ businessplan.ci
 butaneo.ci
 buy.ci
 bv.ci
-bvet.ci
 bw.ci
 bwin.ci
 bwlimit.ci
@@ -2503,6 +2503,7 @@ chantier.ci
 chap-chap.ci
 chapachat.ci
 chapchapmarket.ci
+chapservice.ci
 charge.ci
 chari.ci
 charts.ci
@@ -2642,7 +2643,6 @@ cinema.ci
 cinema225.ci
 cinergies.ci
 cinetcore.ci
-cinetechfestival.ci
 cinetpay.ci
 cinews.ci
 cinfci.ci
@@ -2697,7 +2697,6 @@ civix.ci
 ck-energy.ci
 ckale.ci
 ckavocat.ci
-ckdconsulting.ci
 ckgholding.ci
 ckivoufo.ci
 ckrgroup.ci
@@ -3534,7 +3533,6 @@ conseilcotonanacarde.ci
 conseildespsychologues.ci
 conseilheveapalmier.ci
 conseiljuridique.ci
-conseilregionalbafing.ci
 conseilregionalsanpedro.ci
 conseilregionaltonkpi.ci
 conseilrse.ci
@@ -4005,7 +4003,6 @@ digital-mag.ci
 digitalcore.ci
 digitale.ci
 digitaleagence.ci
-digitalheroes.ci
 digitalhouses.ci
 digitalize.ci
 digitalkstudio.ci
@@ -4132,6 +4129,7 @@ dnacenter.ci
 dnacenterci.ci
 dncprestationsservices.ci
 dns.ci
+dntv.ci
 do.ci
 doc.ci
 doci.ci
@@ -6530,7 +6528,6 @@ ins3.ci
 inscp.ci
 inscription-mffe.ci
 inscriptions-una.ci
-inshop.ci
 insight.ci
 insp.ci
 inspire.ci
@@ -6963,7 +6960,6 @@ josephnorman.ci
 jovi.ci
 joyexpertise.ci
 joyful.ci
-jpwatch.ci
 jr-multiservices.ci
 jretrouve.ci
 js.ci
@@ -7024,6 +7020,7 @@ kaba-freresgroup.ci
 kabowdtransport.ci
 kac-sarl.ci
 kaconseils.ci
+kacosmetic.ci
 kacsarl.ci
 kadima.ci
 kadmex.ci
@@ -7385,7 +7382,6 @@ lame-academie.ci
 lamerepoulard.ci
 lamerepoulard-lemontsaintmichel.ci
 lamielleuse.ci
-lamodebyada.ci
 lanada.ci
 lanawa.ci
 landrover.ci
@@ -7416,6 +7412,7 @@ lasertelecom.ci
 lasfab.ci
 lasvegas.ci
 latoutcoeur.ci
+latribu.ci
 latribuneagricole.ci
 latrilleevents.ci
 latsecurite.ci
@@ -7613,6 +7610,7 @@ lesrecettesdemisslopy.ci
 lesresidencesangoa.ci
 lesresidenceswilhelm.ci
 lesrosees.ci
+lessirenesdassinie.ci
 lessoft.ci
 lessublimes.ci
 lestadedabidjan.ci
@@ -8323,7 +8321,6 @@ mhealth.ci
 mi.ci
 miaci.ci
 miage-ufhb.ci
-mib.ci
 mibem.ci
 mibi.ci
 michaud.ci
@@ -8342,6 +8339,7 @@ mieuxseloger.ci
 miftah.ci
 migv.ci
 mike.ci
+mikea.ci
 mikmarine.ci
 mikrotik.ci
 mil.ci
@@ -8703,6 +8701,7 @@ mysi.ci
 mysteriousmarketing.ci
 myt.ci
 myvisa.ci
+mywin.ci
 myyara.ci
 mz.ci
 mzstudio.ci
@@ -10229,6 +10228,7 @@ rental-car.ci
 rental-cars.ci
 rentalcar.ci
 rentalcars.ci
+rentalplus.ci
 rentals.ci
 repae.ci
 repare-moi.ci
@@ -12167,9 +12167,7 @@ utms.ci
 uu.ci
 uvci.ci
 ux.ci
-v1.ci
 v4.ci
-v6.ci
 v9.ci
 va.ci
 vaccentre.ci
@@ -12454,6 +12452,7 @@ wilaservices.ci
 wilfriedn.ci
 will.ci
 williamhill.ci
+willistowerswatson.ci
 win.ci
 win-part.ci
 wincom.ci
@@ -12720,6 +12719,7 @@ zenacosmetique.ci
 zenithfm.ci
 zenithradio.ci
 zentiva.ci
+zerodegree.ci
 zerolayer.ci
 zeta.ci
 zetech.ci
