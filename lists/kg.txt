@@ -1182,6 +1182,7 @@ askabail.kg
 askahotel.kg
 askakurulush.kg
 asker.kg
+askjournal.kg
 askoinvest.kg
 askona.kg
 asktravel.kg
@@ -1336,7 +1337,6 @@ autogasmaster.kg
 autogasprofi.kg
 autohub.kg
 autoinstall.kg
-autokey.kg
 autolab.kg
 autoland.kg
 autoline.kg
@@ -1683,6 +1683,7 @@ baystore.kg
 baytalaa.kg
 baytashgroup.kg
 baytik.kg
+baytiklux.kg
 baytiktower.kg
 baytur.kg
 baytur-build.kg
@@ -1877,7 +1878,6 @@ bi-logistik.kg
 bia.kg
 bianhim.kg
 biast.kg
-biat.kg
 bibip.kg
 bible.kg
 biblioteka.kg
@@ -2040,7 +2040,6 @@ bizdin.kg
 bizexpert.kg
 bizlaw.kg
 bizmaster.kg
-biznes.kg
 bizon.kg
 bizon-beer.kg
 bizon-energy.kg
@@ -2726,7 +2725,6 @@ commoncause.kg
 commongrounds.kg
 comp.kg
 companion.kg
-company.kg
 companyregister.kg
 compas.kg
 compass.kg
@@ -3132,6 +3130,7 @@ diamondglass.kg
 diamondtech.kg
 diaspora.kg
 diaverum.kg
+didactica.kg
 diem.kg
 diesel.kg
 dieta.kg
@@ -3335,6 +3334,7 @@ dtag.kg
 dtca.kg
 dtce.kg
 dtech.kg
+dton.kg
 dubai.kg
 ducati.kg
 dukon.kg
@@ -3778,7 +3778,6 @@ erkin-too.kg
 erkindiklab.kg
 erkintoo.kg
 ermannoscervino.kg
-ermex.kg
 eros.kg
 eroshop.kg
 eroticshop.kg
@@ -3885,6 +3884,7 @@ europaplus.kg
 europarket.kg
 europcar.kg
 european.kg
+europevisa.kg
 europlast.kg
 europroject.kg
 eurosert.kg
@@ -4079,12 +4079,12 @@ fcmu.kg
 fcmuras.kg
 fd.kg
 fdoc.kg
+fdu.kg
 fe.kg
 febgroup.kg
 federal.kg
 federalexpress.kg
 fedex.kg
-feilong.kg
 felberg.kg
 fen.kg
 fenix.kg
@@ -4299,6 +4299,7 @@ fortestroy.kg
 fortuna.kg
 fortuna-stream.kg
 forum.kg
+forumofwomenngos.kg
 forvis-mazars.kg
 forvismazars.kg
 forwater.kg
@@ -5271,7 +5272,6 @@ iman-plaza.kg
 imaqliq.kg
 imaratprogress.kg
 imaratresort.kg
-imaratstroy.kg
 imash.kg
 imaster.kg
 imb.kg
@@ -5557,7 +5557,6 @@ iskenderov.kg
 iskushenie.kg
 islamdini.kg
 islamico.kg
-islamicostore.kg
 islamjolu.kg
 ismaev.kg
 isman.kg
@@ -5708,6 +5707,7 @@ jamt.kg
 jan.kg
 janapost.kg
 janaryk.kg
+janat.kg
 janeiredale.kg
 jannat.kg
 janssencosmetics.kg
@@ -5795,7 +5795,6 @@ jorgo.kg
 josephsmith.kg
 jotun.kg
 journalist.kg
-jovi.kg
 joybuy.kg
 joycasino.kg
 joyfulstore.kg
@@ -6488,7 +6487,6 @@ kyrgyzaziagroup.kg
 kyrgyzbeton.kg
 kyrgyzbuild.kg
 kyrgyzcons.kg
-kyrgyzdental.kg
 kyrgyzdev.kg
 kyrgyzenergy.kg
 kyrgyzfilm.kg
@@ -6592,10 +6590,8 @@ laurastar.kg
 lavbeadedart.kg
 laverond.kg
 law.kg
-law-firm.kg
 lawandjustice.kg
 lawbusiness.kg
-lawfirm.kg
 lawyer.kg
 lawyers.kg
 lawyersforhr.kg
@@ -6916,6 +6912,7 @@ luxline.kg
 luxnailsshop.kg
 luxplast.kg
 luxson.kg
+luxstone.kg
 luxstroydom.kg
 lvg.kg
 lvl.kg
@@ -7497,6 +7494,7 @@ mirka.kg
 mirkartin.kg
 mirkey.kg
 mirkonditera.kg
+mirmasterov.kg
 mirpack.kg
 mirpamyatnikov.kg
 mirparketa.kg
@@ -8358,7 +8356,6 @@ ooba.kg
 oobamarket.kg
 ookat.kg
 oomat.kg
-ooo.kg
 op.kg
 opa.kg
 opalubka.kg
@@ -8523,7 +8520,6 @@ otis.kg
 otkryt-firmu.kg
 otkryt-osoo.kg
 otkrytfirmu.kg
-otkrytip.kg
 otkrytosoo.kg
 otoplenie.kg
 otp.kg
@@ -9040,6 +9036,7 @@ primeservice.kg
 primetime.kg
 primevideo.kg
 print.kg
+printconsultingkg.kg
 printdirect.kg
 printer.kg
 printeroptom.kg
@@ -9379,7 +9376,6 @@ register.kg
 registerbuild.kg
 registprofi.kg
 registr.kg
-registration.kg
 registratsia.kg
 registratsiya.kg
 reglek.kg
@@ -10442,7 +10438,6 @@ stars.kg
 starshina.kg
 start.kg
 start-company.kg
-startbusiness.kg
 startrade.kg
 startup.kg
 startupnation.kg
@@ -10519,7 +10514,6 @@ stroy.kg
 stroy-grand.kg
 stroy-service.kg
 stroybaza.kg
-stroycentr.kg
 stroydom.kg
 stroydvor.kg
 stroyexpert.kg
@@ -10543,6 +10537,7 @@ studynow.kg
 studyusa.kg
 stus.kg
 stuz.kg
+stvs.kg
 style.kg
 su.kg
 su4.kg
@@ -10594,6 +10589,7 @@ sunush.kg
 supara.kg
 super.kg
 super-pizza.kg
+super784.kg
 superdry.kg
 superexpress.kg
 superjob.kg
@@ -10987,6 +10983,7 @@ tez-kabar.kg
 tezakcha.kg
 tezal.kg
 tezbilet.kg
+tezcom.kg
 tezfin.kg
 tezfinance.kg
 tezgruz.kg
@@ -11151,7 +11148,6 @@ too-ashuu.kg
 tooashkan.kg
 toome.kg
 toomoyun.kg
-toot.kg
 tootash.kg
 top.kg
 top-persona.kg
@@ -11542,7 +11538,6 @@ unipay.kg
 uniplast.kg
 uniplast-ltd.kg
 unique.kg
-uniqueasia.kg
 uniquepro.kg
 unis.kg
 uniservice.kg
@@ -11648,6 +11643,7 @@ valtecin.kg
 valuta.kg
 vandertextile.kg
 vanessa.kg
+vanguard.kg
 vanillacoffee.kg
 vanmarket.kg
 vap.kg
@@ -11672,7 +11668,6 @@ vbet.kg
 vbizsoft.kg
 vc.kg
 vcagrofinance.kg
-vconsult.kg
 vcv.kg
 vdi.kg
 vds.kg
@@ -11799,6 +11794,7 @@ visa.kg
 visacenter.kg
 visametric.kg
 vision.kg
+visiongroup.kg
 visit.kg
 visitkyrgyzstan.kg
 vistrel.kg
