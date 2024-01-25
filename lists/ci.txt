@@ -10,7 +10,6 @@
 1-e9.ci
 1-win.ci
 1-win-bet.ci
-1000saveurs.ci
 101.ci
 101domain.ci
 101domains.ci
@@ -822,7 +821,6 @@ ageroute-ccph.ci
 ageroutemarche.ci
 agi.ci
 agi-sa.ci
-agi-sarl.ci
 agility.ci
 agilly.ci
 agimas.ci
@@ -977,6 +975,7 @@ alearning.ci
 aleph.ci
 alertefoncier.ci
 alerteservitude.ci
+ales-solutions.ci
 alex.ci
 alfa-laval.ci
 alfadil.ci
@@ -1038,7 +1037,6 @@ alpha-sanogo.ci
 alpha-technologie.ci
 alphabet.ci
 alphablondyfm.ci
-alphadigital.ci
 alphagroup.ci
 als.ci
 alshana.ci
@@ -1163,6 +1161,8 @@ apatam.ci
 apave.ci
 apc.ci
 apcci.ci
+ape.ci
+ape-lbp.ci
 apeme.ci
 apex.ci
 apexmarket.ci
@@ -1522,6 +1522,7 @@ axcenttechnology.ci
 axeberg.ci
 axedigital.ci
 axelbrandactivation.ci
+axelysconsulting.ci
 axesmarketing.ci
 axialcorporate.ci
 aximocapital.ci
@@ -2336,6 +2337,7 @@ catenac.ci
 catep.ci
 catho.ci
 catholique.ci
+cati-eg.ci
 causex.ci
 cavally.ci
 cave-express.ci
@@ -2467,7 +2469,6 @@ cg2f.ci
 cga.ci
 cga-agy.ci
 cga-gracedivine.ci
-cgcf.ci
 cgdby.ci
 cge.ci
 cge-bile.ci
@@ -3741,7 +3742,6 @@ cufop.ci
 cuirasse.ci
 cuisine-plus.ci
 culligan.ci
-cultura.ci
 culture.ci
 cumlaudelab.ci
 customers.ci
@@ -3936,7 +3936,6 @@ devolution.ci
 devops.ci
 devstudios.ci
 devtechs.ci
-devweb.ci
 dewehi.ci
 dexter.ci
 dey.ci
@@ -4114,6 +4113,7 @@ dl.ci
 dled.ci
 dlh.ci
 dmacademy.ci
+dmagroup.ci
 dmc.ci
 dmdigital.ci
 dmg.ci
@@ -5220,7 +5220,6 @@ fides.ci
 fidest.ci
 fido.ci
 fidra.ci
-fie.ci
 fielpi-group.ci
 fielpiv.ci
 fieni.ci
@@ -5932,6 +5931,7 @@ grundig.ci
 gryphon-energydrink.ci
 gs.ci
 gs-arthurverdier.ci
+gs-divinegrace.ci
 gs2e.ci
 gsal.ci
 gsasj.ci
@@ -5956,7 +5956,6 @@ gsmarierosedelima.ci
 gspm.ci
 gss-ci.ci
 gssaintpeddlesarchanges.ci
-gstock.ci
 gstockkimi.ci
 gt.ci
 gtbank.ci
@@ -6036,6 +6035,7 @@ hao123.ci
 happy.ci
 happyhouse.ci
 happykidz.ci
+happyrun.ci
 happyteam.ci
 harbourabidjan.ci
 hautdebit.ci
@@ -6528,6 +6528,7 @@ ins3.ci
 inscp.ci
 inscription-mffe.ci
 inscriptions-una.ci
+inshop.ci
 insight.ci
 insp.ci
 inspire.ci
@@ -6639,6 +6640,7 @@ iscc.ci
 iservices.ci
 isfcg-elearning.ci
 ishango.ci
+isi.ci
 isitek.ci
 iskamtravaux.ci
 isna.ci
@@ -7306,6 +7308,7 @@ kybtp.ci
 kylekrej.ci
 kymoo.ci
 kyndryl.ci
+kypeintranet.ci
 kysi.ci
 kz.ci
 l-m.ci
@@ -8143,7 +8146,6 @@ mbcibanque.ci
 mbee-shopping.ci
 mbg.ci
 mblm.ci
-mbss.ci
 mbway-afrique.ci
 mc.ci
 mc2i.ci
@@ -9454,7 +9456,6 @@ padelclub.ci
 padelzone.ci
 padfa.ci
 padleclub.ci
-pagdrh.ci
 pagdrh-csp.ci
 pagds.ci
 pagesjaunes.ci
@@ -9739,7 +9740,6 @@ planetetelecom.ci
 planethoster.ci
 planetsante.ci
 plantation.ci
-plaquivoire.ci
 plastock.ci
 plateau-cotedivoire.ci
 plateforme.ci
@@ -9896,6 +9896,7 @@ prince.ci
 pringles.ci
 print.ci
 print-it.ci
+printempsmontkorhogo.ci
 printxpress.ci
 prions.ci
 prisis.ci
@@ -10314,6 +10315,7 @@ richbond.ci
 richelieu.ci
 rici.ci
 ricom.ci
+ridissi.ci
 ridwan.ci
 rifayn.ci
 rifemad.ci
@@ -10540,6 +10542,7 @@ saph.ci
 saphir-btp.ci
 saplame.ci
 sapmap.ci
+sapr.ci
 saprim.ci
 sapti.ci
 saqara.ci
@@ -11085,6 +11088,7 @@ smartenergy.ci
 smartgps.ci
 smarthometechnology.ci
 smartic.ci
+smartlife.ci
 smartloan.ci
 smartloggroupe.ci
 smartmarket.ci
@@ -11222,6 +11226,7 @@ softcare.ci
 softcomputer.ci
 softconcept.ci
 softech.ci
+softplus.ci
 softskills.ci
 softsys.ci
 softsystem.ci
@@ -12204,6 +12209,7 @@ veillesanitaire.ci
 velma-sas.ci
 vename.ci
 vendezvotrevoiture.ci
+vendito.ci
 veniseboutique.ci
 venividivi.ci
 venoa.ci
