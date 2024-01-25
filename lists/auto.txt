@@ -162,7 +162,6 @@ erieratelock.auto
 eriesecure.auto
 eriesense.auto
 eve.auto
-exclusieve.auto
 f1.auto
 facebook.auto
 fairfield.auto
@@ -312,6 +311,7 @@ nic.auto
 nio.auto
 nismo.auto
 nissan.auto
+nms.auto
 nomia.auto
 nor.auto
 ny.auto
