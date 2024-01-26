@@ -33,6 +33,7 @@
 1402.kg
 1430.kg
 16.kg
+1688.kg
 18.kg
 1869.kg
 1961.kg
@@ -199,7 +200,6 @@ aaorg.kg
 aap.kg
 aarhus.kg
 ab.kg
-ab-club.kg
 ab-energo.kg
 ab-transfer.kg
 aba.kg
@@ -302,6 +302,7 @@ adel.kg
 aden.kg
 adep.kg
 ades.kg
+adi.kg
 adifinanse.kg
 adilet.kg
 adis.kg
@@ -642,6 +643,7 @@ alexa.kg
 alexcatering.kg
 alfa.kg
 alfa-stroy.kg
+alfa-wpn.kg
 alfabit.kg
 alfaleader.kg
 alfalombard.kg
@@ -724,7 +726,6 @@ almaz-rez.kg
 almazfm.kg
 almeria.kg
 almubin.kg
-almurut.kg
 alna.kg
 aloe.kg
 alp-aruu.kg
@@ -785,6 +786,7 @@ alustar.kg
 alutech.kg
 alutex.kg
 aluu-satuu.kg
+alyara.kg
 alykul.kg
 alym.kg
 alymbaev.kg
@@ -853,6 +855,7 @@ amur.kg
 amvgroup.kg
 amway.kg
 an.kg
+anacosinum.kg
 anakon.kg
 analytical-survey.kg
 anan.kg
@@ -1339,6 +1342,7 @@ autogasmaster.kg
 autogasprofi.kg
 autohub.kg
 autoinstall.kg
+autokey.kg
 autolab.kg
 autoland.kg
 autoline.kg
@@ -1630,6 +1634,7 @@ barca.kg
 barcaacademy.kg
 barcaexperience.kg
 barcelona.kg
+barch.kg
 barclays.kg
 barcode.kg
 barhatnoe.kg
@@ -1758,6 +1763,7 @@ begemot.kg
 beggi.kg
 begimai.kg
 begin.kg
+begler.kg
 beideck.kg
 beigene.kg
 bek.kg
@@ -1870,7 +1876,6 @@ bgdt.kg
 bgi.kg
 bglobal.kg
 bgmpharm.kg
-bgtransports.kg
 bhcglobal.kg
 bhotel.kg
 bht.kg
@@ -2232,7 +2237,6 @@ bsk.kg
 bsk-pro.kg
 bsklad.kg
 bsmart.kg
-bsp.kg
 bstarco.kg
 bstudio.kg
 bsz.kg
@@ -2459,7 +2463,6 @@ ce.kg
 ceb.kg
 cebank.kg
 cebilon.kg
-ceeba.kg
 celestial.kg
 cement.kg
 cemeq.kg
@@ -3200,6 +3203,7 @@ dmax.kg
 dmed.kg
 dmg.kg
 dms.kg
+dmx.kg
 dn.kg
 dnevnik.kg
 dnipro-m.kg
@@ -3479,6 +3483,7 @@ ecpostavki.kg
 ecv.kg
 ed.kg
 eda.kg
+edas.kg
 edc.kg
 edelweiss.kg
 edem.kg
@@ -3525,6 +3530,7 @@ ehealth.kg
 ei.kg
 eib.kg
 eic.kg
+eicpa.kg
 eit.kg
 eiva.kg
 ejoo.kg
@@ -4056,6 +4062,7 @@ fastbuy.kg
 fastcards.kg
 fastcash.kg
 fastcom.kg
+fasten.kg
 fastnet.kg
 fastshipping.kg
 fastum.kg
@@ -5027,6 +5034,7 @@ homebasket.kg
 homebox.kg
 homecinema.kg
 homedorf.kg
+homefilter.kg
 homeland.kg
 homeline.kg
 homelook.kg
@@ -5139,7 +5147,6 @@ i5technology.kg
 i7.kg
 ia.kg
 iadr.kg
-iaeee.kg
 iaido.kg
 iam.kg
 iamveon.kg
@@ -5507,7 +5514,6 @@ ipoteka.kg
 ipotekademir.kg
 ipp.kg
 ippon.kg
-ipr.kg
 iprofi.kg
 ipsilkway.kg
 iptrademark.kg
@@ -5854,7 +5860,6 @@ kadamjay.kg
 kadamkurulush.kg
 kadamtrade.kg
 kadatohum.kg
-kadet.kg
 kadk.kg
 kaea.kg
 kaechele.kg
@@ -5894,7 +5899,6 @@ kamasana.kg
 kamaz.kg
 kambarkan.kg
 kambarova.kg
-kamera.kg
 kamexport.kg
 kami.kg
 kaminvest.kg
@@ -6258,6 +6262,7 @@ kolesa.kg
 kolgotki.kg
 kolibri.kg
 kolin.kg
+kolos.kg
 kolpos.kg
 koltaxi.kg
 kolumb.kg
@@ -6626,6 +6631,7 @@ lebedinovka-sosh3.kg
 led.kg
 led-ekran.kg
 ledger.kg
+lednik.kg
 ledservice.kg
 lee-logistics.kg
 leekunhee.kg
@@ -7721,6 +7727,7 @@ muras-official.kg
 muras-sertificat.kg
 murasdistr.kg
 murasmedia.kg
+murasprom.kg
 murastelecom.kg
 murasunited.kg
 muraveinik.kg
@@ -7892,6 +7899,7 @@ naves.kg
 navi.kg
 navien.kg
 navigator.kg
+navigator-cafe.kg
 navigator-shipping.kg
 navigatorgroup.kg
 nazar.kg
@@ -8814,6 +8822,7 @@ pisa.kg
 pishpek.kg
 pistol.kg
 pit.kg
+piter-ix.kg
 piu.kg
 piumotc.kg
 pixel.kg
@@ -9101,6 +9110,7 @@ profil.kg
 profile-systems.kg
 profipack.kg
 profiplus.kg
+profiteor.kg
 profitflow.kg
 profitouch.kg
 proflog.kg
@@ -9108,6 +9118,7 @@ profmaster.kg
 profshop.kg
 profskills.kg
 profus.kg
+progarage.kg
 programchy.kg
 programmer.kg
 programmist.kg
@@ -9534,9 +9545,7 @@ robooky.kg
 roborock.kg
 roboshop.kg
 robosushi.kg
-robot.kg
 robotix.kg
-robots.kg
 rock.kg
 rocketsmm.kg
 rocktape.kg
@@ -9977,7 +9986,6 @@ sheratonbishkek.kg
 sheratonbishkekpark.kg
 sheratongrandbishkek.kg
 sheriff.kg
-sherikulov.kg
 shesterenka.kg
 shex.kg
 shg1tolstoy.kg
@@ -10220,6 +10228,7 @@ smg.kg
 smi.kg
 smile.kg
 smilik.kg
+smk.kg
 smlcluster.kg
 smltplus.kg
 smm.kg
@@ -10543,6 +10552,7 @@ studio.kg
 studio-love.kg
 studiobeton.kg
 study.kg
+study-on-tokmok.kg
 studyinchina.kg
 studyinczech.kg
 studyinkyrgyzstan.kg
@@ -10900,6 +10910,7 @@ tehnosklad.kg
 tehnoterm.kg
 tehosmotr.kg
 tek.kg
+tekhno-sert.kg
 teknetics.kg
 teknomir.kg
 teksher.kg
@@ -11481,7 +11492,6 @@ uku.kg
 ukuk.kg
 ul-ai-tasty.kg
 ulak.kg
-ulan-cholponbaev.kg
 ulay.kg
 ulitka.kg
 ulsk.kg
@@ -11498,7 +11508,6 @@ umai.kg
 umaigroup.kg
 umc.kg
 umg.kg
-ummadesign.kg
 ummamag.kg
 ummotors.kg
 umnyashka.kg
@@ -11654,6 +11663,7 @@ vak.kg
 valemotors.kg
 valencia.kg
 valfex.kg
+valguspro.kg
 valor-air.kg
 valtec.kg
 valtecin.kg
@@ -11990,6 +12000,7 @@ webtv.kg
 wecan.kg
 wecekc.kg
 wedding.kg
+wedevs.kg
 weeb.kg
 weekend.kg
 weidel.kg
@@ -12303,6 +12314,7 @@ zippo.kg
 zitagita.kg
 zivert.kg
 ziyarat.kg
+zjm.kg
 zkteco.kg
 zlata.kg
 zm.kg
