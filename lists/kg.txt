@@ -763,9 +763,7 @@ altermed.kg
 alto.kg
 altospos.kg
 altria.kg
-altyn.kg
 altyn-azyk.kg
-altynbox.kg
 altynbulak.kg
 altyndoor.kg
 altynken.kg
@@ -1677,7 +1675,6 @@ batugroup.kg
 batyrshop.kg
 bauer.kg
 bauletka.kg
-baum.kg
 baunty.kg
 bavaria.kg
 baxi.kg
@@ -1772,7 +1769,6 @@ beket.kg
 bekmangroup.kg
 bekmoldo.kg
 beko.kg
-bel.kg
 belayareka.kg
 belek.kg
 beles.kg
@@ -2359,6 +2355,7 @@ canon.kg
 canva.kg
 capital.kg
 capital-group.kg
+capital-resource.kg
 capital-safe.kg
 capitalbank.kg
 capitalbroker.kg
@@ -2759,7 +2756,6 @@ consult.kg
 consulting.kg
 contact.kg
 container.kg
-container-house.kg
 container-logistics.kg
 containex.kg
 content.kg
@@ -3860,7 +3856,6 @@ euin.kg
 euphoria.kg
 eur-pallet.kg
 eura.kg
-euragroup.kg
 eurasia.kg
 eurasia-group.kg
 eures.kg
@@ -4293,7 +4288,6 @@ forester.kg
 forestland.kg
 forever-plant.kg
 foreverliving.kg
-forex.kg
 forkliftonline.kg
 formula.kg
 formula55.kg
@@ -4465,7 +4459,6 @@ garryporter.kg
 gas.kg
 gasgas.kg
 gasitaly.kg
-gastronom.kg
 gateway.kg
 gaz.kg
 gaz-bus.kg
@@ -4923,7 +4916,6 @@ helitour.kg
 hella.kg
 hello.kg
 hellobeauty.kg
-helloit.kg
 hellopanda.kg
 hellotomorrow.kg
 help.kg
@@ -4972,7 +4964,6 @@ hikvision.kg
 hilal.kg
 hilbertteam.kg
 hills-security.kg
-hillside.kg
 hilti.kg
 hilton.kg
 hilton-hotels.kg
@@ -5037,7 +5028,6 @@ homeline.kg
 homelook.kg
 homeofthewhopper.kg
 homepro.kg
-homesense.kg
 honda.kg
 hondagarage.kg
 honey.kg
@@ -5352,7 +5342,6 @@ infinitystore.kg
 infinix.kg
 info.kg
 info-service.kg
-infocom.kg
 infodesk.kg
 infomir.kg
 infoport.kg
@@ -6845,6 +6834,7 @@ logistshop.kg
 logitech.kg
 logo.kg
 logoped.kg
+logoprint.kg
 logos-school.kg
 logosgroup.kg
 logostravel.kg
@@ -7629,7 +7619,6 @@ moresushi.kg
 morganstanley.kg
 mormon.kg
 mormons.kg
-moroz.kg
 moskitniesetki.kg
 moskva.kg
 moskvich.kg
@@ -8998,6 +8987,7 @@ posteriya.kg
 postini.kg
 postmarket.kg
 postupi.kg
+postx.kg
 potolki.kg
 potolkoff.kg
 potolok.kg
@@ -9109,7 +9099,6 @@ proficomm.kg
 profident.kg
 profiklass.kg
 profil.kg
-profile-systems.kg
 profipack.kg
 profiplus.kg
 profiteor.kg
@@ -9393,7 +9382,6 @@ referans.kg
 referansofta.kg
 referanspharmaceuticals.kg
 referent.kg
-reforma.kg
 reformakerek.kg
 reformate.kg
 refsystem.kg
@@ -9701,6 +9689,7 @@ salamander.kg
 salamat.kg
 salammedia.kg
 salamtek.kg
+salamtour.kg
 saland.kg
 sale.kg
 sales.kg
@@ -9844,6 +9833,7 @@ scooter.kg
 scoring.kg
 scorista.kg
 scorost0809.kg
+scout.kg
 screen.kg
 sd.kg
 sdb.kg
@@ -10002,6 +9992,7 @@ shiny.kg
 shinyicentr.kg
 ship.kg
 shipager.kg
+shipee.kg
 shipito.kg
 shipper.kg
 shire.kg
@@ -10113,7 +10104,6 @@ skechers.kg
 skeptik.kg
 skf.kg
 ski.kg
-skidka.kg
 skidki.kg
 skillbox.kg
 skillfactory.kg
@@ -10149,7 +10139,6 @@ skyfly.kg
 skyfru.kg
 skygroup.kg
 skyhome.kg
-skyhotel.kg
 skyjet.kg
 skylab.kg
 skyline.kg
@@ -11238,6 +11227,7 @@ tr-logistik.kg
 tracing.kg
 track.kg
 tracker.kg
+tractor.kg
 trade.kg
 trade-express.kg
 trade-sol.kg
@@ -11428,7 +11418,6 @@ tuv.kg
 tuz.kg
 tv.kg
 tv-shop.kg
-tv1.kg
 tvinosh.kg
 tvmedia.kg
 tvoetaxi.kg
@@ -11605,7 +11594,6 @@ urbaneyes.kg
 urbanksucta.kg
 urbu.kg
 urfa.kg
-urist.kg
 url.kg
 urmattuu.kg
 urolog.kg
@@ -11818,7 +11806,6 @@ vipkortege.kg
 viprosal.kg
 virbac.kg
 virginiaslims.kg
-virton.kg
 virtualtour.kg
 viruprotect.kg
 visa.kg
@@ -12131,7 +12118,6 @@ xboxone.kg
 xboxzone.kg
 xbt.kg
 xcmg.kg
-xeeboo.kg
 xencelabs.kg
 xeon.kg
 xerox.kg
