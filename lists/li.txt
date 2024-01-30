@@ -1,6 +1,5 @@
 0-0.li
 0-1.li
-000.li
 0000.li
 00000.li
 00024.li
@@ -792,6 +791,7 @@
 400.li
 4000.li
 402.li
+404.li
 404institute.li
 411.li
 4138.li
@@ -855,6 +855,7 @@
 4plan.li
 4protekt.li
 4rent.li
+4st.li
 4t2.li
 4test.li
 4turbo.li
@@ -901,6 +902,7 @@
 52468.li
 52471.li
 525.li
+5252.li
 526.li
 527.li
 528.li
@@ -1137,7 +1139,6 @@
 687.li
 68735.li
 68791.li
-688.li
 68918.li
 6899.li
 68k.li
@@ -3268,6 +3269,9 @@ alphuette.li
 alpigal.li
 alpiger-holzbau.li
 alpila.li
+alpin.li
+alpin-royal.li
+alpin-royal-liechtenstein.li
 alpina.li
 alpina-automobile.li
 alpina-automobiles.li
@@ -3277,16 +3281,23 @@ alpinaconfigurator.li
 alpinahomes.li
 alpine.li
 alpine-electronics.li
+alpine-royale.li
+alpine-royale-liechtenstein.li
 alpinecare.li
 alpinefunds.li
+alpineroyale.li
 alpinetrek.li
 alpinikum.li
 alpinres.li
 alpinresort.li
+alpinrettung.li
+alpinroyal.li
+alpinroyalliechtenstein.li
 alpio.li
 alpiq.li
 alpiq-energyservices.li
 alpiqenergyservices.li
+alpkit.li
 alpkunst.li
 alpla.li
 alpmichel.li
@@ -3986,6 +3997,7 @@ antgroup.li
 anthamatten.li
 anthax.li
 anthedon.li
+anthem.li
 anthony.li
 anti.li
 anti-money-laundering.li
@@ -4375,8 +4387,6 @@ arbeitsrecht.li
 arbeitssicherheit.li
 arbeitsstelle.li
 arber.li
-arbestbusinesscoaching.li
-arbestcoaching.li
 arbitrage.li
 arbitration.li
 arbitrum.li
@@ -4508,6 +4518,7 @@ arian.li
 ariana.li
 ariana-foundation.li
 ariana-stiftung.li
+arianna.li
 aricoma.li
 aricomadigital.li
 aricomagroup.li
@@ -4558,7 +4569,6 @@ armageddon.li
 armand.li
 armaturen.li
 armbruster.li
-armee.li
 armindesign.li
 arminius.li
 armit-pollux.li
@@ -4955,6 +4965,7 @@ asynto.li
 asz.li
 at-verlag.li
 at6.li
+ata.li
 atacon.li
 ataraxia.li
 atari.li
@@ -5494,6 +5505,7 @@ aveo.li
 aveva.li
 avfocus.li
 avg.li
+avi.li
 avia.li
 aviano.li
 aviapower.li
@@ -5574,6 +5586,7 @@ awinnenausbau.li
 awk.li
 awl.li
 awo.li
+awp.li
 awr.li
 aws.li
 awsc.li
@@ -7556,6 +7569,7 @@ bier.li
 bier4you.li
 bierbrauer.li
 biererlebniswelt.li
+biergarta.li
 biergarten.li
 biergarten-schaan.li
 bieri.li
@@ -8150,7 +8164,6 @@ blechportal.li
 blegertschent.li
 blem.li
 blen.li
-blend.li
 blendtec.li
 blengi.li
 bless.li
@@ -9429,6 +9442,7 @@ bsmarthotel.li
 bso.li
 bsp.li
 bspholding.li
+bsport.li
 bsports.li
 bsr-tuning.li
 bss.li
@@ -9887,6 +9901,7 @@ buynow.li
 buysell.li
 buysellads.li
 buytool.li
+buytricycle.li
 buz.li
 buza.li
 buzz.li
@@ -10441,7 +10456,6 @@ carehub.li
 carel.li
 carentals.li
 carerix.li
-careshop.li
 carex.li
 carey.li
 carfax.li
@@ -13078,7 +13092,6 @@ cotta.li
 cottonfield.li
 cou-fou.li
 couchepin.li
-couchtuner.li
 coufou.li
 cougar.li
 coul.li
@@ -13909,6 +13922,7 @@ d-t.li
 d-tor.li
 d-wave.li
 d0dge.li
+d0t.li
 d2-forgedwheels.li
 d2technology.li
 d365.li
@@ -14454,7 +14468,6 @@ decard.li
 decarli.li
 decathlon.li
 deccade.li
-decentral.li
 decentraland.li
 decentralise.li
 decentralize.li
@@ -14468,7 +14481,6 @@ deckenbauer.li
 decker.li
 deckert.li
 deco.li
-decolight.li
 decolores.li
 decomatpro.li
 deconex.li
@@ -16039,6 +16051,7 @@ donoth.li
 donquijote.li
 donro.li
 dont-panic.li
+dontorrent.li
 dontpanic.li
 donuts-king.li
 donutsking.li
@@ -16702,6 +16715,7 @@ dwd.li
 dwdrums.li
 dwe.li
 dweb.li
+dwesa.li
 dwf.li
 dwg.li
 dwi.li
@@ -19351,7 +19365,6 @@ expert.li
 expert-center.li
 expert-energy.li
 expert-solar-swiss.li
-expertax.li
 expertcenter.li
 experten.li
 expertenergy.li
@@ -19745,6 +19758,7 @@ familynyfeler.li
 familyoffice.li
 familyoffice-academy.li
 familyofficeacademy.li
+familyofficeplus.li
 familyofficeservice.li
 familyofficeservices.li
 familyofpower.li
@@ -19876,7 +19890,6 @@ fasnacht-shop.li
 fasnacht24.li
 fasnachts-bazar.li
 fasnachtsland.li
-fasnachtstour.li
 fasnachtsumzugmalbun.li
 fasoon.li
 fassaden-solaranlage.li
@@ -20839,7 +20852,6 @@ firstnames.li
 firstnode.li
 firstphone.li
 firstresponder.li
-firstrow.li
 firstsecurity.li
 firstsentierinvestors.li
 firsttrustmanagement.li
@@ -21238,7 +21250,6 @@ floating.li
 flock.li
 floh.li
 flohmarkt.li
-flohmarkt-schaan.li
 flohmarkt24.li
 flohmarktsammler.li
 flohmarktvaduz.li
@@ -21267,7 +21278,6 @@ florian.li
 florian-meier.li
 florianbol.li
 florianfritsch.li
-florianmarxer.li
 florida.li
 florin.li
 florinawohlwend.li
@@ -21536,6 +21546,7 @@ food-innovator.li
 food-truck-catering.li
 foodarena.li
 foodbags.li
+foodbike.li
 foodbird.li
 foodboutique.li
 foodconnect.li
@@ -21553,6 +21564,7 @@ foodmatch.li
 foodnetwork.li
 foodpanda.li
 foodshop.li
+foodtrailer.li
 foodtruck.li
 foodvenience.li
 foogoo.li
@@ -21598,6 +21610,7 @@ forestier.li
 forever.li
 foreverliving.li
 forex.li
+forexbroker.li
 forextrading.li
 foreyes.li
 forge.li
@@ -22421,7 +22434,6 @@ ful.li
 fulda.li
 fulfillment.li
 fuli.li
-full.li
 fullcontact.li
 fuller.li
 fullgolf.li
@@ -24177,6 +24189,7 @@ godata.li
 godigital.li
 godiva.li
 gods.li
+godteam.li
 goe.li
 goebel.li
 goeldi.li
@@ -26157,6 +26170,7 @@ hedinlogistics.li
 hedinparts.li
 hedinpartslogistics.li
 hedinrecycled.li
+hedis-kreativatelier.li
 hediye.li
 hedmark.li
 hedonist.li
@@ -26804,6 +26818,7 @@ hilton-hotels.li
 hiltonhotels.li
 hilty.li
 hilweb.li
+him.li
 himalaya.li
 himalaya-burger.li
 himalayaburger.li
@@ -26958,7 +26973,6 @@ hm-sat-shop.li
 hma.li
 hmb.li
 hmc.li
-hmd.li
 hmds.li
 hme.li
 hmf.li
@@ -27172,7 +27186,6 @@ hoiwa7i.li
 hoiwelt.li
 hok.li
 hoka.li
-hoki777.li
 hoko.li
 hol.li
 holbach.li
@@ -28442,6 +28455,7 @@ idi.li
 idil.li
 idiot.li
 idk.li
+idl.li
 idle.li
 idlinked.li
 idnet.li
@@ -28998,7 +29012,6 @@ imrp.li
 imrs.li
 ims.li
 imsand.li
-imsc.li
 imt.li
 imt-asset.li
 imt-tampondruck.li
@@ -29040,6 +29053,7 @@ incidental.li
 incider.li
 inciso.li
 incite.li
+include.li
 incode.li
 income.li
 incoming.li
@@ -32945,7 +32959,6 @@ knul.li
 knupp.li
 knus.li
 knusper.li
-knut.li
 knv.li
 knvyt.li
 knx.li
@@ -33354,6 +33367,7 @@ kps.li
 kps-ag.li
 kps-holding.li
 kpsholding.li
+kpt.li
 kptn.li
 kpv.li
 kqbd.li
@@ -33424,7 +33438,6 @@ kranzle.li
 kranztreuhand.li
 krapp.li
 krasa.li
-kraska.li
 krasniqi.li
 kratki.li
 kratochvil.li
@@ -33968,7 +33981,6 @@ kyburz.li
 kybutex.li
 kyc.li
 kyd.li
-kykyaa.li
 kykyabcq.li
 kykyabga.li
 kykyabmg.li
@@ -33979,25 +33991,6 @@ kykyabsk.li
 kykyabtn.li
 kykyabwz.li
 kykyabzp.li
-kykycf.li
-kykycj.li
-kykyfq.li
-kykyge.li
-kykygn.li
-kykygt.li
-kykyhe.li
-kykyhh.li
-kykyjg.li
-kykyjl.li
-kykyjr.li
-kykymj.li
-kykyof.li
-kykyqs.li
-kykyrt.li
-kykyso.li
-kykytq.li
-kykyxt.li
-kykyzm.li
 kyl.li
 kyle.li
 kylie.li
@@ -34897,7 +34890,6 @@ lekkerland.li
 lekkerland-liechtenstein.li
 lektor.li
 lektorat.li
-lel.li
 lela.li
 lelabo.li
 lelabofragrances.li
@@ -34916,6 +34908,7 @@ lemi4kids.li
 lemiqua.li
 lemmy.li
 lemon.li
+lemonbottle-store.li
 lemonswan.li
 lemovie.li
 lempert.li
@@ -35138,7 +35131,6 @@ lf-law.li
 lfb.li
 lfc.li
 lfd.li
-lfe.li
 lff.li
 lfg.li
 lfgroup.li
@@ -36192,7 +36184,6 @@ live-chat.li
 live-happy.li
 live-in.li
 live-search.li
-live7.li
 liveandfight.li
 liveauction.li
 livecam.li
@@ -37613,6 +37604,7 @@ mahalle.li
 maharishi.li
 maharram.li
 mahdollistaja.li
+maheata.li
 maher.li
 mahjongg.li
 mahl.li
@@ -38385,6 +38377,7 @@ maspalomas.li
 maspo.li
 mass.li
 massa.li
+massag.li
 massage.li
 massage-gutschein.li
 massage4you.li
@@ -40392,6 +40385,7 @@ mobile-iliad.li
 mobile-pki.li
 mobile-signature.li
 mobile-telefonbuch.li
+mobilebar.li
 mobilebuehne.li
 mobilebuehnen.li
 mobilecom.li
@@ -42185,7 +42179,6 @@ nautics.li
 nautilus-ag.li
 nautische-akademie.li
 nav.li
-navabi.li
 navan.li
 navgear.li
 navi.li
@@ -42530,7 +42523,6 @@ netzwerk-liechtenstein.li
 netzwerk-natur.li
 netzwerknatur.li
 netzzwerge.li
-neu.li
 neubau-belvedere.li
 neubauer.li
 neubert.li
@@ -43299,7 +43291,6 @@ notarius.li
 notarize.li
 notarliechtenstein.li
 notaro.li
-notary.li
 notary-liechtenstein.li
 notary-services.li
 notaryoffice.li
@@ -44473,6 +44464,7 @@ ontologistinfo.li
 ontour.li
 onu.li
 onur.li
+onw.li
 ony.li
 onyva.li
 onyx.li
@@ -47335,7 +47327,6 @@ pollux-fs.li
 polly.li
 poloschule.li
 polrow.li
-pols.li
 polska.li
 polskinotariusz.li
 polsterei-reza.li
@@ -48586,7 +48577,6 @@ puravitadrogerie.li
 pure.li
 pure-cosmetic.li
 pure94.li
-purea.li
 purecosmetic.li
 puregoldprotein.li
 pureiptv.li
@@ -48618,7 +48608,6 @@ pusch.li
 puschnik.li
 push.li
 pussies.li
-pussy.li
 pussycash.li
 pussylovers.li
 put.li
@@ -48657,7 +48646,6 @@ pvlessential.li
 pvn.li
 pvp.li
 pvt.li
-pvtv.li
 pwa.li
 pwbtreuhand.li
 pwc.li
@@ -49810,7 +49798,6 @@ reflip.li
 reflux.li
 refluxstop.li
 reforest.li
-refresh.li
 refresher.li
 refrisch.li
 refrix.li
@@ -50468,6 +50455,7 @@ riccardopezzi.li
 riccel.li
 ricci.li
 riccio.li
+riccobel.li
 ricetec.li
 ricetta.li
 rich.li
@@ -50578,6 +50566,7 @@ rim.li
 rimbania.li
 rimborsopo.li
 rimmag.li
+rimmo.li
 rin.li
 rina.li
 rinascimento.li
@@ -51228,7 +51217,10 @@ roxymarkt.li
 roy.li
 roya.li
 royal.li
+royal-alpin.li
+royal-alpin-liechtenstein.li
 royal-gardineer.li
+royal-liechtenstein.li
 royal-water.li
 royalcasino.li
 royalcasinoschaan.li
@@ -51236,6 +51228,9 @@ royalcomplemed.li
 royaldesign.li
 royaldonuts.li
 royale.li
+royale-alpine.li
+royale-alpine-liechtenstein.li
+royale-liechtenstein.li
 royaleclub.li
 royalink.li
 royalpanda.li
@@ -52208,7 +52203,6 @@ savi.li
 savicki.li
 savills.li
 savils.li
-savings.li
 savinitartufi.li
 savinvest.li
 savisa.li
@@ -54190,6 +54184,7 @@ showcar.li
 showcase.li
 showme.li
 showszeneschweiz.li
+shox.li
 shpr.li
 shr.li
 shradhanja.li
@@ -55448,6 +55443,7 @@ solar-stand.li
 solar-team.li
 solar1.li
 solarbreaker.li
+solarcarbonstoren.li
 solarcarports.li
 solarconcept.li
 solardach.li
@@ -57116,7 +57112,6 @@ stone-invest.li
 stoneart.li
 stoneasy.li
 stonebird.li
-stonebridge.li
 stonebridge-partners.li
 stonefather.li
 stonehagefleming.li
@@ -57254,6 +57249,8 @@ strechzelt.li
 street.li
 streetart.li
 streeter.li
+streetfood.li
+streetfood-catering.li
 streetfood-festival.li
 streetfood-festivals.li
 streetfoodfestival.li
@@ -58765,7 +58762,6 @@ tanga.li
 tangente.li
 tangerine.li
 tanghui.li
-tanglecat.li
 tangleteezer.li
 tangora.li
 tangram.li
@@ -58773,7 +58769,6 @@ tani.li
 tanias.li
 tanja.li
 tanjalacroix.li
-tank.li
 tankkd.li
 tankloescher.li
 tankrevision.li
@@ -59866,7 +59861,6 @@ thojos.li
 tholl.li
 thom.li
 thoma.li
-thomadaniel160gmail.li
 thomann.li
 thomann-travel.li
 thomas.li
@@ -60254,7 +60248,6 @@ titi.li
 titiapp.li
 title.li
 titles.li
-tits.li
 titty-twister-bar.li
 titus.li
 titz-gmbh.li
@@ -60829,6 +60822,7 @@ tradecraft.li
 tradedoubler.li
 tradeinterceptor.li
 tradelogic.li
+trademark.li
 trademarkers.li
 trademarklaw.li
 tradepro-discount.li
@@ -62931,6 +62925,7 @@ veltra.li
 veltrace.li
 velux.li
 velux-service.li
+velxara.li
 vemondo.li
 ven.li
 vendence.li
@@ -64720,7 +64715,6 @@ wearefinance.li
 weareshape.li
 wearfigs.li
 wearit.li
-weather.li
 weathernews.li
 weave.li
 weaver.li
@@ -65882,6 +65876,7 @@ wizardinvest.li
 wizardinvestment.li
 wizardsticker.li
 wizardstickers.li
+wize.li
 wjgyt.li
 wjh.li
 wk-designedtowork.li
@@ -66574,7 +66569,6 @@ xella.li
 xem.li
 xemail.li
 xen.li
-xena.li
 xenia.li
 xenia-aimee.li
 xeno.li
@@ -67395,6 +67389,7 @@ xn--liechtensteinluft-3qb.li
 xn--liechtensteinwrme-3qb.li
 xn--lindstrm-t4a.li
 xn--lisweg-vxa.li
+xn--lk-xka.li
 xn--ll-lka.li
 xn--lmhle-iua8b.li
 xn--lmm-qla.li
@@ -68145,6 +68140,7 @@ yanhui.li
 yanik.li
 yanjia.li
 yanjie.li
+yanjiu.li
 yanjiusuo.li
 yankang.li
 yankee-candle.li
@@ -69117,7 +69113,6 @@ zerocarbonkwh.li
 zerohedge.li
 zerres.li
 zertifikat.li
-zertiva.li
 zerto-logistics.li
 zerwas.li
 zest.li
