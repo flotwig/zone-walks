@@ -536,7 +536,6 @@ datacampus.hosting
 datacenta.hosting
 datafoundry.hosting
 datahealth.hosting
-datamining.hosting
 dataplatform.hosting
 datatherapy.hosting
 daten.hosting
@@ -546,7 +545,6 @@ datev.hosting
 daube.hosting
 davaoweb.hosting
 david.hosting
-davsdvs.hosting
 db.hosting
 dbs.hosting
 dbserver.hosting
@@ -1598,6 +1596,7 @@ offsite.hosting
 offsite-backup.hosting
 ohare.hosting
 oict.hosting
+oig-invest.hosting
 okta.hosting
 omines.hosting
 omni.hosting
