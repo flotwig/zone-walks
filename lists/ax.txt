@@ -1250,7 +1250,6 @@ eyi.ax
 ez.ax
 f-fast.ax
 f1.ax
-f5.ax
 fa.ax
 facebook.ax
 facket.ax
@@ -1729,6 +1728,7 @@ holmstromsstugor.ax
 home.ax
 homeport.ax
 hometv.ax
+horizon.ax
 horse.ax
 horsel.ax
 horsvik.ax
@@ -1868,6 +1868,7 @@ iph.ax
 ipmdomains.ax
 iptv.ax
 ipv6.ax
+iq.ax
 iqoo.ax
 ir.ax
 irc.ax
@@ -2700,7 +2701,6 @@ norrskatan.ax
 norrut.ax
 north.ax
 norwexrace.ax
-nostr.ax
 not.ax
 notan.ax
 nov.ax
@@ -3170,7 +3170,6 @@ rudi.ax
 run.ax
 rundberg.ax
 rundbergs.ax
-rundbergsstugor.ax
 rundhusbyn.ax
 ruokaravintolamestari.ax
 rush.ax
@@ -3306,6 +3305,7 @@ simplyhosting.ax
 sin.ax
 sint.ax
 siren.ax
+site.ax
 sittkoff.ax
 sittkoffs.ax
 sittkoffska.ax
