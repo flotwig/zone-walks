@@ -251,7 +251,6 @@
 48.ci
 4a.ci
 4d.ci
-4dgkt.ci
 4e.ci
 4f.ci
 4g.ci
@@ -290,7 +289,6 @@
 5a.ci
 5c.ci
 5d.ci
-5dgkt.ci
 5e.ci
 5f.ci
 5f-k9.ci
@@ -1049,7 +1047,6 @@ alycartouches.ci
 alycartourche.ci
 alynimo.ci
 am.ci
-am-distribution.ci
 amadoukone.ci
 amak-travel.ci
 amaly.ci
@@ -1614,7 +1611,6 @@ banqueatlantique.ci
 banquepopulaire.ci
 baobab.ci
 baoule.ci
-baoulefacile.ci
 bara.ci
 barakaconsulting.ci
 barakaservices.ci
@@ -2002,6 +1998,7 @@ bos.ci
 bosch.ci
 boschrexroth.ci
 bose.ci
+bosfortdeco.ci
 bosksystems.ci
 boss.ci
 bossicro.ci
@@ -3653,6 +3650,7 @@ creativeengineering.ci
 creativejuice.ci
 creativitymarguerite.ci
 creditaccess.ci
+creditcard.ci
 creditplus.ci
 credits.ci
 credpay.ci
@@ -4286,7 +4284,6 @@ e-mark.ci
 e-mpd.ci
 e-recommande.ci
 e-services.ci
-e-stars-editions.ci
 e-store.ci
 e-tourisme.ci
 e-variete.ci
@@ -4833,7 +4830,6 @@ eraf.ci
 eram.ci
 eranove.ci
 eranove-academy.ci
-eranoveacademy.ci
 erc.ci
 erfolg-institut.ci
 ericfavre.ci
@@ -5647,6 +5643,7 @@ gestimo.ci
 gestion-projets.ci
 gestionauto.ci
 gestionisa.ci
+gestionvoltcan2023.ci
 gestmag.ci
 gestoci.ci
 gestopark.ci
@@ -6807,6 +6804,7 @@ iyf.ci
 iz.ci
 izi.ci
 izigo.ci
+iziken.ci
 izimo.ci
 iziweb.ci
 izouglou.ci
@@ -7207,7 +7205,6 @@ knoor.ci
 knowledgeshare.ci
 ko.ci
 koan.ci
-koayam.ci
 kobesgroup.ci
 kocenobtp.ci
 kodann.ci
@@ -7642,7 +7639,6 @@ li.ci
 lia.ci
 liamservice.ci
 libai.ci
-liberteconstructionofafrica.ci
 libra.ci
 librairie.ci
 librairieadoration.ci
@@ -7743,7 +7739,6 @@ logeco.ci
 logement.ci
 logements.ci
 loggroupeloko.ci
-logibat.ci
 logicweb.ci
 logilis.ci
 logirec.ci
@@ -9226,6 +9221,7 @@ opindustrielectronik.ci
 opisms.ci
 oplayce.ci
 opodadigital.ci
+oporco.ci
 oppo-aed.ci
 oppoaed.ci
 opportunekouadio.ci
@@ -9413,7 +9409,6 @@ ox.ci
 oxahost.ci
 oxelo.ci
 oxiane.ci
-oxo-digital.ci
 oxygen.ci
 oxygeo.ci
 oxylane.ci
@@ -10656,7 +10651,6 @@ securimax.ci
 securite.ci
 securiteelectronique.ci
 securnet.ci
-secusigne.ci
 secutic.ci
 secutronic.ci
 sedec-abidjan.ci
@@ -10795,9 +10789,7 @@ sgti.ci
 sgtt-ci.ci
 sh.ci
 shango.ci
-shap-shop.ci
 shape.ci
-shapshop.ci
 shared.ci
 shared-using.ci
 shared-via.ci
@@ -11008,6 +11000,7 @@ sitd-tourisme.ci
 site-technologie.ci
 siteca.ci
 sitere.ci
+siteweb.ci
 sith.ci
 sitho.ci
 siti.ci
@@ -11098,6 +11091,7 @@ smd.ci
 smeg.ci
 smi.ci
 smile.ci
+smilovi.ci
 sml.ci
 smo.ci
 smoke.ci
@@ -11446,7 +11440,6 @@ stationnoire.ci
 stationyakrobnetd.ci
 statoil.ci
 stats.ci
-statsport-africa.ci
 stbo.ci
 stcommunication.ci
 stdm.ci
@@ -11534,6 +11527,7 @@ supersport.ci
 supersportbet.ci
 supersportbets.ci
 superweb.ci
+support.ci
 surcouf.ci
 surprise24.ci
 surveys.ci
@@ -11877,6 +11871,7 @@ topmoteur.ci
 topographie.ci
 topwork.ci
 tor.ci
+torrent.ci
 toshiba.ci
 total.ci
 total-energies.ci
@@ -12495,6 +12490,7 @@ woodmizer.ci
 woodstauhn.ci
 wooju.ci
 wordtech.ci
+work.ci
 workcloud.ci
 world.ci
 worldcoin.ci
