@@ -209,6 +209,7 @@
 3a-afrique.ci
 3a-domotique.ci
 3aiard.ci
+3amg.ci
 3asecure.ci
 3c.ci
 3cgbi.ci
@@ -525,6 +526,7 @@ abidjanaisesintech.ci
 abidjancement.ci
 abidjanciment.ci
 abidjancimentargile.ci
+abidjanestdoux.ci
 abidjanfacile.ci
 abidjanfashion.ci
 abidjanfrais.ci
@@ -778,7 +780,6 @@ afroship.ci
 afs.ci
 afsatour.ci
 afy-immobilier.ci
-agaatest.ci
 agajmarket.ci
 agara.ci
 agbolo.ci
@@ -841,6 +842,7 @@ agroexpertise.ci
 agroexpertises.ci
 agroforesterie.ci
 agromax.ci
+agrophys.ci
 agrotherapie.ci
 agrotv.ci
 ags.ci
@@ -1939,7 +1941,6 @@ bnigestion.ci
 bnionline.ci
 bnkdigital.ci
 bnpvs.ci
-bnpvs-gouv.ci
 bo.ci
 boa.ci
 boccard.ci
@@ -2385,7 +2386,6 @@ cecacademie.ci
 ceci.ci
 cedivoire.ci
 ceetrus.ci
-cefet-geometre.ci
 ceffage.ci
 cefi.ci
 cefiat.ci
@@ -2449,10 +2449,12 @@ cfcm.ci
 cfge.ci
 cfjt.ci
 cfp.ci
+cfpcr-mcc.ci
 cg2f.ci
 cga.ci
 cga-agy.ci
 cga-gracedivine.ci
+cga-pro.ci
 cgdby.ci
 cge.ci
 cge-bile.ci
@@ -3833,6 +3835,7 @@ dcf-siges.ci
 dcg.ci
 dcp-asconsulting.ci
 dcpemef.ci
+dcpev.ci
 dcs-consulting.ci
 dd.ci
 ddcleaning-design.ci
@@ -4732,6 +4735,7 @@ emica.ci
 emilitant-rhdp.ci
 emirates.ci
 emlak.ci
+emma.ci
 emmanuelcorporate.ci
 emo.ci
 emoye.ci
@@ -4830,6 +4834,7 @@ eraf.ci
 eram.ci
 eranove.ci
 eranove-academy.ci
+eranoveacademy.ci
 erc.ci
 erfolg-institut.ci
 ericfavre.ci
@@ -5252,7 +5257,6 @@ fintech.ci
 finwest.ci
 fip-plast.ci
 fipec.ci
-fipme.ci
 firca.ci
 firdaws-city.ci
 firialta.ci
@@ -5441,7 +5445,6 @@ francedns.ci
 franceimmobilier.ci
 franchise-expo.ci
 franchise-ivoirienne.ci
-franckol.ci
 franklincovey.ci
 fraternitematin.ci
 fratmat.ci
@@ -6760,7 +6763,6 @@ ivoirenetworkimmobiler.ci
 ivoirenewspaper.ci
 ivoireprudentsecurite.ci
 ivoiresantepublique.ci
-ivoireserviceplus.ci
 ivoiresms.ci
 ivoiresoft.ci
 ivoiretaxis.ci
@@ -6935,6 +6937,7 @@ jnppme2023.ci
 jo-informatique.ci
 job.ci
 jobbing.ci
+jobbo.ci
 jobcamp.ci
 jobchain.ci
 jobexpress.ci
@@ -7197,7 +7200,6 @@ kminingequipement.ci
 kmkcollection.ci
 kmp.ci
 kmservices.ci
-kmsexpress.ci
 kmssarl.ci
 kngshop.ci
 knk.ci
@@ -7393,6 +7395,7 @@ laprocuredabidjan.ci
 laravel.ci
 lareference.ci
 laregionalenews.ci
+laregiondelanawa.ci
 laresidence.ci
 largus.ci
 larhumerie.ci
@@ -7493,6 +7496,7 @@ led.ci
 ledcom.ci
 ledestockage.ci
 ledonantonio.ci
+lee.ci
 leec.ci
 leeh.ci
 lef.ci
@@ -7926,8 +7930,6 @@ mailvage.ci
 mainaholding.ci
 mainlandgroup-rr.ci
 maira.ci
-mairie-agnibilekro.ci
-mairie-agnibilekrou.ci
 mairie-cocody.ci
 mairie-mayo.ci
 mairieassinie.ci
@@ -9027,6 +9029,7 @@ oblackimmobilier.ci
 oblackmarket.ci
 obled.ci
 obrains.ci
+obudget.ci
 obv.ci
 obviate.ci
 obwstore.ci
@@ -9636,6 +9639,7 @@ pgsoft.ci
 ph.ci
 pharmacie-tchologo.ci
 pharmacie-tereza.ci
+pharmacieduchateau.ci
 pharmaciedujubile.ci
 pharmaciedumall.ci
 pharmaciejubile.ci
@@ -10177,6 +10181,7 @@ regionbagoue.ci
 regionbelier.ci
 regioncavally.ci
 regiondelame.ci
+regiondelanawa.ci
 regiondugontougo.ci
 regionduguemon.ci
 regiondutonkpi.ci
@@ -10651,6 +10656,7 @@ securimax.ci
 securite.ci
 securiteelectronique.ci
 securnet.ci
+secusigne.ci
 secutic.ci
 secutronic.ci
 sedec-abidjan.ci
@@ -11977,7 +11983,6 @@ tskstudios.ci
 tsr.ci
 tt.ci
 ttklassik.ci
-tts.ci
 tuatoo.ci
 tuc.ci
 tudor.ci
@@ -12128,6 +12133,7 @@ upad-scoops.ci
 upb.ci
 upendoconseils.ci
 upesup.ci
+upgc.ci
 upha-egliseharriste.ci
 upid.ci
 upjohn.ci
@@ -12325,7 +12331,6 @@ voyageur.ci
 voyagez.ci
 voza.ci
 vozol.ci
-vpscoteivoire.ci
 vroom.ci
 vscloths.ci
 vsevmeste.ci
@@ -12483,6 +12488,7 @@ woju.ci
 wolflubes.ci
 wolfram.ci
 wolno.ci
+womenthinkdigital.ci
 womy.ci
 wood.ci
 woodin.ci
@@ -12508,7 +12514,6 @@ woyovtc.ci
 wp.ci
 wpcloud.ci
 wq.ci
-wr.ci
 ws.ci
 wskf.ci
 wt.ci
