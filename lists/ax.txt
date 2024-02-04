@@ -1899,7 +1899,6 @@ j6.ax
 ja.ax
 jaakkoheikkila.ax
 jacobsprofessional.ax
-jaegerm.ax
 jahrens.ax
 jahtivahti.ax
 jakobsson.ax
@@ -2057,6 +2056,7 @@ ki.ax
 kia.ax
 kierto.ax
 kim.ax
+king.ax
 kino.ax
 kirjanpito.ax
 kitchen.ax
@@ -3432,7 +3432,6 @@ sottunga.ax
 southslope.ax
 sovy.ax
 sp.ax
-space.ax
 sparhallen.ax
 speeding.ax
 sphh.ax
@@ -3964,6 +3963,7 @@ vuokraa.ax
 vuokrakoti.ax
 vuokralle.ax
 vuokrattavana.ax
+vv.ax
 vvs.ax
 vvs-boden.ax
 vvs-webbutik.ax
