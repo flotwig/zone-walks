@@ -190,6 +190,7 @@ a5.kg
 aa.kg
 aaa.kg
 aaagroup.kg
+aadecor.kg
 aalam.kg
 aalammed.kg
 aalamstroy.kg
@@ -354,6 +355,7 @@ aeroman.kg
 aeronomad.kg
 aerospace.kg
 aeroteam.kg
+aerotour.kg
 aes.kg
 aesculap.kg
 aestheticmed.kg
@@ -1193,6 +1195,7 @@ asm.kg
 asman.kg
 asman-city.kg
 asman-transfer.kg
+asmanair.kg
 asmanairlines.kg
 asmancity.kg
 asmanconsult.kg
@@ -2081,6 +2084,7 @@ bloomberg.kg
 bloombergnews.kg
 bloombergtelevision.kg
 bloombergtradebook.kg
+blossombazaar.kg
 bluejetairways.kg
 blueray.kg
 blum.kg
@@ -2282,6 +2286,7 @@ bulak.kg
 bulbul.kg
 bulova.kg
 bulut.kg
+bumper.kg
 burana.kg
 burana-grandhotel.kg
 buranagrand.kg
@@ -2450,6 +2455,7 @@ cbtpluseco.kg
 cc.kg
 ccc.kg
 ccgrass.kg
+cci.kg
 cci-china.kg
 ccs.kg
 cctld.kg
@@ -2699,6 +2705,7 @@ coffee.kg
 coffeeboom.kg
 coffeeshop.kg
 coffeeshopcompany.kg
+coffeetochka.kg
 cognac.kg
 coin.kg
 coinchange.kg
@@ -2771,6 +2778,7 @@ contest.kg
 continent.kg
 continental.kg
 control.kg
+controlforminers.kg
 controls.kg
 controlstroy.kg
 cook-book.kg
@@ -3058,6 +3066,7 @@ dentalclinic.kg
 dentalhouse.kg
 dentalkorzina.kg
 dentalpharmacy.kg
+dentistree.kg
 dentons.kg
 denttrade.kg
 denzeldetailing.kg
@@ -3414,6 +3423,7 @@ ebrd.kg
 eca.kg
 ecars.kg
 echamber.kg
+echefs.kg
 eckonom.kg
 eclectica.kg
 eco.kg
@@ -3464,6 +3474,7 @@ ecoplast.kg
 ecoproduct.kg
 ecoschool.kg
 ecosoft.kg
+ecosport.kg
 ecostan.kg
 ecostart.kg
 ecostep.kg
@@ -3946,7 +3957,6 @@ evrovagonka.kg
 evrozabor.kg
 evx.kg
 ew.kg
-ewa.kg
 ewalle.kg
 eweb.kg
 ewf.kg
@@ -4231,6 +4241,7 @@ flovell.kg
 flower.kg
 flower-castle.kg
 flower-plant.kg
+flowerboutique.kg
 flowercastle.kg
 flowerhouse.kg
 flowerlab.kg
@@ -4456,8 +4467,10 @@ garanttranslogistic.kg
 garda.kg
 gardaworld.kg
 garden.kg
+garden-spa.kg
 gardenhotel.kg
 gardenia.kg
+gardenofroses.kg
 garment.kg
 garmin.kg
 garnizon.kg
@@ -5155,7 +5168,6 @@ ibaza.kg
 ibc.kg
 ibilim.kg
 ibm.kg
-ibs.kg
 ibufen.kg
 ic.kg
 ica.kg
@@ -5252,7 +5264,6 @@ ikit.kg
 ikma.kg
 ikonuguu.kg
 iksu.kg
-iku.kg
 ilaw.kg
 ilbirs.kg
 ilbirstrade.kg
@@ -5446,6 +5457,7 @@ interiorstroy.kg
 interlinks.kg
 intermag.kg
 intermed.kg
+intermedia.kg
 intermedical.kg
 internet.kg
 internetpolicy.kg
@@ -5615,6 +5627,7 @@ itive.kg
 itk.kg
 itk-system.kg
 itkb.kg
+itl.kg
 itline.kg
 itmaster.kg
 itnet.kg
@@ -5631,7 +5644,6 @@ its.kg
 itsaboutyou.kg
 itsallaboutyou.kg
 itschool.kg
-itshnik.kg
 itsoft.kg
 itsource.kg
 itsrc.kg
@@ -6038,6 +6050,7 @@ keiin.kg
 kekeev.kg
 kel.kg
 kelechek-kooperativ.kg
+kelechek-taxi.kg
 kelet.kg
 kelishim.kg
 kelkel.kg
@@ -6084,6 +6097,7 @@ kfc.kg
 kfc-kyrgyzstan.kg
 kflowers.kg
 kfmipp.kg
+kfu.kg
 kfv.kg
 kg.kg
 kg-group.kg
@@ -6346,7 +6360,6 @@ krena.kg
 kreps.kg
 kreston.kg
 krffa.kg
-krgprimecity.kg
 kripta.kg
 krjc.kg
 krka.kg
@@ -6985,6 +6998,7 @@ magnatools.kg
 magnet.kg
 magnitola.kg
 magnumtrading.kg
+magnus.kg
 maiao.kg
 maidamanty.kg
 mail.kg
@@ -7002,7 +7016,6 @@ makesite.kg
 makeup.kg
 makeupstore.kg
 makler312.kg
-makroconstruction.kg
 maks-tsn-osoo.kg
 maksat.kg
 mal.kg
@@ -7045,6 +7058,7 @@ maqro.kg
 maralfm.kg
 marathonbet.kg
 marble.kg
+marco-polo.kg
 marcosantoni.kg
 mardan.kg
 marella-trading-group.kg
@@ -8466,7 +8480,6 @@ orocaffe.kg
 oropay.kg
 orosport.kg
 orozbekov.kg
-orthotech.kg
 ortomaster.kg
 ortoped.kg
 orunbaikurbanbaev.kg
@@ -9051,6 +9064,7 @@ primeholding.kg
 primetime.kg
 primevideo.kg
 print.kg
+printconsulting.kg
 printconsultingkg.kg
 printdirect.kg
 printer.kg
@@ -9242,6 +9256,7 @@ qp.kg
 qp5.kg
 qq.kg
 qr.kg
+qraa.kg
 qrcard.kg
 qrme.kg
 qrmenu.kg
@@ -9462,7 +9477,6 @@ resmed.kg
 resource.kg
 respub.kg
 respublica.kg
-restart.kg
 resto.kg
 resto-talisman.kg
 restoran.kg
@@ -10161,6 +10175,7 @@ skypay.kg
 skyscanner.kg
 skyshop.kg
 skysoft.kg
+skysystems.kg
 skyworth.kg
 skzic.kg
 sl.kg
@@ -10379,6 +10394,7 @@ splus.kg
 spoly.kg
 sport.kg
 sport312.kg
+sportcollege.kg
 sportcorp.kg
 sportdirect.kg
 sportexpert.kg
@@ -10446,6 +10462,7 @@ stankov.kg
 star.kg
 starbucks.kg
 starbuckscoffee.kg
+starcleaning.kg
 starcom.kg
 starcommediavest.kg
 starline.kg
@@ -11325,6 +11342,7 @@ trm.kg
 tro-ya.kg
 trodat.kg
 troweprice.kg
+troyan.kg
 tru.kg
 truckmotors.kg
 truckparts.kg
