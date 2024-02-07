@@ -489,6 +489,7 @@ axk.ax
 axla.ax
 axla-logistics.ax
 axoft.ax
+axombyggnad.ax
 axon.ax
 axport.ax
 axr.ax
@@ -960,7 +961,6 @@ datagroup.ax
 datanom.ax
 dataportal.ax
 datatray.ax
-date.ax
 dating.ax
 david.ax
 dax.ax
@@ -1213,7 +1213,6 @@ espressohouse.ax
 essha.ax
 essity.ax
 essmarin.ax
-estheticskincare.ax
 et.ax
 eth.ax
 ethereum.ax
