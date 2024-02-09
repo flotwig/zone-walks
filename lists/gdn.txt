@@ -5949,6 +5949,7 @@ floatinginstruments.gdn
 floatingstructures.gdn
 floatingtanks.gdn
 flock.gdn
+floify.gdn
 flood.gdn
 floodinsurance.gdn
 floor.gdn
@@ -6490,6 +6491,7 @@ globalnews.gdn
 globalsearch.gdn
 globalsources.gdn
 globalstockandreward.gdn
+globalstockandrewardlogon.gdn
 globalstockandrewards.gdn
 globalstockandrewardslogon.gdn
 globalstore.gdn
@@ -7499,7 +7501,6 @@ jerusalem.gdn
 jerusalemhotels.gdn
 jest.gdn
 jesup.gdn
-jesus.gdn
 jesuschrist.gdn
 jet.gdn
 jetgo.gdn
@@ -8091,7 +8092,6 @@ lithographicstones.gdn
 lithuanian.gdn
 lititz.gdn
 lits.gdn
-little.gdn
 littleeggharbor.gdn
 littleelm.gdn
 littleriver.gdn
@@ -12801,7 +12801,6 @@ yoai.gdn
 yokohama.gdn
 yokyt.gdn
 youi.gdn
-your.gdn
 youradexchange.gdn
 youtube.gdn
 youtube-mp3.gdn
