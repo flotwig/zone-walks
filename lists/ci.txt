@@ -710,7 +710,6 @@ agri-dev.ci
 agriandland.ci
 agriculture.ci
 agriculturecommerciale.ci
-agriform.ci
 agriline.ci
 agrimarket.ci
 agriplus.ci
@@ -953,6 +952,7 @@ ambitioncompany.ci
 amcc.ci
 amcfc.ci
 amci.ci
+amclot-lohrd.ci
 amebshop.ci
 amenager.ci
 amephci.ci
@@ -1159,6 +1159,7 @@ ascad.ci
 ascar.ci
 ascelearning.ci
 ascens-services.ci
+ascii.ci
 asconsulting.ci
 ascot.ci
 asdm.ci
@@ -2166,6 +2167,7 @@ cartesanitaire.ci
 cartesanitaireanacardier-dcpnra.ci
 cartescolaire-men.ci
 cartescolaire-metfpa.ci
+cartify.ci
 carto.ci
 cartolab.ci
 cartotheque-cntig.ci
@@ -2520,6 +2522,7 @@ cine-xpert.ci
 cine18.ci
 cinema225.ci
 cinergies.ci
+cinestore.ci
 cinetcore.ci
 cinetpay.ci
 cinews.ci
@@ -3004,7 +3007,6 @@ collegeprivemohamed6.ci
 collegesaintbernardtech.ci
 collegesaintemarie-ellibou.ci
 collegesaintexupery.ci
-collegevenezuacocody.ci
 collegevhk.ci
 color36.ci
 colorpro.ci
@@ -3510,6 +3512,7 @@ coulomb.ci
 coulpanf.ci
 countertrade.ci
 coupdemarteau.ci
+coupdumarteau.ci
 coupeafriquedesnations2023.ci
 coupedafriquedesnations2023.ci
 coupon.ci
@@ -4183,7 +4186,6 @@ e-recommande.ci
 e-services.ci
 e-store.ci
 e-tourisme.ci
-e-variete.ci
 e3.ci
 e3bat.ci
 ea.ci
@@ -4555,7 +4557,6 @@ elenkhos.ci
 elephant.ci
 elephantech.ci
 elephone.ci
-eleveur4.ci
 eleveur40.ci
 elg-inter.ci
 eliah.ci
@@ -4875,7 +4876,6 @@ evannath.ci
 evansgroup.ci
 evasion.ci
 evasion-vtt.ci
-evazat.ci
 evelinecosmetics.ci
 evenementiel.ci
 evenglishconsult.ci
@@ -6872,7 +6872,6 @@ jurisconseils.ci
 juru.ci
 just.ci
 just1click.ci
-justagri.ci
 justice.ci
 juul.ci
 juullabs.ci
@@ -7350,7 +7349,6 @@ leasing.ci
 lebara.ci
 lebarmobile.ci
 lebassamois.ci
-lebatisseur.ci
 lebleu.ci
 lebleudistribution.ci
 lebonartisan.ci
@@ -7569,6 +7567,7 @@ linfodrome.ci
 ling.ci
 lingepropre.ci
 lings.ci
+link.ci
 linkdis.ci
 lintelligenttv.ci
 linter.ci
@@ -7941,6 +7940,7 @@ mark-six.ci
 market.ci
 marketing-digital.ci
 marketing-expert.ci
+marketingexpert.ci
 marketiv.ci
 marketonline.ci
 marketplace.ci
@@ -8402,7 +8402,6 @@ monsiteweb.ci
 monticket.ci
 monticketenligne.ci
 montrajet.ci
-montransport.ci
 montreuxbeautyandspa.ci
 monvisa.ci
 monvoyageur.ci
@@ -9230,7 +9229,6 @@ oroks.ci
 orpi.ci
 orrick.ci
 orsys.ci
-orthodoxiedesnations.ci
 ortransparence.ci
 orus.ci
 oryon.ci
@@ -9353,7 +9351,6 @@ paracleteditions.ci
 paradisdesnounours.ci
 paradisegame.ci
 paradisestore.ci
-paradisia.ci
 parametre.ci
 parbleu.ci
 parc-cosim.ci
@@ -9873,7 +9870,6 @@ puratos.ci
 purebleu.ci
 pureprocleaners.ci
 puressentiel.ci
-purivoire.ci
 push.ci
 pushafrica.ci
 pushnpull.ci
@@ -10046,6 +10042,7 @@ refer.ci
 regie.ci
 regieindenie.ci
 regiesilences.ci
+region-lanawa.ci
 regionbagoue.ci
 regionbelier.ci
 regioncavally.ci
@@ -10130,7 +10127,6 @@ resto.ci
 results.ci
 rets.ci
 rev.ci
-revagri.ci
 reve.ci
 revealschool.ci
 reveillonesca.ci
@@ -10279,7 +10275,6 @@ s1.ci
 s5.ci
 sa.ci
 sa2i.ci
-saa.ci
 saada.ci
 saakan.ci
 saarvie.ci
@@ -10586,12 +10581,14 @@ sepb.ci
 sepcim-aem.ci
 sepraco.ci
 septodont.ci
+ser.ci
 seramar.ci
 seraphinservices-group.ci
 serelec.ci
 serenity.ci
 serfinsa.ci
 seritex.ci
+serjetbio.ci
 sermes.ci
 sertel.ci
 serv-dev.ci
@@ -11391,15 +11388,14 @@ supercadeaux.ci
 supercarte.ci
 superforce.ci
 supergooal.ci
-superlife.ci
 superlock.ci
 supernova.ci
-supersport.ci
 supersportbet.ci
 supersportbets.ci
 superweb.ci
 support.ci
 surcouf.ci
+surl-investconsulting.ci
 surprise24.ci
 surveys.ci
 sustainera.ci
