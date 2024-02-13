@@ -9,12 +9,12 @@
       "zone": "tn"
     },
     {
-      "domains": "159360",
-      "zone": "kz"
+      "domains": "162144",
+      "zone": "lol"
     },
     {
-      "domains": "156763",
-      "zone": "lol"
+      "domains": "159360",
+      "zone": "kz"
     },
     {
       "domains": "138686",
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2809556"
+  "total": "2814937"
 }
