@@ -7,7 +7,6 @@
 2if.mc
 2km2.mc
 2mad.mc
-2mconsulting.mc
 3-14batiment.mc
 3alfa.mc
 3cmarine.mc
@@ -865,6 +864,7 @@ despe.mc
 destael.mc
 detaille.mc
 detectable.mc
+devatis.mc
 devcom.mc
 deverini.mc
 deverini-architecte.mc
@@ -1201,7 +1201,6 @@ five.mc
 flagman.mc
 flamemed.mc
 flaujac.mc
-fleurisia.mc
 flmcorporate.mc
 flmm.mc
 flocazur.mc
@@ -1434,7 +1433,6 @@ highlights.mc
 highmanagement.mc
 hilldickinson.mc
 hillrobinson.mc
-hilo.mc
 histoiredor.mc
 histoiresdours.mc
 hlbautomobile.mc
@@ -2412,7 +2410,6 @@ munegusolutions.mc
 muse.mc
 musee-naval.mc
 musee-oceanographique.mc
-mva-monaco.mc
 mve.mc
 mvm.mc
 my-business.mc
@@ -3208,6 +3205,7 @@ sremonaco.mc
 ssi.mc
 ssi-monaco.mc
 sss.mc
+st-mc.mc
 stadelouis2.mc
 staj.mc
 standardcharteredbank.mc
