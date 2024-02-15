@@ -16,6 +16,7 @@
 10bet.ci
 10x.ci
 11.ci
+111.ci
 118.ci
 1199.ci
 12.ci
@@ -36,6 +37,7 @@
 1732.ci
 177.ci
 18.ci
+188.ci
 19.ci
 1949.ci
 1949books.ci
@@ -128,7 +130,6 @@
 2aie.ci
 2aleit.ci
 2alogistics.ci
-2amegroupe.ci
 2as.ci
 2b.ci
 2bintec.ci
@@ -532,6 +533,7 @@ adiko-immobilier.ci
 adiqa.ci
 adis.ci
 adjola.ci
+adjuwa.ci
 admin.ci
 adn.ci
 adn-cdf.ci
@@ -1483,6 +1485,7 @@ bananahouse.ci
 bananarepublic.ci
 banane.ci
 bania.ci
+bank-of-africa.ci
 bankalert.ci
 bankconsulting.ci
 bankid.ci
@@ -1824,6 +1827,7 @@ bnionline.ci
 bnkdigital.ci
 bnpvs.ci
 bo.ci
+boa.ci
 boccard.ci
 boconcept.ci
 bocoum.ci
@@ -1891,6 +1895,7 @@ botanique.ci
 bottegaveneta.ci
 bouake.ci
 bouakeimmobilier.ci
+bouandougou.ci
 boudepe.ci
 boulanger.ci
 bourse.ci
@@ -2211,6 +2216,7 @@ catep.ci
 catho.ci
 catholique.ci
 cati-eg.ci
+catrans.ci
 causex.ci
 cavally.ci
 cave-express.ci
@@ -3561,6 +3567,7 @@ cristalcom.ci
 criterion.ci
 criterion360.ci
 crl.ci
+crmarahoue.ci
 cro.ci
 croire.ci
 croisieres.ci
@@ -4395,6 +4402,7 @@ iumeag.edu.ci
 iutea.edu.ci
 ji.edu.ci
 kleys.edu.ci
+kpu.edu.ci
 laslall.edu.ci
 lettresmodernes.edu.ci
 lmdos.edu.ci
@@ -4546,6 +4554,7 @@ elections.ci
 electricien.ci
 electriciens.ci
 electridiv.ci
+electro-planet.ci
 electrodepot.ci
 electrolux.ci
 electrovision.ci
@@ -4554,6 +4563,7 @@ elelyoncom.ci
 elenkhos.ci
 elephant.ci
 elephantech.ci
+elephants.ci
 elephone.ci
 eleveur40.ci
 elg-inter.ci
@@ -5787,7 +5797,6 @@ groupefruitier.ci
 groupeisa.ci
 groupeitermi.ci
 groupeites.ci
-groupekibio.ci
 groupemedimage.ci
 groupeprodis.ci
 groupeprosuma.ci
@@ -5954,6 +5963,7 @@ hellooccaz.ci
 helma.ci
 help.ci
 hempel.ci
+henamed.ci
 henricartan.ci
 heoh.ci
 heppner.ci
@@ -7134,6 +7144,7 @@ koumassi.ci
 koumba.ci
 kouralis.ci
 koutouan.ci
+koutsourcing.ci
 koya.ci
 kp.ci
 kpatta.ci
@@ -7228,7 +7239,6 @@ lafmaal.ci
 lafondationlemissionnaire.ci
 lafontaineblanche.ci
 laformationpourtous.ci
-lafourchettederoze.ci
 lageco.ci
 lagence.ci
 lagoonatours.ci
@@ -7518,6 +7528,7 @@ lhotel.ci
 li.ci
 lia.ci
 liamservice.ci
+libai.ci
 libra.ci
 librairie.ci
 librairieadoration.ci
@@ -8082,7 +8093,6 @@ mega.ci
 megasit.ci
 megawinorange.ci
 mei.ci
-meijibunka.ci
 meiway.ci
 meka24.ci
 mekano.ci
@@ -9343,6 +9353,7 @@ paradisdesnounours.ci
 paradisegame.ci
 paradisestore.ci
 paradisia.ci
+paradium.ci
 parametre.ci
 parbleu.ci
 parc-cosim.ci
@@ -9518,7 +9529,6 @@ philipmorris.ci
 phoenix.ci
 phoenixtc.ci
 phone-group.ci
-phonegroup.ci
 phonexperts.ci
 photobrite.ci
 photographe.ci
@@ -9695,7 +9705,6 @@ preciousbody.ci
 precix-sarl.ci
 precommit.ci
 prefa-immobilier.ci
-premier6.ci
 premierbet.ci
 premierbets.ci
 premieredame.ci
@@ -10456,6 +10465,7 @@ sciencefestabidjan.ci
 scifa.ci
 scigabi.ci
 scigroupe.ci
+scikayoa.ci
 scikerlau.ci
 scilespalms.ci
 sciloryan.ci
@@ -10555,7 +10565,6 @@ senat.ci
 sendchap.ci
 sendem.ci
 senetic.ci
-senetronco.ci
 sengager.ci
 senhasegura.ci
 senioresca.ci
@@ -10673,7 +10682,6 @@ shooter.ci
 shop.ci
 shop2babi.ci
 shopbaked.ci
-shopdici.ci
 shopify.ci
 shopifyplus.ci
 shopping.ci
@@ -10987,6 +10995,7 @@ snsoad.ci
 sntci.ci
 sntech.ci
 sntr.ci
+snttlogistics.ci
 so.ci
 so-ez.ci
 soaco-assurances.ci
@@ -11218,7 +11227,6 @@ speedcom.ci
 speedloco.ci
 speedo.ci
 speedsa.ci
-speedtest.ci
 speedy-market.ci
 sphere.ci
 sphinxservices.ci
@@ -11488,6 +11496,7 @@ taskforcesectorielle.ci
 tastelist.ci
 tatamotors.ci
 tawtikcotedivoire.ci
+taxedge.ci
 taxi.ci
 taxi2babi.ci
 taxiclick.ci
@@ -11808,7 +11817,6 @@ tresoronline.ci
 triban.ci
 tribord.ci
 tribunalcommerceabidjan.ci
-triic.ci
 triskelion-technologies.ci
 trituraf.ci
 trivago.ci
@@ -12433,7 +12441,9 @@ yakoafricassur.ci
 yakro.ci
 yakrohotels.ci
 yakromarket.ci
+yalis.ci
 yalwa.ci
+yamas.ci
 yambouffe.ci
 yamsgroup.ci
 yana.ci
