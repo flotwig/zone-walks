@@ -526,8 +526,6 @@ bargarn.ax
 barkraft.ax
 barons.ax
 barplay.ax
-basically.ax
-basicallyamazing.ax
 basso.ax
 batlivmedfamiljen.ax
 battle.ax
@@ -956,6 +954,7 @@ data.ax
 datagroup.ax
 datanom.ax
 dataportal.ax
+dataskydd.ax
 datatray.ax
 dating.ax
 david.ax
@@ -1380,6 +1379,7 @@ form.ax
 fornlamningar.ax
 forsakringsjuridik.ax
 forsberg.ax
+forstahjalpen.ax
 fortum.ax
 fotboll.ax
 fotbollsfesten.ax
@@ -1508,7 +1508,6 @@ golvtjanst.ax
 gomovies.ax
 goodfood.ax
 goodnews.ax
-goodnow.ax
 goodtech.ax
 google.ax
 googledrive.ax
@@ -2696,6 +2695,7 @@ norrskatan.ax
 norrut.ax
 north.ax
 norwexrace.ax
+nostr.ax
 not.ax
 notan.ax
 nov.ax
@@ -3208,6 +3208,7 @@ saltviksforsamling.ax
 saltvikskommun.ax
 saltvikstk.ax
 saluhallen.ax
+samba.ax
 samtrans.ax
 sanctolof.ax
 sand.ax
@@ -4068,7 +4069,6 @@ xb.ax
 xc.ax
 xchg.ax
 xd.ax
-xdr.ax
 xe.ax
 xeroj.ax
 xf.ax
