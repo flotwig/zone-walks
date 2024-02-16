@@ -258,7 +258,6 @@ dounan.flowers
 drawing.flowers
 dress.flowers
 dried.flowers
-dropshipping.flowers
 drying.flowers
 du-kn.flowers
 du-ne.flowers
@@ -601,6 +600,7 @@ local.flowers
 localartisan.flowers
 logistics.flowers
 lore.flowers
+lost.flowers
 lotus.flowers
 lov.flowers
 loveand.flowers
@@ -788,7 +788,6 @@ promo.flowers
 promocode.flowers
 promoseeds.flowers
 psyche.flowers
-psychedelic.flowers
 ptz.flowers
 purdy.flowers
 pure.flowers
