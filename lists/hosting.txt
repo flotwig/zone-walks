@@ -1812,6 +1812,7 @@ protos.hosting
 provalue.hosting
 proweb.hosting
 prxy.hosting
+psb.hosting
 ptr.hosting
 publiccloud.hosting
 publicompserver.hosting
@@ -1956,6 +1957,7 @@ science.hosting
 scoremobile.hosting
 scr.hosting
 sdhd.hosting
+sdsks.hosting
 sealislandmedia.hosting
 search-engine.hosting
 searchengine.hosting
