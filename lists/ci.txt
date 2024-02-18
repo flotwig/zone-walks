@@ -235,7 +235,6 @@
 53.ci
 55.ci
 555.ci
-56.ci
 567.ci
 57.ci
 588.ci
@@ -1978,6 +1977,7 @@ bssim.ci
 bta.ci
 btc.ci
 btech.ci
+btelecivoire.ci
 btim.ci
 btp.ci
 btpex.ci
@@ -4101,7 +4101,6 @@ dplus.ci
 dpm.ci
 dpogroup.ci
 dppse.ci
-dps.ci
 dpse-mfp.ci
 dpstat-mesrs.ci
 dpz.ci
@@ -4486,6 +4485,7 @@ efemme.ci
 efemmes.ci
 effetindesirable.ci
 eflorale.ci
+ega.ci
 egarage.ci
 egard.ci
 egbosarl.ci
@@ -8525,6 +8525,7 @@ mujva.ci
 multilog.ci
 multipack.ci
 multiservices.ci
+muns.ci
 mupartci.ci
 mureka.ci
 murema.ci
@@ -8714,6 +8715,7 @@ nextbasket.ci
 nextech.ci
 nextsolar.ci
 nexus.ci
+nexussolutions.ci
 nf.ci
 nft.ci
 ngci.ci
