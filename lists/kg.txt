@@ -1075,7 +1075,6 @@ artauto.kg
 arte.kg
 arte-lamp.kg
 artel.kg
-artelgroup.kg
 artenika.kg
 arterium.kg
 artezian.kg
@@ -3086,6 +3085,7 @@ dentalclinic.kg
 dentalhouse.kg
 dentalkorzina.kg
 dentalpharmacy.kg
+dentist.kg
 dentistree.kg
 dentons.kg
 denttrade.kg
@@ -3746,7 +3746,6 @@ encar.kg
 encon.kg
 endoidiab.kg
 endomed.kg
-endress.kg
 enduroshop.kg
 ene-say.kg
 energi.kg
@@ -4572,7 +4571,6 @@ geofox.kg
 geointellect.kg
 geol.kg
 geolabtsh.kg
-geolog.kg
 geology.kg
 geomax.kg
 geominvod.kg
@@ -4919,7 +4917,6 @@ happytour.kg
 haribo.kg
 harmonicaapp.kg
 harrypotter.kg
-hata.kg
 hatber.kg
 haulmar.kg
 hauraton.kg
@@ -5077,7 +5074,6 @@ hondagarage.kg
 honey.kg
 hongqi.kg
 honor.kg
-honoraryconsulate.kg
 hookah.kg
 hoovers.kg
 hop.kg
@@ -5550,7 +5546,6 @@ ipmatika.kg
 ipnet.kg
 ipoteka.kg
 ipotekademir.kg
-ipp.kg
 ippon.kg
 iprofi.kg
 ipsilkway.kg
@@ -6225,6 +6220,7 @@ kje.kg
 kjk.kg
 kjsk.kg
 kk.kg
+kkagaz.kg
 kkb.kg
 kkb24.kg
 kkc.kg
@@ -6264,7 +6260,6 @@ knauf.kg
 kncrch.kg
 kned.kg
 knews.kg
-kng.kg
 kniga.kg
 knitism.kg
 knitu.kg
@@ -6478,7 +6473,6 @@ kurjun.kg
 kurjun-ex.kg
 kurmanbek-aimak.kg
 kurmandik.kg
-kurort.kg
 kurpuldek.kg
 kurs.kg
 kursat.kg
@@ -7076,7 +7070,6 @@ mango.kg
 mangyt-aimak.kg
 mann-schroeder.kg
 mannol.kg
-manul.kg
 map.kg
 map-digikonush.kg
 mapid.kg
@@ -7280,7 +7273,6 @@ mediconsultants.kg
 medik.kg
 medikal.kg
 medikana.kg
-medikana-plus.kg
 mediland.kg
 medimpex.kg
 medincus.kg
@@ -7795,7 +7787,6 @@ mv.kg
 mvd.kg
 mvm.kg
 mvp.kg
-mvtp.kg
 mwgroup.kg
 mwork.kg
 mwp.kg
@@ -7887,7 +7878,6 @@ namsun.kg
 nanasport.kg
 naniko.kg
 napizza.kg
-naprokat.kg
 narahate.kg
 nardy.kg
 narod.kg
@@ -11360,7 +11350,6 @@ travelvision.kg
 travelwings.kg
 travelworld.kg
 travertine.kg
-trb.kg
 trcargo.kg
 treego.kg
 trekking.kg
@@ -11503,7 +11492,6 @@ tvoydom.kg
 twinkl.kg
 twogo.kg
 twscorex.kg
-txt.kg
 tyc.kg
 tylolhot.kg
 typical.kg
@@ -11640,6 +11628,7 @@ uniquepro.kg
 unis.kg
 uniservice.kg
 unison.kg
+unistore.kg
 unistrade.kg
 unistream.kg
 unitap.kg
@@ -12080,7 +12069,6 @@ weekend.kg
 weidel.kg
 weirdlywonderful.kg
 weitmann.kg
-welcome.kg
 welcometech.kg
 welcometo.kg
 welder.kg
