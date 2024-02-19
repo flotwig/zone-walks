@@ -488,6 +488,7 @@ axla-logistics.ax
 axoft.ax
 axombyggnad.ax
 axon.ax
+axora.ax
 axport.ax
 axr.ax
 axred.ax
@@ -1630,6 +1631,7 @@ hantverkare.ax
 happy.ax
 hard.ax
 harrysel.ax
+hasht.ax
 hasses.ax
 hastupplevelser.ax
 hautala.ax
@@ -1869,7 +1871,6 @@ ir.ax
 irc.ax
 irem.ax
 irm.ax
-is.ax
 isaac.ax
 isakssons.ax
 ishares.ax
@@ -3823,7 +3824,6 @@ up.ax
 upphandlingsinspektionen.ax
 upstate.ax
 ur.ax
-urb.ax
 urbanfarm.ax
 url.ax
 us.ax
