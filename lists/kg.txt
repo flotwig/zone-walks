@@ -524,6 +524,7 @@ aizen.kg
 ajkr.kg
 ak-bata.kg
 ak-bulakpluse.kg
+ak-jar-aimak.kg
 ak-jol.kg
 ak-muz-aimak.kg
 ak-say.kg
@@ -610,6 +611,7 @@ alam.kg
 alaman.kg
 alamedin.kg
 alamudun.kg
+alamudunlibrary.kg
 alarm.kg
 alata.kg
 alatash.kg
@@ -625,6 +627,7 @@ alatown.kg
 alatv.kg
 alawar.kg
 alay.kg
+alay-express.kg
 albanleader.kg
 alber.kg
 albion.kg
@@ -733,6 +736,7 @@ almaz-rez.kg
 almazfm.kg
 almeria.kg
 almubin.kg
+almurut.kg
 alna.kg
 aloe.kg
 alp-aruu.kg
@@ -871,6 +875,7 @@ anas.kg
 anavangard.kg
 anavg.kg
 androlog.kg
+andromeda.kg
 anekdot.kg
 anextour.kg
 angar.kg
@@ -1427,6 +1432,7 @@ avigeya.kg
 avimu.kg
 avior.kg
 avisa.kg
+avisales.kg
 avita.kg
 avitafarma.kg
 avitapharma.kg
@@ -1467,7 +1473,6 @@ avtokriminalist.kg
 avtolombard.kg
 avtomalyar.kg
 avtomaster.kg
-avtonalog.kg
 avtopapa.kg
 avtoplus.kg
 avtopodbor.kg
@@ -1531,6 +1536,7 @@ azonclimat.kg
 azor.kg
 azs.kg
 azsk74.kg
+aztools.kg
 azure.kg
 b.kg
 b-expert.kg
@@ -1779,6 +1785,7 @@ bekmoldo.kg
 beko.kg
 bel.kg
 belayareka.kg
+belbog.kg
 belek.kg
 beles.kg
 belgi.kg
@@ -1935,7 +1942,6 @@ bilimjolu.kg
 bilimkana.kg
 bilimkanaamericanschool.kg
 bilimkanaeuropeanschool.kg
-bilimot.kg
 bilimservice.kg
 bill.kg
 billing.kg
@@ -2020,6 +2026,7 @@ bishkekwings.kg
 bishtao.kg
 bisseca.kg
 bit.kg
+bit-money.kg
 bitaxi.kg
 bitbanker.kg
 bitcapital.kg
@@ -2400,6 +2407,7 @@ cardiology.kg
 cardiosurgery.kg
 cardplus.kg
 cardsmoney.kg
+cardstandard.kg
 cardtocard.kg
 cardtrade.kg
 careot.kg
@@ -2848,6 +2856,7 @@ credit.kg
 credit-suisse.kg
 crediteurope.kg
 crediteuropebank.kg
+credits.kg
 creditsuisse.kg
 crif.kg
 crm.kg
@@ -3064,7 +3073,6 @@ demar.kg
 demarhotel.kg
 demetra-m.kg
 demilge.kg
-demirba.kg
 demirbank.kg
 demirone.kg
 demirshop.kg
@@ -3331,6 +3339,7 @@ dostour.kg
 dostrade.kg
 dostuk.kg
 dostukao.kg
+dostukcha.kg
 dostukgroup.kg
 dosug.kg
 dota.kg
@@ -3952,6 +3961,7 @@ everestmotors.kg
 everton-cis.kg
 evertop.kg
 evg.kg
+evi.kg
 evia.kg
 evion.kg
 evisa.kg
@@ -4212,6 +4222,7 @@ fishka.kg
 fit.kg
 fitagent.kg
 fitness.kg
+fitness-dasmia.kg
 fitofarm.kg
 fitolizin.kg
 fitostena.kg
@@ -4222,6 +4233,7 @@ fix.kg
 fix-master.kg
 fix-price.kg
 fixletty.kg
+fkb.kg
 fl-shop.kg
 fl-space.kg
 flag.kg
@@ -4825,6 +4837,7 @@ gruzo.kg
 gruzoperevozki-312.kg
 gruzotaxi.kg
 gruzovichkof.kg
+gryb.kg
 gs.kg
 gsho.kg
 gsk.kg
@@ -5004,7 +5017,6 @@ himalayawellness.kg
 himchistka.kg
 himel.kg
 himgroupltd.kg
-himprom.kg
 himsnab.kg
 hipp.kg
 hippo.kg
@@ -5033,6 +5045,7 @@ hoandcorp.kg
 hobbypark.kg
 hobypark.kg
 hockeylife.kg
+hoco.kg
 hodlex.kg
 hoff.kg
 hofmann.kg
@@ -5065,6 +5078,7 @@ hondagarage.kg
 honey.kg
 hongqi.kg
 honor.kg
+honoraryconsulate.kg
 hookah.kg
 hoovers.kg
 hop.kg
@@ -5212,7 +5226,6 @@ icredit.kg
 ics.kg
 ictlab.kg
 icv.kg
-id.kg
 idalgo.kg
 idalgo-clinic.kg
 idalgo-family.kg
@@ -5440,6 +5453,7 @@ instream.kg
 instrument.kg
 insult.kg
 insurance.kg
+insurancebakai.kg
 int.kg
 intant.kg
 intech.kg
@@ -5473,7 +5487,6 @@ interlinks.kg
 interlogistics.kg
 intermag.kg
 intermarketing.kg
-intermed.kg
 intermedia.kg
 intermedical.kg
 internetpolicy.kg
@@ -5551,13 +5564,11 @@ ir.kg
 iradio.kg
 iran.kg
 irankerama.kg
-irbis-tech.kg
 irbis22.kg
 irc.kg
 irdp.kg
 irfas.kg
 irida.kg
-iridium.kg
 irit.kg
 irkeshtam.kg
 iron.kg
@@ -5588,6 +5599,7 @@ iskander.kg
 iskander-service-co.kg
 iskender.kg
 iskenderov.kg
+iskushenie.kg
 islamdini.kg
 islamico.kg
 islamjolu.kg
@@ -5698,6 +5710,7 @@ izilife.kg
 izimobile.kg
 izofiber.kg
 izol.kg
+izordo.kg
 j.kg
 jabra.kg
 jac.kg
@@ -6161,6 +6174,7 @@ kicb.kg
 kido.kg
 kids.kg
 kids-express.kg
+kidstime.kg
 kif.kg
 kifa.kg
 kilem.kg
@@ -6459,7 +6473,6 @@ kurak.kg
 kurama.kg
 kurama-msu.kg
 kurenkeev.kg
-kurjun.kg
 kurjun-ex.kg
 kurmanbek-aimak.kg
 kurmandik.kg
@@ -6879,6 +6892,7 @@ logosgroup.kg
 logostravel.kg
 logoton.kg
 logsystem.kg
+loi.kg
 lollipop.kg
 lolofo.kg
 lolotrip.kg
@@ -7294,6 +7308,7 @@ medznanie.kg
 meerim.kg
 meerix.kg
 mega.kg
+mega-express.kg
 mega-hand.kg
 mega-soft.kg
 mega-stroy.kg
@@ -7653,6 +7668,7 @@ mormon.kg
 mormons.kg
 moroz.kg
 moskitniesetki.kg
+moskva.kg
 moskvich.kg
 mosmebel.kg
 mostbet.kg
@@ -7778,6 +7794,7 @@ mvd.kg
 mvm.kg
 mvp.kg
 mwgroup.kg
+mwork.kg
 mwp.kg
 mx.kg
 my.kg
@@ -8488,7 +8505,6 @@ orosport.kg
 orozbekov.kg
 ortomaster.kg
 ortoped.kg
-orunbaikurbanbaev.kg
 os.kg
 osago.kg
 osago24.kg
@@ -8682,6 +8698,7 @@ paxlovid.kg
 paxlovideducation.kg
 pay.kg
 pay24.kg
+pay2be.kg
 pay2me.kg
 payda.kg
 paydaycasino.kg
@@ -8689,6 +8706,7 @@ payfort.kg
 paylaybox.kg
 payline.kg
 paymarket.kg
+paymaster.kg
 payment.kg
 paymob.kg
 paynearby.kg
@@ -8697,9 +8715,12 @@ payout.kg
 paypal.kg
 payqr.kg
 paysend.kg
+payshop.kg
 paysoft.kg
 paystones.kg
+paystore.kg
 paysystem.kg
+paytech.kg
 payway.kg
 pb.kg
 pbi-zm.kg
@@ -9364,6 +9385,7 @@ rdfmap.kg
 rdita.kg
 rdtcksma.kg
 re.kg
+reacenter.kg
 reach-initiative.kg
 real.kg
 real-security.kg
@@ -9465,6 +9487,7 @@ rentalcars.kg
 rentcars.kg
 rentik.kg
 rentme.kg
+renwen.kg
 repetitor.kg
 repexpert.kg
 report.kg
@@ -9622,6 +9645,7 @@ royalclima.kg
 royalinc.kg
 royalmed.kg
 royalmotors.kg
+royalsafa.kg
 royalsport.kg
 royalthermo.kg
 royaltrade.kg
@@ -9873,6 +9897,7 @@ sdbg.kg
 sdg.kg
 sdgroup.kg
 sdk.kg
+sdmanas.kg
 sdo.kg
 se.kg
 sea.kg
@@ -9969,6 +9994,7 @@ sf.kg
 sf-building.kg
 sfcg.kg
 sfibral.kg
+sfr.kg
 sg.kg
 sgem.kg
 sgp.kg
@@ -10113,6 +10139,7 @@ sinegorie.kg
 sino.kg
 sinocorp.kg
 sinomotors.kg
+sipuni.kg
 sirazhidinovakmatali.kg
 sirius.kg
 sistem.kg
@@ -10333,7 +10360,6 @@ soltoholidays.kg
 solutel.kg
 solventum.kg
 som.kg
-soma.kg
 somary.kg
 some.kg
 somik.kg
@@ -10776,6 +10802,7 @@ tamron.kg
 tana.kg
 tanauto.kg
 tandem.kg
+tandem-garant.kg
 tandoo.kg
 tangaroa-co.kg
 tanit.kg
@@ -11417,6 +11444,7 @@ tulpartrade.kg
 tuman.kg
 tumar.kg
 tumar-travel.kg
+tumarcomtrade.kg
 tumarinvest.kg
 tumarsoft.kg
 tumblr.kg
@@ -11475,6 +11503,7 @@ tvoydom.kg
 twinkl.kg
 twogo.kg
 twscorex.kg
+txt.kg
 tyc.kg
 tylolhot.kg
 typical.kg
@@ -11597,6 +11626,7 @@ unihelp.kg
 unilever.kg
 unilift.kg
 unilink.kg
+unimaster.kg
 unimed.kg
 unioil.kg
 union.kg
@@ -12310,6 +12340,7 @@ zapis.kg
 zapros.kg
 zarplata.kg
 zashitaidei.kg
+zavgar.kg
 zavod.kg
 zavod-implantacii.kg
 zavod-pt.kg
