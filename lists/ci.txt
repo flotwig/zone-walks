@@ -463,6 +463,7 @@ acci.ci
 accor-invest.ci
 accorinvest.ci
 acdc.ci
+ace.ci
 ace-naorlo.ci
 acell.ci
 acf.ci
@@ -1209,15 +1210,11 @@ assougboetassocies.ci
 assoya.ci
 assoyacar.ci
 assurance-auto.ci
-assurance-comar.ci
 assurance-digitale.ci
 assuranceauto.ci
 assuranceautodigitale.ci
-assurancecomar.ci
 assurancedigitale.ci
-assurances-comar.ci
 assurancesauto.ci
-assurancescomar.ci
 assurancevoyage.ci
 assureplus.ci
 assurermavoiture.ci
@@ -1614,7 +1611,6 @@ benchmark.ci
 benco.ci
 bendev.ci
 beneko.ci
-benestore.ci
 benevolemunicipal.ci
 benian.ci
 benicci.ci
@@ -3355,9 +3351,6 @@ comafrique-telecom.ci
 comako.ci
 comapre.ci
 comar.ci
-comar-assurance.ci
-comar-assurances.ci
-comarassurance.ci
 comarassurances.ci
 comatec.ci
 comdigital.ci
@@ -3637,6 +3630,7 @@ culligan.ci
 cultura.ci
 culture.ci
 cumlaudelab.ci
+cur.ci
 customers.ci
 cut.ci
 cuzzispa.ci
@@ -4178,6 +4172,7 @@ e-bma.ci
 e-bordereaux.ci
 e-colis.ci
 e-consulat.ci
+e-control.ci
 e-diakite.ci
 e-enfant.ci
 e-finity.ci
@@ -4310,6 +4305,7 @@ ecommunes.ci
 econnect.ci
 economie-ivoirienne.ci
 econsulting.ci
+econtrol.ci
 ecoplus-hygiene.ci
 ecorigine.ci
 ecoshop.ci
@@ -4449,7 +4445,6 @@ w2c.edu.ci
 www.edu.ci
 edu-consulting.ci
 educ.ci
-educagri.ci
 educanet.ci
 educarriere.ci
 educatel.ci
@@ -4850,6 +4845,7 @@ etsdh.ci
 etsdjessou.ci
 etsel-elyonnature.ci
 etskoffikonan.ci
+etsmajor.ci
 etsmp-josho.ci
 etsnoura.ci
 etstraorenana.ci
@@ -5092,6 +5088,7 @@ fhbconsulting.ci
 fhi.ci
 fi.ci
 fiamc.ci
+fiamm.ci
 fiat.ci
 fiatprofessional.ci
 fibad.ci
@@ -6151,6 +6148,7 @@ ibagim.ci
 ibazar.ci
 ibb.ci
 ibc.ci
+ibg.ci
 ibicorp.ci
 ibis.ci
 ibis-hotel.ci
@@ -6215,7 +6213,6 @@ idif.ci
 idimmobilier.ci
 idjawards.ci
 idkel.ci
-idl.ci
 idm.ci
 idm-construction.ci
 ids.ci
@@ -6513,6 +6510,7 @@ iqoo.ci
 iqoption.ci
 iqvia.ci
 ir.ci
+irc.ci
 ird.ci
 iribat.ci
 irin.ci
@@ -6710,6 +6708,7 @@ izi.ci
 izigo.ci
 iziken.ci
 izimo.ci
+izinetci.ci
 iziweb.ci
 izouglou.ci
 izyworkci.ci
@@ -7147,6 +7146,7 @@ kotche.ci
 kotech.ci
 kouao.ci
 koudijs.ci
+koudouhermine.ci
 kouesolutions.ci
 koumalochange.ci
 koumassi.ci
@@ -7680,6 +7680,7 @@ louciens.ci
 louislagrange.ci
 lounboutique.ci
 love.ci
+loving-residence-hotel.ci
 lovisa.ci
 loxea.ci
 lp.ci
@@ -7870,7 +7871,6 @@ majorevent.ci
 majorevents.ci
 majortechnologie.ci
 makeup.ci
-makeuprevolution.ci
 maki-cinema.ci
 maki-lab.ci
 makicinema.ci
@@ -7985,7 +7985,6 @@ matarshop.ci
 matassgroup.ci
 matca.ci
 matchmaking.ci
-matchvalue.ci
 materiaux.ci
 materiel.ci
 materio.ci
@@ -8298,7 +8297,6 @@ mobilekoonet.ci
 mobilemoney.ci
 mobileoutfitters.ci
 mobileplus.ci
-mobilerecharge.ci
 mobilia.ci
 mobilier.ci
 mobilishop.ci
@@ -8641,6 +8639,7 @@ nedit.ci
 neemba.ci
 negoce.ci
 negoceboutique.ci
+negodeals.ci
 neko.ci
 nekoholding.ci
 nellhome.ci
@@ -9315,7 +9314,6 @@ paco.ci
 padelclub.ci
 padelzone.ci
 padfa.ci
-padleclub.ci
 pagdrh.ci
 pagdrh-csp.ci
 pagds.ci
@@ -9775,7 +9773,6 @@ pro-juriste.ci
 probo.ci
 probricolage.ci
 probuilding.ci
-procash.ci
 prochem.ci
 prochesservices.ci
 prochicos.ci
@@ -9820,6 +9817,7 @@ promo.ci
 promonova.ci
 promotion-immobiliere.ci
 promotionivoire.ci
+prompt.ci
 proparts.ci
 propertypro.ci
 prophetesdeguilgal.ci
@@ -10385,6 +10383,7 @@ sanlamallianzassurancenon-vie.ci
 sanlamallianzassurancevie.ci
 sanlamallianzcotedivoire.ci
 sanlamassurancevie.ci
+sanlamvietresorerie.ci
 sanlishop.ci
 sanmarina.ci
 sanofi.ci
@@ -10557,6 +10556,7 @@ sekelem.ci
 seklaoui.ci
 seklaouigroup.ci
 seklaouigroupe.ci
+sekoafrica.ci
 select-invest.ci
 selection.ci
 selectionsprosuma.ci
@@ -12160,6 +12160,7 @@ vitibzonefranche.ci
 vitnet-inter.ci
 vitrine.ci
 vitropicafrica.ci
+viva.ci
 vivapub.ci
 vivoenergy.ci
 vivre.ci
@@ -12582,7 +12583,6 @@ zco.ci
 ze.ci
 zebet.ci
 zecasino.ci
-zeinabboutik.ci
 zelishop.ci
 zemarket.ci
 zen.ci
