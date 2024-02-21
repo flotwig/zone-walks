@@ -108,7 +108,6 @@ beach.flowers
 beauty.flowers
 beautyblossoms.flowers
 becauseflowers.flowers
-bees.flowers
 belaire.flowers
 bellablooms.flowers
 beoneseed.flowers
@@ -430,6 +429,7 @@ ghost.flowers
 giant.flowers
 gift.flowers
 giftme.flowers
+gimme.flowers
 giraffe.flowers
 giving.flowers
 glass.flowers
@@ -569,7 +569,9 @@ kindle.flowers
 kingofprussia.flowers
 kiyo.flowers
 klumba.flowers
+klumba-tomsk.flowers
 klumbaopt.flowers
+klumbatomsk.flowers
 knotty.flowers
 kosmas.flowers
 kvitkovavanil.flowers
