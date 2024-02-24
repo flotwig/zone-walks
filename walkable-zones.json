@@ -28,6 +28,12 @@
       "zone": "cars"
     },
     {
+      "zone": "ch"
+    },
+    {
+      "zone": "christmas"
+    },
+    {
       "zone": "ci"
     },
     {
@@ -35,6 +41,9 @@
     },
     {
       "zone": "dz"
+    },
+    {
+      "zone": "ee"
     },
     {
       "zone": "er"
@@ -55,6 +64,9 @@
       "zone": "hosting"
     },
     {
+      "zone": "id"
+    },
+    {
       "zone": "kg"
     },
     {
@@ -67,6 +79,9 @@
       "zone": "lk"
     },
     {
+      "zone": "lol"
+    },
+    {
       "zone": "lr"
     },
     {
@@ -76,6 +91,9 @@
       "zone": "mom"
     },
     {
+      "zone": "nu"
+    },
+    {
       "zone": "pics"
     },
     {
@@ -83,6 +101,12 @@
     },
     {
       "zone": "ruhr"
+    },
+    {
+      "zone": "se"
+    },
+    {
+      "zone": "tn"
     },
     {
       "zone": "tz"
