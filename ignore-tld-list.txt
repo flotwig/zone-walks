@@ -13,13 +13,5 @@ xn--fzc2c9e2c
 xn--xkc2al3hye2a
 # Gets stuck in an infinite loop, but ldns-walk works...
 xn--pgbs0dh
-# These ccTLDs currently time out, either due to zone size or bugs
-ee
-id
-nu
-se
-tn
-ch
-lol
 # No longer works
 ir
