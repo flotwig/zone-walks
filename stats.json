@@ -37,6 +37,10 @@
       "zone": "mom"
     },
     {
+      "domains": "14240",
+      "zone": "dz"
+    },
+    {
       "domains": "12980",
       "zone": "gdn"
     },
@@ -71,10 +75,6 @@
     {
       "domains": "4143",
       "zone": "game"
-    },
-    {
-      "domains": "3662",
-      "zone": "dz"
     },
     {
       "domains": "3554",
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2797552"
+  "total": "2808130"
 }
