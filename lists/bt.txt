@@ -16,8 +16,8 @@ abc.bt
 abcsi.bt
 abhayabhutan.bt
 abit.bt
-academy.bt
 academy-assessmentandreporting.bt
+academy.bt
 access2care.bt
 aco.bt
 addcs-buildassist.bt
@@ -110,9 +110,9 @@ bhe.bt
 bhm.bt
 bhsl.bt
 bhtf.bt
-bhutan.bt
 bhutan-retreat.bt
 bhutan-tourism.bt
+bhutan.bt
 bhutan2008.bt
 bhutan2020.bt
 bhutan4joy.bt
@@ -538,7 +538,6 @@ eximexpress.bt
 fabacademy.bt
 fablab.bt
 farmacy.bt
-ns1.fastlink.bt
 fcb.bt
 fcbl.bt
 fdi4gnh.bt
@@ -711,8 +710,6 @@ jswlaw.bt
 jtinterlocking.bt
 justbe.bt
 jwpti.bt
-ns1.k4media.bt
-ns2.k4media.bt
 karify.bt
 karma.bt
 karmabhutan.bt
@@ -853,6 +850,7 @@ naos.bt
 napa3.bt
 nation.bt
 nationalcouncil.bt
+nationalcouncil.parl.bt
 naturewingsbhutan.bt
 naykapgokab.bt
 nclc.bt
@@ -871,8 +869,8 @@ ngn.bt
 nhdcl.bt
 nic.bt
 nindalingpatours.bt
-nintendo.bt
 nintendo-3ds.bt
+nintendo.bt
 nintendo3ds.bt
 nirvana.bt
 nldbhutan.bt
@@ -894,6 +892,9 @@ norwangsamden.bt
 nrc.bt
 nrdcl.bt
 ns.bt
+ns1.fastlink.bt
+ns1.k4media.bt
+ns2.k4media.bt
 nsdc.bt
 nskf.bt
 nswab.bt
@@ -924,7 +925,6 @@ palyuel.bt
 pamtshohotel.bt
 panasonic.bt
 panorama.bt
-nationalcouncil.parl.bt
 parliament.bt
 parousiatoursandtreks.bt
 pay.bt
