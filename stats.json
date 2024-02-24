@@ -33,10 +33,6 @@
       "zone": "pics"
     },
     {
-      "domains": "51773",
-      "zone": "lk"
-    },
-    {
       "domains": "44766",
       "zone": "mom"
     },
@@ -47,6 +43,10 @@
     {
       "domains": "12456",
       "zone": "kg"
+    },
+    {
+      "domains": "10364",
+      "zone": "lk"
     },
     {
       "domains": "9784",
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2831185"
+  "total": "2789776"
 }
