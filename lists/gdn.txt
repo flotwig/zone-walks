@@ -9998,6 +9998,7 @@ printerrepair.gdn
 printingpress.gdn
 printingservices.gdn
 printstore.gdn
+prism.gdn
 privacy.gdn
 private.gdn
 privatejet.gdn
@@ -11376,7 +11377,6 @@ sloan.gdn
 slog.gdn
 slot.gdn
 slotcity.gdn
-slotgacor.gdn
 slots.gdn
 slovakian.gdn
 slovenian.gdn
@@ -12093,7 +12093,6 @@ tpp.gdn
 tr.gdn
 tr3s.gdn
 trabant.gdn
-tracy.gdn
 trad.gdn
 tradeadexchange.gdn
 tradedoubler.gdn
