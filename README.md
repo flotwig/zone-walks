@@ -15,7 +15,6 @@ Zone walking is a method of enumerating domain names that takes advantage of a q
 TLD | Domain Count
 --- | ---
 [`se`][se] [(raw)][se-raw] | <div align="right">1442976</div>
-[`tn`][tn] [(raw)][tn-raw] | <div align="right">465386</div>
 [`lol`][lol] [(raw)][lol-raw] | <div align="right">196108</div>
 [`kz`][kz] [(raw)][kz-raw] | <div align="right">159360</div>
 [`nu`][nu] [(raw)][nu-raw] | <div align="right">138686</div>
@@ -23,6 +22,7 @@ TLD | Domain Count
 [`li`][li] [(raw)][li-raw] | <div align="right">69925</div>
 [`pics`][pics] [(raw)][pics-raw] | <div align="right">66397</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">48790</div>
+[`tn`][tn] [(raw)][tn-raw] | <div align="right">45020</div>
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">44761</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">12980</div>
 [`kg`][kg] [(raw)][kg-raw] | <div align="right">12458</div>
@@ -56,7 +56,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">2843342</div>
+**Total** | <div align="right">2422976</div>
 
 ## See Also
 
@@ -66,8 +66,6 @@ TLD | Domain Count
 
 [se]: ./lists/se.txt
 [se-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/se.txt
-[tn]: ./lists/tn.txt
-[tn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/tn.txt
 [lol]: ./lists/lol.txt
 [lol-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lol.txt
 [kz]: ./lists/kz.txt
@@ -82,6 +80,8 @@ TLD | Domain Count
 [pics-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/pics.txt
 [lk]: ./lists/lk.txt
 [lk-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lk.txt
+[tn]: ./lists/tn.txt
+[tn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/tn.txt
 [mom]: ./lists/mom.txt
 [mom-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mom.txt
 [gdn]: ./lists/gdn.txt
