@@ -24,7 +24,6 @@ TLD | Domain Count
 [`pics`][pics] [(raw)][pics-raw] | <div align="right">66385</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">51773</div>
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">44766</div>
-[`dz`][dz] [(raw)][dz-raw] | <div align="right">14701</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">12980</div>
 [`kg`][kg] [(raw)][kg-raw] | <div align="right">12456</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
@@ -32,6 +31,7 @@ TLD | Domain Count
 [`audio`][audio] [(raw)][audio-raw] | <div align="right">4778</div>
 [`ax`][ax] [(raw)][ax-raw] | <div align="right">4262</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">4143</div>
+[`dz`][dz] [(raw)][dz-raw] | <div align="right">3662</div>
 [`mc`][mc] [(raw)][mc-raw] | <div align="right">3555</div>
 [`ci`][ci] [(raw)][ci-raw] | <div align="right">3352</div>
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">3294</div>
@@ -56,7 +56,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">2842229</div>
+**Total** | <div align="right">2831190</div>
 
 ## See Also
 
@@ -84,8 +84,6 @@ TLD | Domain Count
 [lk-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lk.txt
 [mom]: ./lists/mom.txt
 [mom-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mom.txt
-[dz]: ./lists/dz.txt
-[dz-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/dz.txt
 [gdn]: ./lists/gdn.txt
 [gdn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/gdn.txt
 [kg]: ./lists/kg.txt
@@ -100,6 +98,8 @@ TLD | Domain Count
 [ax-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ax.txt
 [game]: ./lists/game.txt
 [game-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/game.txt
+[dz]: ./lists/dz.txt
+[dz-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/dz.txt
 [mc]: ./lists/mc.txt
 [mc-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mc.txt
 [ci]: ./lists/ci.txt
