@@ -68,7 +68,7 @@ jobs:
         cache-build: true
     - run: pip install -r requirements.txt
     - run: sudo apt-get install libgetdns-dev
-    - run: npx https://github.com/flotwig/zone-walker --parallel 36 ${{ matrix.zone }} | sort -u > ./lists/${{ matrix.zone }}.txt
+    - run: npx https://github.com/flotwig/zone-walker --parallel 16 ${{ matrix.zone }} | sort -u > ./lists/${{ matrix.zone }}.txt
     - run: git pull
     - run: ./build-stats.sh
     - name: Commit files
