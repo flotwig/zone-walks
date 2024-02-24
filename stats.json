@@ -49,16 +49,16 @@
       "zone": "kg"
     },
     {
-      "domains": "11090",
-      "zone": "ci"
-    },
-    {
       "domains": "10364",
       "zone": "lk"
     },
     {
       "domains": "9784",
       "zone": "cy"
+    },
+    {
+      "domains": "9727",
+      "zone": "ci"
     },
     {
       "domains": "4920",
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2808130"
+  "total": "2806767"
 }
