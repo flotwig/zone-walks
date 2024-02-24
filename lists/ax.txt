@@ -174,8 +174,8 @@ aitl.ax
 aj.ax
 ajk.ax
 ajoranta.ax
-ak.ax
 ak-aland.ax
+ak.ax
 aka.ax
 akavaaland.ax
 akd.ax
@@ -222,8 +222,8 @@ alandmail.ax
 alandmarathon.ax
 alandpost.ax
 alandrunt.ax
-alands.ax
 alands-omsesidiga.ax
+alands.ax
 alandsbagarn.ax
 alandsbanken.ax
 alandsbanking.ax
@@ -451,8 +451,8 @@ aureus.ax
 aurinkopaneeli.ax
 aurora.ax
 autism.ax
-auto.ax
 auto-service.ax
+auto.ax
 autodiscover.ax
 av.ax
 ava.ax
@@ -464,9 +464,9 @@ avitax.ax
 avloppsexperten.ax
 avori.ax
 aw.ax
-ax.ax
 ax-el.ax
 ax-stallions.ax
+ax.ax
 ax3.ax
 axa.ax
 axax.ax
@@ -481,8 +481,8 @@ axis.ax
 axj.ax
 axjnews.ax
 axk.ax
-axla.ax
 axla-logistics.ax
+axla.ax
 axoft.ax
 axombyggnad.ax
 axon.ax
@@ -623,8 +623,8 @@ bitcoins.ax
 bite.ax
 bitso.ax
 biz.ax
-bizlab.ax
 bizlab-analytics.ax
+bizlab.ax
 bjorkberg.ax
 bjorkgarden.ax
 bjorkko.ax
@@ -907,8 +907,8 @@ corona.ax
 corp.ax
 coursio.ax
 cov.ax
-covid.ax
 covid-19.ax
+covid.ax
 cp.ax
 cq.ax
 cr.ax
@@ -927,8 +927,8 @@ csh.ax
 ct.ax
 curling.ax
 cut.ax
-cv.ax
 cv-invest.ax
+cv.ax
 cvfood.ax
 cw.ax
 cwlaw.ax
@@ -1021,8 +1021,8 @@ dlc.ax
 dm.ax
 dmz.ax
 dn.ax
-dns.ax
 dns-ok.ax
+dns.ax
 do.ax
 doc.ax
 dogger.ax
@@ -1122,8 +1122,8 @@ ekoredovisning.ax
 eksjohus.ax
 ekstromsstugor.ax
 ekum.ax
-el.ax
 el-giganten.ax
+el.ax
 elbil.ax
 elda.ax
 eleco.ax
@@ -1545,8 +1545,8 @@ grasklipparna.ax
 gravl.ax
 great.ax
 greenanddirty.ax
-greenfinance.ax
 greenfinance-capital.ax
+greenfinance.ax
 greenfinancecapital.ax
 greenrock.ax
 greenstep.ax
@@ -1675,8 +1675,8 @@ herbs.ax
 herro.ax
 heumt.ax
 hevonen.ax
-hey.ax
 hey-vet.ax
+hey.ax
 heymobysokoshotels.ax
 heymohotel.ax
 heymohotels.ax
@@ -2060,8 +2060,8 @@ kj.ax
 kjall.ax
 kjmarine.ax
 kk.ax
-kl.ax
 kl-tra.ax
+kl.ax
 klamydia.ax
 klasskampen.ax
 kling.ax
@@ -2380,8 +2380,8 @@ maritime.ax
 maritimeacademy.ax
 maritimesafety.ax
 marjasmassage.ax
-mark.ax
 mark-six.ax
+mark.ax
 market.ax
 marketmedia.ax
 markmonitor.ax
@@ -2600,8 +2600,8 @@ mym.ax
 mymail.ax
 mytaxi.ax
 mz.ax
-na.ax
 na-kd.ax
+na.ax
 nagl.ax
 nahd.ax
 nakd.ax
@@ -2687,8 +2687,8 @@ nordin.ax
 nordqvistsstugor.ax
 nordsoc.ax
 nordstrom.ax
-normal.ax
 normal-stores.ax
+normal.ax
 normalstores.ax
 norra.ax
 norraalandsforsamling.ax
@@ -2709,6 +2709,7 @@ nova.ax
 novav.ax
 npf.ax
 ns.ax
+ns2.quedro.ax
 nt.ax
 nu.ax
 null.ax
@@ -2786,11 +2787,11 @@ onniorava.ax
 ono.ax
 oo.ax
 ooo.ax
-op.ax
 op-hem.ax
 op-henkivakuutus.ax
 op-livforsakrings.ax
 op-services.ax
+op.ax
 opbank.ax
 open.ax
 openai.ax
@@ -2966,8 +2967,8 @@ postit.ax
 postochtullhuset.ax
 ppmclean.ax
 pq.ax
-pr.ax
 pr-media.ax
+pr.ax
 prbyggnadsmaterial.ax
 premont.ax
 presentkort.ax
@@ -2993,8 +2994,8 @@ prosound.ax
 prylbo.ax
 ps.ax
 psykiatri.ax
-psykolog.ax
 psykolog-psykoterapeut.ax
+psykolog.ax
 psykoterapi.ax
 pt.ax
 pubalbin.ax
@@ -3028,7 +3029,6 @@ qu.ax
 qualitano.ax
 quantum.ax
 quattro.ax
-ns2.quedro.ax
 queenbee.ax
 queenbeecasino.ax
 quickly.ax
@@ -3151,9 +3151,9 @@ rosenqvist.ax
 rosenserien.ax
 roslagen.ax
 rossi.ax
-rosso.ax
 rosso-express.ax
 rosso-pizza.ax
+rosso.ax
 rossoexpress.ax
 rossopizza.ax
 roxit.ax
@@ -3288,8 +3288,8 @@ shanty.ax
 sharebook.ax
 shipit.ax
 shipland.ax
-shop.ax
 shop-apotheke.ax
+shop.ax
 shopify.ax
 shopifyplus.ax
 si.ax
@@ -3745,8 +3745,8 @@ trangsund.ax
 traningsundervisningen.ax
 traningsverket.ax
 transmar.ax
-transport.ax
 transport-styling.ax
+transport.ax
 transportstyling.ax
 trateknik.ax
 trattoriaaukio.ax
@@ -3968,9 +3968,9 @@ vuokrakoti.ax
 vuokralle.ax
 vuokrattavana.ax
 vv.ax
-vvs.ax
 vvs-boden.ax
 vvs-webbutik.ax
+vvs.ax
 vvsexperten.ax
 vvskylcenter.ax
 vvswebbutik.ax
@@ -4091,7 +4091,6 @@ xk.ax
 xl.ax
 xm.ax
 xmont.ax
-xn.ax
 xn--alandiafrskring-9kb71a.ax
 xn--andersekstrm-fjb.ax
 xn--bergsprngning-hfb.ax
@@ -4183,6 +4182,7 @@ xn--vder-loa.ax
 xn--viltspr-jxa.ax
 xn--vk-xia.ax
 xn--vxthus-bua.ax
+xn.ax
 xnxx.ax
 xo.ax
 xoom.ax
