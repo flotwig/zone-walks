@@ -9,16 +9,16 @@
       "zone": "lol"
     },
     {
+      "domains": "221187",
+      "zone": "nu"
+    },
+    {
       "domains": "159360",
       "zone": "kz"
     },
     {
       "domains": "150097",
       "zone": "ee"
-    },
-    {
-      "domains": "138686",
-      "zone": "nu"
     },
     {
       "domains": "134378",
@@ -173,5 +173,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2625083"
+  "total": "2707584"
 }
