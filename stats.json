@@ -45,6 +45,10 @@
       "zone": "kg"
     },
     {
+      "domains": "11090",
+      "zone": "ci"
+    },
+    {
       "domains": "10364",
       "zone": "lk"
     },
@@ -75,10 +79,6 @@
     {
       "domains": "3554",
       "zone": "mc"
-    },
-    {
-      "domains": "3352",
-      "zone": "ci"
     },
     {
       "domains": "3316",
@@ -169,5 +169,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2789814"
+  "total": "2797552"
 }

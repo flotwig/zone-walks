@@ -25,6 +25,7 @@ TLD | Domain Count
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">44757</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">12980</div>
 [`kg`][kg] [(raw)][kg-raw] | <div align="right">12458</div>
+[`ci`][ci] [(raw)][ci-raw] | <div align="right">11090</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">10364</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
 [`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">4920</div>
@@ -33,7 +34,6 @@ TLD | Domain Count
 [`game`][game] [(raw)][game-raw] | <div align="right">4143</div>
 [`dz`][dz] [(raw)][dz-raw] | <div align="right">3662</div>
 [`mc`][mc] [(raw)][mc-raw] | <div align="right">3554</div>
-[`ci`][ci] [(raw)][ci-raw] | <div align="right">3352</div>
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">3316</div>
 [`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2582</div>
 [`pr`][pr] [(raw)][pr-raw] | <div align="right">2189</div>
@@ -56,7 +56,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">2789814</div>
+**Total** | <div align="right">2797552</div>
 
 ## See Also
 
@@ -86,6 +86,8 @@ TLD | Domain Count
 [gdn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/gdn.txt
 [kg]: ./lists/kg.txt
 [kg-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/kg.txt
+[ci]: ./lists/ci.txt
+[ci-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ci.txt
 [lk]: ./lists/lk.txt
 [lk-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lk.txt
 [cy]: ./lists/cy.txt
@@ -102,8 +104,6 @@ TLD | Domain Count
 [dz-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/dz.txt
 [mc]: ./lists/mc.txt
 [mc-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mc.txt
-[ci]: ./lists/ci.txt
-[ci-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ci.txt
 [christmas]: ./lists/christmas.txt
 [christmas-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/christmas.txt
 [hosting]: ./lists/hosting.txt
