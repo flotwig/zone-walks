@@ -46,6 +46,9 @@
       "zone": "flowers"
     },
     {
+      "zone": "game"
+    },
+    {
       "zone": "gdn"
     },
     {
@@ -62,6 +65,9 @@
     },
     {
       "zone": "kg"
+    },
+    {
+      "zone": "kz"
     },
     {
       "zone": "lb"
@@ -113,6 +119,9 @@
     },
     {
       "zone": "xn--l1acc"
+    },
+    {
+      "zone": "xn--pgbs0dh"
     }
   ]
 }

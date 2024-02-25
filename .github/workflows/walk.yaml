@@ -30,12 +30,14 @@ jobs:
         - ee
         - er
         - flowers
+        - game
         - gdn
         - gn
         - guitars
         - hosting
         - id
         - kg
+        - kz
         - lb
         - li
         - lk
@@ -53,6 +55,7 @@ jobs:
         - xn--54b7fta0cc
         - xn--80ao21a
         - xn--l1acc
+        - xn--pgbs0dh
     steps:
     - uses: actions/checkout@v3
       with:
