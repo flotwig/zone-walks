@@ -15,7 +15,7 @@ Zone walking is a method of enumerating domain names that takes advantage of a q
 TLD | Domain Count
 --- | ---
 [`se`][se] [(raw)][se-raw] | <div align="right">1442976</div>
-[`lol`][lol] [(raw)][lol-raw] | <div align="right">227848</div>
+[`lol`][lol] [(raw)][lol-raw] | <div align="right">237900</div>
 [`nu`][nu] [(raw)][nu-raw] | <div align="right">221187</div>
 [`kz`][kz] [(raw)][kz-raw] | <div align="right">159360</div>
 [`ee`][ee] [(raw)][ee-raw] | <div align="right">150047</div>
@@ -57,7 +57,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">2701809</div>
+**Total** | <div align="right">2711861</div>
 
 ## See Also
 
