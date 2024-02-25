@@ -1579,7 +1579,6 @@ ahd.tn
 ahead.tn
 ahk-store.tn
 ahki.tn
-ahkili.tn
 ahla.tn
 ahlaa.tn
 ahlabik.tn
@@ -3146,6 +3145,7 @@ argus.tn
 argusauto.tn
 argusautomobile.tn
 argusimmo.tn
+argvision.tn
 ari.tn
 arianaeyeclinic.tn
 arianeschool.tn
@@ -7452,6 +7452,7 @@ carthageboutique.tn
 carthagecement.tn
 carthagecity-immo.tn
 carthagecomposites.tn
+carthageconstruction.tn
 carthagecontemporary.tn
 carthagecrispies.tn
 carthagecrossfit.tn
@@ -12147,7 +12148,6 @@ dourousi.tn
 dourouss.tn
 doussashop.tn
 douz.tn
-douza.tn
 douzen.tn
 doverinvest.tn
 dowit.tn
@@ -13971,7 +13971,6 @@ enerteam.tn
 enertechgroup.tn
 enetaerocup.tn
 enetcom.tn
-enett.tn
 enf-takwin.tn
 enf.tn
 enfance.tn
@@ -18795,6 +18794,7 @@ hemp.tn
 hempel.tn
 heni-formation.tn
 heni.tn
+heniconcept.tn
 henkel.tn
 henribendel.tn
 hepsiburada.tn
@@ -18830,7 +18830,6 @@ het.tn
 heure-priere-tunis.tn
 heure-priere.tn
 hevents.tn
-hewa.tn
 hewlettpackard.tn
 hexa.tn
 hexabyte.tn
@@ -19156,6 +19155,7 @@ horizon-sbz.tn
 horizon-tech.tn
 horizon-university.tn
 horizon.tn
+horizonbatiment.tn
 horizonchimique.tn
 horizonconstruction.tn
 horizondistribution.tn
@@ -20052,6 +20052,7 @@ imagine4digital.tn
 imagix.tn
 imail.tn
 imall.tn
+imara-construction.tn
 imarco.tn
 imath.tn
 imax.tn
@@ -20348,6 +20349,7 @@ infinity-shop.tn
 infinity-skills.tn
 infinity.tn
 infinityaccs.tn
+infinitybuild.tn
 infinitycode.tn
 infinityevents.tn
 infinityline.tn
@@ -23537,6 +23539,7 @@ lawejtalka.tn
 lawfirm.tn
 lawhat.tn
 lawijli.tn
+lawkhayarouk.tn
 lawrenceburg.tn
 laws.tn
 lawyer.tn
@@ -24136,6 +24139,7 @@ lexpertdentaire.tn
 lexpertnegoce.tn
 lexperto.tn
 lexpertschool.tn
+lexpertshop.tn
 lexsynergy.tn
 lezemni.tn
 lezenith.tn
@@ -27472,7 +27476,6 @@ mobi-sm.tn
 mobiads.tn
 mobiblanc.tn
 mobicall.tn
-mobicasa.tn
 mobicash.tn
 mobicold.tn
 mobifiesta.tn
@@ -30714,6 +30717,7 @@ otosure.tn
 otozone.tn
 otp.tn
 otrano.tn
+otrity.tn
 ots.tn
 ott-btp.tn
 ott-cosmetics.tn
@@ -31104,6 +31108,7 @@ parabo.tn
 paraboutik.tn
 paraboutique.tn
 parabox.tn
+parabyblos.tn
 paracare.tn
 paracasa.tn
 paracentre.tn
@@ -32596,6 +32601,7 @@ quintessence.tn
 quiz-etounsi.tn
 quiz-tounsi.tn
 quiz7ar.tn
+quizajwaa.tn
 quizamenbank.tn
 quizar.tn
 quizel3ezz.tn
@@ -32722,7 +32728,6 @@ radiotopfm.tn
 radiotuniselhoura.tn
 radiotunisie.tn
 radiotunisienne.tn
-radiovitaa.tn
 radiovolontaires.tn
 radioweb-coran.tn
 radioweb.tn
@@ -38864,6 +38869,7 @@ tangaris.tn
 tangiza-store.tn
 tangoo.tn
 tangram.tn
+tanit-construction.tn
 tanit-deco.tn
 tanit-job.tn
 tanit-jobs.tn
@@ -39733,7 +39739,6 @@ thedevils-soulmate.tn
 thedigitaltrust.tn
 thedoctors.tn
 thedonphone.tn
-thedot.tn
 thedotdesign.tn
 thedsrp.tn
 theetcafe.tn
@@ -42323,6 +42328,7 @@ urbat.tn
 urbatstore.tn
 urgence-phone.tn
 urgence.tn
+urgent.tn
 uriage-tunisie.tn
 uriage.tn
 urimat.tn
