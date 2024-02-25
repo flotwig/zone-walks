@@ -14,7 +14,8 @@ Zone walking is a method of enumerating domain names that takes advantage of a q
 
 TLD | Domain Count
 --- | ---
-[`se`][se] [(raw)][se-raw] | <div align="right">1442976</div>
+[`ch`][ch] [(raw)][ch-raw] | <div align="right">2528344</div>
+[`se`][se] [(raw)][se-raw] | <div align="right">1414923</div>
 [`lol`][lol] [(raw)][lol-raw] | <div align="right">237900</div>
 [`nu`][nu] [(raw)][nu-raw] | <div align="right">221207</div>
 [`kz`][kz] [(raw)][kz-raw] | <div align="right">159360</div>
@@ -26,7 +27,7 @@ TLD | Domain Count
 [`tn`][tn] [(raw)][tn-raw] | <div align="right">45017</div>
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">44877</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">12983</div>
-[`kg`][kg] [(raw)][kg-raw] | <div align="right">12433</div>
+[`kg`][kg] [(raw)][kg-raw] | <div align="right">12427</div>
 [`dz`][dz] [(raw)][dz-raw] | <div align="right">12389</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
 [`ci`][ci] [(raw)][ci-raw] | <div align="right">9725</div>
@@ -57,7 +58,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">2711884</div>
+**Total** | <div align="right">5212169</div>
 
 ## See Also
 
@@ -65,6 +66,8 @@ TLD | Domain Count
 * [TLDR-2](https://github.com/flotwig/TLDR-2) - a collection of successful zone transfers (AXFRs) against TLDs. Auto-updated.
 * @monoidic's [TLDR2](https://github.com/monoidic/TLDR2) - an extension of TLDR that collects information about which zones are walkable. This is the inspiration for `zone-walks`, and `zone-walks` even uses the `walkable_zones.md` data from TLDR2 as a seed.
 
+[ch]: ./lists/ch.txt
+[ch-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ch.txt
 [se]: ./lists/se.txt
 [se-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/se.txt
 [lol]: ./lists/lol.txt

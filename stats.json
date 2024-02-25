@@ -1,7 +1,11 @@
 {
   "zones": [
     {
-      "domains": "1442976",
+      "domains": "2528344",
+      "zone": "ch"
+    },
+    {
+      "domains": "1414923",
       "zone": "se"
     },
     {
@@ -49,7 +53,7 @@
       "zone": "gdn"
     },
     {
-      "domains": "12433",
+      "domains": "12427",
       "zone": "kg"
     },
     {
@@ -173,5 +177,5 @@
       "zone": "lb"
     }
   ],
-  "total": "2711884"
+  "total": "5212169"
 }
