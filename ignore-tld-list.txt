@@ -15,3 +15,6 @@ xn--xkc2al3hye2a
 xn--pgbs0dh
 # No longer works
 ir
+# Takes too long on GH Actions, we'll update these remotely
+ch
+se
