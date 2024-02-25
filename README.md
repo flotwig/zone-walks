@@ -46,6 +46,7 @@ TLD | Domain Count
 [`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1063</div>
 [`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">682</div>
 [`xn--80ao21a`][xn--80ao21a] [(raw)][xn--80ao21a-raw] | <div align="right">625</div>
+[`xn--pgbs0dh`][xn--pgbs0dh] [(raw)][xn--pgbs0dh-raw] | <div align="right">589</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">508</div>
 [`auto`][auto] [(raw)][auto-raw] | <div align="right">496</div>
 [`xn--54b7fta0cc`][xn--54b7fta0cc] [(raw)][xn--54b7fta0cc-raw] | <div align="right">320</div>
@@ -58,7 +59,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">5212834</div>
+**Total** | <div align="right">5213423</div>
 
 ## See Also
 
@@ -130,6 +131,8 @@ TLD | Domain Count
 [guitars-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/guitars.txt
 [xn--80ao21a]: ./lists/xn--80ao21a.txt
 [xn--80ao21a-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--80ao21a.txt
+[xn--pgbs0dh]: ./lists/xn--pgbs0dh.txt
+[xn--pgbs0dh-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--pgbs0dh.txt
 [lr]: ./lists/lr.txt
 [lr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lr.txt
 [auto]: ./lists/auto.txt
