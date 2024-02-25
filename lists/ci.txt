@@ -2294,7 +2294,6 @@ cargo.ci
 cargoairservices.ci
 cargoclima.ci
 carhis.ci
-carinsurance.ci
 caritas.ci
 carluc.ci
 carnetdepoche.ci
@@ -5247,7 +5246,6 @@ mitec.ci
 mito.ci
 mitre.ci
 mitsubishi-motors.ci
-mixcloud.ci
 mixrecords.ci
 mizan.ci
 mjm.ci
@@ -5748,6 +5746,7 @@ nittotires.co.ci
 niu.ci
 nix.ci
 njakabeauty.ci
+njm-media.ci
 nk2h.ci
 nkc.ci
 nkny.ci
@@ -7985,6 +7984,7 @@ socida.ci
 societecivile.ci
 societegenerale.ci
 socim.ci
+socimci.ci
 socimy.ci
 socirh.ci
 socitech.ci
@@ -9126,7 +9126,6 @@ vendezvotrevoiture.ci
 vendito.ci
 veniseboutique.ci
 venividivi.ci
-venoa.ci
 ventesprivees.ci
 ventouz.ci
 ventouzo.ci
@@ -9174,6 +9173,7 @@ vigassistance.ci
 villa.ci
 villa.co.ci
 villa.com.ci
+villablanca.ci
 villas.ci
 villas.co.ci
 villas.com.ci
