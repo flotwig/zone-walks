@@ -24,8 +24,6 @@ jobs:
         - bt
         - car
         - cars
-        - ch
-        - christmas
         - ci
         - diet
         - dz
@@ -49,7 +47,6 @@ jobs:
         - pics
         - pr
         - ruhr
-        - se
         - tn
         - tz
         - ve
