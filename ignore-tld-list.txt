@@ -1,18 +1,10 @@
 # TLDs in this file will not be walked automatically due to known issues.
 # ===
-# Seems to get stuck on disneymobile.game, discovery.game, maybe rate limit kicks in around "D"?
-# https://github.com/flotwig/zone-walks/actions/runs/4049476500/jobs/6965960792
-game
-# More possible rate-limited TLDs?
-# https://github.com/flotwig/zone-walks/actions/runs/4049641710/jobs/6966238462
-kz
 # zone-walker gets stuck on these, but ldns-walk works...
 # https://github.com/flotwig/zone-walks/actions/runs/4049694748/jobs/6966909076
 sl
 xn--fzc2c9e2c
 xn--xkc2al3hye2a
-# Gets stuck in an infinite loop, but ldns-walk works...
-xn--pgbs0dh
 # No longer works
 ir
 # Takes too long on GH Actions, we'll update these remotely
