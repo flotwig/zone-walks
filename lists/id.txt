@@ -1113,7 +1113,6 @@
 2101.id
 211-41.id
 211.id
-21106.id
 212-21.id
 212-24.id
 212-51.id
@@ -1854,7 +1853,6 @@
 293167.id
 29351.id
 29358.id
-29367.id
 29371.id
 29387.id
 29388.id
@@ -1879,8 +1877,6 @@
 29635.id
 296389.id
 29653.id
-29678.id
-29683.id
 29687.id
 297-47.id
 297-49.id
@@ -2284,7 +2280,6 @@
 37943.id
 37951.id
 37956.id
-37962.id
 38-ty.id
 38.id
 380.id
@@ -2398,7 +2393,6 @@
 39520.id
 39527.id
 39567.id
-39568.id
 39571.id
 39578.id
 39582.id
@@ -3499,7 +3493,6 @@
 56788.id
 56789.id
 56791.id
-56798.id
 568.id
 56807.id
 56813.id
@@ -3677,7 +3670,6 @@
 58613.id
 58621.id
 58673.id
-58692.id
 587-11.id
 587-52.id
 587-57.id
@@ -3887,7 +3879,6 @@
 62715.id
 62719.id
 62729.id
-62758.id
 62759.id
 62783.id
 62798.id
@@ -4049,7 +4040,6 @@
 66330.id
 66334.id
 6635-uy.id
-66386.id
 664.id
 66499.id
 665.id
@@ -4210,7 +4200,6 @@
 69213.id
 69218.id
 69254.id
-69287.id
 693-ht.id
 693.id
 69318.id
@@ -4887,7 +4876,6 @@
 78256.id
 78268.id
 783.id
-78365.id
 78391.id
 78395.id
 784-05.id
@@ -4929,7 +4917,6 @@
 786.id
 78621.id
 78625.id
-78632.id
 78652.id
 78692.id
 786store.id
@@ -4960,7 +4947,6 @@
 789.id
 78916.id
 78926.id
-78932.id
 78946.id
 789bet.id
 789club.id
@@ -4984,7 +4970,6 @@
 79205.id
 79218.id
 79237.id
-79238.id
 792699.id
 79283.id
 793.id
@@ -5236,7 +5221,6 @@
 827.id
 82748.id
 82763.id
-82795.id
 828-05.id
 828-20.id
 828-25.id
@@ -6138,7 +6122,6 @@
 93528.id
 93567.id
 93580.id
-93586.id
 936.id
 93625.id
 93628.id
@@ -6378,7 +6361,6 @@
 976.id
 97660.id
 97681.id
-97683.id
 977-05.id
 977-17.id
 977-18.id
@@ -9660,7 +9642,6 @@ agungnet.id
 agungnugroho.id
 agungnusantara.id
 agungpodomoro.id
-agungpodomorokarawang.id
 agungprabowo.id
 agungprasetio.id
 agungpratama.id
@@ -21856,7 +21837,6 @@ dastak.id
 daster.id
 dasterbali.id
 dastier.id
-dastnet.id
 dastore.id
 dasu.id
 dasva.id
@@ -34220,6 +34200,7 @@ exame.id
 examed.id
 examination.id
 examine.id
+examora.id
 examples.id
 exampro.id
 examresults.id
@@ -38461,7 +38442,6 @@ flipnfry.id
 flippant.id
 flippinbits.id
 flipsheet.id
-flipside.id
 flipto.id
 fliq.id
 fliqpictures.id
@@ -53783,7 +53763,6 @@ hitungzakat.id
 hitz.id
 hitz4d.id
 hitz4dgacor.id
-hitzmie.id
 hitztar.id
 hiu77.id
 hiudomino.id
@@ -60222,7 +60201,6 @@ kanamono.id
 kananbet.id
 kanapark.id
 kanarii.id
-kanaru.id
 kanasin.id
 kanastudio.id
 kanatura.id
@@ -64550,7 +64528,6 @@ kitalelang.id
 kitalitika.id
 kitalulus.id
 kitamaju.id
-kitamanagement.id
 kitamart.id
 kitamedia.id
 kitamenulis.id
@@ -84354,7 +84331,6 @@ minting.id
 mintleaf.id
 minto.id
 mintologicca.id
-mintorogo.id
 mintos.id
 mintstudio.id
 minty.id
@@ -93290,7 +93266,6 @@ outbiz.id
 outbondbandung.id
 outbound-bogor.id
 outbound.id
-outboundalas.id
 outboundbandung.id
 outboundbogor.id
 outboundjogja.id
@@ -105154,6 +105129,7 @@ profiie.id
 profil.id
 profilanakangin.id
 profilanies.id
+profilbisnis.id
 profile-php.id
 profile.id
 profiler-ai.id
@@ -107221,7 +107197,6 @@ puja.id
 pujaexpress.id
 pujafest.id
 pujangga.id
-pujaseru.id
 pujianto.id
 pujihartono.id
 pujiskcakapbanget.id
@@ -117085,7 +117060,6 @@ villajoglodiego.id
 villajulie.id
 villakedungu.id
 villakencanakarawang.id
-villakotabatu.id
 villaku.id
 villalembahkoi.id
 villaloka.id
@@ -117790,7 +117764,6 @@ visitours.id
 visitpandaan.id
 visitqatar.id
 visitqu.id
-visitrajagaluh.id
 visitransformasi.id
 visitrip.id
 visits.id
@@ -121892,7 +121865,6 @@ wikawaterheaterindonesia.id
 wiken.id
 wikgocp.id
 wiki.id
-wikia.id
 wikiacademy.id
 wikiacademyofficial.id
 wikiba.id
