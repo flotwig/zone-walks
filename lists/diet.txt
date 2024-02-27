@@ -292,6 +292,7 @@ dukehospital.diet
 dukelifepoint.diet
 dukemedicalcenter.diet
 dukemedicine.diet
+dvm.diet
 dysphagia.diet
 easiest.diet
 easy.diet
@@ -639,6 +640,7 @@ low-carb.diet
 low-sodium.diet
 lowcarb.diet
 lowcarbohydrate.diet
+lowfact.diet
 lowfodmap.diet
 lowgi.diet
 lowiodine.diet
@@ -831,7 +833,6 @@ osdglobal.diet
 otsuka.diet
 ouyi.diet
 own.diet
-ozempic.diet
 paleo.diet
 paleolithic.diet
 paleopig.diet
@@ -1059,6 +1060,7 @@ theketo.diet
 thelast.diet
 thelivelong.diet
 thelove.diet
+thelowfact.diet
 themiracle.diet
 theplant.diet
 theproductivity.diet
