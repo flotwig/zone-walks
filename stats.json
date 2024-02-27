@@ -65,10 +65,6 @@
       "zone": "cy"
     },
     {
-      "domains": "9727",
-      "zone": "ci"
-    },
-    {
       "domains": "4919",
       "zone": "ruhr"
     },
@@ -87,6 +83,10 @@
     {
       "domains": "3553",
       "zone": "mc"
+    },
+    {
+      "domains": "3353",
+      "zone": "ci"
     },
     {
       "domains": "3324",
@@ -181,5 +181,5 @@
       "zone": "lb"
     }
   ],
-  "total": "5223924"
+  "total": "5217550"
 }
