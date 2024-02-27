@@ -33,10 +33,6 @@
       "zone": "pics"
     },
     {
-      "domains": "48859",
-      "zone": "lk"
-    },
-    {
       "domains": "45055",
       "zone": "tn"
     },
@@ -51,6 +47,10 @@
     {
       "domains": "12445",
       "zone": "kg"
+    },
+    {
+      "domains": "10386",
+      "zone": "lk"
     },
     {
       "domains": "9971",
@@ -181,5 +181,5 @@
       "zone": "lb"
     }
   ],
-  "total": "5090433"
+  "total": "5051960"
 }
