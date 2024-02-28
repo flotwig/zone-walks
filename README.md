@@ -39,6 +39,7 @@ TLD | Domain Count
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">3324</div>
 [`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2581</div>
 [`pr`][pr] [(raw)][pr-raw] | <div align="right">2192</div>
+[`desi`][desi] [(raw)][desi-raw] | <div align="right">1852</div>
 [`tz`][tz] [(raw)][tz-raw] | <div align="right">1361</div>
 [`br`][br] [(raw)][br-raw] | <div align="right">1350</div>
 [`bt`][bt] [(raw)][bt-raw] | <div align="right">1305</div>
@@ -59,7 +60,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">5039095</div>
+**Total** | <div align="right">5040947</div>
 
 ## See Also
 
@@ -117,6 +118,8 @@ TLD | Domain Count
 [hosting-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/hosting.txt
 [pr]: ./lists/pr.txt
 [pr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/pr.txt
+[desi]: ./lists/desi.txt
+[desi-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/desi.txt
 [tz]: ./lists/tz.txt
 [tz-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/tz.txt
 [br]: ./lists/br.txt
