@@ -50,8 +50,8 @@ TLD | Domain Count
 [`xn--pgbs0dh`][xn--pgbs0dh] [(raw)][xn--pgbs0dh-raw] | <div align="right">582</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">508</div>
 [`auto`][auto] [(raw)][auto-raw] | <div align="right">495</div>
-[`xn--54b7fta0cc`][xn--54b7fta0cc] [(raw)][xn--54b7fta0cc-raw] | <div align="right">317</div>
 [`car`][car] [(raw)][car-raw] | <div align="right">316</div>
+[`xn--54b7fta0cc`][xn--54b7fta0cc] [(raw)][xn--54b7fta0cc-raw] | <div align="right">315</div>
 [`cars`][cars] [(raw)][cars-raw] | <div align="right">287</div>
 [`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">152</div>
 [`ve`][ve] [(raw)][ve-raw] | <div align="right">49</div>
@@ -61,7 +61,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">5040968</div>
+**Total** | <div align="right">5040966</div>
 
 ## See Also
 
@@ -141,10 +141,10 @@ TLD | Domain Count
 [lr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lr.txt
 [auto]: ./lists/auto.txt
 [auto-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/auto.txt
-[xn--54b7fta0cc]: ./lists/xn--54b7fta0cc.txt
-[xn--54b7fta0cc-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--54b7fta0cc.txt
 [car]: ./lists/car.txt
 [car-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/car.txt
+[xn--54b7fta0cc]: ./lists/xn--54b7fta0cc.txt
+[xn--54b7fta0cc-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--54b7fta0cc.txt
 [cars]: ./lists/cars.txt
 [cars-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/cars.txt
 [xn--l1acc]: ./lists/xn--l1acc.txt
