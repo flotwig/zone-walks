@@ -31,6 +31,9 @@
       "zone": "ci"
     },
     {
+      "zone": "desi"
+    },
+    {
       "zone": "diet"
     },
     {
@@ -110,6 +113,9 @@
     },
     {
       "zone": "ve"
+    },
+    {
+      "zone": "wed"
     },
     {
       "zone": "xn--54b7fta0cc"
