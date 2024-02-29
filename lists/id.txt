@@ -421,6 +421,7 @@
 123-by.id
 123-cargo.id
 123-wd.id
+123-yd.id
 123.id
 123123.id
 1231515.id
@@ -445,6 +446,7 @@
 124-54.id
 124-74.id
 124-dd.id
+124-yd.id
 124.id
 12445.id
 125-25.id
@@ -452,6 +454,7 @@
 125-52.id
 125-79.id
 125-99.id
+125-yd.id
 125.id
 12538.id
 12539.id
@@ -503,8 +506,6 @@
 13526.id
 13528.id
 13538.id
-13587.id
-13597.id
 136.id
 13627.id
 13629.id
@@ -535,7 +536,6 @@
 13film.id
 13fishing.id
 13kendali.id
-13nadicinema.id
 13nadientertainment.id
 13nadimusik.id
 13report.id
@@ -631,7 +631,6 @@
 15379.id
 15385.id
 15397.id
-15398.id
 154-75.id
 154-91.id
 154-94.id
@@ -895,7 +894,6 @@
 19216811ip.id
 192168ll.id
 19237.id
-19256.id
 19258.id
 1928.id
 193.id
@@ -1297,7 +1295,6 @@
 238-yf.id
 238.id
 23847.id
-23854.id
 23856.id
 23857.id
 23887.id
@@ -1467,7 +1464,6 @@
 252-87.id
 252-95.id
 252.id
-25247.id
 252627.id
 252632.id
 25295.id
@@ -1561,7 +1557,6 @@
 26387.id
 264-17.id
 264.id
-26487.id
 265.id
 26513.id
 26518.id
@@ -1846,7 +1841,6 @@
 29358.id
 29367.id
 29371.id
-29387.id
 29388.id
 294-47.id
 294-54.id
@@ -2119,7 +2113,6 @@
 35276.id
 35279.id
 35280.id
-35288.id
 35296.id
 353.id
 353637.id
@@ -2210,7 +2203,6 @@
 36654.id
 36698.id
 367.id
-36728.id
 36729.id
 36740.id
 36752.id
@@ -2242,7 +2234,6 @@
 372-39.id
 372.id
 37265.id
-37286.id
 37295.id
 37296.id
 373.id
@@ -2265,7 +2256,6 @@
 37825.id
 37838.id
 37851.id
-37859.id
 37886.id
 37896.id
 379-82.id
@@ -3413,7 +3403,6 @@
 5555bet.id
 555bet.id
 555slot.id
-555uc.id
 556.id
 55662.id
 55663.id
@@ -4050,7 +4039,6 @@
 66688gfesa.id
 666999.id
 666bet.id
-666uc.id
 667.id
 66713.id
 668.id
@@ -4101,7 +4089,6 @@
 675.id
 67519.id
 67523.id
-67582.id
 67589.id
 676-wn.id
 676.id
@@ -4313,7 +4300,6 @@
 719.id
 71928.id
 719354.id
-71953.id
 71958.id
 71962.id
 72-ht.id
@@ -4581,7 +4567,6 @@
 752-87.id
 752-94.id
 752.id
-75216.id
 75227.id
 75283.id
 75289.id
@@ -4805,7 +4790,6 @@
 777lucky.id
 777luckyslot.id
 777score.id
-777uc.id
 778-17.id
 778-21.id
 778-22.id
@@ -4865,7 +4849,6 @@
 78268.id
 783.id
 78365.id
-78391.id
 78395.id
 784-05.id
 784-14.id
@@ -5078,7 +5061,6 @@
 805.id
 80544.id
 806.id
-80613.id
 807-00.id
 807-45.id
 807-49.id
@@ -5660,7 +5642,6 @@
 879.id
 87915.id
 87916.id
-87924.id
 87928.id
 87951.id
 87953.id
@@ -6064,7 +6045,6 @@
 92748.id
 92756.id
 92765.id
-92768.id
 92793.id
 928-00.id
 928-41.id
@@ -7061,6 +7041,7 @@ abovewater.id
 aboxxe.id
 abpgfg.id
 abpptsisulsel.id
+abproptech.id
 abptpt.id
 abptrade.id
 abputra.id
@@ -7103,7 +7084,6 @@ absensi-go.id
 absensi-kek.id
 absensi.id
 absensiandroid.id
-absensidesa.id
 absensinow.id
 absensionline.id
 absensipegawai.id
@@ -7507,6 +7487,7 @@ achickinaja.id
 achiera.id
 achievable.id
 achieved.id
+achievee.id
 achievement.id
 achiever.id
 achieves.id
@@ -8534,7 +8515,6 @@ advancenews.id
 advancesinresearch.id
 advanstartorbit.id
 advantage-lending.id
-advantage.id
 advantagelending.id
 advantageous.id
 advantech.id
@@ -9184,6 +9164,7 @@ agencysop.id
 agenda.id
 agenda45.id
 agendakota.id
+agendaku.id
 agendaprkpck.id
 agendarat.id
 agendarattogel.id
