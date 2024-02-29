@@ -313,6 +313,7 @@ adisdent.kg
 adisgroup.kg
 adismedia.kg
 adiso.kg
+adissan.kg
 adixi.kg
 adkin.kg
 adkulan.kg
@@ -1037,7 +1038,6 @@ argument.kg
 argumenti.kg
 arhimed.kg
 aria.kg
-ariadnagroup.kg
 arico.kg
 arigato.kg
 arika.kg
@@ -1182,7 +1182,6 @@ asiatau.kg
 asiaterm.kg
 asiatour.kg
 asiatransit.kg
-asiatravel.kg
 asiatv.kg
 asicstiger.kg
 asisnur.kg
@@ -1536,6 +1535,7 @@ aziaplast.kg
 aziar.kg
 azimut-oil.kg
 azimut.kg
+azimuth.kg
 azius.kg
 azmed.kg
 azo.kg
@@ -1660,6 +1660,7 @@ barhatnoe.kg
 bariatria.kg
 barkhan.kg
 barkhat-fabrika.kg
+barometr.kg
 barpy.kg
 barracuda.kg
 bars.kg
@@ -2089,6 +2090,7 @@ blesk.kg
 bleskservice.kg
 blg-services.kg
 blg.kg
+blinkfort.kg
 blitz.kg
 blitzlog.kg
 blive.kg
@@ -2503,7 +2505,6 @@ center-krasok.kg
 center-vesna.kg
 center.kg
 centerit.kg
-centerkotlov.kg
 centerokon.kg
 cento.kg
 centr-krasok.kg
@@ -2985,7 +2986,6 @@ danone.kg
 dantex.kg
 dantrium.kg
 dara.kg
-darak.kg
 darbar.kg
 darek.kg
 dareu.kg
@@ -3201,6 +3201,7 @@ digitalvision.kg
 digitouch.kg
 digiway.kg
 dikiydom.kg
+dilazyk.kg
 dilbartextile.kg
 dilgir.kg
 dilli-neo.kg
@@ -3371,8 +3372,10 @@ dron.kg
 drone.kg
 dropbox.kg
 drpepper.kg
+drugsafety.kg
 drycleaning.kg
 ds.kg
+dsclinic.kg
 dse.kg
 dska.kg
 dstk.kg
@@ -4358,6 +4361,7 @@ forvis-mazars.kg
 forvismazars.kg
 forwater.kg
 foto.kg
+fotoramka.kg
 fotoriya.kg
 fountainoflife.kg
 fox.kg
@@ -4496,7 +4500,6 @@ gapkids.kg
 gappo.kg
 garage.kg
 garant-aseptic.kg
-garant-profi.kg
 garant.kg
 garantgaz.kg
 garanttranslogistic.kg
@@ -4700,6 +4703,7 @@ gogreen-project.kg
 goktash.kg
 gold.kg
 goldapple.kg
+goldchef.kg
 goldcoin.kg
 goldenbrokers.kg
 goldendragon.kg
@@ -4939,6 +4943,7 @@ hbogo.kg
 hbomax.kg
 hbssolution.kg
 hc.kg
+hcdc.kg
 hd.kg
 hdel.kg
 hdf.kg
@@ -5198,7 +5203,6 @@ iati.kg
 ib.kg
 ibank.kg
 ibao.kg
-ibaza.kg
 ibc.kg
 ibilim.kg
 ibm.kg
@@ -5802,6 +5806,7 @@ jenish.kg
 jer.kg
 jergetal.kg
 jessica.kg
+jet-card.kg
 jet-logistic.kg
 jet.kg
 jetbrains.kg
@@ -6121,6 +6126,7 @@ key-lock.kg
 key312.kg
 keydev.kg
 keymaster.kg
+keyservice.kg
 kfc-kyrgyzstan.kg
 kfc.kg
 kflowers.kg
@@ -6136,7 +6142,6 @@ kgb.kg
 kgbiollc.kg
 kgbox.kg
 kgc.kg
-kgcn.kg
 kgcs.kg
 kgetk.kg
 kggt.kg
@@ -6390,6 +6395,7 @@ kreps.kg
 kreston.kg
 krffa.kg
 kripta.kg
+krjc.kg
 krka.kg
 krl.kg
 krm.kg
@@ -6530,6 +6536,7 @@ kyrgyz-tourism.kg
 kyrgyz.kg
 kyrgyzaltayenergy.kg
 kyrgyzaltyn.kg
+kyrgyzargrogroup.kg
 kyrgyzarms.kg
 kyrgyzaziagroup.kg
 kyrgyzbeton.kg
@@ -6576,6 +6583,7 @@ kyzmat.kg
 kyzmatsayakat.kg
 kyzyl-kiya.kg
 kyzyl-ozgorush.kg
+kyzyl-suu.kg
 kyzyl-tegirmen.kg
 kyzyl-tuu.kg
 kyzyltuu.kg
@@ -7467,6 +7475,7 @@ mgcars.kg
 mgmotor.kg
 mgs-tech.kg
 mgt.kg
+mhi.kg
 mhtr.kg
 mi-group.kg
 mi-shop.kg
@@ -8154,6 +8163,7 @@ novopavlovka.kg
 novopokrovka.kg
 novosti.kg
 novotel.kg
+nowfoods.kg
 np.kg
 npexport-import.kg
 npf.kg
@@ -8426,7 +8436,9 @@ open.kg
 open24.kg
 openai.kg
 openapi.kg
+openbusiness.kg
 opencar.kg
+opencompany.kg
 opendata.kg
 openi.kg
 openline.kg
@@ -9340,6 +9352,7 @@ radisson.kg
 radissonblu.kg
 raduga.kg
 radugaplus.kg
+radugawest.kg
 raev.kg
 raevsky-clinic.kg
 rafting.kg
@@ -9566,7 +9579,6 @@ rimar.kg
 rimi.kg
 rimini.kg
 rinascimento.kg
-ring.kg
 ringobet.kg
 ringotrade.kg
 rinnai.kg
@@ -9614,7 +9626,6 @@ rockwellautomation.kg
 rockwool.kg
 rocon.kg
 rodem.kg
-rodeo.kg
 rodex.kg
 rodexpower.kg
 rohde-schwarz.kg
@@ -9790,7 +9801,6 @@ sam1992.kg
 sama.kg
 samarbekov.kg
 samarsky.kg
-sambo.kg
 samimed.kg
 samokat.kg
 samolet.kg
@@ -10029,7 +10039,6 @@ shaidan.kg
 shailoo.kg
 shamal.kg
 shaman.kg
-shambala.kg
 shambesai.kg
 shamdagai.kg
 shampan.kg
@@ -10130,6 +10139,7 @@ sigmaplus.kg
 sih.kg
 siklu.kg
 silicat.kg
+silk-way.kg
 silk.kg
 silkonway.kg
 silkplaster.kg
@@ -10416,7 +10426,6 @@ sound.kg
 southbeach.kg
 southinstrument.kg
 souvenir.kg
-souz.kg
 sovetnik.kg
 sovtransavto.kg
 soyuz.kg
@@ -10466,7 +10475,6 @@ sportexpert.kg
 sportmaster.kg
 sportorient.kg
 sportpit.kg
-sportpoker.kg
 sportsbetting.kg
 sportsdirect.kg
 sporttv.kg
@@ -10560,6 +10568,7 @@ steklostroi.kg
 stellagroup.kg
 stellateam.kg
 stellox.kg
+stemma.kg
 stena.kg
 stenders-cosmetics.kg
 stenders.kg
@@ -10598,6 +10607,7 @@ storm.kg
 stortest.kg
 story.kg
 strahovka.kg
+strahovki.kg
 strana-express.kg
 stranaexpress.kg
 strannik.kg
@@ -10685,7 +10695,6 @@ sunnytravel.kg
 sunpbx.kg
 sunrent.kg
 sunrise-osh.kg
-sunrise.kg
 sunrisevillas.kg
 sunset.kg
 sunshine.kg
@@ -10848,6 +10857,7 @@ tarbiya.kg
 tarbiyachy.kg
 target-media.kg
 target.kg
+targetcapital.kg
 targetprint.kg
 tarif.kg
 tarmac.kg
@@ -12430,7 +12440,6 @@ zocdoc.kg
 zodiacrobots.kg
 zoetis.kg
 zola.kg
-zoloto.kg
 zombie3.kg
 zoodmall.kg
 zoomag.kg
