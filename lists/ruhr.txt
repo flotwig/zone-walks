@@ -168,7 +168,6 @@ annika.ruhr
 anno1909.ruhr
 antenne.ruhr
 anwalt-arbeitsrecht.ruhr
-anwalt-bochum.ruhr
 anwalt-bottrop.ruhr
 anwalt-gladbeck.ruhr
 anwalt-kettwig.ruhr
@@ -229,7 +228,6 @@ arbeitssicherheit-nrw.ruhr
 architekt-muelheim.ruhr
 architekturfotografie.ruhr
 ardilla.ruhr
-area.ruhr
 arg-essen.ruhr
 arg-hagen.ruhr
 arg-international.ruhr
@@ -278,7 +276,6 @@ auftakt.ruhr
 auftrag.ruhr
 auftragsplattform.ruhr
 auftragsportal.ruhr
-augen.ruhr
 augenblick.ruhr
 augencenter.ruhr
 augenpraxis.ruhr
@@ -291,6 +288,7 @@ ausbildungsapotheke.ruhr
 ausbildungsbetriebe.ruhr
 ausbildungspaten.ruhr
 ausbildungsverbund.ruhr
+ausflug.ruhr
 ausschreibung.ruhr
 ausschreibungen.ruhr
 autismus-therapie.ruhr
@@ -348,7 +346,6 @@ ballay.ruhr
 balzer.ruhr
 bambor.ruhr
 bambus.ruhr
-bamh.ruhr
 band.ruhr
 bannerschlepp.ruhr
 bar-event.ruhr
@@ -1110,7 +1107,6 @@ efm.ruhr
 eggert.ruhr
 egs.ruhr
 egu.ruhr
-ehealth.ruhr
 ehlert.ruhr
 ehrenamt.ruhr
 ehrenamtander.ruhr
@@ -1178,7 +1174,6 @@ energie-beratung.ruhr
 energieausweis-rhein.ruhr
 energieausweis.ruhr
 energieausweise-rhein.ruhr
-energiedienstleistungen.ruhr
 energieforschung.ruhr
 energielabor.ruhr
 energiepool.ruhr
@@ -1305,7 +1300,6 @@ fachanwalt-wirtschaftsrecht.ruhr
 fachzahnaerzte.ruhr
 fachzahnarzt.ruhr
 fachzahnrad.ruhr
-factory.ruhr
 fahrrad24.ruhr
 fahrradsommer.ruhr
 fahrradsternfahrt.ruhr
@@ -2119,7 +2113,6 @@ ishar.ruhr
 iso9001.ruhr
 isotec.ruhr
 isz.ruhr
-it-anwalt.ruhr
 it-club.ruhr
 it-dienstleister.ruhr
 it-management.ruhr
@@ -2538,7 +2531,6 @@ langtext.ruhr
 lasershow.ruhr
 lasertag.ruhr
 laserzentrum.ruhr
-lasik.ruhr
 lass-mich-in.ruhr
 lassmalesen.ruhr
 laufakademie.ruhr
@@ -3118,7 +3110,6 @@ openrhein.ruhr
 openspace.ruhr
 optenhoefel.ruhr
 optik-breuer.ruhr
-optik-muelheim.ruhr
 opz.ruhr
 oralchirurg.ruhr
 orange-council.ruhr
@@ -3222,6 +3213,8 @@ pfadfinder.ruhr
 pferdedeckenreinigung.ruhr
 pferdephysiotherapie.ruhr
 pflege-mh.ruhr
+pflegeausbildung-bi-dorsten.ruhr
+pflegeausbildung-marl.ruhr
 pflegebasis.ruhr
 pflegedienst-essen.ruhr
 pflegedienst-lebenswert.ruhr
@@ -3803,6 +3796,7 @@ seo-webdesign.ruhr
 seoberatung.ruhr
 seolisting.ruhr
 serversieger.ruhr
+service-center-verband.ruhr
 serviceapotheke.ruhr
 ses.ruhr
 shg.ruhr
@@ -3963,7 +3957,6 @@ starphone.ruhr
 startbahn.ruhr
 startport.ruhr
 startup-studio.ruhr
-startup.ruhr
 startupcamp.ruhr
 startups.ruhr
 startupweek.ruhr
@@ -4046,7 +4039,6 @@ streckert.ruhr
 streicher.ruhr
 strobo.ruhr
 strohscheer.ruhr
-strom-sparen.ruhr
 strunk.ruhr
 sts.ruhr
 stuckateure.ruhr
@@ -4362,7 +4354,6 @@ uvoffset.ruhr
 uvv.ruhr
 uwu.ruhr
 val.ruhr
-valley.ruhr
 vanausbau.ruhr
 variete.ruhr
 vasektomie.ruhr
@@ -4643,7 +4634,6 @@ wirth.ruhr
 wirths.ruhr
 wirtschaftsauskunft.ruhr
 wirtschaftsbericht.ruhr
-wirtschaftspruefer-dortmund.ruhr
 wirverkaufenihrewohnung.ruhr
 wirverkaufenihrhaus.ruhr
 wissen-schafft-wirtschaft.ruhr
@@ -4882,6 +4872,7 @@ zeiger.ruhr
 zeilenweise.ruhr
 zeit-raeume.ruhr
 zeitarbeiter.ruhr
+zeiterfassung.ruhr
 zeitgeist.ruhr
 zeitraeume.ruhr
 zeitwohnen.ruhr
