@@ -429,6 +429,7 @@ get.flowers
 ghost.flowers
 giant.flowers
 gift.flowers
+giftbar.flowers
 giftme.flowers
 gimme.flowers
 giraffe.flowers
@@ -575,6 +576,7 @@ klumba-tomsk.flowers
 klumba.flowers
 klumbaopt.flowers
 klumbatomsk.flowers
+klumbazar.flowers
 knotty.flowers
 kosmas.flowers
 ksksuav.flowers
@@ -671,7 +673,6 @@ mild.flowers
 milky.flowers
 mineola.flowers
 mirai.flowers
-misskey.flowers
 mixed.flowers
 mlb.flowers
 mm.flowers
@@ -825,7 +826,6 @@ rendezvous.flowers
 renowholesale.flowers
 resource.flowers
 review.flowers
-ringo.flowers
 rith.flowers
 ritz.flowers
 river.flowers
@@ -1030,7 +1030,6 @@ wiki.flowers
 wild.flowers
 wildblume.flowers
 wildthings.flowers
-wimkle.flowers
 winston.flowers
 winstonflowers.flowers
 with.flowers
