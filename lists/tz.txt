@@ -101,6 +101,7 @@ aphfta.tz
 apmterminals.tz
 apnosphere.tz
 app.tz
+apply.tz
 apsonic.tz
 aptus.tz
 armox.tz
@@ -338,7 +339,6 @@ die.tz
 digest.tz
 digitalclubs.tz
 discovery.tz
-dkz.tz
 dlapiperafrica.tz
 dns.tz
 dnssec.tz
@@ -402,7 +402,6 @@ etenonfitness.tz
 eurodrive.tz
 every.tz
 evolution.tz
-evpay.tz
 exchange.tz
 eximbank.tz
 expendition.tz
@@ -628,7 +627,6 @@ jiji.tz
 jinias.tz
 jmjmicrofinance.tz
 jogoo.tz
-jsp.tz
 jti.tz
 juicyfruit.tz
 jupiter.tz
@@ -681,6 +679,8 @@ kran.tz
 kub.tz
 kuchi.tz
 kuchijogoo.tz
+kuda.tz
+kudabank.tz
 kuhoo.tz
 kuku.tz
 kun.tz
@@ -796,6 +796,7 @@ metaverse.tz
 metaverso.tz
 metraclark.tz
 mgasresources.tz
+mgenergysystems.tz
 mhl.tz
 mia.tz
 michezonaafya.tz
@@ -867,6 +868,7 @@ ngorongoro.tz
 nguruhills.tz
 nia.tz
 nic.tz
+niemi.tz
 nim.tz
 ninimaanayandoto.tz
 nlu.tz
@@ -898,12 +900,12 @@ onafriq.tz
 onafrique.tz
 onafriqx.tz
 ongela.tz
-onlinebettingsites.tz
 onlineblackjack.tz
 onlinelotto.tz
 onlineshop.tz
 onlinesportsbetting.tz
 oon.tz
+opi.tz
 opinel.tz
 oppo-aed.tz
 or.tz
@@ -1113,7 +1115,6 @@ slots.tz
 smartsales.tz
 smartsalez.tz
 sms.tz
-smt.tz
 smugmug.tz
 snapfitness.tz
 snooker.tz
@@ -1237,6 +1238,7 @@ touristsexpi.tz
 tours.tz
 tppl.tz
 track.tz
+tradecarview.tz
 travco.tz
 travelport-partner.tz
 trayvone.tz
@@ -1261,7 +1263,6 @@ twigalpha.tz
 twobet.tz
 tyson.tz
 tysonfoods.tz
-tzs.tz
 tzserver.tz
 uhurubet.tz
 uhurubets.tz
