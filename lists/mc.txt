@@ -1403,6 +1403,7 @@ hautier-ip.mc
 hawkmanagementsam.mc
 hcars.mc
 hcm.mc
+healthstore.mc
 healthu.mc
 hee.mc
 heliairmonaco.mc
@@ -1776,7 +1777,6 @@ lespetitschanteurs.mc
 lespierresdurocher.mc
 letoucan.mc
 lexception.mc
-lexwell.mc
 lezodiaque.mc
 lfc.mc
 lfconsulting.mc
@@ -3480,6 +3480,7 @@ voxan.mc
 vp-group.mc
 vp-international.mc
 vpi.mc
+vpsolution.mc
 vvconsulting.mc
 vycrinsa.mc
 wallyyacht.mc
