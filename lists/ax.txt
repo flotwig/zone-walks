@@ -174,9 +174,7 @@ aitl.ax
 aj.ax
 ajk.ax
 ajoranta.ax
-ak-aland.ax
 ak.ax
-aka.ax
 akavaaland.ax
 akd.ax
 akeri.ax
@@ -233,7 +231,6 @@ alandsbostader.ax
 alandsbutiken.ax
 alandsbygg.ax
 alandsea.ax
-alandsexpressen.ax
 alandsfaret.ax
 alandsfarjan.ax
 alandsfolkrace.ax
@@ -253,7 +250,6 @@ alandsmotorklubb.ax
 alandsmuseum.ax
 alandspall.ax
 alandspersienn.ax
-alandspilen.ax
 alandsportweek.ax
 alandsrabatten.ax
 alandsradio.ax
@@ -517,6 +513,7 @@ baidu.ax
 baka.ax
 bakp.ax
 balans.ax
+balls.ax
 baltic.ax
 balticbunkering.ax
 balticprodukter.ax
@@ -882,7 +879,6 @@ coin.ax
 colerus.ax
 colf.ax
 colo.ax
-colosseum.ax
 columbiathreadneedle.ax
 com.ax
 comlaude.ax
@@ -916,6 +912,7 @@ cr.ax
 cranim.ax
 creategreat.ax
 creedle.ax
+creeks.ax
 crestum.ax
 cro.ax
 croft.ax
@@ -934,6 +931,7 @@ cvfood.ax
 cw.ax
 cwlaw.ax
 cx.ax
+cyber.ax
 cybersource.ax
 cyberworks.ax
 cynthia.ax
@@ -983,7 +981,6 @@ deluxe.ax
 demens.ax
 demo.ax
 dentalcenter.ax
-design.ax
 designtothem.ax
 destiman.ax
 destinationaland.ax
@@ -1548,6 +1545,7 @@ grasklipparna.ax
 gravl.ax
 great.ax
 greenanddirty.ax
+greencom.ax
 greenfinance-capital.ax
 greenfinance.ax
 greenfinancecapital.ax
@@ -1988,7 +1986,6 @@ juullabs.ax
 juulpods.ax
 juulvapor.ax
 jx.ax
-jz.ax
 k7.ax
 k8.ax
 k98.ax
@@ -2198,6 +2195,7 @@ laura.ax
 law.ax
 lb.ax
 lcmariehamn.ax
+ld.ax
 le.ax
 leader.ax
 leakomatic.ax
@@ -2227,6 +2225,7 @@ liberalerna.ax
 liberto.ax
 lidl.ax
 life.ax
+lifeh.ax
 lightgogh.ax
 lighthousehealing.ax
 lillakropperiet.ax
@@ -2350,6 +2349,7 @@ magnetic.ax
 maijas.ax
 mail.ax
 mailbox.ax
+mails.ax
 mainburgerkebab.ax
 majblomsinsamling.ax
 maklarhuset.ax
@@ -2760,7 +2760,6 @@ oki.ax
 oktober.ax
 ol.ax
 oldtimecruisers.ax
-oliver.ax
 ollesel.ax
 olliv.ax
 olofmjanssonsstiftelse.ax
@@ -3107,6 +3106,7 @@ renharmoni.ax
 rep.ax
 repvvs.ax
 resa.ax
+reservio.ax
 reservist.ax
 resmedgoran.ax
 restaurantbabista.ax
@@ -3315,7 +3315,6 @@ six.ax
 size.ax
 sjalvklar.ax
 sjalvstyrtlarande.ax
-sjhlm.ax
 sjoentreprenad.ax
 sjofart.ax
 sjofartsakademin.ax
@@ -3637,6 +3636,7 @@ taxi19199.ax
 taxibolaget.ax
 taxklubben.ax
 taycan.ax
+taylorswift.ax
 tb.ax
 tca.ax
 td.ax
@@ -3830,7 +3830,6 @@ usa.ax
 ut.ax
 utbildning.ax
 utemiljo.ax
-uthyres.ax
 utilitydiadora.ax
 utr.ax
 utrusta.ax
@@ -3859,7 +3858,6 @@ varggropen.ax
 vari.ax
 varuboden.ax
 varumarke.ax
-varumarket.ax
 vasc.ax
 vascepa.ax
 vass.ax
@@ -4127,13 +4125,11 @@ xn--landhotels-05a.ax
 xn--landliving-05a.ax
 xn--landsbanken-w8a.ax
 xn--landsbten-42ag.ax
-xn--landsexpressen-kib.ax
 xn--landsframtid-scb.ax
 xn--landsfrjan-v5af.ax
 xn--landshandel-w8a.ax
 xn--landsidrott-w8a.ax
 xn--landslagting-scb.ax
-xn--landspilen-05a.ax
 xn--lex-tla.ax
 xn--lindstromland-xfb.ax
 xn--lnedag-wxa.ax
@@ -4173,7 +4169,6 @@ xn--ttblegrd-8zag7p.ax
 xn--uppvxtiskrgrden-3kbfu.ax
 xn--utemilj-g1a.ax
 xn--varumrke-4za.ax
-xn--varumrket-z2a.ax
 xn--vder-loa.ax
 xn--viltspr-jxa.ax
 xn--vk-xia.ax
@@ -4224,7 +4219,6 @@ yy.ax
 za.ax
 zagat.ax
 zandra.ax
-zc.ax
 ze.ax
 zebrabil.ax
 zeoc.ax
