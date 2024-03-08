@@ -1757,6 +1757,7 @@ porteighty.hosting
 ports.hosting
 portsgroup.hosting
 positive.hosting
+postgres.hosting
 postmail.hosting
 pound.hosting
 povo.hosting
@@ -2319,7 +2320,6 @@ unic.hosting
 unicope.hosting
 unicorn.hosting
 unieps.hosting
-universo.hosting
 universum.hosting
 unix.hosting
 unlimited.hosting
