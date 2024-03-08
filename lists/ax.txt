@@ -41,6 +41,7 @@
 24.ax
 26.ax
 28.ax
+29.ax
 2d.ax
 2f.ax
 2h.ax
@@ -950,6 +951,7 @@ dandelia.ax
 daniel.ax
 daniels.ax
 dansensvanner.ax
+dark.ax
 data.ax
 datagroup.ax
 datanom.ax
@@ -1961,7 +1963,6 @@ jp.ax
 jpi.ax
 jr.ax
 js.ax
-jsdack.ax
 jse.ax
 jt.ax
 ju.ax
@@ -3014,6 +3015,7 @@ qa.ax
 qb.ax
 qc.ax
 qd.ax
+qlim.ax
 qn.ax
 qom.ax
 qos.ax
