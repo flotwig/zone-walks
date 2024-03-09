@@ -1,7 +1,6 @@
 0.kg
 001.kg
 01.kg
-01remonte.kg
 089.kg
 1-win.kg
 1.kg
@@ -418,7 +417,6 @@ agromaidan.kg
 agromarket.kg
 agroneto.kg
 agronetto.kg
-agronomica.kg
 agronova.kg
 agroprod.kg
 agroprom.kg
@@ -429,7 +427,6 @@ agrosource.kg
 agrostep.kg
 agrostyle.kg
 agrotech.kg
-agrotechnopark.kg
 agrotourism.kg
 agrotrack.kg
 agroup.kg
@@ -1145,7 +1142,6 @@ asia-impex.kg
 asia.kg
 asiaagrotrade.kg
 asiabet.kg
-asiabrend.kg
 asiacapital.kg
 asiacargo.kg
 asiacity.kg
@@ -1378,6 +1374,7 @@ autopapa.kg
 autopark.kg
 autoparts.kg
 autopiter.kg
+autopodbor.kg
 autopro.kg
 autoprokat.kg
 autorazbor.kg
@@ -1532,7 +1529,6 @@ azbuka.kg
 azbukadoma.kg
 azdekdyino.kg
 azharia.kg
-azi.kg
 azia.kg
 aziaplast.kg
 aziar.kg
@@ -2579,7 +2575,6 @@ cheese.kg
 chef.kg
 chekhov.kg
 chekovaya-lenta.kg
-chelpek.kg
 cheltsovbs.kg
 chemcontract.kg
 chemours.kg
@@ -2721,7 +2716,6 @@ cmg.kg
 cmgh.kg
 cmgpro.kg
 cn.kg
-cnc.kg
 cncars.kg
 cnn.kg
 co.kg
@@ -2881,6 +2875,7 @@ crocodile.kg
 crocs.kg
 crocus.kg
 crocusfitness.kg
+croen.kg
 crona.kg
 cronahome.kg
 cronaorganic.kg
@@ -3200,7 +3195,6 @@ dieta.kg
 dietcoke.kg
 diflucan.kg
 difxbi.kg
-digi.kg
 digicom.kg
 digis.kg
 digiskills.kg
@@ -3262,7 +3256,6 @@ dlc.kg
 dm.kg
 dmax.kg
 dmed.kg
-dmg.kg
 dms.kg
 dmx.kg
 dn-group.kg
@@ -3485,7 +3478,6 @@ eco-life.kg
 eco-service.kg
 eco-space.kg
 eco-travel.kg
-eco.kg
 ecoagro.kg
 ecoaiyl.kg
 ecobak.kg
@@ -4151,7 +4143,6 @@ fcaa.kg
 fcb.kg
 fccu.kg
 fcmu.kg
-fcmuras.kg
 fdoc.kg
 fdu.kg
 fe.kg
@@ -5276,7 +5267,6 @@ idoctor.kg
 idrink.kg
 ids.kg
 idservice.kg
-idsports.kg
 idv.kg
 ief.kg
 ieg.kg
@@ -5801,7 +5791,6 @@ jarvis.kg
 jasa.kg
 jashishker.kg
 jashtar.kg
-jashylkalem.kg
 jasmin.kg
 jasmine.kg
 jasmu.kg
@@ -5915,7 +5904,6 @@ k3.kg
 ka.kg
 kabai.kg
 kabar.kg
-kabarlar.kg
 kabel.kg
 kabi.kg
 kabrita.kg
@@ -7784,7 +7772,6 @@ mts-bs.kg
 mts-italtherm.kg
 mts.kg
 mtt.kg
-mu.kg
 muc.kg
 mucos.kg
 muermann.kg
@@ -8124,6 +8111,7 @@ nlkg.kg
 nlkr.kg
 nm.kg
 nmx.kg
+nn.kg
 nobel.kg
 nobeledent.kg
 nobo.kg
@@ -8455,7 +8443,6 @@ opalubka.kg
 opalubki.kg
 open.kg
 open24.kg
-openai.kg
 openapi.kg
 openbusiness.kg
 opencar.kg
@@ -9013,6 +9000,7 @@ pohod.kg
 point.kg
 pointb.kg
 poisk.kg
+poizondrop.kg
 poizonmarket.kg
 pokemon.kg
 pokerstars.kg
@@ -9793,7 +9781,6 @@ safety.kg
 saffran.kg
 safihealth.kg
 sagynbaeva.kg
-sahna.kg
 sailing.kg
 saima.kg
 saima4g.kg
@@ -9910,7 +9897,6 @@ satel.kg
 satellite.kg
 satu.kg
 saturn.kg
-sauber.kg
 sauna.kg
 sausage.kg
 sava.kg
@@ -9965,7 +9951,6 @@ sdk.kg
 sdmanas.kg
 sdo.kg
 se.kg
-sea.kg
 sealy.kg
 search.kg
 seb.kg
@@ -10634,7 +10619,6 @@ stomatologiya.kg
 stomdenta.kg
 stompharm.kg
 stonegroup.kg
-stonex.kg
 stopa.kg
 stopkadr.kg
 storck.kg
@@ -12397,7 +12381,6 @@ zalando.kg
 zalkar.kg
 zaman.kg
 zamanbap.kg
-zamandash.kg
 zamaninvest.kg
 zamat.kg
 zambaiti.kg
