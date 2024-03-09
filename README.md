@@ -22,12 +22,12 @@ TLD | Domain Count
 [`ee`][ee] [(raw)][ee-raw] | <div align="right">87355</div>
 [`li`][li] [(raw)][li-raw] | <div align="right">69751</div>
 [`pics`][pics] [(raw)][pics-raw] | <div align="right">67256</div>
+[`id`][id] [(raw)][id-raw] | <div align="right">55339</div>
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">45042</div>
 [`tn`][tn] [(raw)][tn-raw] | <div align="right">32241</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">12968</div>
 [`kg`][kg] [(raw)][kg-raw] | <div align="right">12482</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">10402</div>
-[`id`][id] [(raw)][id-raw] | <div align="right">9836</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
 [`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">4910</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">4884</div>
@@ -61,7 +61,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4843488</div>
+**Total** | <div align="right">4888991</div>
 
 ## See Also
 
@@ -85,6 +85,8 @@ TLD | Domain Count
 [li-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/li.txt
 [pics]: ./lists/pics.txt
 [pics-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/pics.txt
+[id]: ./lists/id.txt
+[id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
 [mom]: ./lists/mom.txt
 [mom-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mom.txt
 [tn]: ./lists/tn.txt
@@ -95,8 +97,6 @@ TLD | Domain Count
 [kg-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/kg.txt
 [lk]: ./lists/lk.txt
 [lk-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lk.txt
-[id]: ./lists/id.txt
-[id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
 [cy]: ./lists/cy.txt
 [cy-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/cy.txt
 [ruhr]: ./lists/ruhr.txt
