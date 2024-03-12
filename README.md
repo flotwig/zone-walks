@@ -22,13 +22,13 @@ TLD | Domain Count
 [`ee`][ee] [(raw)][ee-raw] | <div align="right">87472</div>
 [`li`][li] [(raw)][li-raw] | <div align="right">69747</div>
 [`pics`][pics] [(raw)][pics-raw] | <div align="right">67228</div>
-[`id`][id] [(raw)][id-raw] | <div align="right">55294</div>
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">45164</div>
 [`tn`][tn] [(raw)][tn-raw] | <div align="right">32237</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">12968</div>
 [`kg`][kg] [(raw)][kg-raw] | <div align="right">12462</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">10410</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
+[`id`][id] [(raw)][id-raw] | <div align="right">9765</div>
 [`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">4909</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">4897</div>
 [`audio`][audio] [(raw)][audio-raw] | <div align="right">4775</div>
@@ -61,7 +61,7 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4890180</div>
+**Total** | <div align="right">4844651</div>
 
 ## See Also
 
@@ -85,8 +85,6 @@ TLD | Domain Count
 [li-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/li.txt
 [pics]: ./lists/pics.txt
 [pics-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/pics.txt
-[id]: ./lists/id.txt
-[id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
 [mom]: ./lists/mom.txt
 [mom-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mom.txt
 [tn]: ./lists/tn.txt
@@ -99,6 +97,8 @@ TLD | Domain Count
 [lk-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lk.txt
 [cy]: ./lists/cy.txt
 [cy-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/cy.txt
+[id]: ./lists/id.txt
+[id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
 [ruhr]: ./lists/ruhr.txt
 [ruhr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ruhr.txt
 [game]: ./lists/game.txt
