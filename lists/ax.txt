@@ -96,7 +96,6 @@
 94.ax
 96.ax
 99.ax
-999.ax
 9h.ax
 _nicname._tcp.ax
 a1.ax
@@ -768,6 +767,7 @@ cafea.ax
 cafeviktor.ax
 cainby.ax
 cajsa.ax
+call-m.ax
 call.ax
 calle.ax
 cam.ax
@@ -1865,6 +1865,7 @@ ir.ax
 irc.ax
 irem.ax
 irm.ax
+is.ax
 isaac.ax
 isakssons.ax
 ishares.ax
