@@ -270,7 +270,6 @@
 0xtech.id
 0xweb.id
 1-877-dr-chewy.id
-1-medix.id
 1-up.id
 1-win.id
 1.id
@@ -759,7 +758,6 @@
 175.id
 17508.id
 17523.id
-17529.id
 17569.id
 175757.id
 17576.id
@@ -825,7 +823,6 @@
 185-82.id
 185.id
 18562.id
-18592.id
 18597.id
 186.id
 18674.id
@@ -847,6 +844,7 @@
 18956.id
 189656.id
 18degree.id
+18hoki.id
 18hole.id
 18land.id
 18nco.id
@@ -1125,7 +1123,6 @@
 217-95.id
 217.id
 21722.id
-21756.id
 21765.id
 21768.id
 21769.id
@@ -1272,7 +1269,6 @@
 238-yf.id
 238.id
 23847.id
-23856.id
 23857.id
 23887.id
 23889.id
@@ -1344,7 +1340,6 @@
 244-70.id
 244-97.id
 244.id
-24479.id
 245-14.id
 245-44.id
 245-51.id
@@ -1483,7 +1478,6 @@
 257-58.id
 257-88.id
 257.id
-25739.id
 25747.id
 25763.id
 25786.id
@@ -1803,7 +1797,6 @@
 293.id
 293167.id
 29351.id
-29358.id
 29367.id
 29371.id
 29387.id
@@ -1882,7 +1875,6 @@
 300.id
 3000group.id
 30040.id
-30089.id
 301.id
 302.id
 30270.id
@@ -1980,7 +1972,6 @@
 32601.id
 32617.id
 32619.id
-32687.id
 327.id
 32759.id
 32769.id
@@ -2062,7 +2053,6 @@
 35215.id
 35217.id
 35271.id
-35276.id
 35279.id
 35280.id
 35296.id
@@ -2218,13 +2208,11 @@
 381.id
 38125.id
 38165.id
-38197.id
 382.id
 38236.id
 38259.id
 38269.id
 38275.id
-38276.id
 38296.id
 383.id
 384.id
@@ -2689,7 +2677,6 @@
 457-75.id
 457.id
 45723.id
-45765.id
 45787.id
 458-17.id
 458-21.id
@@ -3025,7 +3012,6 @@
 517-81.id
 517-98.id
 517-99.id
-51723.id
 51732.id
 51762.id
 51786.id
@@ -3167,7 +3153,6 @@
 53296.id
 533.id
 533179.id
-53318.id
 53361.id
 53399.id
 534.id
@@ -3188,9 +3173,7 @@
 538.id
 53816.id
 53829.id
-53830.id
 53867.id
-53892.id
 53897.id
 539.id
 53916.id
@@ -3278,7 +3261,6 @@
 550.id
 551-55.id
 551.id
-55155.id
 552-12.id
 552-47.id
 552-48.id
@@ -3383,7 +3365,6 @@
 56791.id
 56798.id
 568.id
-56807.id
 56813.id
 56827.id
 56831.id
@@ -3648,7 +3629,6 @@
 599-52.id
 599-88.id
 599.id
-59976.id
 5bintang.id
 5days.id
 5dragon.id
@@ -3695,7 +3675,6 @@
 61064.id
 611.id
 612.id
-61227.id
 61242.id
 61253.id
 61283.id
@@ -3719,7 +3698,6 @@
 617766.id
 617777.id
 617788.id
-61782.id
 618.id
 61872.id
 61892.id
@@ -3801,7 +3779,6 @@
 63528.id
 63538.id
 6355-kv.id
-63565.id
 63571.id
 63572.id
 63582.id
@@ -3853,7 +3830,6 @@
 65155.id
 65172.id
 65173.id
-65187.id
 65193.id
 65198.id
 652-wy.id
@@ -4255,11 +4231,9 @@
 72639.id
 72659.id
 72679.id
-72683.id
 72685.id
 72689.id
 72695.id
-72698.id
 727-19.id
 727-20.id
 727-41.id
@@ -4326,7 +4300,6 @@
 73373.id
 734.id
 735.id
-73526.id
 73543.id
 7358-yf.id
 73589.id
@@ -4345,7 +4318,6 @@
 7386-yr.id
 73862.id
 73866.id
-73885.id
 73892.id
 739-xo.id
 739.id
@@ -4407,7 +4379,6 @@
 748.id
 74821.id
 74884.id
-74892.id
 749-22.id
 749-58.id
 749-78.id
@@ -4984,7 +4955,6 @@
 818.id
 819-12.id
 819.id
-81952.id
 81963.id
 81975.id
 82.id
@@ -5080,14 +5050,12 @@
 82957.id
 82965.id
 82971.id
-82975.id
 82cart.id
 83-yz.id
 83.id
 830-73.id
 830.id
 831.id
-83167.id
 83169.id
 83172.id
 83198.id
@@ -5316,7 +5284,6 @@
 86213.id
 86215.id
 86217.id
-86253.id
 86259.id
 863.id
 86321.id
@@ -6185,7 +6152,6 @@
 981-88.id
 981.id
 98126.id
-98157.id
 982-24.id
 982-74.id
 982-85.id
@@ -6196,7 +6162,6 @@
 98256.id
 98267.id
 98275.id
-98276.id
 983.id
 98310.id
 98316.id
@@ -6455,7 +6420,6 @@ aashish.id
 aashishpatel.id
 aasic.id
 aasnack.id
-aassuhendar.id
 aasted.id
 aasthaautopartindo.id
 aastore.id
@@ -7505,7 +7469,6 @@ activepure.id
 activepush.id
 activereport.id
 activetherapy.id
-activewear.id
 activfurniture.id
 activindonesiarace.id
 activision.id
@@ -7762,6 +7725,7 @@ additionally.id
 additive.id
 additon.id
 additonks.id
+addiyands.id
 addle.id
 addmy.id
 addodesaabuan.id
@@ -7879,6 +7843,7 @@ adhikonstruksi.id
 adhiland.id
 adhimahendraputra.id
 adhimixrmc.id
+adhiperkasa.id
 adhiputro.id
 adhirajasatranssejahtera.id
 adhiramedika.id
@@ -7989,6 +7954,7 @@ adipeux.id
 adiplatform.id
 adipramono.id
 adiprasetya.id
+adipratama.id
 adiprima-st.id
 adiprima.id
 adipublisher.id
@@ -8374,6 +8340,7 @@ advertorial.id
 adverts.id
 adveva.id
 advibiz.id
+advice.id
 advicebook.id
 advicecare.id
 advicee.id
@@ -8692,6 +8659,7 @@ affectionate.id
 affectumagency.id
 affidamento.id
 affiliads.id
+affiliasi.id
 affiliasiku.id
 affiliate.id
 affiliatefreedom.id
