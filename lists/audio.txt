@@ -566,7 +566,6 @@ bgy.audio
 bhl.audio
 biamp.audio
 bible.audio
-bibles.audio
 bigdaw.audio
 bigfish.audio
 bignoise.audio
@@ -3325,6 +3324,7 @@ preservation.audio
 presets.audio
 pressure.audio
 pretty.audio
+prettygood.audio
 price.audio
 pride.audio
 primal.audio
@@ -3878,7 +3878,6 @@ softube.audio
 sogeca.audio
 soiree.audio
 sol.audio
-solaris.audio
 soledge.audio
 solfeggio.audio
 solidele.audio
@@ -4333,7 +4332,6 @@ toro.audio
 torontobluejays.audio
 torque.audio
 tosch.audio
-totem.audio
 totim.audio
 toto.audio
 touchmix.audio
