@@ -1,4 +1,5 @@
 0.kg
+00.kg
 001.kg
 01.kg
 089.kg
@@ -269,6 +270,7 @@ act-building.kg
 act.kg
 actavis.kg
 actimove.kg
+action.kg
 actionbit.kg
 active.kg
 activebroker.kg
@@ -632,6 +634,7 @@ albanleader.kg
 alber.kg
 albion.kg
 albus.kg
+albusllc.kg
 alby.kg
 alc.kg
 alcatel-lucent.kg
@@ -1498,6 +1501,7 @@ avtovorota.kg
 avtovyshka.kg
 avtozapchast.kg
 avtozapchasti.kg
+avzur.kg
 awb.kg
 awei.kg
 awli.kg
@@ -1612,6 +1616,7 @@ balabakcha.kg
 balagabelek.kg
 balajan.kg
 balakay.kg
+balance-service.kg
 balance.kg
 balans.kg
 balapan.kg
@@ -1657,6 +1662,7 @@ barber.kg
 barbershop.kg
 barbol.kg
 barcaexperience.kg
+barcamp.kg
 barcelona.kg
 barch.kg
 barclays.kg
@@ -2292,6 +2298,7 @@ bubu-sara.kg
 bud.kg
 buddhism.kg
 buderus.kg
+budget.kg
 budweiser.kg
 budzdorov.kg
 buettner.kg
@@ -2330,6 +2337,7 @@ burj-al-arab.kg
 burjalarab.kg
 burjui.kg
 burn.kg
+buro.kg
 burotime.kg
 bus.kg
 business-plan.kg
@@ -2955,7 +2963,6 @@ da.kg
 daamduu.kg
 dabro.kg
 daclinic.kg
-dacs.kg
 dada.kg
 dae.kg
 daewoo.kg
@@ -3077,9 +3084,9 @@ dell.kg
 della.kg
 delo.kg
 deloitte.kg
-delovoisobesednik.kg
 delta-profi.kg
 delta.kg
+deltaclinic.kg
 deltamedical.kg
 deltatech.kg
 delux.kg
@@ -3114,6 +3121,7 @@ dentons.kg
 denttrade.kg
 denzeldetailing.kg
 depo.kg
+deposit.kg
 deposits.kg
 depozit.kg
 deputat.kg
@@ -3597,6 +3605,7 @@ ejoo.kg
 ekassa.kg
 ekitash.kg
 ekitep.kg
+ekk.kg
 ekol.kg
 ekomilk.kg
 ekopol.kg
@@ -3669,6 +3678,7 @@ elfinance.kg
 elfliq.kg
 elg.kg
 elgezit.kg
+elimbar.kg
 elita.kg
 elitaplus.kg
 elite-bruschatka.kg
@@ -4146,7 +4156,6 @@ fcmu.kg
 fdoc.kg
 fdu.kg
 fe.kg
-febgroup.kg
 federal.kg
 federalexpress.kg
 fedex.kg
@@ -4844,6 +4853,7 @@ greenwest.kg
 greenyard.kg
 greenzone.kg
 grenki.kg
+grentis.kg
 grill.kg
 grindeks.kg
 grindex.kg
@@ -4892,6 +4902,7 @@ guldor.kg
 gulfwestern.kg
 gulistan-aimak.kg
 gulmesch.kg
+gulum.kg
 gulzhan.kg
 gum.kg
 gumat.kg
@@ -5838,6 +5849,7 @@ jibekjolukafe.kg
 jif.kg
 jimdo.kg
 jingdong.kg
+jj.kg
 jkgroup.kg
 jkz.kg
 jlo.kg
@@ -5902,6 +5914,7 @@ k3.kg
 ka.kg
 kabai.kg
 kabar.kg
+kabarlar.kg
 kabel.kg
 kabi.kg
 kabrita.kg
@@ -6158,7 +6171,6 @@ kggt.kg
 kghu.kg
 kghunter.kg
 kginform.kg
-kglogistics.kg
 kgm.kg
 kgma.kg
 kgmachinery.kg
@@ -6750,11 +6762,11 @@ letsgo.kg
 letu.kg
 leukoplast.kg
 levan.kg
-levante.kg
 levarsflowers.kg
 level.kg
 levelgo.kg
 levelsroi.kg
+levelstroi.kg
 leveltravel.kg
 levelup.kg
 lex.kg
@@ -7457,6 +7469,7 @@ metallomir.kg
 metalloprofil.kg
 metallprofi.kg
 metallprofil.kg
+metallprom.kg
 metallpromko.kg
 metallstroibaza.kg
 metallstroy.kg
@@ -7523,7 +7536,6 @@ mifepristone.kg
 mig.kg
 migom.kg
 migompro.kg
-migrant.kg
 migrantkabar.kg
 migrationcouncil.kg
 migroup.kg
@@ -7615,6 +7627,7 @@ mkt.kg
 ml.kg
 mls-asian.kg
 mlsp.kg
+mm.kg
 mmc.kg
 mmediatrade.kg
 mmh.kg
@@ -7753,6 +7766,7 @@ msa.kg
 msc.kg
 msccruises.kg
 msco.kg
+msdistribution.kg
 msel.kg
 mservice.kg
 msi.kg
@@ -8136,7 +8150,6 @@ nomadsport.kg
 nomadtrading.kg
 nomer1.kg
 nomex.kg
-nonsi.kg
 noob.kg
 nookat.kg
 nookenao.kg
@@ -9621,7 +9634,6 @@ rkk.kg
 rktour.kg
 rm.kg
 rmconsult.kg
-rmdd.kg
 rmddaviation.kg
 rmk.kg
 rms.kg
@@ -9738,6 +9750,7 @@ ruli.kg
 rus.kg
 rusbelt.kg
 rusclub.kg
+rusconsosh.kg
 rusha.kg
 rusichi.kg
 rusklimat.kg
@@ -9867,7 +9880,6 @@ santehniki.kg
 santehnikprofi.kg
 santehplast.kg
 santehprofi.kg
-santo.kg
 sany.kg
 sanzhyraexpress.kg
 sap.kg
@@ -9886,7 +9898,6 @@ saran-ga.kg
 saratan.kg
 saray.kg
 sardar-cargo.kg
-saresep.kg
 sarkech.kg
 sartbaev.kg
 sarya.kg
@@ -10007,6 +10018,7 @@ serep.kg
 serial.kg
 serials.kg
 serm.kg
+sert-service.kg
 sert.kg
 serten.kg
 sertescentr.kg
@@ -10973,7 +10985,6 @@ techbull.kg
 techcoworking.kg
 techmatte.kg
 technetwork.kg
-technics.kg
 technikabishkek.kg
 techno-oil.kg
 techno.kg
@@ -11647,6 +11658,7 @@ umai.kg
 umaigroup.kg
 umc.kg
 umg.kg
+ummamag.kg
 umnyashka.kg
 umra.kg
 umrah.kg
@@ -11755,7 +11767,6 @@ urta.kg
 uruu.kg
 us.kg
 usa.kg
-usd.kg
 usdt.kg
 user.kg
 ushakov.kg
@@ -11891,6 +11902,7 @@ vermop.kg
 vero.kg
 versalstone.kg
 vershina.kg
+versia.kg
 vertex.kg
 veselyi-molochnik.kg
 vesovaya.kg
@@ -11902,7 +11914,6 @@ vestnik.kg
 vet.kg
 vetinstitut.kg
 vetmedservis.kg
-vevi.kg
 vf.kg
 vfinance.kg
 vfreight.kg
@@ -12372,6 +12383,7 @@ yurtcampalay.kg
 yurtdistribution.kg
 yutong.kg
 yves-rocher.kg
+yy.kg
 z.kg
 za-kemin-uchun.kg
 za.kg
