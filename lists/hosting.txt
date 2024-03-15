@@ -1327,6 +1327,7 @@ maltafamily.hosting
 malware.hosting
 mammoth.hosting
 managed-cloud.hosting
+managed-ict.hosting
 managed.hosting
 managedcloud.hosting
 managedservices.hosting
@@ -1738,7 +1739,6 @@ platine.hosting
 platopus.hosting
 play.hosting
 plus.hosting
-pmeti.hosting
 pogo.hosting
 pogozone.hosting
 point2point.hosting
