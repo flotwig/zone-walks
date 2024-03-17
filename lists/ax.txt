@@ -1332,7 +1332,6 @@ fiskkojan.ax
 fiskodlarna.ax
 fixarn.ax
 fixso.ax
-fixtjanst.ax
 fjader.ax
 fk.ax
 fl.ax
@@ -1906,6 +1905,7 @@ jannesplat.ax
 jansens.ax
 jansson.ax
 jar.ax
+jarvinen.ax
 jass.ax
 jay.ax
 jb.ax
@@ -3492,7 +3492,6 @@ stenbackakonditori.ax
 stenhuggeri.ax
 stenius.ax
 stenman.ax
-stentorget.ax
 sterling.ax
 stiftelsen.ax
 stiftelsenhemmet.ax
