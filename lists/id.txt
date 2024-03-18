@@ -453,7 +453,6 @@
 125-99.id
 125-yd.id
 125.id
-12538.id
 12539.id
 12563.id
 12569.id
@@ -501,7 +500,6 @@
 13587.id
 13597.id
 136.id
-13627.id
 13638.id
 13652.id
 137.id
@@ -756,7 +754,6 @@
 175757.id
 17592.id
 176.id
-17632.id
 17658.id
 177.id
 17725.id
@@ -901,7 +898,6 @@
 19836.id
 19837.id
 1984.id
-19856.id
 19897.id
 198adventure.id
 199-52.id
@@ -1060,7 +1056,6 @@
 208-88.id
 208.id
 20831.id
-20889.id
 209.id
 20917.id
 20bet.id
@@ -1179,7 +1174,6 @@
 225.id
 22558.id
 22559.id
-22572.id
 22588.id
 226.id
 22659.id
@@ -1269,7 +1263,6 @@
 239574.id
 23965.id
 23967.id
-23975.id
 23986.id
 23paskal.id
 24-hr.id
@@ -1648,7 +1641,6 @@
 28156.id
 28157.id
 28165.id
-28167.id
 28174.id
 282-04.id
 282-12.id
@@ -1693,6 +1685,7 @@
 28511.id
 28517.id
 28519.id
+28536.id
 28567.id
 28573.id
 286.id
@@ -1811,7 +1804,6 @@
 29653.id
 29678.id
 29683.id
-29687.id
 297-47.id
 297-49.id
 297-57.id
@@ -1900,6 +1892,7 @@
 314159.id
 31449.id
 315.id
+31567.id
 315749.id
 31586.id
 316.id
@@ -1927,7 +1920,6 @@
 320-25.id
 320.id
 321.id
-32123.id
 32141.id
 32186.id
 32187.id
@@ -1971,7 +1963,6 @@
 32net.id
 33-99.id
 33-dg.id
-33-wd.id
 33.id
 330.id
 33044.id
@@ -2157,7 +2148,6 @@
 374.id
 375.id
 37518.id
-37529.id
 37543.id
 376.id
 37601.id
@@ -2324,7 +2314,6 @@
 3data.id
 3dcargo.id
 3dewainternusa.id
-3dfarm.id
 3dfashion.id
 3dhologram.id
 3dholographic.id
@@ -3711,7 +3700,6 @@
 629.id
 62918.id
 62937.id
-62957.id
 62975.id
 62dev.id
 62net.id
@@ -3735,6 +3723,7 @@
 63285.id
 633.id
 63338.id
+63395.id
 634.id
 635.id
 63528.id
@@ -3892,7 +3881,6 @@
 671.id
 67135.id
 671516.id
-67197.id
 67198.id
 672.id
 67238.id
@@ -3906,6 +3894,7 @@
 67295.id
 673.id
 67318.id
+67321.id
 67325.id
 67328.id
 67358.id
@@ -3954,7 +3943,6 @@
 683.id
 68315.id
 683172.id
-68319.id
 68321.id
 68325.id
 68344.id
@@ -4096,7 +4084,6 @@
 71625.id
 71653.id
 71658.id
-71659.id
 71682.id
 717-77.id
 717-78.id
@@ -4500,7 +4487,6 @@
 772-74.id
 772-81.id
 772.id
-77264.id
 773.id
 774-14.id
 774-21.id
@@ -4894,6 +4880,7 @@
 817.id
 81732.id
 81768.id
+81796.id
 818-15.id
 818-20.id
 818-58.id
@@ -5005,7 +4992,6 @@
 831.id
 83169.id
 83172.id
-83198.id
 832.id
 83201.id
 83219.id
@@ -5529,7 +5515,6 @@
 892.id
 89237.id
 8925-ht.id
-89273.id
 89274.id
 893.id
 89321.id
@@ -5687,14 +5672,12 @@
 91586.id
 916.id
 91632.id
-91652.id
 91658.id
 917-78.id
 917.id
 918-40.id
 918.id
 91802.id
-91835.id
 91841.id
 91867.id
 91873.id
@@ -5822,7 +5805,6 @@
 93586.id
 936.id
 93625.id
-93628.id
 93675.id
 93681.id
 937.id
@@ -5910,7 +5892,6 @@
 95278.id
 95287.id
 953.id
-95316.id
 95317.id
 95321.id
 95326.id
@@ -6111,7 +6092,6 @@
 985.id
 98511.id
 98526.id
-98527.id
 98572.id
 9858-ds.id
 986.id
@@ -6402,6 +6382,7 @@ abagusdev.id
 abahhusein.id
 abahkost.id
 abahsoft.id
+abahzakalsel1.id
 abaihsan.id
 abainvest.id
 abaka.id
@@ -7053,10 +7034,8 @@ accountech.id
 accounting-clinic.id
 accounting-indonesia.id
 accounting.id
-accountingdigital.id
 accountinghack.id
 accountingindonesia.id
-accountingofficial.id
 accountingonchain.id
 accountingpointofview.id
 accountings.id
@@ -7789,7 +7768,6 @@ adhitechsales.id
 adhitya.id
 adhiwangsabali.id
 adhiwijaya.id
-adhiyamiracletour.id
 adhiyatravel.id
 adhoc.id
 adhome.id
@@ -8753,7 +8731,6 @@ afwajatour.id
 afwan.id
 afxfireblocker.id
 afyaa.id
-afzju.id
 ag-it.id
 ag4d.id
 agacia.id
@@ -8915,7 +8892,6 @@ agenjudipoker88.id
 agenjudislot.id
 agenkaospolos.id
 agenku.id
-agenlaser.id
 agenlibra.id
 agenmadu.id
 agenmain.id
