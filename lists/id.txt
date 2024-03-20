@@ -281,7 +281,6 @@
 1000haripertamasikecil.id
 1000jurnalterakreditasi.id
 1000kopinusantara.id
-1000nusantara.id
 1000pulau.id
 1000s.id
 1000santridigital.id
@@ -317,6 +316,7 @@
 101internet.id
 101news.id
 102.id
+1024.id
 103.id
 10355.id
 104-15.id
@@ -373,7 +373,6 @@
 115-28.id
 115-89.id
 115.id
-11599.id
 116-51.id
 116.id
 117-57.id
@@ -424,7 +423,6 @@
 12334.id
 12345.id
 123456.id
-12356.id
 12375.id
 123cargo.id
 123crm.id
@@ -444,7 +442,6 @@
 124-dd.id
 124-yd.id
 124.id
-12445.id
 125-25.id
 125-44.id
 125-52.id
@@ -452,6 +449,7 @@
 125-99.id
 125-yd.id
 125.id
+12538.id
 12539.id
 12563.id
 12569.id
@@ -475,7 +473,6 @@
 129.id
 129357.id
 12937.id
-12987.id
 12agenbola.id
 12bet.id
 12onlinegaming.id
@@ -499,6 +496,7 @@
 13587.id
 13597.id
 136.id
+13627.id
 13638.id
 13652.id
 137.id
@@ -681,6 +679,7 @@
 16529.id
 16579.id
 16597.id
+165suite.id
 166.id
 167-32.id
 167.id
@@ -690,6 +689,7 @@
 16785.id
 168-yf.id
 168.id
+16815.id
 168168.id
 16853.id
 16876.id
@@ -815,7 +815,6 @@
 187-57.id
 187-81.id
 187.id
-18755.id
 18756.id
 1877drchewy.id
 18793.id
@@ -1055,6 +1054,7 @@
 20917.id
 20bet.id
 20detik.id
+20fit.id
 20med.id
 20mindhighschool.id
 20one.id
@@ -1078,10 +1078,8 @@
 212hujan.id
 212salam.id
 213.id
-21366.id
 21376.id
 21379.id
-21389.id
 214-00.id
 214-77.id
 214-79.id
@@ -1119,7 +1117,6 @@
 21938.id
 219446.id
 21963.id
-21965.id
 21976.id
 21cineplex.id
 21e8.id
@@ -1464,7 +1461,6 @@
 258-98.id
 258.id
 25863.id
-25881.id
 259-07.id
 259-19.id
 259-22.id
@@ -1525,7 +1521,6 @@
 26917.id
 26971.id
 26978.id
-26985.id
 26motor.id
 27-28.id
 27-45.id
@@ -1631,6 +1626,7 @@
 28156.id
 28157.id
 28165.id
+28167.id
 28174.id
 282-04.id
 282-12.id
@@ -1891,9 +1887,9 @@
 31640.id
 31658.id
 31678.id
+31685.id
 31692.id
 317.id
-31725.id
 31758.id
 31769.id
 31792.id
@@ -1939,6 +1935,7 @@
 327.id
 32759.id
 32769.id
+32795.id
 328-23.id
 328.id
 32802.id
@@ -2030,7 +2027,6 @@
 356776.id
 35687.id
 357.id
-35712.id
 35719.id
 35761.id
 35769.id
@@ -2062,6 +2058,7 @@
 360motion.id
 360pro.id
 360project.id
+360studio.id
 360system.id
 360utopia.id
 360vpro.id
@@ -2073,7 +2070,6 @@
 362.id
 36218.id
 36257.id
-36266.id
 36291.id
 36298.id
 363.id
@@ -2166,6 +2162,7 @@
 38236.id
 38259.id
 38269.id
+38275.id
 38276.id
 38296.id
 383.id
@@ -3032,7 +3029,6 @@
 526-17.id
 526.id
 5263-yu.id
-52639.id
 526738.id
 52683.id
 527-04.id
@@ -3080,7 +3076,6 @@
 53121.id
 53122.id
 53124.id
-53167.id
 53172.id
 53178.id
 53182.id
@@ -3185,7 +3180,6 @@
 548-99.id
 548.id
 54858.id
-54896.id
 549-54.id
 549-85.id
 549.id
@@ -3310,8 +3304,8 @@
 56893.id
 568sport.id
 569.id
-56913.id
 56927.id
+56932.id
 56946.id
 56978.id
 56mart.id
@@ -3349,7 +3343,6 @@
 57328.id
 57362.id
 57376.id
-57391.id
 57392.id
 574-25.id
 574-40.id
@@ -3440,7 +3433,6 @@
 5825-nu.id
 58255.id
 58263.id
-58273.id
 58291.id
 583.id
 58397.id
@@ -3464,6 +3456,7 @@
 585858.id
 586.id
 58613.id
+58621.id
 58692.id
 587-11.id
 587-52.id
@@ -3606,7 +3599,6 @@
 612.id
 61242.id
 61253.id
-61283.id
 61285.id
 61287.id
 613.id
@@ -3628,7 +3620,7 @@
 617777.id
 617788.id
 618.id
-61892.id
+61872.id
 619.id
 61962.id
 61992.id
@@ -3656,7 +3648,6 @@
 62497.id
 625.id
 62538.id
-62591.id
 626.id
 62678.id
 627.id
@@ -3675,6 +3666,7 @@
 629.id
 62918.id
 62937.id
+62957.id
 62975.id
 62dev.id
 62net.id
@@ -3774,13 +3766,11 @@
 65398.id
 654.id
 65432.id
-65438.id
 655.id
 65581.id
 656.id
 6563-ha.id
 65655.id
-65677.id
 65693.id
 657.id
 65719.id
@@ -3930,7 +3920,6 @@
 68579.id
 686.id
 68652.id
-68655.id
 6869-en.id
 687-93.id
 687.id
@@ -3975,7 +3964,6 @@
 69698.id
 696xii.id
 697.id
-69721.id
 69740.id
 698.id
 69823.id
@@ -4058,6 +4046,7 @@
 71625.id
 71653.id
 71658.id
+71659.id
 71682.id
 717-77.id
 717-78.id
@@ -4162,7 +4151,6 @@
 72701.id
 72742.id
 72766.id
-72788.id
 727xii.id
 728-25.id
 728-27.id
@@ -4209,7 +4197,6 @@
 73269.id
 73286.id
 73291.id
-73295.id
 73296.id
 733.id
 73373.id
@@ -4226,7 +4213,6 @@
 73717.id
 73743.id
 73767.id
-73787.id
 737a6f6669e1.id
 738.id
 73825.id
@@ -4335,7 +4321,6 @@
 75361.id
 75381.id
 75396.id
-75398.id
 754-14.id
 754-27.id
 754-44.id
@@ -4370,7 +4355,6 @@
 757-82.id
 757.id
 75726.id
-75789.id
 758-21.id
 758-25.id
 758-44.id
@@ -4473,7 +4457,6 @@
 774-97.id
 774.id
 77406.id
-77418.id
 775-18.id
 775-48.id
 775-49.id
@@ -4993,7 +4976,6 @@
 83795.id
 83796.id
 838.id
-83899.id
 838win.id
 839-jx.id
 839.id
@@ -5320,7 +5302,6 @@
 877-84.id
 877.id
 87738.id
-87765.id
 87797.id
 87798.id
 878-08.id
@@ -5334,7 +5315,6 @@
 878-92.id
 878-98.id
 878.id
-87823.id
 87836.id
 879-08.id
 879-45.id
@@ -5384,7 +5364,6 @@
 884-78.id
 884-87.id
 884.id
-88475.id
 885-07.id
 885-44.id
 885-54.id
@@ -5480,6 +5459,7 @@
 892.id
 89237.id
 8925-ht.id
+89273.id
 89274.id
 893.id
 89321.id
@@ -5521,7 +5501,6 @@
 897.id
 89712.id
 89735.id
-89751.id
 898-44.id
 898-48.id
 898.id
@@ -5627,7 +5606,6 @@
 91291.id
 913.id
 91362.id
-91372.id
 913company.id
 914.id
 914381.id
@@ -5642,6 +5620,7 @@
 918-40.id
 918.id
 91802.id
+91835.id
 91841.id
 91867.id
 91873.id
@@ -5673,7 +5652,6 @@
 921-47.id
 921.id
 92132.id
-92138.id
 92175.id
 92178.id
 92185.id
@@ -5854,6 +5832,7 @@
 95278.id
 95287.id
 953.id
+95316.id
 95317.id
 95321.id
 95326.id
@@ -6044,7 +6023,6 @@
 98310.id
 98316.id
 983172.id
-98321.id
 98325.id
 98356.id
 98372.id
@@ -6564,6 +6542,7 @@ abhitech.id
 abhome.id
 abi-tianglampuantikmurah.id
 abi.id
+abiagarwood.id
 abiamir.id
 abiblock.id
 abiboo.id
@@ -6817,6 +6796,7 @@ abusive.id
 abustle.id
 abuwafa.id
 abuya.id
+abuyaconstruction.id
 abuytan.id
 abuza.id
 abuzaid.id
@@ -7484,6 +7464,7 @@ adamlabs.id
 adammaulana.id
 adammawar.id
 adammcdonald.id
+adamnet.id
 adamodal.id
 adamotor.id
 adampacs.id
@@ -8073,7 +8054,6 @@ adree.id
 adreenamedia.id
 adrem.id
 adrena.id
-adrenalin.id
 adrenaline.id
 adrenalized.id
 adresources.id
@@ -9102,7 +9082,6 @@ agrinesia.id
 agrio.id
 agrion.id
 agrionchain.id
-agriot.id
 agripina.id
 agriplus.id
 agripreneur.id
@@ -9545,6 +9524,7 @@ ns1.actpoint.id
 ns1.adapromosi.id
 ns1.adcetera.id
 ns1.adiya.id
+ns1.adrenalin.id
 ns1.adsnusantara.id
 ns1.adsplus.id
 ns1.afdaldev.id
@@ -9577,6 +9557,7 @@ ns2.actpoint.id
 ns2.adapromosi.id
 ns2.adcetera.id
 ns2.adiya.id
+ns2.adrenalin.id
 ns2.adsnusantara.id
 ns2.adsplus.id
 ns2.afdaldev.id
@@ -9602,6 +9583,5 @@ sv1.4fior.id
 sv1.4fior.id.4fior.id
 sv2.4fior.id
 sv22.4fior.id
-web.abata.id
 www.adapromosi.id
 yoyok.15innovate.id
