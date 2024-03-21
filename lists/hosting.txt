@@ -413,6 +413,7 @@ cloudoffice.hosting
 cloudorange.hosting
 cloudpki.hosting
 cloudspace.hosting
+cloudspark.hosting
 cloudstorage.hosting
 cloudsystems.hosting
 cloudtech.hosting
@@ -587,7 +588,6 @@ dgtl.hosting
 diatem.hosting
 digi.hosting
 digistate.hosting
-digital.hosting
 digitalagency.hosting
 digitalnova.hosting
 digitalocean.hosting
