@@ -59,9 +59,10 @@ TLD | Domain Count
 [`wed`][wed] [(raw)][wed-raw] | <div align="right">21</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">12</div>
+[`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4863885</div>
+**Total** | <div align="right">4863892</div>
 
 ## See Also
 
@@ -159,6 +160,8 @@ TLD | Domain Count
 [bd-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/bd.txt
 [gn]: ./lists/gn.txt
 [gn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/gn.txt
+[ieee]: ./lists/ieee.txt
+[ieee-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ieee.txt
 [er]: ./lists/er.txt
 [er-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/er.txt
 [lb]: ./lists/lb.txt
