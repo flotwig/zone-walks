@@ -37,6 +37,7 @@ jobs:
         - guitars
         - hosting
         - id
+        - ieee
         - kg
         - kz
         - lb
