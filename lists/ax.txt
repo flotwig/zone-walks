@@ -563,7 +563,6 @@ bg.ax
 bgp.ax
 bh.ax
 bibliotek.ax
-bibo.ax
 bid.ax
 bifa.ax
 bifabike.ax
@@ -953,7 +952,6 @@ dana.ax
 dandelia.ax
 daniel.ax
 daniels.ax
-dansensvanner.ax
 dark.ax
 data.ax
 datagroup.ax
@@ -1804,6 +1802,7 @@ ikh.ax
 ikhtyokalut.ax
 ikhvaraosat.ax
 ikhverkkokauppa.ax
+il.ax
 ilmatar.ax
 ilracing.ax
 ilse.ax
@@ -3339,6 +3338,7 @@ skogsindustrier.ax
 skogsportalen.ax
 skokous.ax
 skola.ax
+skolsupport.ax
 skonhet.ax
 skonhetsmagasinet.ax
 skordefest.ax
@@ -3709,7 +3709,6 @@ tntec.ax
 to.ax
 toadfl.ax
 tobaksfriduo.ax
-tobox.ax
 token.ax
 tolk.ax
 tom.ax
@@ -4246,5 +4245,4 @@ zt.ax
 zub.ax
 zx.ax
 zxz.ax
-zy.ax
 zz.ax
