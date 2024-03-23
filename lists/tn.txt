@@ -641,7 +641,6 @@ a2rmaths.tn
 a2soft.tn
 a2ssecurity.tn
 a2t.tn
-a2zholidays.tn
 a3p-tunisie.tn
 a3ptunisie.tn
 a4.tn
@@ -1037,7 +1036,6 @@ ad.tn
 ada.tn
 adab.tn
 adace.tn
-adagency.tn
 adam-art.tn
 adam.tn
 adamcherif.tn
@@ -2842,6 +2840,7 @@ aon.tn
 aonhewitt.tn
 aonsante.tn
 aos-sfax.tn
+aos.tn
 aosi.tn
 aoud.tn
 aouili.tn
@@ -3027,6 +3026,7 @@ arabhousingconf6.tn
 arabia.tn
 arabiana.tn
 arabianday.tn
+arabiastore1.tn
 arabica-store.tn
 arabicbet.tn
 arabsq.tn
@@ -3409,6 +3409,7 @@ ascommunication.tn
 asconseil.tn
 ascor.tn
 ascourtage.tn
+asct-mauritanie.tn
 asdfootball.tn
 asdrubalschool.tn
 ase-company.tn
@@ -5805,6 +5806,7 @@ birthdaybox.tn
 biruni.tn
 bisabeli.tn
 bisaprint.tn
+biscoff.tn
 biscuit-saida.tn
 biscuit-start.tn
 biscuit.tn
@@ -7562,7 +7564,6 @@ cavautlecoup.tn
 cave.tn
 cavernesante.tn
 caviar-de-paris.tn
-caviarburger.tn
 caviardeparis.tn
 cavr.tn
 cazino.tn
@@ -16722,6 +16723,7 @@ gateway.tn
 gatewayedu.tn
 gatewaytravel.tn
 gatla.tn
+gatpadel.tn
 gattefosse.tn
 gatvie.tn
 gaucho.tn
@@ -17280,6 +17282,7 @@ glowacademy.tn
 glowandgo.tn
 glowpharma.tn
 glowup.tn
+glowyskin.tn
 gls.tn
 glstransit.tn
 glucocheck.tn
@@ -22031,6 +22034,7 @@ karhabtk.tn
 karhba.tn
 karhbitcom.tn
 karhbti.tn
+karhbty.tn
 karhebti.tn
 karia.tn
 karim-atigui.tn
@@ -22362,6 +22366,7 @@ kidspace.tn
 kidsparadise.tn
 kidsskill.tn
 kidstoon.tn
+kidstoons.tn
 kidstore.tn
 kidstoys.tn
 kidsworld.tn
@@ -22371,6 +22376,7 @@ kidz.tn
 kidzania.tn
 kidzapp.tn
 kidzo.tn
+kidztoons.tn
 kidzy.tn
 kieslect.tn
 kif-biscuits.tn
@@ -24560,6 +24566,7 @@ lottoking.tn
 lottoland.tn
 lottotunisie.tn
 lotus.tn
+lotusbiscoff.tn
 lotusshop.tn
 louage.tn
 louage24.tn
@@ -24680,7 +24687,6 @@ lumierelogistique.tn
 lumierenissaf.tn
 lumierepro.tn
 lumieretransport.tn
-lumieretunisie.tn
 lumin-art.tn
 luminaire.tn
 luminaires.tn
@@ -27180,6 +27186,7 @@ mixada.tn
 mixbet.tn
 mixfood.tn
 mixi.tn
+mixmarket.tn
 mixmenu.tn
 mixtis.tn
 miyado-cuisine.tn
@@ -27592,7 +27599,6 @@ monogros.tn
 monoprix.tn
 monostore.tn
 monpain.tn
-monpanier.tn
 monparfum.tn
 monpermis.tn
 monpharmacien.tn
@@ -30184,7 +30190,6 @@ opensource.tn
 openspace.tn
 openstack.tn
 openstore.tn
-opentt.tn
 opentunisia.tn
 openvision.tn
 openvox.tn
@@ -30822,7 +30827,6 @@ panelahk.tn
 pangealogistics.tn
 panier-pratique.tn
 panier-shop.tn
-panier.tn
 panierbrico.tn
 paniere.tn
 paniershop.tn
@@ -31316,6 +31320,7 @@ perfectbio.tn
 perfectdental.tn
 perfectdesign.tn
 perfectionconsulting.tn
+perfectmarket.tn
 perfectmedical.tn
 perfectos.tn
 perfectpaper.tn
