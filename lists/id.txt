@@ -38,6 +38,7 @@
 01189.id
 012-84.id
 012.id
+0123movies.id
 013.id
 014.id
 015.id
@@ -265,6 +266,7 @@
 0x420.id
 0xd14.id
 0xfar.id
+0xh.id
 0xkyc.id
 0xmert.id
 0xtech.id
@@ -281,6 +283,7 @@
 1000haripertamasikecil.id
 1000jurnalterakreditasi.id
 1000kopinusantara.id
+1000nusantara.id
 1000pulau.id
 1000s.id
 1000santridigital.id
@@ -453,7 +456,6 @@
 12539.id
 12563.id
 12569.id
-12593.id
 12596.id
 126.id
 12658.id
@@ -676,7 +678,6 @@
 16501.id
 16502.id
 16579.id
-16597.id
 165suite.id
 166.id
 167-32.id
@@ -881,7 +882,6 @@
 197.id
 19723.id
 19725.id
-19762.id
 19763.id
 1977er.id
 198.id
@@ -1515,7 +1515,6 @@
 269.id
 26917.id
 26971.id
-26978.id
 26985.id
 26motor.id
 27-28.id
@@ -1782,7 +1781,6 @@
 296.id
 29635.id
 296389.id
-29653.id
 29678.id
 29683.id
 297-47.id
@@ -2104,7 +2102,6 @@
 36888.id
 36889.id
 369.id
-36912.id
 369club.id
 37-ht.id
 37-tm.id
@@ -2928,7 +2925,6 @@
 515-84.id
 515-88.id
 515.id
-51563.id
 516.id
 51604.id
 51606.id
@@ -3260,6 +3256,7 @@
 56197.id
 562.id
 56213.id
+56231.id
 56289.id
 56291.id
 56293.id
@@ -3623,7 +3620,6 @@
 62087.id
 621.id
 62179.id
-62183.id
 62195.id
 622.id
 62201.id
@@ -3779,10 +3775,8 @@
 65932.id
 659602.id
 65962.id
-65972.id
 66.id
 660.id
-66007.id
 661.id
 662.id
 66206.id
@@ -4172,7 +4166,6 @@
 73195.id
 732.id
 73216.id
-73258.id
 73265.id
 73269.id
 73286.id
@@ -4263,7 +4256,6 @@
 749-80.id
 749.id
 74943.id
-75-hy.id
 75.id
 750-72.id
 750-98.id
@@ -4780,7 +4772,6 @@
 81.id
 810-14.id
 810.id
-81011.id
 81039.id
 811-20.id
 811-71.id
@@ -4870,7 +4861,6 @@
 825478.id
 82561.id
 825689.id
-82569.id
 82593.id
 826.id
 82638.id
@@ -4943,6 +4933,7 @@
 83657.id
 837-21.id
 837.id
+83715.id
 83729.id
 8376-gs.id
 83761.id
@@ -5052,6 +5043,7 @@
 85222.id
 8523-kf.id
 8523-ty.id
+85248.id
 8527-ky.id
 85271.id
 85273.id
@@ -5100,7 +5092,6 @@
 857-84.id
 857-87.id
 857.id
-85716.id
 85793.id
 858-42.id
 858-45.id
@@ -5121,7 +5112,6 @@
 85937.id
 8596-tg.id
 8596-wt.id
-85971.id
 85973.id
 85mart.id
 86-mf.id
@@ -5165,7 +5155,6 @@
 86779.id
 86788.id
 868.id
-86819.id
 868868.id
 869.id
 86927.id
@@ -5256,12 +5245,12 @@
 87521.id
 87526.id
 87544.id
+87562.id
 87569.id
 876.id
 87621.id
 87623.id
 87632.id
-87635.id
 8765-yt.id
 87691.id
 87698.id
@@ -5438,7 +5427,6 @@
 89351.id
 89369.id
 8937-ey.id
-89372.id
 894-25.id
 894-42.id
 894-44.id
@@ -5650,7 +5638,6 @@
 925.id
 92513.id
 92516.id
-92533.id
 925381.id
 92561.id
 92567.id
@@ -5666,7 +5653,6 @@
 927-80.id
 927-97.id
 927.id
-92716.id
 92736.id
 92748.id
 92756.id
@@ -5819,7 +5805,6 @@
 95637.id
 95638.id
 95681.id
-95682.id
 957-04.id
 957-36.id
 957-44.id
@@ -5960,8 +5945,6 @@
 97bola.id
 97transmalang.id
 98-ht.id
-98-sj.id
-98-wd.id
 98.id
 980-01.id
 980-27.id
@@ -5969,6 +5952,7 @@
 980.id
 981-88.id
 981.id
+98126.id
 982-24.id
 982-74.id
 982-85.id
@@ -8154,7 +8138,6 @@ advertize.id
 advertorial.id
 adverts.id
 adveva.id
-advibiz.id
 advice.id
 advicebook.id
 advicecare.id
@@ -8318,6 +8301,7 @@ aeroclean.id
 aeroculture.id
 aeroedu.id
 aerofood.id
+aerogeo.id
 aerogreens.id
 aerojasajaya.id
 aerokidz.id
@@ -8617,7 +8601,6 @@ afterridecoffeeshop.id
 aftersales.id
 afterschool.id
 aftershokz.id
-afterstore.id
 afteruni.id
 afterwork.id
 afterworks.id
@@ -9068,6 +9051,7 @@ agrobarokah.id
 agrobibit.id
 agrobisnis.id
 agrobiz.id
+agrobogor.id
 agrobusiness.id
 agrocahayasejaterah.id
 agrocare.id
@@ -9136,7 +9120,6 @@ agrotekpintar.id
 agrotenera.id
 agrotera.id
 agrotopia.id
-agrotv.id
 agroup.id
 agroveta.id
 agrovision.id
@@ -9383,8 +9366,6 @@ ahrboge.id
 ahrgroups.id
 ahriesonta.id
 ahris.id
-ahrjt.id
-ahruz.id
 ahsan.id
 ahsana.id
 ahsanagroup.id
