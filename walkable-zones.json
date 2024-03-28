@@ -1,6 +1,9 @@
 {
   "zones": [
     {
+      "zone": "amazon"
+    },
+    {
       "zone": "arpa"
     },
     {
