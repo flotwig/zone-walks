@@ -1224,7 +1224,6 @@ kirschbaum.hosting
 kkmail.hosting
 klickpark.hosting
 kmedia.hosting
-koehler.hosting
 koele.hosting
 kolokacja.hosting
 konvekta.hosting
@@ -1608,6 +1607,7 @@ onramp.hosting
 open-sea.hosting
 open.hosting
 openbsd.hosting
+opencraft.hosting
 openit.hosting
 opensea-pro.hosting
 opensea-support.hosting
@@ -1753,9 +1753,7 @@ postgres.hosting
 postmail.hosting
 pound.hosting
 povo.hosting
-power-net.hosting
 powercms.hosting
-powernet.hosting
 powr.hosting
 ppaas.hosting
 pq.hosting
