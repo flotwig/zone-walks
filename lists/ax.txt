@@ -490,6 +490,7 @@ axport.ax
 axr.ax
 axred.ax
 axrent.ax
+axsafe.ax
 axstone.ax
 axsystems.ax
 axtours.ax
@@ -567,7 +568,6 @@ bibliotek.ax
 bibo.ax
 bid.ax
 bifa.ax
-bifabike.ax
 bifaboat.ax
 bifarent.ax
 big.ax
@@ -1116,7 +1116,6 @@ ek.ax
 ekenlycka.ax
 eklund.ax
 eklunds.ax
-eko.ax
 ekokliniken.ax
 ekonomi.ax
 ekonomikompaniet.ax
@@ -1999,7 +1998,6 @@ ka.ax
 kaigai.ax
 kalastuskartta.ax
 kalev.ax
-kallas.ax
 kallbo.ax
 kallstrom.ax
 kalmers.ax
@@ -2021,6 +2019,7 @@ karlbergs.ax
 karlsson.ax
 karlssons.ax
 karlssonsinfra.ax
+karlssonsmaleri.ax
 karlssonsschakt.ax
 karriarvagledaren.ax
 karring.ax
@@ -2166,12 +2165,10 @@ kyrkor.ax
 l1.ax
 l33th.ax
 la.ax
-lab.ax
 labambu.ax
 labelled.ax
 ladda.ax
 laderbiten.ax
-lager.ax
 lager43.ax
 lagerelden.ax
 lagerhotell.ax
@@ -2241,7 +2238,6 @@ limonad.ax
 linak.ax
 linda.ax
 lindberg.ax
-lindblom.ax
 linde.ax
 linden.ax
 linderback.ax
@@ -2717,6 +2713,7 @@ notan.ax
 nov.ax
 nova.ax
 novav.ax
+noxon.ax
 npf.ax
 ns.ax
 ns.jd.ax
@@ -3478,7 +3475,6 @@ st.ax
 st1.ax
 stablehost.ax
 stad.ax
-stadaaland.ax
 stadarn.ax
 stadforbundet.ax
 stadskrog.ax
@@ -4170,7 +4166,6 @@ xn--ss-xia.ax
 xn--sspubit-4wac.ax
 xn--ssravintolat-fcbc.ax
 xn--std-tna.ax
-xn--stdaland-1zam.ax
 xn--steelfmhjlpen-jfb.ax
 xn--stersjkortet-3ibg.ax
 xn--studiestd-77a.ax
