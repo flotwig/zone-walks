@@ -287,9 +287,6 @@
 3afsus-shop.tn
 3ajla.tn
 3ak3ek.tn
-3akar.tn
-3akarat.tn
-3akari.tn
 3al.tn
 3alamni.tn
 3alem.tn
@@ -2019,6 +2016,7 @@ allbijoux.tn
 allchemicalstunisia.tn
 allcontact.tn
 alldeal.tn
+alldepot.tn
 alldiag.tn
 alleanza.tn
 allegro.tn
@@ -2794,6 +2792,7 @@ anonymous.tn
 anot.tn
 anothervision.tn
 anouar-ep.tn
+anouar.tn
 anpe-tunair.tn
 anpp.tn
 anpr.tn
@@ -4900,6 +4899,7 @@ bebekids.tn
 bebelook.tn
 bebes.tn
 bebestore.tn
+bebi.tn
 bebjebli.tn
 beblech.tn
 bebop.tn
@@ -6947,7 +6947,6 @@ ca-training.tn
 ca.tn
 caa.tn
 caaplast.tn
-cab.tn
 cabinet-adr.tn
 cabinet-ahchouba.tn
 cabinet-avocat.tn
@@ -8152,6 +8151,7 @@ chez-soeurettes.tn
 chez-vous.tn
 chez.tn
 chezamouna.tn
+chezayari.tn
 chezbabystore.tn
 chezelle.tn
 chezmaman.tn
@@ -8619,6 +8619,7 @@ clickandgo.tn
 clickandgoshop.tn
 clickandwin.tn
 clickbet.tn
+clickbus.tn
 clickdarimmo.tn
 clickeat.tn
 clickedin-shop.tn
@@ -9116,6 +9117,7 @@ coinnahdi.tn
 coinshop.tn
 coinstore.tn
 cointech.tn
+coinvip.tn
 cojedjuniorentreprise.tn
 cokoujinaspace.tn
 cola.tn
@@ -10778,6 +10780,7 @@ daysign.tn
 daysinn.tn
 daystore.tn
 daytoday.tn
+daytruck.tn
 dayuse.tn
 dazishop.tn
 db-technology.tn
@@ -11091,7 +11094,6 @@ denios.tn
 dennous.tn
 denta.tn
 dentaire.tn
-dentaireimplant.tn
 dental.tn
 dentalbox.tn
 dentalclinic.tn
@@ -11306,6 +11308,7 @@ devoteam.tn
 devpoint.tn
 devpro.tn
 devsecops.tn
+devserve.tn
 devspace.tn
 devsprint.tn
 devtech.tn
@@ -13287,6 +13290,7 @@ elbazaar.tn
 elbazaarstore.tn
 elbazar.tn
 elbazart.tn
+elbazzar.tn
 elbene.tn
 elbenna.tn
 elbetta.tn
@@ -14364,7 +14368,6 @@ essths.tn
 esstsm.tn
 esstssousse.tn
 esswared.tn
-est.tn
 estampesray.tn
 estamps.tn
 estatehousingadvice.tn
@@ -14921,6 +14924,7 @@ fafa.tn
 fafastore.tn
 fagorelectrodomestico.tn
 fagorelectromenager.tn
+fahandmade.tn
 fahmi.tn
 faika-travel.tn
 fail.tn
@@ -15833,7 +15837,6 @@ fondationifm.tn
 fondationkhouadja.tn
 fondationleselites.tn
 fondationmahaba.tn
-fondationrambourg.tn
 fondationsolidariteetinnovationbyuib.tn
 fondationtemimi.tn
 fondscitoyen.tn
@@ -16276,7 +16279,6 @@ fregate-it.tn
 freindchocolat.tn
 frenchtech.tn
 frequence.tn
-freresgourmets.tn
 fresca.tn
 freseniusmedicalcare.tn
 fresh-box.tn
@@ -20067,7 +20069,6 @@ imperial-marhaba.tn
 impex.tn
 impexequipement.tn
 impextunisie.tn
-implantswiss.tn
 implepoint.tn
 impor.tn
 import.tn
@@ -20230,6 +20231,7 @@ infinix.tn
 infirmier.tn
 infirmiere.tn
 infirst.tn
+influence.tn
 influencemarketingshow.tn
 influenceplus.tn
 influencer-tunisia.tn
@@ -21119,6 +21121,7 @@ itrend.tn
 itri.tn
 itrusdi.tn
 itrust.tn
+its-nt.tn
 its.tn
 itsbooking.tn
 itschool.tn
@@ -21329,13 +21332,6 @@ jawstore.tn
 jawtube.tn
 jax.tn
 jaycom.tn
-jazhospitality.tn
-jazhospitalitytunisia.tn
-jazhotels.tn
-jazhotelsandresorts.tn
-jazhotelstunisie.tn
-jazresortstunisia.tn
-jaztunisie.tn
 jazz.tn
 jazzytweet.tn
 jb.tn
@@ -23076,6 +23072,7 @@ laliga-xtra.tn
 lalistetunisienne.tn
 laliterie.tn
 laloutcha.tn
+lalunacosmetic.tn
 lam.tn
 lam3i-store.tn
 lamagique.tn
@@ -23501,6 +23498,7 @@ lebongoutbysarra.tn
 lebonjeu.tn
 lebonmagasin.tn
 lebonmateriel.tn
+lebonpied.tn
 lebonplan.tn
 lebonproduit.tn
 lebosphore.tn
@@ -23710,6 +23708,7 @@ lemma.tn
 lemnara.tn
 lemoinscher.tn
 lemoisdespros.tn
+lemomentpara.tn
 lemon.tn
 lemonade.tn
 lemonde.tn
@@ -24785,7 +24784,6 @@ m-b.tn
 m-darek.tn
 m-deco.tn
 m-elec.tn
-m-it-formation.tn
 m-it.tn
 m-la-sirene.tn
 m-medical.tn
@@ -25203,6 +25201,7 @@ maisonmaazoun.tn
 maisonmodele.tn
 maisonnature.tn
 maisonodeur.tn
+maisonpara.tn
 maisonpharma.tn
 maisonplus.tn
 maisonpromotion.tn
@@ -26753,6 +26752,7 @@ meubledeco.tn
 meubledriss.tn
 meublefortdekelibia.tn
 meublekhaled.tn
+meublelina.tn
 meubleraihan.tn
 meubles-ennour.tn
 meubles-kallel.tn
@@ -27117,6 +27117,7 @@ mistertravel.tn
 mistigri.tn
 mistore.tn
 mistralshipping.tn
+mit-monplaisir.tn
 mit-nabeul.tn
 mit-polytech.tn
 mit-test.tn
@@ -27984,6 +27985,7 @@ mtsautocenter.tn
 mtservices.tn
 mtsglobe.tn
 mtslift.tn
+mtsp.tn
 mtsplus.tn
 mtstore.tn
 mtstunisia.tn
@@ -28634,6 +28636,7 @@ naturelle.tn
 naturesbounty.tn
 naturespirit.tn
 naturshop.tn
+naturtint.tn
 natuyln-shop.tn
 natuzzi.tn
 natuzzieditions.tn
@@ -29143,6 +29146,7 @@ nn.tn
 nnn.tn
 no.tn
 noa.tn
+noah.tn
 nobel.tn
 nobi.tn
 nobleprog.tn
@@ -29267,6 +29271,7 @@ nourelmaaref.tn
 nourenergy.tn
 nourfruit.tn
 nourgps.tn
+nourhenerebai.tn
 nouri-audition.tn
 nourimmo.tn
 nouriss.tn
