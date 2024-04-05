@@ -568,6 +568,7 @@ bibliotek.ax
 bibo.ax
 bid.ax
 bifa.ax
+bifabike.ax
 bifaboat.ax
 bifarent.ax
 big.ax
@@ -1116,6 +1117,7 @@ ek.ax
 ekenlycka.ax
 eklund.ax
 eklunds.ax
+eko.ax
 ekokliniken.ax
 ekonomi.ax
 ekonomikompaniet.ax
@@ -1998,6 +2000,7 @@ ka.ax
 kaigai.ax
 kalastuskartta.ax
 kalev.ax
+kallas.ax
 kallbo.ax
 kallstrom.ax
 kalmers.ax
@@ -2238,6 +2241,7 @@ limonad.ax
 linak.ax
 linda.ax
 lindberg.ax
+lindblom.ax
 linde.ax
 linden.ax
 linderback.ax
@@ -4060,7 +4064,6 @@ wr.ax
 wra.ax
 ws.ax
 wsn.ax
-wt.ax
 wu.ax
 wulffbeltton.ax
 wurma.ax
