@@ -1269,7 +1269,6 @@ fargtapet.ax
 fastigheter.ax
 fastighetsab.ax
 fastighetscenter.ax
-fastighetsjuridik.ax
 fastighetsservice.ax
 fastighetsverket.ax
 fatous.ax
@@ -4064,6 +4063,7 @@ wr.ax
 wra.ax
 ws.ax
 wsn.ax
+wt.ax
 wu.ax
 wulffbeltton.ax
 wurma.ax
