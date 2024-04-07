@@ -238,6 +238,7 @@ abpack.kg
 abroi.kg
 abrom.kg
 abroy.kg
+absaqua.kg
 abscissa.kg
 absconstruction.kg
 absolut-deck.kg
@@ -1219,6 +1220,7 @@ asoi.kg
 asos.kg
 aspin.kg
 aspro.kg
+assanabil.kg
 assetx.kg
 assist.kg
 association.kg
@@ -1806,6 +1808,7 @@ beko.kg
 bel.kg
 belayareka.kg
 belbog.kg
+belek-group.kg
 belek.kg
 beles.kg
 belgi.kg
@@ -1849,7 +1852,6 @@ berries.kg
 berry.kg
 bes.kg
 besharcha.kg
-beshikjon.kg
 beshkentao.kg
 beshtash.kg
 besmart.kg
@@ -5602,7 +5604,6 @@ iparbio.kg
 ipc.kg
 ipchain.kg
 ipfm.kg
-ipg.kg
 iphone.kg
 iplook.kg
 ipmatika.kg
@@ -5681,6 +5682,7 @@ istina.kg
 istobal.kg
 istochnikdushi.kg
 istore.kg
+istudio.kg
 isu.kg
 isuzu.kg
 it-academy.kg
@@ -7488,7 +7490,6 @@ metallken.kg
 metallobaza.kg
 metallomir.kg
 metalloprofil.kg
-metallprofi.kg
 metallprofil.kg
 metallprom.kg
 metallpromko.kg
@@ -8227,6 +8228,7 @@ npl.kg
 npm.kg
 npotomotiv.kg
 nrg.kg
+nrggym.kg
 nris.kg
 ns.kg
 ns1.kg
@@ -10091,7 +10093,6 @@ sew-eurodrive.kg
 sew.kg
 seweurodrive.kg
 sewindustry.kg
-sex-shop.kg
 sex.kg
 sexshop.kg
 sexshop69.kg
@@ -10328,7 +10329,6 @@ sleng.kg
 slmb-travel.kg
 slogistic.kg
 slon.kg
-sloncleaning.kg
 slonenok.kg
 slovo.kg
 slp.kg
@@ -11689,7 +11689,6 @@ ulevel.kg
 ulitka.kg
 ulsk.kg
 ultra.kg
-ulukman.kg
 uluky.kg
 ulut.kg
 uluttuksport.kg
@@ -12536,3 +12535,4 @@ zvezda.kg
 zvezdochka.kg
 zvonok.kg
 zvuk.kg
+zz.kg
