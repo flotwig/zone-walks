@@ -527,7 +527,6 @@ barkraft.ax
 barons.ax
 barplay.ax
 basso.ax
-batlivmedfamiljen.ax
 battle.ax
 battvatten.ax
 bauerstudios.ax
@@ -847,6 +846,7 @@ chromecast.ax
 chromium.ax
 ci.ax
 cinem.ax
+circle.ax
 city.ax
 cityblommor.ax
 citycykel.ax
@@ -1061,6 +1061,7 @@ dv.ax
 dw.ax
 dwtrading.ax
 dy.ax
+dykbolaget.ax
 dz.ax
 e-aland.ax
 e-cat.ax
@@ -1340,6 +1341,7 @@ flisofisk.ax
 flodin.ax
 flourish.ax
 flowdog.ax
+fluid.ax
 flux.ax
 flygfoto.ax
 flygklubben.ax
@@ -2089,6 +2091,7 @@ kn.ax
 knegarn.ax
 ko.ax
 kobbaklintarsvanner.ax
+kodarklubben.ax
 kof.ax
 kohler.ax
 kokar.ax
@@ -2568,6 +2571,7 @@ mottagningen.ax
 mow.ax
 mp.ax
 mpd.ax
+mpdlab.ax
 mr.ax
 mrh.ax
 mrvegas.ax
@@ -3030,6 +3034,7 @@ qn.ax
 qom.ax
 qos.ax
 qp.ax
+qpon.ax
 qq.ax
 qr.ax
 qs.ax
@@ -3345,6 +3350,7 @@ skattetoppen.ax
 skatteverket.ax
 skeeters.ax
 skeppargardenpellas.ax
+skidning.ax
 skog.ax
 skogen.ax
 skogsindustrier.ax
@@ -3409,7 +3415,6 @@ sofiero.ax
 soft.ax
 softgarden.ax
 softm.ax
-softub.ax
 soka.ax
 sokos-hotel.ax
 sokos-hotelli.ax
