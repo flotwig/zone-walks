@@ -62,6 +62,7 @@
 44.ax
 4h.ax
 4m.ax
+4t.ax
 50.ax
 5138.ax
 520.ax
@@ -267,7 +268,6 @@ alandsvanner.ax
 alandsvatten.ax
 alandsvindenergi.ax
 alandtravel.ax
-alandtravelmagazine.ax
 alandunited.ax
 alandyachts.ax
 alanta.ax
@@ -3846,6 +3846,7 @@ utemiljo.ax
 utilitydiadora.ax
 utr.ax
 utrusta.ax
+uu.ax
 uv.ax
 uwatchfree.ax
 ux.ax
