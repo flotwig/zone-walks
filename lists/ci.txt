@@ -2674,6 +2674,7 @@ clearpath.ci
 cleverness.ci
 clicdesign.ci
 clickhouse.ci
+clicktobuy.ci
 clim-energieservices.ci
 clim225.ci
 climatech.ci
@@ -2698,6 +2699,7 @@ cloud.ci
 cloud225.ci
 cloud4africa.ci
 cloudassur.ci
+cloudcom.ci
 clouded.ci
 cloudexchange.com.ci
 cloudnative.ci
