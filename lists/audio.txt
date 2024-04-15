@@ -1564,6 +1564,7 @@ fish.audio
 fitness.audio
 fka.audio
 fkdiy.audio
+fla.audio
 flare.audio
 flares.audio
 flashscore.audio
@@ -3261,7 +3262,6 @@ pioneer.audio
 pirates.audio
 pitchdokta.audio
 pittsburghpirates.audio
-pivot.audio
 pixel.audio
 pixels.audio
 pixul.audio
@@ -3280,11 +3280,13 @@ plecostomus.audio
 pliki.audio
 plingr.audio
 plinius.audio
+plus.audio
 pluvi.audio
 poap.audio
 pobeda.audio
 pod.audio
 podcast.audio
+podmatic.audio
 pods.audio
 poe.audio
 pointdorgue.audio
