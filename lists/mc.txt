@@ -553,7 +553,6 @@ caroliprint.mc
 carolisecuriteprivee.mc
 carra.mc
 carte-blanche.mc
-carteblanche.mc
 cartebtpmonaco.mc
 carti.mc
 cartoradio.mc
@@ -659,6 +658,7 @@ cimetiere.mc
 cimm.mc
 cinpit.mc
 cip.mc
+circularity.mc
 ciribelli.mc
 cis.mc
 citibank.mc
@@ -1706,6 +1706,7 @@ laboratoires-europhta.mc
 labour.mc
 lacivette.mc
 laclasse.mc
+lacoche.mc
 laduree.mc
 ladyrow.mc
 lafayette.mc
