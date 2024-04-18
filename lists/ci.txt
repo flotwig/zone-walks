@@ -192,7 +192,6 @@
 3dnetinfo.ci
 3ebat.ci
 3f.ci
-3gsystems.ci
 3ic.ci
 3p-industries.ci
 3pz.ci
@@ -849,6 +848,7 @@ allodriver.ci
 alloecole.ci
 allofinance.ci
 alloimmo.ci
+allomondoc.ci
 allone.ci
 allonsauchamp.ci
 allonsavecado.ci
@@ -1425,6 +1425,7 @@ baanaa.ci
 baanaalogistics.ci
 babi-shop.ci
 babi.ci
+babibox-formation.ci
 babibox.ci
 babideals.ci
 babigo.ci
@@ -1524,6 +1525,7 @@ batimmoplus.ci
 batimpro.ci
 batinet.ci
 batione.ci
+batiplus.ci
 batipro.ci
 batir.ci
 batirici-annuairebtp.ci
@@ -1829,6 +1831,7 @@ bmm.ci
 bmod.ci
 bmolife.ci
 bms.ci
+bmservices.ci
 bmw.ci
 bn.ci
 bnci.ci
@@ -1882,6 +1885,7 @@ bonprix.ci
 bonsejour.ci
 bonus.ci
 bonuscode.ci
+bonusmag.ci
 bonzogroup.ci
 book.ci
 booking.ci
@@ -2137,6 +2141,7 @@ cameron.ci
 camp2e.ci
 cams.ci
 camservices.ci
+camt-cargo.ci
 camtech.ci
 can2023.ci
 can2024.ci
@@ -2436,7 +2441,9 @@ chakagroupe.ci
 chalkboardeducation.com.ci
 challenges-ivoire.ci
 challenges.ci
+chambragri.ci
 chames.ci
+champion.ci
 championbet.ci
 championlubes.ci
 championtv.ci
@@ -2481,6 +2488,7 @@ chezartisan.ci
 chezdjams.ci
 chic-coq.ci
 chic.ci
+chicafricabeauty.ci
 chicco.ci
 chickenpay.ci
 chicking.ci
@@ -2613,6 +2621,7 @@ ciprel.ci
 cipremci.ci
 cips.ci
 cirad.ci
+cirba.ci
 circet.ci
 circle.ci
 cirec.ci
@@ -3149,7 +3158,6 @@ rentalcar.com.ci
 rentalcars.co.ci
 rentalcars.com.ci
 revoo-motor.com.ci
-rim.co.ci
 rmb.co.ci
 rmb.com.ci
 rmbbank.co.ci
