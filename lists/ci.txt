@@ -458,7 +458,6 @@ adf-group.ci
 adg.ci
 adgroupeloko.ci
 adherezcp-gps.ci
-adhservices.ci
 adigroup.ci
 adih.ci
 adik.ci
@@ -877,6 +876,7 @@ alt.ci
 altabib.ci
 altacado.ci
 alternative-si.ci
+altiusconseil.ci
 altmtn.ci
 alubiz.ci
 aluminier-technal.ci
@@ -960,7 +960,6 @@ andersentaxlegal.ci
 andja.ci
 android.ci
 andros.ci
-andyesthetique.ci
 anehci.ci
 anemak.ci
 anexci.ci
@@ -2238,6 +2237,7 @@ cartescolaire-metfpa.ci
 cartify.ci
 cartolab.ci
 cartotheque-cntig.ci
+cartouche.ci
 cartouchespro.ci
 carverandco.ci
 caryotype.ci
@@ -2558,6 +2558,7 @@ cicici.ci
 cicoa.ci
 cicos.ci
 cicotrans.ci
+cicps.ci
 cidafrique.ci
 cidex.ci
 cidexmotors.ci
