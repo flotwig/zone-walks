@@ -329,7 +329,6 @@
 3dstore.tn
 3dtech.tn
 3dtek.tn
-3ee.tn
 3eja.tn
 3elm.tn
 3erk.tn
@@ -923,7 +922,6 @@ acif.tn
 acifacif.tn
 acil.tn
 acis-eshop.tn
-acis-store.tn
 acis.tn
 acjemp.tn
 acl.tn
@@ -3104,6 +3102,7 @@ arco.tn
 arcobajo.tn
 arcom.tn
 arcon.tn
+arcopara.tn
 arctexone.tn
 arctic-hunter.tn
 ardaccess.tn
@@ -5516,6 +5515,7 @@ bia-assistance.tn
 biaa-clic.tn
 biaa.tn
 biat-consulting.tn
+biat-it.tn
 biat.tn
 biatconsulting.tn
 biatlab.tn
@@ -6206,7 +6206,6 @@ bonplan.tn
 bonplandeco.tn
 bonplandecor.tn
 bonplandecoration.tn
-bonplans.tn
 bonprixsousse.tn
 bonprofil.tn
 bonsoir.tn
@@ -6291,6 +6290,7 @@ borgel.tn
 borges.tn
 borgiphones.tn
 borgivoyages.tn
+borjelfodha.tn
 born.tn
 born2be.tn
 born2travel.tn
@@ -9305,7 +9305,6 @@ commune-ezzouhour.tn
 commune-faouar.tn
 commune-gaafour.tn
 commune-gafsa.tn
-commune-grombalia.tn
 commune-haidra.tn
 commune-hajeb.tn
 commune-hammamet.tn
@@ -10113,6 +10112,7 @@ crosspoint.tn
 croustina.tn
 crowd-funding.tn
 crowdfund.tn
+crowdfunding-tunisia.tn
 crowdfunding.tn
 crowdfundingculture.tn
 crowdfundingtunisia.tn
@@ -11039,7 +11039,6 @@ deliveriz.tn
 delivero.tn
 deliveroo.tn
 delivery.tn
-deliveryksouda.tn
 deliverylog.tn
 deliveryplus.tn
 delivo.tn
@@ -11787,6 +11786,7 @@ divina.tn
 divinaboutique.tn
 divinestudios.tn
 divisiongros.tn
+divorce.tn
 diwan-aliftaa.tn
 diwan.tn
 diwanfm.tn
@@ -12575,6 +12575,7 @@ earthofexcellence.tn
 easc.tn
 easiertunisie.tn
 easigrass.tn
+easinvest.tn
 east.tn
 easy-buy.tn
 easy-catering.tn
@@ -13493,7 +13494,6 @@ elfirma.tn
 elfixeejdid.tn
 elfixeeljdid.tn
 elfixejdid.tn
-elfoodlab.tn
 elfoundoustore.tn
 elfrip.tn
 elfuego.tn
@@ -14351,6 +14351,7 @@ esprim.tn
 esprims.tn
 esprit-education.tn
 esprit-fondation.tn
+esprit-jeune.tn
 esprit-ras-robots.tn
 esprit-rh.tn
 esprit-vip.tn
@@ -15180,7 +15181,6 @@ fatfeta.tn
 fathallah.tn
 fathallahtravel.tn
 fatishopenligne.tn
-fatma-ezzahra.tn
 fatma.tn
 fatmabouchiba.tn
 fatna.tn
@@ -16313,6 +16313,7 @@ fregate-it.tn
 freindchocolat.tn
 frenchtech.tn
 frequence.tn
+freresgourmets.tn
 fresca.tn
 freseniusmedicalcare.tn
 fresh-box.tn
@@ -16349,6 +16350,7 @@ frijas.tn
 frip.tn
 fripdeluxe.tn
 fripe.tn
+fripedeluxe.tn
 fripegi.tn
 fripeji.tn
 fripi.tn
@@ -16356,6 +16358,7 @@ fripna.tn
 fripo.tn
 friposophie.tn
 frippe.tn
+frippedeluxe.tn
 fripperie.tn
 frippo.tn
 frippy.tn
@@ -16378,7 +16381,6 @@ fromito.tn
 fromscratch.tn
 front.tn
 frontonde.tn
-frooti.tn
 fructis.tn
 fruit.tn
 fruitoftheloom.tn
@@ -16739,6 +16741,7 @@ gateprospector.tn
 gatesacademy.tn
 gateway.tn
 gatewayedu.tn
+gatewaytravel.tn
 gatla.tn
 gatpadel.tn
 gattefosse.tn
@@ -19891,7 +19894,6 @@ ikigai.tn
 ikit.tn
 ikitchen.tn
 ikonia.tn
-ikra.tn
 ikri-karhba.tn
 ikri.tn
 ikricar.tn
@@ -21389,6 +21391,7 @@ jcdecaux.tn
 jcf.tn
 jci-jemmel.tn
 jci-menzel-fersi.tn
+jcibirlahmer.tn
 jcieljem.tn
 jcighardimaou.tn
 jcimedenine.tn
@@ -21551,6 +21554,7 @@ jjr.tn
 jk.tn
 jkbe.tn
 jkrentcar.tn
+jl.tn
 jlassi.tn
 jlassiwafa.tn
 jleli.tn
@@ -23094,7 +23098,6 @@ lagrintaclub.tn
 lagrottetropical.tn
 lahbibclean.tn
 lahdha.tn
-lahdhaexpress.tn
 lahjetna.tn
 lahkouma.tn
 lahorde.tn
@@ -24714,7 +24717,6 @@ lunarys.tn
 lunastore.tn
 lunatv.tn
 lunch-box.tn
-lunchbox.tn
 lunedor.tn
 luneti.tn
 lunette.tn
@@ -26608,6 +26610,7 @@ menuisier.tn
 menuonline.tn
 menupro.tn
 menuqrcode.tn
+menurapide.tn
 menutium.tn
 menyarshop.tn
 menzel-bouzaiene.tn
@@ -27297,6 +27300,7 @@ mmservice.tn
 mmsgroup.tn
 mmsi.tn
 mmsshipping.tn
+mmsstravpub.tn
 mmstore.tn
 mmstraiding.tn
 mmt.tn
@@ -28375,7 +28379,6 @@ mymind.tn
 mymjewels.tn
 mymorningafter.tn
 mymy.tn
-mynaturalfoods.tn
 mynearshore.tn
 mynearshorecompany.tn
 mynet.tn
@@ -28780,7 +28783,6 @@ negozioshop.tn
 nehlabaananou.tn
 neifar-ge.tn
 nejmahuiles.tn
-nejmanews.tn
 nejmastore.tn
 nekmando-store.tn
 nekmando.tn
@@ -28955,7 +28957,6 @@ newbases.tn
 newbat.tn
 newbodyline.tn
 newbuild.tn
-newc-aquisition.tn
 newchic.tn
 newcocar.tn
 newcollection.tn
@@ -29352,6 +29353,7 @@ nouveaustore.tn
 nouvelair.tn
 nouvelle.tn
 nouvelles.tn
+nova-shop.tn
 nova.tn
 nova01.tn
 nova02.tn
@@ -30023,6 +30025,7 @@ onlinejobs.tn
 onlinelearning.tn
 onlinenettools.tn
 onlineshop.tn
+onlineshop2.tn
 onlineshopping.tn
 onlinetechnology.tn
 only-shop.tn
@@ -30382,7 +30385,6 @@ orientea.tn
 orientini.tn
 orientissimo.tn
 orientorise.tn
-orientpalace-hotel.tn
 orientpalace.tn
 oriflame-cosmetics.tn
 oriflame.tn
@@ -31426,6 +31428,7 @@ pets.tn
 petscare.tn
 petscarevet.tn
 petshop.tn
+petshouse.tn
 petsid.tn
 petsitter.tn
 petsitterdjerba.tn
@@ -31875,6 +31878,7 @@ plateforme-education.tn
 plateforme-medias.tn
 plateforme-recherche-fmt.tn
 plateforme.tn
+plateformetextile.tn
 platform-am.tn
 platform.tn
 platinium-is.tn
