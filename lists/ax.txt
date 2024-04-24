@@ -127,6 +127,7 @@ accessplus.ax
 account.ax
 acidm.ax
 acs.ax
+acura.ax
 ad.ax
 ada.ax
 adamant.ax
@@ -1358,7 +1359,6 @@ fn.ax
 foa.ax
 focus.ax
 fogelberg.ax
-fogelvagen.ax
 foglo.ax
 foglofastighetsbolag.ax
 foglohembygd.ax
@@ -2568,6 +2568,7 @@ mpd.ax
 mpdlab.ax
 mr.ax
 mrh.ax
+mri.ax
 mrvegas.ax
 ms.ax
 msf.ax
@@ -2952,6 +2953,7 @@ pohjolasairaala.ax
 point.ax
 pokal.ax
 poker.ax
+polaris.ax
 polhus.ax
 police.ax
 policylabbetgranit.ax
