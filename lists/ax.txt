@@ -189,7 +189,6 @@ aktiespararna.ax
 al.ax
 alamo.ax
 aland.ax
-aland100.ax
 alandbanken.ax
 alandevent.ax
 alandexpeditions.ax
@@ -2996,6 +2995,7 @@ proans.ax
 proax.ax
 probus.ax
 proevent.ax
+proffs.ax
 profilhuset.ax
 programnamnden.ax
 projektkonsult.ax
@@ -3210,6 +3210,7 @@ sahd.ax
 saija.ax
 sailaland.ax
 saj.ax
+sajt.ax
 sallander.ax
 salong16.ax
 salongdelila.ax
