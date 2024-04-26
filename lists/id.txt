@@ -1069,6 +1069,7 @@
 21e8.id
 21fit.id
 21gram.id
+21news.id
 21plus.id
 21shop.id
 21vqaum.id
@@ -1696,7 +1697,6 @@
 29735.id
 29753.id
 29761.id
-29785.id
 298-49.id
 298-75.id
 298.id
@@ -1811,7 +1811,6 @@
 32532.id
 32576.id
 3258-da.id
-32587.id
 326.id
 32601.id
 32617.id
@@ -1976,7 +1975,6 @@
 366.id
 36698.id
 367.id
-36782.id
 36789.id
 36795.id
 36799.id
@@ -2824,7 +2822,6 @@
 52274.id
 523.id
 52316.id
-52367.id
 52380.id
 524-05.id
 524-07.id
@@ -2891,7 +2888,6 @@
 529.id
 52913.id
 52936.id
-52976.id
 52vivo.id
 53-7b.id
 53-8b.id
@@ -2901,12 +2897,10 @@
 530.id
 53025.id
 531.id
-53121.id
 53124.id
 53172.id
 532.id
 53257.id
-53260.id
 53268.id
 533.id
 533179.id
@@ -4340,7 +4334,6 @@
 79563.id
 79582.id
 796.id
-79628.id
 79653.id
 79685.id
 797-44.id
@@ -4574,7 +4567,6 @@
 832.id
 83201.id
 83219.id
-83256.id
 83257.id
 83296.id
 833.id
@@ -4754,7 +4746,6 @@
 859-47.id
 859.id
 85927.id
-85937.id
 85973.id
 85mart.id
 86-mf.id
@@ -5133,6 +5124,7 @@
 904-80.id
 904.id
 90435.id
+90484.id
 905-59.id
 905.id
 90537.id
@@ -5561,7 +5553,6 @@
 98888.id
 989-11.id
 989.id
-98932.id
 98hang.id
 98toto.id
 99-indonesia.id
@@ -6029,7 +6020,6 @@ abhinawa.id
 abhinayaenergi.id
 abhinsewa.id
 abhipraya.id
-abhiprayapradanaperkasa.id
 abhisekaprojects.id
 abhiseva.id
 abhishek.id
@@ -7920,6 +7910,7 @@ aestheticoutdoorfurniture.id
 aestheticpondokindah.id
 aesthetics.id
 aestica.id
+aesticabeauty.id
 aestika.id
 aesygo.id
 aeta-indonesia.id
@@ -8048,6 +8039,7 @@ afiato.id
 afidarifin.id
 afif.id
 afiffuads.id
+afifharyanti.id
 afifpratamaputra.id
 afika.id
 afilar.id
@@ -8609,7 +8601,6 @@ agrociptalestari.id
 agrocommodity.id
 agrodigital.id
 agrodistributor.id
-agroestate.id
 agrofarm.id
 agrofarmnusaraya.id
 agrofish.id
