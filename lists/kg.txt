@@ -71,7 +71,6 @@
 21store.kg
 22.kg
 220.kg
-220city.kg
 220volt.kg
 24.kg
 2444.kg
@@ -242,7 +241,6 @@ abscissa.kg
 absconstruction.kg
 absolut-deck.kg
 absolut.kg
-absolute.kg
 abtaxi.kg
 abtpartners.kg
 abubakirov.kg
@@ -289,7 +287,6 @@ activemarkets.kg
 actrading.kg
 ad-limited.kg
 ad.kg
-ada.kg
 adabiyat.kg
 adal-tour.kg
 adal.kg
@@ -424,7 +421,6 @@ agrojer.kg
 agrokush.kg
 agrolife.kg
 agroline.kg
-agromaidan.kg
 agromarket.kg
 agroneto.kg
 agronetto.kg
@@ -529,7 +525,6 @@ aitv.kg
 aiva.kg
 aivamall.kg
 aiways.kg
-aiwory.kg
 aiylokmotu.kg
 aiyurt.kg
 aizen.kg
@@ -596,7 +591,6 @@ aksakal.kg
 aksarai.kg
 aksuu.kg
 aksuukenesh.kg
-aksy.kg
 aksy1.kg
 aktash.kg
 aktek.kg
@@ -634,7 +628,6 @@ alatoobuilding.kg
 alatooinvest.kg
 alatoologistic.kg
 alatoomoto.kg
-alatown.kg
 alatv.kg
 alawar.kg
 alay-express.kg
@@ -2675,6 +2668,7 @@ chunkurchak.kg
 church.kg
 chuy-glass.kg
 chuy.kg
+chyndyk.kg
 chyntash.kg
 chyrak.kg
 ci.kg
@@ -2770,7 +2764,6 @@ coddy.kg
 code.kg
 coderbooks.kg
 codetip.kg
-coexsyrup.kg
 coffee.kg
 coffeeboom.kg
 coffeeshop.kg
@@ -2828,7 +2821,6 @@ conference.kg
 conferencebishkek.kg
 confetto.kg
 confidence.kg
-conmodum.kg
 connect.kg
 connecta.kg
 consciouscapital.kg
@@ -3108,7 +3100,6 @@ debet.kg
 debra.kg
 debtholding.kg
 debtholdingmedia.kg
-debut.kg
 dec.kg
 decaro-engineering.kg
 decathlon.kg
@@ -3607,6 +3598,7 @@ ecotrek.kg
 ecovanna.kg
 ecovannalux.kg
 ecowall.kg
+ecpostavki.kg
 ecv.kg
 ed.kg
 eda.kg
@@ -4869,7 +4861,6 @@ gradsovet.kg
 gradum.kg
 grajdanstvo.kg
 grancem.kg
-grand-atmos.kg
 grand-gector.kg
 grand-myrza.kg
 grand-proekt.kg
@@ -5407,6 +5398,7 @@ ikonuguu.kg
 iksu.kg
 iku.kg
 ilaw.kg
+ilb.kg
 ilbirs.kg
 ilbirstrade.kg
 ilbirsvet.kg
@@ -5495,6 +5487,7 @@ indo.kg
 industrialcompany.kg
 industry.kg
 inec.kg
+inerto.kg
 inesse.kg
 infaprim.kg
 infinico.kg
@@ -5609,6 +5602,7 @@ interpack.kg
 interpay.kg
 interpost.kg
 intersolution.kg
+interspectehnika.kg
 intersport.kg
 interstone.kg
 interstyleplus.kg
@@ -6680,7 +6674,6 @@ kyzyl-kiya.kg
 kyzyl-suu.kg
 kyzyl-tegirmen.kg
 kyzyl-tuu.kg
-kyzyltuu.kg
 kyzylunkur.kg
 kzmc.kg
 kzto.kg
@@ -6835,7 +6828,6 @@ levelgo.kg
 levelsroi.kg
 levelstroi.kg
 leveltravel.kg
-levelup.kg
 lex.kg
 lex24.kg
 lexexpress.kg
@@ -7102,6 +7094,7 @@ m-tc.kg
 m.kg
 m1.kg
 m2.kg
+m2m.kg
 m9999.kg
 ma.kg
 maalymat.kg
@@ -7292,6 +7285,7 @@ maxdev.kg
 maxgo.kg
 maxima.kg
 maximum.kg
+maximumenglish.kg
 maxis.kg
 maxlevel.kg
 maxline.kg
@@ -7982,7 +7976,6 @@ nadc.kg
 nadejda.kg
 nadezhda.kg
 nag.kg
-nagimamother-aitmatova.kg
 nagrada.kg
 nail.kg
 nailor.kg
@@ -8476,7 +8469,6 @@ olaplex.kg
 olc.kg
 oldnavy.kg
 olenka.kg
-oligarchchayhana.kg
 olimp.kg
 olimpbet.kg
 olimpiada.kg
@@ -9487,7 +9479,6 @@ raev.kg
 raevsky-clinic.kg
 rafting.kg
 raheem.kg
-rahmat.kg
 rai.kg
 raiantour.kg
 railcommerce.kg
@@ -9604,7 +9595,6 @@ refsystem.kg
 reg.kg
 region.kg
 register.kg
-registerbuild.kg
 registprofi.kg
 registr.kg
 registratsia.kg
@@ -9689,8 +9679,8 @@ retest.kg
 retro-metro.kg
 retrofm.kg
 revent.kg
-reviever.kg
 review.kg
+reviewer.kg
 revyline.kg
 rexroth.kg
 rexwat.kg
@@ -9747,7 +9737,6 @@ rmddaviation.kg
 rmk.kg
 rms.kg
 rmservise.kg
-rmsoft.kg
 rnd.kg
 rnmc.kg
 roaming.kg
@@ -9805,6 +9794,7 @@ rossiida.kg
 rosskeramika.kg
 rost.kg
 rostehstal.kg
+rostmetall.kg
 rotana.kg
 rotapharm.kg
 rotor.kg
@@ -9962,7 +9952,6 @@ sama.kg
 samarbekov.kg
 samarsky.kg
 sambo.kg
-samimed.kg
 samokat.kg
 samolet.kg
 samoletplus.kg
@@ -9992,6 +9981,7 @@ sanjyra.kg
 sanosan.kg
 sanstandart.kg
 santeh.kg
+santehbish.kg
 santehelectric.kg
 santehmarket.kg
 santehnica-shop.kg
@@ -10613,6 +10603,7 @@ spectransburo.kg
 spectrum-bit.kg
 spectrum.kg
 spectrumbit.kg
+speedlinellc.kg
 speedydelivery.kg
 speleo.kg
 spenergkey.kg
@@ -10795,6 +10786,7 @@ stroydvor.kg
 stroyexpert.kg
 stroyka.kg
 stroylevel.kg
+stroymaterialy.kg
 stroymig.kg
 stroypoint.kg
 stroyprice.kg
@@ -11020,7 +11012,6 @@ tapalak.kg
 tape.kg
 tapigo.kg
 tapsell.kg
-taptaza.kg
 tarakan.kg
 tarbia.kg
 tarbiya.kg
@@ -11209,6 +11200,7 @@ tenirtravel.kg
 tennis.kg
 tennisi.kg
 tensai.kg
+tentech.kg
 tenti.kg
 tenzi.kg
 teohim.kg
@@ -11337,6 +11329,7 @@ tickets.kg
 tiens.kg
 tienshanlegend.kg
 tienshansooda.kg
+tieshan.kg
 tiffany.kg
 tiger.kg
 tigerauto.kg
@@ -11448,6 +11441,7 @@ toot.kg
 tootash.kg
 top-persona.kg
 top.kg
+top10.kg
 topactive.kg
 topall.kg
 topas.kg
@@ -12254,7 +12248,6 @@ warnerbros.kg
 wasabi-sushi.kg
 wasabi.kg
 wasabiprofdocs.kg
-washprofiservice.kg
 washservice.kg
 washtec.kg
 wastenet.kg
