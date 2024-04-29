@@ -70,6 +70,7 @@
 21store.kg
 22.kg
 220.kg
+220city.kg
 220volt.kg
 24.kg
 2444.kg
@@ -646,7 +647,6 @@ alcon.kg
 alcor.kg
 alcoraman.kg
 aldaba.kg
-aldey.kg
 aldo.kg
 aldoshoes.kg
 alef.kg
@@ -874,7 +874,6 @@ an.kg
 anacosinum.kg
 ananai.kg
 ananas.kg
-anas.kg
 anavangard.kg
 anavg.kg
 androlog.kg
@@ -1078,9 +1077,9 @@ arte-lamp.kg
 arte.kg
 artel.kg
 artenika.kg
-arterium.kg
 artezian.kg
 artglass.kg
+arthotel.kg
 arti-group.kg
 article9.kg
 artis-logistics.kg
@@ -1806,7 +1805,6 @@ bekeshev.kg
 beket.kg
 bekmangroup.kg
 bekmoldo.kg
-beko.kg
 bel.kg
 belayareka.kg
 belbog.kg
@@ -1862,6 +1860,7 @@ besoft.kg
 besser.kg
 best-asia.kg
 best.kg
+bestcars.kg
 bestchoice.kg
 bestdeal.kg
 besterek.kg
@@ -2526,7 +2525,6 @@ cebank.kg
 cebilon.kg
 celestial.kg
 cement.kg
-cemeq.kg
 cemica.kg
 center-bishkek.kg
 center-krasok.kg
@@ -2590,7 +2588,6 @@ chat2desk.kg
 chatkal.kg
 chcnav.kg
 cheaptickets.kg
-cheber-building.kg
 cheber.kg
 cheberel.kg
 check.kg
@@ -2649,7 +2646,6 @@ cholpon-ata.kg
 cholponlab.kg
 chonalay.kg
 chonbazar.kg
-chonterek.kg
 chopard.kg
 christina.kg
 chryslerfiat.kg
@@ -2964,7 +2960,6 @@ culligan.kg
 curaden.kg
 curaprox.kg
 curling.kg
-curltai.kg
 custody.kg
 customs.kg
 cutimed.kg
@@ -3333,7 +3328,6 @@ doke.kg
 doktor.kg
 dolbor-stroy.kg
 dolce.kg
-dolf-man.kg
 dolinka.kg
 dolon.kg
 dolphindeluxe.kg
@@ -4132,7 +4126,6 @@ f.kg
 f1.kg
 f2c.kg
 fa-fa.kg
-fa-instock.kg
 fa.kg
 faac.kg
 faberlic.kg
@@ -5663,7 +5656,6 @@ irankerama.kg
 irbis-tech.kg
 irbis22.kg
 irc.kg
-irdp.kg
 irfas.kg
 irida.kg
 irit.kg
@@ -6262,6 +6254,7 @@ kiborg.kg
 kica.kg
 kicalib.kg
 kicb.kg
+kid.kg
 kido.kg
 kids.kg
 kidstime.kg
@@ -6709,7 +6702,6 @@ laminate.kg
 lamis.kg
 lamoda.kg
 lamoena.kg
-lanco.kg
 land-rover.kg
 landofrivers.kg
 landrover-service.kg
@@ -7388,7 +7380,6 @@ mediclinic.kg
 medicom.kg
 mediconsultants.kg
 medik.kg
-medikal.kg
 medikana-plus.kg
 medikana.kg
 mediland.kg
@@ -7835,7 +7826,6 @@ msco.kg
 msdistribution.kg
 msel.kg
 mservice.kg
-msi.kg
 msk.kg
 msklift.kg
 msmk.kg
@@ -9196,6 +9186,7 @@ pr.kg
 praktik.kg
 pranamat.kg
 pranamateco.kg
+prava.kg
 pravo.kg
 pravoslavie.kg
 pravum.kg
@@ -9336,7 +9327,6 @@ prometey.kg
 prometis.kg
 promexpert.kg
 promo-salih.kg
-promo-toyota-bishkek.kg
 promo.kg
 promoland.kg
 promoto.kg
@@ -9499,7 +9489,6 @@ rassrochka.kg
 rassylka.kg
 rasul-akram.kg
 ratel.kg
-rating-edu.kg
 rating-iarc.kg
 rating.kg
 ratinovclinic.kg
@@ -10051,7 +10040,6 @@ school.kg
 schoolbook.kg
 schoolclub.kg
 schoolmanas.kg
-schuco.kg
 schueco.kg
 schultz.kg
 schwarz.kg
@@ -10164,7 +10152,6 @@ sew.kg
 seweurodrive.kg
 sewindustry.kg
 sex.kg
-sexshop.kg
 sexshop69.kg
 sez.kg
 sf.kg
@@ -10557,7 +10544,6 @@ sonora.kg
 sonoscape.kg
 sonun.kg
 sonunay.kg
-sonunreika.kg
 sony.kg
 sooda.kg
 sorbon.kg
@@ -10838,6 +10824,7 @@ suncape.kg
 sundata.kg
 sundaymorning.kg
 sunfinance.kg
+sunflower.kg
 sunhouse.kg
 sunlight-laser.kg
 sunmi.kg
@@ -10851,6 +10838,7 @@ sunrisevillas.kg
 sunset.kg
 sunshine.kg
 sunterra.kg
+suntrade.kg
 sunush.kg
 supara.kg
 supboard.kg
@@ -11547,6 +11535,7 @@ travelemirates.kg
 travelex.kg
 travelinsurance.kg
 travelkyrgyzstan.kg
+travelline.kg
 travelling.kg
 travelpoint.kg
 travelport-partner.kg
