@@ -241,7 +241,6 @@ abscissa.kg
 absconstruction.kg
 absolut-deck.kg
 absolut.kg
-abtaxi.kg
 abtpartners.kg
 abubakirov.kg
 abuhanifa.kg
@@ -308,7 +307,6 @@ addwise.kg
 adecs.kg
 adel.kg
 aden.kg
-adep.kg
 ades.kg
 adi.kg
 adidas.kg
@@ -629,6 +627,7 @@ alatoobuilding.kg
 alatooinvest.kg
 alatoologistic.kg
 alatoomoto.kg
+alatown.kg
 alatv.kg
 alawar.kg
 alay-express.kg
@@ -770,6 +769,7 @@ alstom.kg
 alt.kg
 altai.kg
 altair.kg
+altaitrade.kg
 altamar.kg
 altamira.kg
 altares.kg
@@ -879,6 +879,7 @@ anavg.kg
 androlog.kg
 andromeda.kg
 anekdot.kg
+anex.kg
 anextour.kg
 angar.kg
 angbest.kg
@@ -2022,6 +2023,7 @@ birtop.kg
 bis.kg
 bishkek-cleaning.kg
 bishkek-electro.kg
+bishkek-expo.kg
 bishkek-guvd.kg
 bishkek-hotel.kg
 bishkek-management-consalting.kg
@@ -2211,7 +2213,6 @@ botanica.kg
 boto.kg
 bottegaveneta.kg
 boulangerie.kg
-bounty-hunter.kg
 bounty.kg
 boxberry.kg
 boxbet.kg
@@ -3201,7 +3202,6 @@ dezinfector.kg
 dezinfekcia.kg
 dezmaster.kg
 dezprof.kg
-df.kg
 dg.kg
 dgsen.kg
 dh.kg
@@ -4244,6 +4244,8 @@ files.kg
 filgrastim.kg
 film.kg
 filmpro.kg
+filter.kg
+filtr.kg
 fin.kg
 finaid.kg
 finance-flow.kg
@@ -4292,7 +4294,6 @@ firstpremium.kg
 firstwater.kg
 fiserv.kg
 fish.kg
-fisher.kg
 fishing.kg
 fishka.kg
 fit.kg
@@ -4490,6 +4491,7 @@ fruair.kg
 frunze.kg
 frunzerest.kg
 frutovit.kg
+fs.kg
 fsa.kg
 fsd.kg
 fsds.kg
@@ -4943,6 +4945,7 @@ gts.kg
 gtv.kg
 gu-unaa.kg
 guard.kg
+guava.kg
 gubkabob.kg
 gubki.kg
 gucci.kg
@@ -5537,6 +5540,7 @@ insoft.kg
 insol.kg
 inspector.kg
 inspiro.kg
+insport.kg
 instagram.kg
 install.kg
 instantransit.kg
@@ -5626,6 +5630,7 @@ invivo.kg
 invoice.kg
 io.kg
 iodomarin.kg
+iohotel.kg
 iot.kg
 ip.kg
 ipar.kg
@@ -7454,6 +7459,7 @@ megaschool.kg
 megashop.kg
 megasoft.kg
 megastore.kg
+megatelecom.kg
 megatips.kg
 megatorrents.kg
 megatv.kg
@@ -7590,7 +7596,6 @@ mifepristone.kg
 mig.kg
 migom.kg
 migompro.kg
-migrant.kg
 migrantkabar.kg
 migrationcouncil.kg
 migroup.kg
@@ -7641,7 +7646,6 @@ mira.kg
 mirador-trade.kg
 mirador.kg
 mirai.kg
-mirakb.kg
 mirdez.kg
 mirichi.kg
 mirinstrumentov.kg
@@ -7843,6 +7847,7 @@ mtc.kg
 mtk.kg
 mtl.kg
 mtravel.kg
+mtrent.kg
 mts-bs.kg
 mts-italtherm.kg
 mts.kg
@@ -7921,6 +7926,7 @@ mychef.kg
 mycloud.kg
 mycredy.kg
 mydars.kg
+mydatacoin.kg
 mydiesel.kg
 mydoctor.kg
 mydom.kg
@@ -8065,6 +8071,7 @@ ncg.kg
 ncn.kg
 ncog.kg
 ncokoit.kg
+ncomid.kg
 ncsjeans.kg
 ndita.kg
 nds.kg
@@ -9205,6 +9212,7 @@ premiummotors.kg
 present.kg
 president-palace.kg
 president.kg
+presidentdental.kg
 press.kg
 pressa.kg
 prestige.kg
@@ -9489,6 +9497,7 @@ rassrochka.kg
 rassylka.kg
 rasul-akram.kg
 ratel.kg
+rating-edu.kg
 rating-iarc.kg
 rating.kg
 ratinovclinic.kg
@@ -9721,12 +9730,14 @@ rmddaviation.kg
 rmk.kg
 rms.kg
 rmservise.kg
+rmsoft.kg
 rnd.kg
 rnmc.kg
 roaming.kg
 roben.kg
 robertobravo.kg
 robinson.kg
+roblox.kg
 roboclean.kg
 robokassa.kg
 robooky.kg
@@ -10016,6 +10027,7 @@ sausage.kg
 sava.kg
 saveroad.kg
 savor.kg
+sawwa.kg
 saxarok.kg
 sayakat.kg
 sayasat.kg
@@ -10180,6 +10192,7 @@ shamsia.kg
 shanciinvest.kg
 shangrila.kg
 shantui.kg
+shariki.kg
 sharit.kg
 shashlychnik.kg
 shashlyk.kg
@@ -10467,6 +10480,7 @@ snab-komplekt.kg
 sneakerbox.kg
 sneaks.kg
 snegovik.kg
+snickers.kg
 sniper.kg
 sniping.kg
 snob.kg
@@ -10485,7 +10499,6 @@ sochi.kg
 socialwork.kg
 socmarket.kg
 sofa.kg
-sofby.kg
 sofi.kg
 soft-ai.kg
 soft.kg
@@ -10521,6 +10534,7 @@ solico-group.kg
 solico.kg
 solicogroup.kg
 solideo.kg
+solidpump.kg
 soliton.kg
 solo.kg
 solt.kg
@@ -11000,7 +11014,6 @@ tarbia.kg
 tarbiya.kg
 tarbiyachy.kg
 target-media.kg
-target.kg
 targetcapital.kg
 targeting.kg
 targetprint.kg
@@ -11117,6 +11130,7 @@ technoshock.kg
 technotochka.kg
 technotop.kg
 technotraining.kg
+techpark.kg
 techpoint.kg
 techsed.kg
 techservice.kg
@@ -11147,7 +11161,6 @@ tehnoterm.kg
 tehosmotr.kg
 tek.kg
 tekhno-sert.kg
-teknetics.kg
 teknomir.kg
 teksher.kg
 tekstil.kg
@@ -11775,6 +11788,7 @@ umaigroup.kg
 umc.kg
 umg.kg
 ummamag.kg
+umnyashka.kg
 umra.kg
 umrah.kg
 umraservice.kg
@@ -12263,6 +12277,7 @@ webtv.kg
 wecan.kg
 wecekc.kg
 wechange.kg
+wedding.kg
 wedevs.kg
 weeb.kg
 weekend.kg
@@ -12416,7 +12431,6 @@ xpucmuane.kg
 xshop.kg
 xside.kg
 xspurt.kg
-xt.kg
 xtravel.kg
 xx.kg
 xxx.kg
