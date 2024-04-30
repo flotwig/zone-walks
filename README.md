@@ -46,8 +46,8 @@ TLD | Domain Count
 [`diet`][diet] [(raw)][diet-raw] | <div align="right">1186</div>
 [`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1066</div>
 [`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">676</div>
-[`xn--80ao21a`][xn--80ao21a] [(raw)][xn--80ao21a-raw] | <div align="right">600</div>
 [`xn--pgbs0dh`][xn--pgbs0dh] [(raw)][xn--pgbs0dh-raw] | <div align="right">580</div>
+[`xn--80ao21a`][xn--80ao21a] [(raw)][xn--80ao21a-raw] | <div align="right">580</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">512</div>
 [`auto`][auto] [(raw)][auto-raw] | <div align="right">502</div>
 [`car`][car] [(raw)][car-raw] | <div align="right">313</div>
@@ -63,7 +63,7 @@ TLD | Domain Count
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4861908</div>
+**Total** | <div align="right">4861888</div>
 
 ## See Also
 
@@ -135,10 +135,10 @@ TLD | Domain Count
 [flowers-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/flowers.txt
 [guitars]: ./lists/guitars.txt
 [guitars-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/guitars.txt
-[xn--80ao21a]: ./lists/xn--80ao21a.txt
-[xn--80ao21a-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--80ao21a.txt
 [xn--pgbs0dh]: ./lists/xn--pgbs0dh.txt
 [xn--pgbs0dh-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--pgbs0dh.txt
+[xn--80ao21a]: ./lists/xn--80ao21a.txt
+[xn--80ao21a-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/xn--80ao21a.txt
 [lr]: ./lists/lr.txt
 [lr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lr.txt
 [auto]: ./lists/auto.txt

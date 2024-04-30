@@ -129,12 +129,12 @@
       "zone": "guitars"
     },
     {
-      "domains": "600",
-      "zone": "xn--80ao21a"
+      "domains": "580",
+      "zone": "xn--pgbs0dh"
     },
     {
       "domains": "580",
-      "zone": "xn--pgbs0dh"
+      "zone": "xn--80ao21a"
     },
     {
       "domains": "512",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4861908"
+  "total": "4861888"
 }
