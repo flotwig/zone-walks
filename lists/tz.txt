@@ -352,6 +352,7 @@ dns.tz
 dnssec.tz
 dodo.tz
 dolphin.tz
+domain.tz
 domains.tz
 dominos.tz
 dominospizza.tz
@@ -553,7 +554,6 @@ harusi.tz
 hatuamoja.tz
 hbs.tz
 healthnod.tz
-heavenhairandbeauty.tz
 hei.tz
 her.tz
 herli.tz
@@ -1041,6 +1041,7 @@ register.tz
 regus.tz
 rei.tz
 reimer.tz
+relet.tz
 reppogroup.tz
 retconsult.tz
 rexroth.tz
