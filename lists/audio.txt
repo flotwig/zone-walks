@@ -2064,7 +2064,6 @@ instream.audio
 instrumentals.audio
 intelli.audio
 interacoustics.audio
-international.audio
 internet-browser.audio
 internet.audio
 internetbrowser.audio
@@ -2242,6 +2241,7 @@ kermit.audio
 kestrel.audio
 kiban.audio
 kickstart.audio
+kids.audio
 kii.audio
 killersound.audio
 kilo.audio
@@ -4517,7 +4517,6 @@ vibra.audio
 victor.audio
 victoriya.audio
 victrola.audio
-video-game.audio
 videocam.audio
 vienna.audio
 viiri.audio
