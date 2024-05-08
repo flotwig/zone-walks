@@ -110,6 +110,7 @@ allconnect.hosting
 alldomains.hosting
 alles.hosting
 alliedwallet.hosting
+allserver.hosting
 allstar.hosting
 allsystems.hosting
 aloha.hosting
@@ -1661,6 +1662,7 @@ ovhmetrics.hosting
 ovhmobile.hosting
 ovhqueue.hosting
 ovhstack.hosting
+ows.hosting
 oxid.hosting
 oxyd.hosting
 p2p.hosting
