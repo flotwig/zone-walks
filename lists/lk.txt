@@ -1203,6 +1203,7 @@ agrotrade.lk
 agroworld.lk
 agry.lk
 ags.lk
+agscales.lk
 agsholdings.lk
 agsmart.lk
 agstaragri.lk
@@ -1499,7 +1500,6 @@ akithma.lk
 akithraflowers.lk
 akitointernational.lk
 akjaleisure.lk
-akkara.lk
 aklan.lk
 akmeemanajewellers.lk
 akmeemanaps.lk
@@ -1634,7 +1634,6 @@ alevelmcq.lk
 alexa.lk
 alexacampus.lk
 alexandertrading.lk
-alexbc.lk
 alexco.lk
 alf.lk
 alfa.lk
@@ -1674,7 +1673,6 @@ aliengineering.lk
 aliens.lk
 alif.lk
 align.lk
-alignbooks.lk
 aligndentalcare.lk
 aligndigital.lk
 alignme.lk
@@ -1762,7 +1760,6 @@ allsoulsdaysl.lk
 allspareparts.lk
 allspice.lk
 allstar.lk
-allstaragents.lk
 allthere.lk
 allthing.lk
 allu.lk
@@ -1795,6 +1792,7 @@ almedex.lk
 almedia.lk
 almehewara.lk
 almfaris.lk
+almina.lk
 almm.lk
 almondbeach.lk
 almubarak.lk
@@ -2374,8 +2372,10 @@ antara.lk
 antbusiness.lk
 antglass.lk
 anthoneys.lk
+anthoneyschicken.lk
 anthoneysfeeds.lk
 anthonybuilders.lk
+anthonyschicken.lk
 anthropology.lk
 anthseb.lk
 anti-germ.lk
@@ -3345,14 +3345,12 @@ askmedia.lk
 askmydoctor.lk
 askoba.lk
 asl.lk
-aslams.lk
 aslm.lk
 asm.lk
 asmacs.lk
 asme.lk
 asmet.lk
 asmp.lk
-asmpproducts.lk
 asn.lk
 asnd.lk
 asnit.lk
@@ -3559,7 +3557,6 @@ atlasaxillia.lk
 atlascopco.lk
 atlasfreight.lk
 atlasguruprathiba.lk
-atlasguruprathibha.lk
 atlasit.lk
 atlaslabs.lk
 atlaslearn.lk
@@ -3926,9 +3923,11 @@ avenue.lk
 avenuecloset.lk
 avenuesofas.lk
 avery.lk
+averyberkel.lk
 averyscale.lk
 averyscales.lk
 averyservices.lk
+averyweigh-tronix.lk
 avesta.lk
 avestcare.lk
 avfoods.lk
@@ -4022,6 +4021,7 @@ awka.lk
 awoodlanka.lk
 awsdata.lk
 awsug.lk
+awtx.lk
 awwa.lk
 axan.lk
 axapps.lk
@@ -4112,7 +4112,6 @@ ayupharma.lk
 ayur.lk
 ayuraksha.lk
 ayurastro.lk
-ayurawa.lk
 ayurayur.lk
 ayurcare.lk
 ayurceylon.lk
@@ -4212,6 +4211,7 @@ babycarepro.lk
 babycheramy.lk
 babydall.lk
 babydry.lk
+babyfashion.lk
 babyfirst.lk
 babygap.lk
 babyhome.lk
@@ -5037,7 +5037,6 @@ beyoudigital.lk
 beyourchange.lk
 bfa.lk
 bfab.lk
-bfi.lk
 bfsl.lk
 bgdpl.lk
 bggroup.lk
@@ -5470,7 +5469,6 @@ blackpearlconsult.lk
 blackpepper.lk
 blackpepperentertainment.lk
 blackpool.lk
-blackpoolcoffee.lk
 blackrock.lk
 blackrockcommodities.lk
 blackrocktrust.lk
@@ -5886,7 +5884,6 @@ bookmyevent.lk
 bookmyevents.lk
 bookmyholiday.lk
 bookmymusic.lk
-bookmyroom.lk
 bookmyseat.lk
 bookmyshow.lk
 bookmysport.lk
@@ -5995,7 +5992,6 @@ bowwow.lk
 box.lk
 boxalate.lk
 boxes.lk
-boxfreight.lk
 boxit.lk
 boxman.lk
 boxme.lk
@@ -6039,7 +6035,6 @@ brainstorm.lk
 brainstormers.lk
 braintree.lk
 brainwave.lk
-brainy.lk
 brainyguards.lk
 brama.lk
 bramifoods.lk
@@ -6080,7 +6075,6 @@ brandstore.lk
 brandstores.lk
 brandstory.lk
 brandtalk.lk
-brandtech.lk
 brandwave.lk
 brandxo.lk
 branholdings.lk
@@ -7760,6 +7754,7 @@ centurymaritime.lk
 cenwor.lk
 ceo.lk
 cepa.lk
+cepco.lk
 ceps.lk
 cept.lk
 ceramica.lk
@@ -7861,6 +7856,7 @@ ceylonads.lk
 ceylonadventures.lk
 ceylonadventuretours.lk
 ceylonagri.lk
+ceylonagricole.lk
 ceylonagrigreenmarket.lk
 ceylonagro.lk
 ceylonagrospices.lk
@@ -7947,6 +7943,7 @@ ceylondentalplanet.lk
 ceylondev.lk
 ceylondietitian.lk
 ceylondigitalcreators.lk
+ceylondiscover.lk
 ceylondiscusclub.lk
 ceylondoctors.lk
 ceylondress.lk
@@ -8099,7 +8096,6 @@ ceylonmining.lk
 ceylonmiracletours.lk
 ceylonmirror.lk
 ceylonmodelrailway.lk
-ceylonmonisha.lk
 ceylonmosque.lk
 ceylonmotormuseum.lk
 ceylonnaturals.lk
@@ -8205,7 +8201,6 @@ ceylonstore.lk
 ceylonstores.lk
 ceylonstoresglobal.lk
 ceylonstories.lk
-ceylonstrollers.lk
 ceylonsuper.lk
 ceylonsys.lk
 ceylont.lk
@@ -8234,6 +8229,7 @@ ceylontoday.lk
 ceylontour.lk
 ceylontourcompany.lk
 ceylontourism.lk
+ceylontours.lk
 ceylontrade.lk
 ceylontradegenix.lk
 ceylontraders.lk
@@ -8446,7 +8442,6 @@ change.lk
 change4autism.lk
 changemaker.lk
 changeme.lk
-chanikmainterior.lk
 chanmelgems.lk
 channel19.lk
 channel365.lk
@@ -8591,6 +8586,7 @@ chemicals.lk
 chemicalsolutions.lk
 chemicalsuppliers.lk
 chemicalworld.lk
+chemifarma.lk
 chemirich.lk
 chemist.lk
 chemist365.lk
@@ -9014,6 +9010,7 @@ civ.lk
 civaro.lk
 civet.lk
 civic.lk
+civicon.lk
 civil.lk
 civilaxdrafting.lk
 civilectzone.lk
@@ -9181,7 +9178,6 @@ clexpress.lk
 clf.lk
 clg.lk
 cliaraessentialoils.lk
-click.lk
 click2buy.lk
 click2pay.lk
 click2shop.lk
@@ -9316,7 +9312,6 @@ cloudlinetech.lk
 cloudmail.lk
 cloudnative.lk
 cloudninewilpattu.lk
-cloudoffice.lk
 cloudops.lk
 cloudpartners.lk
 cloudpbx.lk
@@ -9539,7 +9534,6 @@ codec.lk
 codechilli.lk
 codeclub.lk
 codeclubs.lk
-codecraft.lk
 codecrafters.lk
 codecrafts.lk
 codedesk.lk
@@ -9876,6 +9870,7 @@ command.lk
 commander.lk
 commandooncall.lk
 commech.lk
+commerce.lk
 commerceacademy.lk
 commerceclub.lk
 commerceforall.lk
