@@ -50,6 +50,7 @@
 01parket.kz
 01prospekt.kz
 01sas.kz
+01service.kz
 01turnik.kz
 01ymp.kz
 02-vko.kz
@@ -77,7 +78,6 @@
 05.kz
 050.kz
 055.kz
-05region.kz
 06.kz
 07.kz
 070.kz
@@ -635,6 +635,7 @@
 1collekt.kz
 1company.kz
 1cons.kz
+1consult.kz
 1cp.kz
 1cproject.kz
 1cr.kz
@@ -943,7 +944,6 @@
 1tenge.kz
 1teplo.kz
 1texno.kz
-1tf.kz
 1tg.kz
 1th.kz
 1ticket.kz
@@ -2042,7 +2042,6 @@
 54nurai-balabaksha.kz
 55.kz
 5500.kz
-550kazakhan.kz
 553.kz
 555.kz
 55511.kz
@@ -2414,6 +2413,7 @@
 7media.kz
 7mektepedu.kz
 7morey.kz
+7motors.kz
 7msg.kz
 7n.kz
 7nebo.kz
@@ -3100,6 +3100,7 @@ aaszh.kz
 aat-abe.kz
 aat.kz
 aata.kz
+aatconsulting.kz
 aatd.kz
 aatk.kz
 aatomy.kz
@@ -3137,7 +3138,6 @@ ab1998.kz
 ab2000.kz
 ab41725.kz
 ab7162.kz
-aba-almaty.kz
 aba-capital.kz
 aba-reklama.kz
 aba-travel.kz
@@ -3748,6 +3748,7 @@ abtrk.kz
 abtronics.kz
 abttrans.kz
 abu-cargo.kz
+abu-dhabi.kz
 abu-dhabiplaza.kz
 abu-group.kz
 abu-hanifa.kz
@@ -4568,6 +4569,7 @@ addictiontreatment.kz
 adding.kz
 addinol.kz
 addinolkst.kz
+addix.kz
 addnet.kz
 addpadel.kz
 addpower.kz
@@ -5224,6 +5226,7 @@ advokatekanafin.kz
 advokates.kz
 advokatfilimonov.kz
 advokati.kz
+advokatkairat.kz
 advokatkan.kz
 advokatkomek.kz
 advokatkostanay.kz
@@ -6655,6 +6658,7 @@ aigerimsembayeva.kz
 aigerimshynybekova.kz
 aigerimsunn.kz
 aigerimtanlan.kz
+aigerimvideo.kz
 aigerimzhumabay.kz
 aiggeneral.kz
 aigi.kz
@@ -8757,7 +8761,6 @@ alans.kz
 alansport.kz
 alansshop.kz
 alantech.kz
-alantestate.kz
 alantex.kz
 alantra.kz
 alantravel.kz
@@ -9402,6 +9405,7 @@ alet.kz
 aleumettikkomek.kz
 alev.kz
 alevel.kz
+alevelalmaty.kz
 aleven.kz
 alevershop.kz
 alex-asu.kz
@@ -9665,7 +9669,6 @@ algabasu.kz
 algadostravel.kz
 algadvk.kz
 algae.kz
-algaeonline.kz
 algaid.kz
 algamarket.kz
 algamed.kz
@@ -10223,7 +10226,6 @@ allert.kz
 allestil.kz
 allexperts.kz
 alley.kz
-alleya.kz
 allfarabii.kz
 allfasad.kz
 allfiber.kz
@@ -10536,7 +10538,6 @@ almachemical.kz
 almachocolates.kz
 almacity.kz
 almaclean.kz
-almacleaning.kz
 almacloud.kz
 almacoffee.kz
 almacol.kz
@@ -11238,6 +11239,7 @@ almatysports.kz
 almatysporty.kz
 almatysprav.kz
 almatystom.kz
+almatystroi.kz
 almatystroimdom.kz
 almatystroy.kz
 almatystroydom.kz
@@ -12033,7 +12035,6 @@ altyn-shaibaly.kz
 altyn-shatyr.kz
 altyn-taga.kz
 altyn-teke.kz
-altyn-uia.kz
 altyn-uiya.kz
 altyn-uyia.kz
 altyn-uzik.kz
@@ -12088,6 +12089,7 @@ altynbulak.kz
 altyncapital.kz
 altyncar.kz
 altyncaravan.kz
+altyncargo.kz
 altyncatering.kz
 altyncity.kz
 altynco.kz
@@ -14093,7 +14095,6 @@ apifitopharm.kz
 apigroup.kz
 apik.kz
 apilab.kz
-apilog.kz
 apilus.kz
 apiplus.kz
 apipnr.kz
@@ -14596,6 +14597,7 @@ aqparattyq-qauipsizdik.kz
 aqprint.kz
 aqq.kz
 aqqaiynasar.kz
+aqqala.kz
 aqqara.kz
 aqqazaq.kz
 aqqu-energy.kz
@@ -14605,7 +14607,6 @@ aqqy.kz
 aqs.kz
 aqsai.kz
 aqsandyq-cargo.kz
-aqsaqal.kz
 aqsay.kz
 aqsc.kz
 aqsha.kz
@@ -14997,6 +14998,7 @@ arainews.kz
 arainfo.kz
 araitour.kz
 araitowers.kz
+araizulfaidar.kz
 arakel-life.kz
 arakon.kz
 araksay.kz
@@ -15350,6 +15352,7 @@ areiz.kz
 arek.kz
 areke.kz
 areks.kz
+arel.kz
 arelena.kz
 arem.kz
 aremark.kz
@@ -16935,7 +16938,6 @@ as-furgon.kz
 as-g.kz
 as-geo.kz
 as-global.kz
-as-group.kz
 as-invest.kz
 as-k.kz
 as-kar.kz
@@ -17005,7 +17007,6 @@ asana.kz
 asanaglt.kz
 asanali.kz
 asanapteka.kz
-asandesign.kz
 asanlight.kz
 asanovclub.kz
 asao.kz
@@ -18907,7 +18908,6 @@ astyktrans.kz
 astykzhan-express.kz
 astykzhan-promo.kz
 astykzhan.kz
-astyq.kz
 asu-com.kz
 asu-depo.kz
 asu-edu.kz
@@ -18918,6 +18918,7 @@ asua.kz
 asuaarmatur.kz
 asuauto.kz
 asuautomarket.kz
+asucomp.kz
 asud.kz
 asudd.kz
 asudkr.kz
@@ -19631,7 +19632,6 @@ atriumsud.kz
 atrix-stroy.kz
 atrix.kz
 atrixgroup.kz
-atrk.kz
 atrmachinery.kz
 atrmgu.kz
 atron.kz
@@ -19742,7 +19742,6 @@ atyrau-1weld.kz
 atyrau-ai.kz
 atyrau-akyndary.kz
 atyrau-aocpz.kz
-atyrau-aqua.kz
 atyrau-avtopark.kz
 atyrau-barviha.kz
 atyrau-bilim.kz
@@ -19871,6 +19870,7 @@ aubiak.kz
 auc.kz
 auchan.kz
 auchanminute.kz
+aucma.kz
 aucons.kz
 aucs.kz
 auction-automart.kz
@@ -22247,6 +22247,7 @@ ayubala.kz
 ayuclinic.kz
 ayuda.kz
 ayup.kz
+ayur.kz
 ayursoma.kz
 ayurveda.kz
 ayurvedalifestyle.kz
@@ -22851,6 +22852,7 @@ babycorp.kz
 babydandelion.kz
 babydefender.kz
 babydent.kz
+babydry.kz
 babyface.kz
 babyfood.kz
 babyfootball.kz
@@ -22955,6 +22957,7 @@ badashop.kz
 badassel.kz
 badblood.kz
 badboy.kz
+badcontract.kz
 badenbaden.kz
 badeneco.kz
 badenko.kz
@@ -23260,6 +23263,7 @@ baiterekschool.kz
 baiterekstan.kz
 baitour.kz
 baitulogistics.kz
+baituma-2007.kz
 baitun.kz
 baitungroup.kz
 baitunproject.kz
@@ -23647,7 +23651,6 @@ balkanfarm.kz
 balkankran.kz
 balkantau.kz
 balkaragaitunes.kz
-balkash.kz
 balkashoff.kz
 balkenes.kz
 balkhash-barkovskoe.kz
@@ -24193,6 +24196,7 @@ barhatniyerucki.kz
 barhatseason.kz
 bari-esimde.kz
 bari.kz
+bariabalance.kz
 bariatria.kz
 bariatric.kz
 baribar.kz
@@ -24446,7 +24450,6 @@ basis.kz
 basisenergy.kz
 basiserp.kz
 basispanel.kz
-basjunior.kz
 bask.kz
 baskaru.kz
 baskayev.kz
@@ -24948,7 +24951,6 @@ baypay.kz
 bayraktar.kz
 bayramix.kz
 bayramov.kz
-bayraq.kz
 bayras.kz
 bayrell.kz
 bayris.kz
@@ -24985,7 +24987,6 @@ bayterektoys.kz
 baytiihome.kz
 bayton.kz
 baytravel.kz
-baytulhikmat.kz
 bayu.kz
 bayzak.kz
 bayzh.kz
@@ -27265,6 +27266,7 @@ bigevent.kz
 bigeventgroup.kz
 bigfamilyorg.kz
 bigfin.kz
+bigfish-aktau.kz
 bigfish.kz
 bigfishing.kz
 bigfoottrade.kz
@@ -27308,7 +27310,6 @@ bigmaster.kz
 bigmedia.kz
 bigmoneyuniversity.kz
 bigmotors.kz
-bigmyata.kz
 bigname.kz
 bignames.kz
 bigness.kz
@@ -27410,7 +27411,6 @@ biketour.kz
 biketours.kz
 biketowork.kz
 biketravel.kz
-bikgroup.kz
 bikini.kz
 bikkembergs.kz
 bikli.kz
@@ -27931,6 +27931,7 @@ bionet.kz
 bionic.kz
 bionica.kz
 bionicforms.kz
+bionickz.kz
 bionicpharm.kz
 bioniq.kz
 bionis.kz
@@ -28335,6 +28336,7 @@ bizde.kz
 bizdebaribar.kz
 bizdeliv.kz
 bizdin.kz
+bizdinauyl.kz
 bizdincargo.kz
 bizding.kz
 bizdinoskemen.kz
@@ -28795,6 +28797,7 @@ bloombergtradebook.kz
 bloombi.kz
 bloomden.kz
 bloomflower.kz
+bloomflowers.kz
 bloomico.kz
 bloomie.kz
 bloomingoods.kz
@@ -29910,6 +29913,7 @@ boys.kz
 boysandbooks.kz
 boysbooks.kz
 boyscout.kz
+boz.kz
 bozai.kz
 bozaigyr.kz
 bozbala.kz
@@ -30491,7 +30495,6 @@ broneplenka.kz
 bronevik.kz
 bronfood.kz
 bronhipret.kz
-broni-sariagash.kz
 broniboy.kz
 bronic.kz
 bronirovanie.kz
@@ -30949,6 +30952,7 @@ budni.kz
 budo.kz
 budokan.kz
 budpervym.kz
+budte-zdorovi.kz
 budtedobry.kz
 budtezdorovy.kz
 budumamoy.kz
@@ -31040,6 +31044,7 @@ buhgalter.kz
 buhgalterak.kz
 buhgalteralmaty.kz
 buhgalterastana.kz
+buhgalteria.kz
 buhgalteriakz.kz
 buhgalteriya.kz
 buhgalterkz.kz
@@ -31080,6 +31085,7 @@ buhproff.kz
 buhprofi.kz
 buhprofit.kz
 buhs.kz
+buhschool.kz
 buhsenim.kz
 buhserver.kz
 buhservice.kz
@@ -31146,6 +31152,7 @@ bukar-muzei.kz
 bukarbibl.kz
 bukarlib.kz
 buket.kz
+buket24.kz
 buketalmaty.kz
 buketcvetov.kz
 buketdnya.kz
@@ -32381,6 +32388,7 @@ candle.kz
 candlenika.kz
 candlesbox.kz
 candlescraft.kz
+candlier.kz
 cando.kz
 candoservices.kz
 candy-home.kz
@@ -32926,7 +32934,6 @@ carousel.kz
 carp-food.kz
 carp-pro.kz
 carp.kz
-carpa.kz
 carpaint.kz
 carpart.kz
 carparts.kz
@@ -33520,6 +33527,7 @@ cazino-volna.kz
 cazino.kz
 cazinoizzi.kz
 cazinostarda.kz
+cazinosultan.kz
 cazinovolna.kz
 cb-priozersk.kz
 cb-s.kz
@@ -33783,6 +33791,7 @@ cefiro.kz
 cefla.kz
 ceg.kz
 cegedim.kz
+ceget.kz
 ceh.kz
 cehcom.kz
 cehko.kz
@@ -35412,7 +35421,6 @@ cinemapark.kz
 cinemart-fund.kz
 cinemas.kz
 cinematic.kz
-cinematica.kz
 cinematograf.kz
 cinematone.kz
 cinemax.kz
@@ -35997,6 +36005,7 @@ clevermachines.kz
 clevermarket.kz
 clevermart.kz
 clevermedical.kz
+cleverparkglobal.kz
 cleversecurity.kz
 cleversolutions.kz
 cleverstore.kz
@@ -36043,7 +36052,6 @@ clickpay.kz
 clickrise.kz
 clicks.kz
 clickservice.kz
-clickshunter.kz
 clicktogo.kz
 clicktotrip.kz
 clicktour.kz
@@ -36293,6 +36301,7 @@ club-120.kz
 club-1c.kz
 club-bambini.kz
 club-k2.kz
+club-loto.kz
 club-mam.kz
 club-raduga.kz
 club-report.kz
@@ -37090,6 +37099,7 @@ company-asd.kz
 company-ta.kz
 company-v.kz
 company.kz
+companyhappiness.kz
 companyoffice.kz
 companyram.kz
 companyregister.kz
@@ -38961,6 +38971,7 @@ csokz.kz
 csolutions.kz
 csort.kz
 csp-parasport.kz
+csp-plita.kz
 csp-sip.kz
 csp.kz
 csp1.kz
@@ -39313,6 +39324,7 @@ cvety-online.kz
 cvety-optom.kz
 cvety-shymkent.kz
 cvety.kz
+cvety24.kz
 cvety24astana.kz
 cvetyalmaty.kz
 cvetyastana.kz
@@ -40365,6 +40377,7 @@ darkhan-bizmentor.kz
 darkhan-cargo.kz
 darkhan-sadik.kz
 darkhan.kz
+darkhankomek.kz
 darkhanzhussupov.kz
 darkhunter.kz
 darkland.kz
@@ -40486,7 +40499,6 @@ dasani.kz
 dasauto.kz
 dasautoservice.kz
 dasb.kz
-dasberg.kz
 dasclub.kz
 dasco.kz
 dascocapital.kz
@@ -41041,6 +41053,7 @@ dealti.kz
 deamarket.kz
 deante.kz
 dear-skin.kz
+dear.kz
 deargroup.kz
 dearsdqcharity.kz
 dearskin.kz
@@ -41596,7 +41609,6 @@ delta-security.kz
 delta-service.kz
 delta-soc.kz
 delta-soft.kz
-delta-store.kz
 delta-tehno.kz
 delta-tools.kz
 delta.kz
@@ -43445,7 +43457,6 @@ dinaraabdrashova.kz
 dinaraadilqyzy.kz
 dinaraaibassova.kz
 dinaraakankyzy.kz
-dinaraaliaidar.kz
 dinaraaskarqyzy.kz
 dinaraberdaly.kz
 dinaraberykkyzy.kz
@@ -44279,6 +44290,7 @@ doc-stock.kz
 doc-v.kz
 doc.kz
 doc24.kz
+doc365.kz
 doc4u.kz
 doca.kz
 docagent.kz
@@ -45355,6 +45367,7 @@ dostyqbilim.kz
 dostyqhotel.kz
 dostyqschool.kz
 dostyqschturk23-edu.kz
+dosug-almaty.kz
 dosug.kz
 dosym-ai.kz
 dosym.kz
@@ -45773,6 +45786,7 @@ drillingenerdgy.kz
 drillmaster.kz
 drillservice.kz
 drilltech.kz
+drilltools.kz
 drim.kz
 drin.kz
 drink.kz
@@ -46881,7 +46895,6 @@ e-money.kz
 e-monitoring.kz
 e-motionmedia.kz
 e-motions.kz
-e-motors.kz
 e-mountain.kz
 e-muftyat.kz
 e-museum.kz
@@ -48030,7 +48043,6 @@ ecoqurylys.kz
 ecoqus.kz
 ecor.kz
 ecorecreator.kz
-ecoredev.kz
 ecorefining.kz
 ecorenew.kz
 ecoreport.kz
@@ -48241,7 +48253,6 @@ edberry.kz
 edc-store.kz
 edc.kz
 edca.kz
-edcamp.kz
 edcgear.kz
 edcommunity.kz
 edd.kz
@@ -48766,7 +48777,6 @@ egovcert.kz
 egove.kz
 egovkz.kz
 egovmaster.kz
-egovreader.kz
 egowatch.kz
 egoza-opt.kz
 egoza.kz
@@ -49232,7 +49242,6 @@ elcor.kz
 elcorazon.kz
 elcore.kz
 elcoregroup.kz
-elcos.kz
 elcourse.kz
 elcrypto.kz
 elda-print.kz
@@ -49760,7 +49769,6 @@ elitedrive.kz
 elitedush.kz
 eliteedu.kz
 elitefish.kz
-eliteflowers.kz
 elitefood.kz
 elitefuel.kz
 elitegroup.kz
@@ -50394,6 +50402,7 @@ emma.kz
 emmanet.kz
 emmanuel.kz
 emmanuil-trade.kz
+emmatent.kz
 emmett.kz
 emmotion.kz
 emn.kz
@@ -51092,6 +51101,7 @@ envico.kz
 envicon.kz
 enviproducts.kz
 envira.kz
+enviro.kz
 environment-health.kz
 environment.kz
 envirotrade.kz
@@ -52204,7 +52214,6 @@ etaji.kz
 etalapker.kz
 etalin.kz
 etalon-astana.kz
-etalon-box.kz
 etalon-centre.kz
 etalon-chistoty.kz
 etalon-group.kz
@@ -52518,7 +52527,6 @@ eurasiafarminnovations.kz
 eurasiafestival.kz
 eurasiafoods.kz
 eurasiagas.kz
-eurasiagazexport.kz
 eurasiageoprojects.kz
 eurasiagroup.kz
 eurasiaiff.kz
@@ -54597,7 +54605,6 @@ farabi.kz
 farabibilim.kz
 farabihall.kz
 farabiresort.kz
-farabishakirti.kz
 farablib.kz
 farabmed.kz
 farabtourism.kz
@@ -54834,6 +54841,7 @@ fastex.kz
 fastfasad.kz
 fastfish.kz
 fastfood.kz
+fastforesight.kz
 fastfounder.kz
 fastgroup.kz
 fasthome.kz
@@ -55070,6 +55078,7 @@ fcelimai.kz
 fcertis.kz
 fcg.kz
 fcgroup.kz
+fchantaniri.kz
 fchk.kz
 fcimgmt.kz
 fcinter.kz
@@ -55324,6 +55333,7 @@ ferma.kz
 fermafood.kz
 fermag.kz
 fermalosi.kz
+fermaplus.kz
 fermarestaurant.kz
 fermata.kz
 fermed.kz
@@ -55792,6 +55802,7 @@ finam.kz
 finanalysis.kz
 finance-academy.kz
 finance-asia.kz
+finance-circus.kz
 finance-control-di.kz
 finance-invest.kz
 finance-online.kz
@@ -59137,7 +59148,6 @@ gadalka--v.kz
 gadalka-anzhela.kz
 gadalka-astrolog.kz
 gadalka-babushkaonline.kz
-gadalka-daniya.kz
 gadalka-di.kz
 gadalka-diana-kz.kz
 gadalka-ds.kz
@@ -59359,7 +59369,6 @@ galaktikosservis.kz
 galaktis.kz
 galam-shar.kz
 galam.kz
-galamart.kz
 galamat-boralday.kz
 galamat-school.kz
 galamat-tour.kz
@@ -59488,7 +59497,6 @@ galvanize.kz
 galvano.kz
 galwin.kz
 galwinsko.kz
-galym-bala.kz
 galym-zhanerke.kz
 galym.kz
 galymauto.kz
@@ -59891,7 +59899,6 @@ gateway-logistics.kz
 gateway.kz
 gatewayips.kz
 gatin.kz
-gatob.kz
 gatoys.kz
 gatsby.kz
 gatsby2.kz
@@ -60886,6 +60893,7 @@ geriat.kz
 geriatric2024.kz
 geriatriya.kz
 gerimax.kz
+gerlax.kz
 gerlen.kz
 germaine.kz
 german.kz
@@ -63822,6 +63830,7 @@ green-station.kz
 green-stroy.kz
 green-studio.kz
 green-tech.kz
+green-town.kz
 green-trade.kz
 green-trees.kz
 green-truck.kz
@@ -63930,7 +63939,6 @@ greenhousegroup.kz
 greenhousekz.kz
 greenhousepremium.kz
 greenhouses.kz
-greenhub.kz
 greenhydrogen.kz
 greeninvest.kz
 greenit.kz
@@ -64784,6 +64792,7 @@ gulshatkudaybergen.kz
 gulsoy.kz
 gult.kz
 gulvar.kz
+gulvira-ustaz.kz
 gulyachef.kz
 gulyanda.kz
 gulzadaabdykalikova.kz
@@ -65615,6 +65624,7 @@ happymall.kz
 happymania.kz
 happymeal.kz
 happymoment.kz
+happymommy.kz
 happymoney.kz
 happynappy.kz
 happynation.kz
@@ -66450,6 +66460,7 @@ hesgroup.kz
 hesoyam.kz
 hesoyamdrive.kz
 hessen.kz
+hessenpub.kz
 hesstech.kz
 heteroworld.kz
 hettich.kz
@@ -67282,6 +67293,7 @@ homecredit.kz
 homecreditbot.kz
 homecreditexpress.kz
 homecrm.kz
+homeday.kz
 homedeco.kz
 homedecor.kz
 homedepo.kz
@@ -67842,7 +67854,6 @@ housedesign.kz
 housedomen.kz
 housefactory.kz
 houseglass.kz
-househunter.kz
 houseidea.kz
 houseinteriors.kz
 housekeeping.kz
@@ -68394,6 +68405,7 @@ hydramed.kz
 hydrangea.kz
 hydrangeas.kz
 hydrant.kz
+hydrasia.kz
 hydraulic-pump.kz
 hydraulic.kz
 hydraulics.kz
@@ -68669,7 +68681,6 @@ i-pro.kz
 i-psychology.kz
 i-q.kz
 i-qala.kz
-i-qazaqstan.kz
 i-qbit.kz
 i-qg.kz
 i-qoldau.kz
@@ -68961,7 +68972,6 @@ ibuh.kz
 ibusiness.kz
 ibutton.kz
 ibuumerang.kz
-ibuy.kz
 ibuyer.kz
 ibuyers.kz
 ibwb.kz
@@ -70464,7 +70474,6 @@ in-shop.kz
 in-soft.kz
 in-solve.kz
 in-sport.kz
-in-store.kz
 in-tech.kz
 in-trade.kz
 in-vitro.kz
@@ -71719,8 +71728,6 @@ integralads.kz
 integralkz.kz
 integralplus.kz
 integras.kz
-integrasoft.kz
-integrasoftsolutions.kz
 integratech.kz
 integration-c.kz
 integration-kaspi-taxi.kz
@@ -72175,7 +72182,6 @@ intertoys.kz
 intertrade.kz
 intertradetrans.kz
 intertrans-ca.kz
-intertrans.kz
 intertransavto.kz
 intertransca.kz
 intertravel.kz
@@ -72249,6 +72255,7 @@ intraco.kz
 intrade.kz
 intradegroup.kz
 intradeoil.kz
+intradesk.kz
 intranet.kz
 intranews.kz
 intranscom.kz
@@ -72442,7 +72449,6 @@ invictusgirls.kz
 invictusgo.kz
 invictuskidsclub.kz
 invictustrading.kz
-invideo.kz
 invidious.kz
 inview.kz
 invino.kz
@@ -72875,7 +72881,6 @@ iqanathsb.kz
 iqap.kz
 iqarchitect.kz
 iqaudit.kz
-iqazaqstan.kz
 iqbeauty.kz
 iqbiblim.kz
 iqbilim.kz
@@ -73716,6 +73721,7 @@ it-prof.kz
 it-progress.kz
 it-prom.kz
 it-qbit.kz
+it-qualities.kz
 it-qubit.kz
 it-qyzmet.kz
 it-region.kz
@@ -75242,6 +75248,7 @@ jas-tolqyn.kz
 jas.kz
 jasa.kz
 jasagroup.kz
+jasai.kz
 jasaim.kz
 jasaimacademy.kz
 jasajarnama.kz
@@ -75991,6 +75998,7 @@ joni.kz
 jonny.kz
 jonser.kz
 jonyang.kz
+jonytravel.kz
 joo.kz
 jooble.kz
 joohighschool.kz
@@ -76001,6 +76009,7 @@ joom.kz
 joomaby.kz
 joomla.kz
 joomlaforum.kz
+joomys.kz
 joop.kz
 joorta.kz
 joow.kz
@@ -76129,6 +76138,7 @@ jscakmg.kz
 jscargo.kz
 jsccaspioil.kz
 jscems.kz
+jsckarazhanbasmunai.kz
 jscmatenpetroleum.kz
 jscnbp.kz
 jscnckazmunaygas.kz
@@ -77050,6 +77060,7 @@ kakpak-mektebi.kz
 kaksebe.kz
 kaktebe.kz
 kaktus.kz
+kakusiga.kz
 kakvkino.kz
 kala.kz
 kalada.kz
@@ -77235,7 +77246,6 @@ kamgas.kz
 kami-stanki.kz
 kami.kz
 kamicargo.kz
-kamikclub.kz
 kamila-abramovna.kz
 kamila-almata.kz
 kamila-almaty.kz
@@ -77681,6 +77691,7 @@ karavantour.kz
 karavay.kz
 karazhal.kz
 karazhanbasmunai.kz
+karazhanbasoil.kz
 karazhat.kz
 karazhyra.kz
 karazhyraretail.kz
@@ -77723,6 +77734,7 @@ kareliaupofloor.kz
 karelz.kz
 karenergo.kz
 karenstudio.kz
+karent.kz
 kareraksai.kz
 karerkomplekt.kz
 kares.kz
@@ -78423,6 +78435,7 @@ kaz-dsgroup.kz
 kaz-eco.kz
 kaz-edu.kz
 kaz-eg.kz
+kaz-eko.kz
 kaz-electric.kz
 kaz-elite.kz
 kaz-elki.kz
@@ -78654,7 +78667,6 @@ kazakhcarpet.kz
 kazakhcinema.kz
 kazakhcircuit.kz
 kazakhconsult.kz
-kazakhconsulting.kz
 kazakhcraft.kz
 kazakhexport.kz
 kazakhfilm.kz
@@ -78705,6 +78717,7 @@ kazakhsagainstforeignmeddling.kz
 kazakhshabible.kz
 kazakhsouvenirs.kz
 kazakhsoz.kz
+kazakhspirit.kz
 kazakhstan-agro.kz
 kazakhstan-explorer.kz
 kazakhstan-gateway.kz
@@ -78759,6 +78772,7 @@ kazakhtest.kz
 kazakhtimes.kz
 kazakhtour.kz
 kazakhtourism.kz
+kazakhtourist.kz
 kazakhtranstrade.kz
 kazakhturkmunay.kz
 kazakhtv.kz
@@ -79008,7 +79022,6 @@ kazcard.kz
 kazcargo.kz
 kazcargoexpress.kz
 kazcargohub.kz
-kazcartrans.kz
 kazcashnow.kz
 kazcb.kz
 kazcc.kz
@@ -79841,6 +79854,7 @@ kaznatoil.kz
 kaznau.kz
 kaznav.kz
 kaznavi.kz
+kazncp.kz
 kazndtservice.kz
 kazneb.kz
 kazned.kz
@@ -81017,7 +81031,6 @@ kemel-edu.kz
 kemel-nt.kz
 kemel-qalamger.kz
 kemel-school.kz
-kemel-study.kz
 kemel-timur.kz
 kemel-tokaev.kz
 kemel-travel.kz
@@ -81134,6 +81147,7 @@ kenjedevyatko.kz
 kenko.kz
 kenkost.kz
 kenmart.kz
+kenne.kz
 kennel.kz
 kennelclub.kz
 kenoil.kz
@@ -81259,7 +81273,6 @@ keratools.kz
 kerber.kz
 kerbez-aru.kz
 kerbez-design.kz
-kerbez-sapa.kz
 kerbez.kz
 kerbezaryschool.kz
 kerbezlady.kz
@@ -82753,7 +82766,6 @@ kleo4you.kz
 kleopatra.kz
 klerk.kz
 kletki.kz
-klev.kz
 klever-dostavka.kz
 klever.kz
 klevo.kz
@@ -83286,7 +83298,6 @@ koje.kz
 kojevnik.kz
 kojima.kz
 kojven-bko.kz
-kok-jailau.kz
 kok-su.kz
 kok-tengri.kz
 kok-tobe.kz
@@ -85842,7 +85853,6 @@ kumbez.kz
 kumdang-2.kz
 kumdang2.kz
 kumho.kz
-kumhotire.kz
 kumi.kz
 kumiko.kz
 kumis-kulki2.kz
@@ -86432,6 +86442,7 @@ kvintec.kz
 kvitok.kz
 kvix.kz
 kvk-petroleum.kz
+kvk-petroluem.kz
 kvk.kz
 kvkk.kz
 kvkmedical.kz
@@ -86463,6 +86474,7 @@ kwadratura.kz
 kwakwa.kz
 kwcompany.kz
 kwe.kz
+kwf.kz
 kwh.kz
 kwikpay.kz
 kwings.kz
@@ -86692,6 +86704,7 @@ kzgatewaykz.kz
 kzgc.kz
 kzgdz.kz
 kzgo.kz
+kzgpt.kz
 kzgr.kz
 kzgrandballroom.kz
 kzgreentech.kz
@@ -86999,6 +87012,7 @@ laboratoria-snl.kz
 laboratoria.kz
 laboratoriya-avto.kz
 laboratoriyatepla.kz
+laboratornayamebel.kz
 laboratory-srl.kz
 laboratory.kz
 laboratorysolutions.kz
@@ -87384,7 +87398,6 @@ lancloud.kz
 lancmanschool.kz
 lancom.kz
 lancome.kz
-lancore.kz
 land-house.kz
 land-rover.kz
 land.kz
@@ -87756,6 +87769,7 @@ lavittile.kz
 lavka-monet.kz
 lavka-rybaka.kz
 lavka.kz
+lavka24.kz
 lavkafrolova.kz
 lavkameda.kz
 lavkastran.kz
@@ -88669,7 +88683,6 @@ lestetika.kz
 lestkovrik.kz
 lestnica-stupeni.kz
 lestnica.kz
-lestnica777.kz
 lestnicavdom.kz
 lestnici.kz
 lestnicy.kz
@@ -89697,6 +89710,7 @@ liqskinbar.kz
 liqui-moly.kz
 liquid.kz
 liquidator.kz
+liquidenergy.kz
 liquidity.kz
 liquidnails.kz
 liquimoly.kz
@@ -89791,7 +89805,6 @@ litigation.kz
 litigator.kz
 litil.kz
 litkz.kz
-litlider.kz
 litlink.kz
 litmat.kz
 litmuseum.kz
@@ -90246,6 +90259,7 @@ logistic-point.kz
 logistic-pro.kz
 logistic-service.kz
 logistic.kz
+logistic1.kz
 logistic17.kz
 logistica.kz
 logisticheskayacompaniya.kz
@@ -90506,7 +90520,6 @@ londonalmaty.kz
 londonec.kz
 londonhouse.kz
 londonst.kz
-londonstore.kz
 lonestar.kz
 lonex.kz
 long-partners.kz
@@ -90589,7 +90602,6 @@ lord.kz
 lordcoffee.kz
 lordelis.kz
 lordgroup.kz
-lordgun.kz
 lordmaul.kz
 lordoctor.kz
 loreal-paris.kz
@@ -91980,6 +91992,7 @@ madico.kz
 madicom.kz
 madicomservice.kz
 madik-aikena.kz
+madin.kz
 madina-gapbas.kz
 madina.kz
 madinaasylhanqyzy.kz
@@ -93348,6 +93361,7 @@ mariyamfund.kz
 mariyamqory.kz
 mariyshp2p.kz
 mariystyle.kz
+marjan.kz
 marjansu.kz
 mark-g.kz
 mark-six.kz
@@ -94093,7 +94107,6 @@ mastervolt.kz
 masterwood.kz
 masterwoodkz.kz
 mastery.kz
-masterzamok.kz
 mastika.kz
 mastino-vet.kz
 mastodynon.kz
@@ -94337,7 +94350,6 @@ maxifal.kz
 maxigrippin.kz
 maxilac.kz
 maxilee.kz
-maxilingvo.kz
 maxim-demidov.kz
 maxim.kz
 maxima.kz
@@ -96573,7 +96585,6 @@ mennekes.kz
 menologistics.kz
 menora.kz
 menqazaq.kz
-mens-club.kz
 mens-shop.kz
 mens.kz
 mensarapshy.kz
@@ -97379,6 +97390,7 @@ mezencev.kz
 mezer.kz
 mezet.kz
 mezgil.kz
+mezhdunamihimia.kz
 mezhgorod.kz
 mezonin.kz
 mezorix.kz
@@ -97861,6 +97873,7 @@ mikro-kredit.kz
 mikro-krediti.kz
 mikro-zaim.kz
 mikro-zaimi.kz
+mikro.kz
 mikrocredit.kz
 mikrocredit24.kz
 mikrocredit365.kz
@@ -98026,7 +98039,6 @@ millenniumgroup.kz
 millenniumpark.kz
 millenniumschool.kz
 miller-music.kz
-miller.kz
 millerial.kz
 millet.kz
 millhouse-group.kz
@@ -99133,6 +99145,7 @@ mkts.kz
 mktu.kz
 mkub.kz
 mkw.kz
+mkz-1.kz
 mkzl.kz
 mkzoloto-shop.kz
 mkzoloto.kz
@@ -99198,7 +99211,6 @@ mmaboxing.kz
 mmachinery.kz
 mmaday.kz
 mmail.kz
-mmamos-online.kz
 mmamos.kz
 mmandco.kz
 mmarket.kz
@@ -99896,6 +99908,7 @@ monex.kz
 money-boost.kz
 money-cargo.kz
 money-cash.kz
+money-circus.kz
 money-click.kz
 money-express.kz
 money-fest.kz
@@ -100225,6 +100238,7 @@ more-amore.kz
 more-cargo.kz
 more-tv.kz
 more.kz
+more03.kz
 morecast.kz
 morecolors.kz
 moredesign.kz
@@ -100244,6 +100258,7 @@ moremoney.kz
 moremore.kz
 moremota.kz
 morena.kz
+morenko.kz
 morepiano.kz
 moreplast.kz
 moreradom.kz
@@ -101898,6 +101913,7 @@ myarredo.kz
 myarrow.kz
 myart.kz
 myarystan.kz
+myasko.kz
 myasnayalavka.kz
 myasnoff.kz
 myasnovidyaschaya.kz
@@ -102488,7 +102504,6 @@ myticket.kz
 myticketbox.kz
 mytime.kz
 mytire.kz
-mytobacco.kz
 mytoi.kz
 mytopbet.kz
 mytour.kz
@@ -103015,6 +103030,7 @@ naos.kz
 nap.kz
 napapijri.kz
 napas.kz
+napas420.kz
 napavilion.kz
 naphc.kz
 napikap.kz
@@ -103126,7 +103142,6 @@ narodnoetaxi.kz
 narodnye-kolbasy.kz
 narodperevod.kz
 narodsemena.kz
-narok.kz
 naroomask.kz
 narpost.kz
 narsara.kz
@@ -104329,7 +104344,6 @@ netis.kz
 netit.kz
 netklopam.kz
 netkom.kz
-netkredita.kz
 netlab.kz
 netlancables.kz
 netlight.kz
@@ -106886,7 +106900,6 @@ nur-transfer.kz
 nur-zere.kz
 nur.kz
 nur007.kz
-nur2023.kz
 nur24.kz
 nur777.kz
 nur999cargo.kz
@@ -107005,7 +107018,6 @@ nurfin.kz
 nurflix.kz
 nurgabylov.kz
 nurgali.kz
-nurgalieff.kz
 nurgaliev.kz
 nurgaligame.kz
 nurgaly.kz
@@ -107581,7 +107593,6 @@ obereg-residence.kz
 obereg.kz
 oberhof.kz
 oberhome.kz
-oberig-it.kz
 oberon.kz
 obes.kz
 obet.kz
@@ -108338,6 +108349,7 @@ oilpro.kz
 oilprofconsult.kz
 oilprofi.kz
 oilrdpartners.kz
+oilrefining.kz
 oilreloading.kz
 oilreloadingcorp.kz
 oilresource.kz
@@ -108399,7 +108411,6 @@ oitamyzyq.kz
 oitech.kz
 oitek.kz
 oitobe.kz
-oiu.kz
 oiva.kz
 oiy.kz
 oiyl-muzei.kz
@@ -108949,7 +108960,6 @@ olshem.kz
 olsta.kz
 olta.kz
 oltest.kz
-oltri.kz
 olusha.kz
 olve.kz
 olven.kz
@@ -109018,7 +109028,6 @@ omail.kz
 omal.kz
 omamori.kz
 omano.kz
-omanoilcompany.kz
 omar-doors.kz
 omar-group.kz
 omar-market.kz
@@ -109844,7 +109853,6 @@ onresort.kz
 ons.kz
 onsait.kz
 onsale.kz
-onsandyq.kz
 onschool.kz
 onsell.kz
 onset.kz
@@ -109919,6 +109927,7 @@ oogway.kz
 ooh.kz
 oohlala.kz
 ook.kz
+ooka.kz
 ookos.kz
 oolit.kz
 oon.kz
@@ -110950,6 +110959,7 @@ orleykursy.kz
 orliaz.kz
 orlik.kz
 orliman.kz
+orlov.kz
 orlova-almira.kz
 orlovaby.kz
 orlovbani.kz
@@ -111395,7 +111405,6 @@ otau-tv.kz
 otau.kz
 otaucity.kz
 otaugroup.kz
-otauinfo.kz
 otaulike.kz
 otaultd.kz
 otaumart.kz
@@ -111463,7 +111472,6 @@ otello.kz
 otelo.kz
 otepbay.kz
 otfx.kz
-otg.kz
 otgroup.kz
 otgruzky.kz
 othello.kz
@@ -112539,7 +112547,6 @@ papagym.kz
 papajohns.kz
 papakarlo.kz
 papamamaya.kz
-papamaster.kz
 papamebel.kz
 papaposters.kz
 papapuzo.kz
@@ -112572,6 +112579,7 @@ paperlist.kz
 papershoot.kz
 papierpeint.kz
 papik.kz
+papilio.kz
 papillon.kz
 papillonclub.kz
 papillons.kz
@@ -112691,7 +112699,6 @@ parent-today.kz
 parent.kz
 parental-control.kz
 parents.kz
-parete.kz
 pareto.kz
 parex.kz
 parfburo.kz
@@ -113677,7 +113684,6 @@ penal.kz
 penalty-shoot-out.kz
 penar.kz
 pencak-silat.kz
-pencil.kz
 pencils.kz
 penelope-podushki.kz
 penelopebedroom.kz
@@ -114429,6 +114435,7 @@ pharmahome.kz
 pharmahub.kz
 pharmaks2.kz
 pharmalab.kz
+pharmalat.kz
 pharmalem.kz
 pharmaline.kz
 pharmalink.kz
@@ -114689,6 +114696,7 @@ physic.kz
 physics-mathematics.kz
 physics-school.kz
 physics.kz
+physicsmarzhan.kz
 physio.kz
 physmath.kz
 physnetwork.kz
@@ -116018,6 +116026,7 @@ pobfirst.kz
 pobi.kz
 pobipb.kz
 pocf.kz
+pochasovoy.kz
 pochemuchka-ast.kz
 pocherk.kz
 pochesnoku.kz
@@ -116139,7 +116148,6 @@ podostep.kz
 podostudiocleopatra.kz
 podotoi.kz
 podounion.kz
-podpis.kz
 podpishi.kz
 podpishis.kz
 podpiska.kz
@@ -116303,7 +116311,6 @@ pokolenie.kz
 pokolenieweb.kz
 pokompu.kz
 pokrasim.kz
-pokraska-astana.kz
 pokraska-auto.kz
 pokraska.kz
 pokraskaalmati.kz
@@ -116933,7 +116940,6 @@ positivebet.kz
 positivehome.kz
 positiveimpact.kz
 positivelife.kz
-positivisa.kz
 positron-lab.kz
 positron.kz
 positum.kz
@@ -117601,7 +117607,6 @@ premiumcosmetics.kz
 premiumdecor.kz
 premiumdental.kz
 premiumeducation.kz
-premiumelectric.kz
 premiumelektrik.kz
 premiumelektro.kz
 premiumestate.kz
@@ -118704,7 +118709,7 @@ proenergy.kz
 proeng.kz
 proent.kz
 proes.kz
-proessay.kz
+proevacuator.kz
 proevent.kz
 proevo.kz
 proex.kz
@@ -121269,7 +121274,6 @@ qaragandy-marathon.kz
 qaragandy.kz
 qaragandybusiness.kz
 qaragandyhabary.kz
-qaragangy-halfmarathon.kz
 qaragash.kz
 qaragroup.kz
 qarajalnews.kz
@@ -121558,6 +121562,7 @@ qazaqeliqory.kz
 qazaqelite.kz
 qazaqenergi.kz
 qazaqenergy.kz
+qazaqet.kz
 qazaqexport.kz
 qazaqexpress.kz
 qazaqfilm.kz
@@ -121754,7 +121759,6 @@ qazaqtv.kz
 qazaqua.kz
 qazaquly.kz
 qazaquni.kz
-qazaqunion.kz
 qazaqvendor.kz
 qazaqveneer.kz
 qazaqvision.kz
@@ -123139,7 +123143,6 @@ quantmed.kz
 quantori.kz
 quanttech.kz
 quantum-a.kz
-quantum-almaty.kz
 quantum-chemical.kz
 quantum-corporation.kz
 quantum-tech.kz
@@ -123244,7 +123247,6 @@ quickfix.kz
 quickgames.kz
 quicklab.kz
 quickline.kz
-quickly.kz
 quickmail.kz
 quickmart.kz
 quickmix.kz
@@ -124824,7 +124826,6 @@ reaction-sport.kz
 reaction.kz
 reactionsport.kz
 reactiv.kz
-reactive.kz
 reactivedesign.kz
 reactivsnab.kz
 reactjs.kz
@@ -125763,7 +125764,6 @@ remkz.kz
 remline.kz
 remma.kz
 remmas.kz
-remmash.kz
 remmashtorg.kz
 remmax.kz
 remmers.kz
@@ -125901,6 +125901,7 @@ remontkpp.kz
 remontkrov.kz
 remontkv.kz
 remontkvartir.kz
+remontkvartiry.kz
 remontlodok.kz
 remontmaster.kz
 remontmasterproservis.kz
@@ -125914,7 +125915,6 @@ remontof.kz
 remontokna.kz
 remontokno.kz
 remontokon-almaty.kz
-remontokon-master.kz
 remontokon.kz
 remontokonalmaty.kz
 remontov.kz
@@ -128123,7 +128123,6 @@ rosto.kz
 rostok-edu.kz
 rostok-logistics.kz
 rostok.kz
-rostok24.kz
 rostokgroup.kz
 rostovyekukly.kz
 rostpro.kz
@@ -128166,6 +128165,7 @@ roton-asia.kz
 rotopack.kz
 rotoprint.kz
 rotor.kz
+rotorcomp.kz
 rotorica.kz
 rotorica1.kz
 rototilt.kz
@@ -128306,7 +128306,6 @@ royalspeakers.kz
 royalstaff.kz
 royalstone.kz
 royalstroy.kz
-royalstudy.kz
 royalstudykz.kz
 royalstyle.kz
 royaltaste.kz
@@ -128383,6 +128382,7 @@ rpi.kz
 rpikul.kz
 rpk-effect.kz
 rpk-fenix.kz
+rpk-marker.kz
 rpk.kz
 rpkwest.kz
 rpl-school.kz
@@ -129259,6 +129259,7 @@ sa.kz
 sa12.kz
 sa20global.kz
 saa.kz
+saaarieva.kz
 saab.kz
 saad.kz
 saadbeaty.kz
@@ -129796,7 +129797,6 @@ saiguliklogistic.kz
 saikan.kz
 saikandev.kz
 saikangmedical.kz
-saiko.kz
 saikono.kz
 sail.kz
 saila.kz
@@ -130565,7 +130565,6 @@ sanatax.kz
 sanatel.kz
 sanatest.kz
 sanatof.kz
-sanatopia.kz
 sanator-bolnica.kz
 sanatorbron.kz
 sanatori-akbulak.kz
@@ -131238,7 +131237,6 @@ sargos.kz
 sari-agashsu.kz
 sari.kz
 sariagash-bron.kz
-sariagash-broni.kz
 sariagash-sanatori.kz
 sariagash-sanatory.kz
 sariagash-travel.kz
@@ -132003,7 +132001,6 @@ sbis.kz
 sbk-company.kz
 sbk-eng.kz
 sbk-group.kz
-sbk.kz
 sbkcompany.kz
 sbkrg.kz
 sbkts.kz
@@ -132029,7 +132026,6 @@ sborshik.kz
 sborsredstv.kz
 sbowling.kz
 sboxing.kz
-sbp-service.kz
 sbp.kz
 sbq.kz
 sbqonl.kz
@@ -132169,7 +132165,6 @@ scedu.kz
 scelta.kz
 scena.kz
 scenapro.kz
-scenaproject.kz
 scenar.kz
 scene.kz
 scenergy.kz
@@ -132506,7 +132501,6 @@ sd-service.kz
 sd.kz
 sd24.kz
 sda-techno.kz
-sda.kz
 sdai.kz
 sdam.kz
 sdamsnimu.kz
@@ -133879,7 +133873,6 @@ severvodhoz.kz
 sevi.kz
 seviba.kz
 sevibebe.kz
-sevicode.kz
 sevil.kz
 sevile.kz
 sevillab.kz
@@ -134410,6 +134403,7 @@ sharaina-edu.kz
 sharaina.kz
 sharalmaty.kz
 sharapat-astana.kz
+sharapat-kumis.kz
 sharapat.kz
 sharapov.kz
 sharapova.kz
@@ -134749,7 +134743,6 @@ shift.kz
 shifter.kz
 shiftsentry.kz
 shifu.kz
-shiitake.kz
 shik-reklama.kz
 shik-shirin.kz
 shik.kz
@@ -134785,6 +134778,7 @@ shinaatyrau.kz
 shinabar.kz
 shinai.kz
 shinakaraganda.kz
+shinaki.kz
 shinakyzylorda.kz
 shinalar.kz
 shinalmata.kz
@@ -135919,7 +135913,6 @@ silksoftgroup.kz
 silktour.kz
 silktravel.kz
 silktrip.kz
-silku.kz
 silkwallet.kz
 silkway-campers.kz
 silkway-cargo.kz
@@ -136343,7 +136336,6 @@ sistema-kachestva.kz
 sistema-laurus.kz
 sistema.kz
 sistemalaurus.kz
-sistemaprava.kz
 sistemapromo.kz
 sistematika.kz
 sistemauspeha.kz
@@ -136454,7 +136446,6 @@ sixty.kz
 siy.kz
 siyai.kz
 siyanie.kz
-siyay.kz
 siz.kz
 sizam.kz
 sizamshop.kz
@@ -136529,6 +136520,7 @@ skaiwei.kz
 skakz.kz
 skala-shchuchinsk.kz
 skalaboulder.kz
+skalaclub.kz
 skalagroup.kz
 skalahotel.kz
 skalar.kz
@@ -138510,7 +138502,6 @@ snd-3.kz
 snd-4.kz
 snd-5.kz
 snd-6.kz
-sndco.kz
 sndproject.kz
 sndway.kz
 sne.kz
@@ -140290,7 +140281,6 @@ sportbet.kz
 sportbets.kz
 sportbg.kz
 sportbody.kz
-sportbonus.kz
 sportbox.kz
 sportbrands.kz
 sportbugin.kz
@@ -140537,7 +140527,6 @@ springerb.kz
 springtime.kz
 sprint.kz
 sprintbook.kz
-sprintbooster.kz
 sprinter.kz
 sprinthost.kz
 sprintprint.kz
@@ -140869,6 +140858,7 @@ sspsnab.kz
 ssr.kz
 ssrkca.kz
 ssrs.kz
+ssrstroycompany.kz
 sss-iot.kz
 sss.kz
 sssa.kz
@@ -142923,7 +142913,6 @@ studylab.kz
 studyline.kz
 studylink-neurotracking.kz
 studylink-school.kz
-studylink-shym.kz
 studylink.kz
 studymania.kz
 studymap.kz
@@ -143148,6 +143137,7 @@ suinshi.kz
 suis.kz
 suit.kz
 suitcase.kz
+suitcode.kz
 suite-thaispa.kz
 suitecrm.kz
 suitesite.kz
@@ -143207,7 +143197,6 @@ sultan-k.kz
 sultan-prod.kz
 sultan-production.kz
 sultan-spa.kz
-sultan-store.kz
 sultan-zhaluzi.kz
 sultan.kz
 sultan2007.kz
@@ -144351,7 +144340,6 @@ swimmasters.kz
 swimming.kz
 swimshop.kz
 swimtrainer.kz
-swing.kz
 swipe.kz
 swipeandwin.kz
 swirls.kz
@@ -145980,7 +145968,6 @@ tasty.kz
 tastyalmaty.kz
 tastycoffee.kz
 tastyfood.kz
-tastygourmet.kz
 tastypoint.kz
 tastyprice.kz
 tastyroom.kz
@@ -147995,6 +147982,7 @@ tenderweb.kz
 tenderwin.kz
 tendery.kz
 tenderzhasa.kz
+tendesign.kz
 tendey.kz
 tendr.kz
 tenerezza.kz
@@ -148799,6 +148787,7 @@ testim.kz
 testing-get-capital.kz
 testing.kz
 testing1.kz
+testingandlaboratory.kz
 testingdomain.kz
 testir.kz
 testit.kz
@@ -149963,6 +149952,7 @@ timeoflove.kz
 timeout.kz
 timeoutastana.kz
 timepad.kz
+timepc.kz
 timeplusplus.kz
 timer.kz
 timerec.kz
@@ -150068,6 +150058,7 @@ tiny.kz
 tinyhost.kz
 tinyhouse.kz
 tinytoy.kz
+tinyvillage.kz
 tio.kz
 tioline.kz
 tion-shop.kz
@@ -150095,7 +150086,6 @@ tipoit.kz
 tipok.kz
 tippi.kz
 tips-me.kz
-tips.kz
 tips24.kz
 tipsapp.kz
 tipscash.kz
@@ -150178,6 +150168,7 @@ titan-energotech.kz
 titan-energy.kz
 titan-group.kz
 titan-horeca.kz
+titan-kabel.kz
 titan-kst.kz
 titan-plast.kz
 titan-snab.kz
@@ -150709,7 +150700,6 @@ togetherforward.kz
 togethertowards2050.kz
 togetherwesolve.kz
 togetherx.kz
-togetherxevent.kz
 togetmoney.kz
 togg-auto.kz
 togg.kz
@@ -151377,7 +151367,6 @@ top-reshetka.kz
 top-sale.kz
 top-sales.kz
 top-seller.kz
-top-seo.kz
 top-shop.kz
 top-shop24.kz
 top-shopping.kz
@@ -153291,6 +153280,7 @@ tropic.kz
 tropicana.kz
 tropicanka.kz
 tropicberry.kz
+tropinka.kz
 tropsprops.kz
 tros.kz
 troslift.kz
@@ -154093,6 +154083,7 @@ turano.kz
 turanorda.kz
 turanorkeniet.kz
 turanpress.kz
+turanpro.kz
 turanprofi.kz
 turanqaz.kz
 turanqazaly.kz
@@ -154965,6 +154956,7 @@ uctcompany.kz
 uctpro.kz
 ud-capital.kz
 ud.kz
+uda-temu.kz
 uda.kz
 udaasia.kz
 udacha-estate.kz
@@ -156444,6 +156436,7 @@ uplc.kz
 uplift.kz
 uplink.kz
 uplinkcom.kz
+uplisting.kz
 upload.kz
 uplotniteli.kz
 uplyft.kz
@@ -156665,7 +156658,6 @@ uristt.kz
 uristy.kz
 urjar.kz
 urk.kz
-urker-awards.kz
 urker-roman.kz
 urker.kz
 urker44.kz
@@ -157244,6 +157236,7 @@ v-nadzor.kz
 v-net.kz
 v-office.kz
 v-oil.kz
+v-p.kz
 v-pay.kz
 v-press.kz
 v-pro.kz
@@ -157532,7 +157525,6 @@ vanenergy.kz
 vanessascani.kz
 vangar.kz
 vangard.kz
-vangogh.kz
 vanguard.kz
 vanhart.kz
 vaniev.kz
@@ -157581,7 +157573,6 @@ vape.kz
 vapeak.kz
 vapeandco.kz
 vapebazar.kz
-vapeboom.kz
 vapebro.kz
 vapecity.kz
 vapeclub.kz
@@ -158043,7 +158034,6 @@ vegeta.kz
 vegetable.kz
 vegetables.kz
 vegetarian.kz
-veggie.kz
 veghome.kz
 vegroup.kz
 vegtrade.kz
@@ -160177,6 +160167,7 @@ vkus01.kz
 vkusbuket.kz
 vkuschaya.kz
 vkushleba.kz
+vkuskzhizni.kz
 vkusmarket.kz
 vkusnayalavka.kz
 vkusno-i-tochka.kz
@@ -160342,7 +160333,6 @@ vo1.kz
 voa.kz
 vobla.kz
 voblabar.kz
-voblago.kz
 voblake.kz
 voc.kz
 vocabulary.kz
@@ -160531,6 +160521,7 @@ volleyball.kz
 volleyballkids.kz
 volleyclub-almaty.kz
 vollosy.kz
+volma-buy.kz
 volma.kz
 volmart.kz
 volmax.kz
@@ -160541,7 +160532,6 @@ volna-casinokz.kz
 volna-cazino.kz
 volna-kasino.kz
 volna-kazino.kz
-volna-kovromoika.kz
 volna-play.kz
 volna-transworks.kz
 volna-work.kz
@@ -161223,7 +161213,6 @@ vt-business.kz
 vt-safilo.kz
 vt.kz
 vta.kz
-vtachke.kz
 vtanke.kz
 vtaraze.kz
 vtaxi.kz
@@ -161853,7 +161842,6 @@ waytech.kz
 wayto.kz
 waytobepro.kz
 waytome.kz
-waytothelaunch.kz
 waytourism.kz
 wayup.kz
 wazapa.kz
@@ -162069,7 +162057,6 @@ webasto-online.kz
 webasto.kz
 webaweb.kz
 webb.kz
-webbank.kz
 webbets.kz
 webbonus.kz
 webboss.kz
@@ -162358,6 +162345,7 @@ weddingalbertkseniya.kz
 weddingbar.kz
 weddingday.kz
 weddingly.kz
+weddingpost.kz
 weddings.kz
 weddingstylist.kz
 weddingtimurdiana.kz
@@ -163661,7 +163649,6 @@ worship.kz
 worth.kz
 worx.kz
 wos.kz
-wosk.kz
 woson.kz
 wospa.kz
 wot-monitoring.kz
@@ -164076,7 +164063,6 @@ xcmgmining.kz
 xcode.kz
 xcom.kz
 xcomfree.kz
-xcommerce.kz
 xcomns.kz
 xcon.kz
 xconnect.kz
@@ -164214,6 +164200,7 @@ xmasters.kz
 xmax.kz
 xmcargo.kz
 xmebel.kz
+xmed.kz
 xmedia.kz
 xmet.kz
 xmind.kz
@@ -164603,7 +164590,6 @@ xn--1r8h.kz
 xn--1s9h.kz
 xn--1t9h.kz
 xn--1z9h.kz
-xn--2-ftbp0b.kz
 xn--2-gtb0ad3a.kz
 xn--21a.kz
 xn--228h.kz
@@ -165152,7 +165138,6 @@ xn--80abmmaasksks9da.kz
 xn--80abmmaasksksa4ea.kz
 xn--80abmmnqk3c.kz
 xn--80abmyf7e.kz
-xn--80abn5aat.kz
 xn--80abn7bb4e.kz
 xn--80abn7bbk.kz
 xn--80abnto6a.kz
@@ -165211,6 +165196,7 @@ xn--80ad1aid.kz
 xn--80ad1aj1f.kz
 xn--80ad3aimb8f.kz
 xn--80ad8a9c.kz
+xn--80ad9aajkx.kz
 xn--80ada1c.kz
 xn--80adal9bocj9f.kz
 xn--80adanm1a3fxa.kz
@@ -165333,6 +165319,7 @@ xn--80aesatk1az7g.kz
 xn--80aesjmcnkj2h.kz
 xn--80aestmf.kz
 xn--80aesyt.kz
+xn--80aevrbbcs6c.kz
 xn--80af0aefb7d5c.kz
 xn--80af1azac.kz
 xn--80af5akm8c.kz
@@ -165551,7 +165538,6 @@ xn--80akozi0d.kz
 xn--80akpcrp.kz
 xn--80akpehiri6bp5af.kz
 xn--80akqcd2h.kz
-xn--80akra5h.kz
 xn--80akrcip.kz
 xn--80akrfv.kz
 xn--80akswt9b.kz
@@ -166143,6 +166129,7 @@ xn--e1aajicsfseg7cc.kz
 xn--e1aajkfhj0i.kz
 xn--e1aalcpcdvn9g.kz
 xn--e1aan0a2b.kz
+xn--e1aan3a16b.kz
 xn--e1aanbkaefepi6e.kz
 xn--e1aanons.kz
 xn--e1aanzb2a.kz
@@ -167203,6 +167190,7 @@ yataxi.kz
 yataymedia.kz
 yato.kz
 yatut.kz
+yaucheba.kz
 yavdomike.kz
 yavoditel.kz
 yavorskiy.kz
@@ -168775,6 +168763,7 @@ zaura.kz
 zaure-bobekzhay.kz
 zaure.kz
 zauresh.kz
+zaushi.kz
 zav.kz
 zaval.kz
 zavarka.kz
@@ -169483,6 +169472,7 @@ zhan-m.kz
 zhan-ser.kz
 zhan-showman.kz
 zhan.kz
+zhan10cargo.kz
 zhan883.kz
 zhana-abai.kz
 zhana-aygerim.kz
@@ -169643,6 +169633,7 @@ zhansaya.kz
 zhansayaabdumalik.kz
 zhansayabatyrkhankyzy.kz
 zhansayadarkhankyzy.kz
+zhansayagalymqyzy.kz
 zhansayakarsak.kz
 zhansayamarikbaeva.kz
 zhansayazhanabay.kz
@@ -170714,7 +170705,6 @@ zoomlion.kz
 zoomlionzga.kz
 zoomlogistics.kz
 zoomos.kz
-zoomrenot.kz
 zoomrental.kz
 zoomy.kz
 zoomzoo.kz
