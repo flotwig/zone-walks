@@ -1802,6 +1802,7 @@ alajben.tn
 alakhbar.tn
 alakifek.tn
 alakifi.tn
+alala.tn
 alaman.tn
 alamana.tn
 alamen.tn
@@ -2210,7 +2211,9 @@ alomma.tn
 aloo.tn
 alooba.tn
 aloola.tn
+alopara.tn
 alopub.tn
+alotech.tn
 alouer.tn
 aloui-immo.tn
 aloui-tcep.tn
@@ -5972,6 +5975,7 @@ blanco.tn
 blandoshoes.tn
 blase.tn
 blassa-cov.tn
+blassa-transport.tn
 blassa.tn
 blasterozone.tn
 blasti.tn
@@ -6364,7 +6368,6 @@ bottegaverde.tn
 bou7midstore.tn
 bouabene.tn
 bouabid.tn
-bouaicha-travel.tn
 bouaicha.tn
 bouainexpress.tn
 bouajilamohamedyessine.tn
@@ -8387,6 +8390,7 @@ chouchert.tn
 chouchoustore.tn
 chouf.tn
 choufli-hal.tn
+choufli.tn
 chouflihal.tn
 chouflihall.tn
 choufliproduit.tn
@@ -9317,10 +9321,8 @@ commandez.tn
 commandi.tn
 commedia.tn
 commententreprendre.tn
-commerce-equitable.tn
 commerce-tn.tn
 commerce.tn
-commerceequitable.tn
 commercequitable.tn
 commerces.tn
 commercial-chaouech.tn
@@ -10732,7 +10734,6 @@ darkhayam.tn
 darklab.tn
 darkoftanealasil.tn
 darkstore.tn
-darlaroussa.tn
 darlekbira.tn
 darlellaaicha.tn
 darlellakhedija.tn
@@ -11931,6 +11932,7 @@ dmq.tn
 dms.tn
 dmsnegoce.tn
 dmsplus.tn
+dmstore.tn
 dn.tn
 dna.tn
 dnaproinnovation.tn
@@ -13417,6 +13419,7 @@ elbusines.tn
 elbyr.tn
 elc.tn
 elcarhba.tn
+elcarta-kids.tn
 elcasino.tn
 elcharefinfo.tn
 elchkobba.tn
@@ -14813,6 +14816,7 @@ exonik-informatique.tn
 exotic.tn
 exotica.tn
 expat.tn
+expatandhousing.tn
 expatclub.tn
 expatrelocation.tn
 expedia.tn
@@ -15866,7 +15870,6 @@ flydelivery.tn
 flyintunisia.tn
 flyloco.tn
 flylog.tn
-flymed.tn
 flynbeds.tn
 flypartners.tn
 flypgs.tn
@@ -16145,6 +16148,7 @@ forssastoretn.tn
 forsssa.tn
 forstak.tn
 forstec.tn
+forsty.tn
 fort.tn
 fortest.tn
 forthehome.tn
@@ -16740,6 +16744,7 @@ gamespace.tn
 gamesportbyorange.tn
 gamestartplus.tn
 gameszone.tn
+gametek.tn
 gameworld.tn
 gamezone-mahdia.tn
 gamezone.tn
@@ -17749,6 +17754,7 @@ gp.tn
 gpa.tn
 gpai.tn
 gpc.tn
+gpd.tn
 gpec.tn
 gpgcheckout.tn
 gphone.tn
@@ -18215,6 +18221,7 @@ ha-store.tn
 ha.tn
 habbachi.tn
 habbachiahmed.tn
+habbachicarottage.tn
 habdallah-inginfo.tn
 habeauty.tn
 habib.tn
@@ -18771,6 +18778,7 @@ hellotunisia.tn
 hellovas.tn
 helloweb.tn
 hellowebtunisie.tn
+helma-shop.tn
 helma.tn
 helmaevent.tn
 helmastore.tn
@@ -19151,6 +19159,7 @@ hopitalsahloul.tn
 hopitaux.tn
 hor.tn
 hora.tn
+horaire-priere.tn
 horaire.tn
 horaires-commerces.tn
 horeca.tn
@@ -23073,6 +23082,7 @@ labougie.tn
 labour.tn
 labourse.tn
 laboussole.tn
+laboutique.tn
 laboutiqueooredoo.tn
 labox.tn
 labpatrimoine.tn
@@ -24516,7 +24526,6 @@ lmfconsulting.tn
 lmgc.tn
 lmishop.tn
 lmmp.tn
-lmnart.tn
 lmon-fsm.tn
 lmop-fst-utm.tn
 lmp.tn
@@ -25843,6 +25852,7 @@ marti.tn
 martialartacademy.tn
 martiderm.tn
 marts.tn
+marvin-textilesolutions.tn
 marwa.tn
 marwabijoux.tn
 marwadhouhakarmani.tn
@@ -28353,6 +28363,7 @@ my-store11.tn
 my-subsciptions.tn
 my-toolbox.tn
 my-tunisia.tn
+my-tv.tn
 my-watch.tn
 my.tn
 my365.tn
@@ -29940,7 +29951,6 @@ ok-distribution.tn
 ok.tn
 okad.tn
 okaidi.tn
-okami.tn
 okaz.tn
 okazion.tn
 okba-medicaments.tn
