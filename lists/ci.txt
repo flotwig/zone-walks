@@ -373,6 +373,7 @@ abidjaninformatique.ci
 abidjanmall.ci
 abidjanmascottes.ci
 abidjanmetro.ci
+abidjanplanet.ci
 abidjansolution.ci
 abinews.ci
 abissa.ci
@@ -439,8 +440,10 @@ acoonda.ci
 acquadiparma.ci
 acr-afma.ci
 acropolis.ci
+acs.ci
 acsgroupe.ci
 actionjustice.ci
+actions.ci
 activemedia.ci
 activepharma2007.ci
 activpolytec.ci
@@ -653,6 +656,7 @@ agenumerique.ci
 ageroute-ccph.ci
 ageroute.ci
 ageroutemarche.ci
+ageroutes.ci
 agi-sa.ci
 agi.ci
 agility.ci
@@ -948,6 +952,7 @@ amore.ci
 amoureba.ci
 ams.ci
 amsci.ci
+amservices.ci
 amso.ci
 amssarl.ci
 amuga.ci
@@ -1966,6 +1971,7 @@ bouygues-energies-services.ci
 bouygues-es.ci
 box.ci
 boxfresh.ci
+boxit.ci
 boxoffice.ci
 boxoffice.co.ci
 boxtobox.ci
@@ -2415,7 +2421,6 @@ cep.ci
 cepa.ci
 cepi.ci
 cepibformation.ci
-cepic.ci
 cepici.ci
 cerap-inades.ci
 cerave.ci
@@ -2785,7 +2790,6 @@ cms.ci
 cmsentreprise.ci
 cmspurisol.ci
 cmstviateur.ci
-cmti.ci
 cn-itie.ci
 cn-maep.ci
 cn.ci
