@@ -449,7 +449,6 @@ authortalk.audio
 auto-tune.audio
 autogpt.audio
 automata.audio
-automate.audio
 autoplay.audio
 autotune.audio
 aux.audio
@@ -947,7 +946,6 @@ constellation.audio
 contexttravel.audio
 continuum.audio
 controlroom.audio
-converge.audio
 coocoo.audio
 cooking.audio
 coolblue.audio
@@ -3296,6 +3294,7 @@ podcast.audio
 podmatic.audio
 pods.audio
 poe.audio
+poet.audio
 pointdorgue.audio
 poisonlab.audio
 pol.audio
@@ -3509,6 +3508,7 @@ red.audio
 redbeard.audio
 reddawn.audio
 redmonk.audio
+redpoint.audio
 redroom.audio
 reds.audio
 redsox.audio
@@ -4581,7 +4581,6 @@ vonyx.audio
 vor.audio
 voxativ.audio
 voyage.audio
-voyance.audio
 vsevmeste.audio
 vt-linn.audio
 vue-audiotechnik.audio
