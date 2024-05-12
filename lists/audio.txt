@@ -138,6 +138,7 @@ ai-apps.audio
 ai-powered.audio
 aiaiai.audio
 aiapps.audio
+aidenadams.audio
 aifc.audio
 aim.audio
 airborne.audio
@@ -449,6 +450,7 @@ authortalk.audio
 auto-tune.audio
 autogpt.audio
 automata.audio
+automate.audio
 autoplay.audio
 autotune.audio
 aux.audio
@@ -3482,7 +3484,6 @@ readbook.audio
 readsound.audio
 ready.audio
 real-time.audio
-real.audio
 realcreative.audio
 realestate.audio
 reality.audio
@@ -3552,7 +3553,6 @@ retail.audio
 retro.audio
 retrotimezone.audio
 reubencohen.audio
-rev.audio
 reverbremoval.audio
 reverie.audio
 review.audio
@@ -4514,7 +4514,6 @@ verticalleap.audio
 vestcast.audio
 vestlyd.audio
 vexus.audio
-vib3s.audio
 vibe.audio
 vibes.audio
 vibot.audio
