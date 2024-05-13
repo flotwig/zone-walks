@@ -1040,6 +1040,7 @@ app-immo.ci
 app.ci
 appartement.ci
 appartements.ci
+appcoditrans.ci
 apple-shop.ci
 apple.ci
 apple.co.ci
@@ -1157,7 +1158,6 @@ asafoandco.ci
 asblogistics.ci
 asbtp.ci
 asc-cgedsgeoportail.ci
-ascad.ci
 ascar.ci
 ascelearning.ci
 ascens-services.ci
@@ -1521,7 +1521,6 @@ barakaservices.ci
 barakatshop.ci
 barclayresources.ci
 bargain.ci
-barikaa.ci
 barm.ci
 barney.ci
 barnoininformatique.ci
@@ -2340,7 +2339,6 @@ ccbagnon.ci
 ccc.ci
 cccciue.ci
 ccdoc.ci
-ccesp.ci
 cceu.ci
 ccgfsp.ci
 cci.ci
@@ -2403,7 +2401,6 @@ cembtp.ci
 center.ci
 centif.ci
 central.ci
-centrale-distribution.ci
 centralet.ci
 centralindustrie.ci
 centraltech.ci
@@ -2656,7 +2653,6 @@ cipme.ci
 ciprel.ci
 cipremci.ci
 cips.ci
-cirad.ci
 cirba.ci
 circet.ci
 circle.ci
