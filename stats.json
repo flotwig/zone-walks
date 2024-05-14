@@ -41,12 +41,12 @@
       "zone": "tn"
     },
     {
-      "domains": "12650",
-      "zone": "kg"
+      "domains": "12696",
+      "zone": "gdn"
     },
     {
-      "domains": "12638",
-      "zone": "gdn"
+      "domains": "12650",
+      "zone": "kg"
     },
     {
       "domains": "10512",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4860666"
+  "total": "4860724"
 }
