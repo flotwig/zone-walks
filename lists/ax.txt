@@ -760,7 +760,6 @@ byggnadsvard.ax
 byggpartner.ax
 byggtema.ax
 byggvaruhuset.ax
-byttillallwinds.ax
 bz.ax
 ca.ax
 cab.ax
@@ -1204,7 +1203,6 @@ ermida.ax
 erou.ax
 es.ax
 esc.ax
-esim.ax
 esoxaland.ax
 esplanadkliniken.ax
 esportscores.ax
@@ -1393,7 +1391,6 @@ fp.ax
 fpa.ax
 fq.ax
 fr.ax
-franciskus.ax
 franfargtilltvatt.ax
 frank.ax
 fransar.ax
@@ -1526,6 +1523,7 @@ googleplay.ax
 googleplus.ax
 googletv.ax
 googlewallet.ax
+goon.ax
 gooptimal.ax
 gopuff.ax
 goransfasad.ax
@@ -4007,7 +4005,6 @@ wct.ax
 we.ax
 web.ax
 web3.ax
-webb.ax
 webbhotellet.ax
 webbiz.ax
 webbsolut.ax
