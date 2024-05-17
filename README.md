@@ -25,7 +25,6 @@ TLD | Domain Count
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">44380</div>
 [`tn`][tn] [(raw)][tn-raw] | <div align="right">32516</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">12770</div>
-[`kg`][kg] [(raw)][kg-raw] | <div align="right">12705</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">10535</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
 [`id`][id] [(raw)][id-raw] | <div align="right">8281</div>
@@ -63,7 +62,8 @@ TLD | Domain Count
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4861474</div>
+[`kg`][kg] [(raw)][kg-raw] | <div align="right">4</div>
+**Total** | <div align="right">4848773</div>
 
 ## See Also
 
@@ -93,8 +93,6 @@ TLD | Domain Count
 [tn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/tn.txt
 [gdn]: ./lists/gdn.txt
 [gdn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/gdn.txt
-[kg]: ./lists/kg.txt
-[kg-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/kg.txt
 [lk]: ./lists/lk.txt
 [lk-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lk.txt
 [cy]: ./lists/cy.txt
@@ -169,3 +167,5 @@ TLD | Domain Count
 [er-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/er.txt
 [lb]: ./lists/lb.txt
 [lb-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lb.txt
+[kg]: ./lists/kg.txt
+[kg-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/kg.txt

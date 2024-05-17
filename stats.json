@@ -45,10 +45,6 @@
       "zone": "gdn"
     },
     {
-      "domains": "12705",
-      "zone": "kg"
-    },
-    {
       "domains": "10535",
       "zone": "lk"
     },
@@ -195,7 +191,11 @@
     {
       "domains": "6",
       "zone": "lb"
+    },
+    {
+      "domains": "4",
+      "zone": "kg"
     }
   ],
-  "total": "4861474"
+  "total": "4848773"
 }
