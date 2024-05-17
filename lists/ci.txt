@@ -1186,7 +1186,6 @@ asmp.ci
 asnbusiness.ci
 asngroup.ci
 asondo.ci
-asopb.ci
 asos.ci
 aspcacc.ci
 aspcisecurite.ci
@@ -1199,7 +1198,6 @@ assiniebooking.ci
 assist.ci
 assistweb.ci
 assnat.ci
-asso.ci
 association.ci
 assohou.ci
 assolutions.ci
@@ -1363,6 +1361,7 @@ autotopivoire.ci
 auziatech.ci
 auziatechenergie.ci
 ava.ci
+avaedu.ci
 avancix.ci
 avatclaims.ci
 aveclecoeur.ci
@@ -1616,6 +1615,8 @@ beeshop.ci
 beexcellent.ci
 before-group.ci
 beforegroup.ci
+befree-telecom.ci
+befree.ci
 beherzig.ci
 behsalifcoul.ci
 beko.ci
@@ -1762,7 +1763,6 @@ billon.ci
 bils.ci
 bim-news.ci
 bim.ci
-bima.ci
 bimafrique.ci
 bimag.ci
 binastore.ci
@@ -1945,7 +1945,6 @@ bosksystems.ci
 boss.ci
 bossicro.ci
 bossimpactsociety.ci
-bossplaya.ci
 bot.ci
 botanique.ci
 botcoin.ci
@@ -2478,9 +2477,6 @@ champion.ci
 championbet.ci
 championlubes.ci
 championtv.ci
-chancellerie-federale.ci
-chancellerie.ci
-chancelleriefederale.ci
 changan.ci
 changanauto.ci
 change.ci
@@ -2854,6 +2850,7 @@ cod.ci
 codci.ci
 codcouleur.ci
 code.ci
+codedelaroute.ci
 codedu.ci
 codef.ci
 codelab.ci
