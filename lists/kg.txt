@@ -8,7 +8,6 @@
 1.kg
 10.kg
 100.kg
-1000.kg
 1000likes.kg
 1001likes.kg
 100pudov.kg
@@ -1361,7 +1360,6 @@ autodoc.kg
 autoeuro.kg
 autoexpert.kg
 autoforum.kg
-autogas.kg
 autogasmaster.kg
 autogasprofi.kg
 autohub.kg
@@ -1913,7 +1911,6 @@ beyondairbnb.kg
 beyondbyairbnb.kg
 beyosa.kg
 bf.kg
-bfet.kg
 bfgoodrich.kg
 bfs.kg
 bft.kg
@@ -1968,6 +1965,7 @@ bikini.kg
 bilesinbi.kg
 bilet.kg
 biletik.kg
+biletstandart.kg
 biletter.kg
 bilim.kg
 bilimaluu.kg
@@ -2292,7 +2290,6 @@ bruschatka.kg
 brw.kg
 bs.kg
 bs2.kg
-bsc.kg
 bshk.kg
 bsk-pro.kg
 bsk.kg
@@ -2672,7 +2669,6 @@ cht.kg
 chu.kg
 chudo-chado.kg
 chuiguvd.kg
-chukopark.kg
 chunglim.kg
 chunkurchak.kg
 church.kg
@@ -3564,7 +3560,6 @@ ecobak.kg
 ecobank.kg
 ecobee.kg
 ecober.kg
-ecobike.kg
 ecobuild.kg
 ecocomplex.kg
 ecocup.kg
@@ -3577,6 +3572,7 @@ ecodry.kg
 ecoeggspoultry.kg
 ecoff.kg
 ecofilter.kg
+ecofloor.kg
 ecofood.kg
 ecohouse.kg
 ecoislamicbank.kg
@@ -3709,6 +3705,7 @@ elcrypto.kg
 eldemi.kg
 elden.kg
 eldik.kg
+eldikbank.kg
 eldiki.kg
 eldikmobile.kg
 eldyk.kg
@@ -5242,6 +5239,7 @@ hotel28.kg
 hotelamir.kg
 hotelevropa.kg
 hotelkarakol.kg
+hotelnova.kg
 hotelreservation.kg
 hotelreservationservice.kg
 hotels.kg
@@ -6591,7 +6589,6 @@ kts.kg
 ktt.kg
 kttu.kg
 kub.kg
-kubok.kg
 kudago.kg
 kudaibergen.kg
 kudretgozbishkek.kg
@@ -7591,7 +7588,6 @@ metainstagram.kg
 metal.kg
 metalabs.kg
 metall-construction.kg
-metall-nazar.kg
 metall-stroy.kg
 metall.kg
 metallisteurasia.kg
@@ -8242,7 +8238,6 @@ nickelodeon.kg
 nicoletta.kg
 nielsen.kg
 nihao.kg
-nik.kg
 nikah.kg
 nikaparts.kg
 nike.kg
@@ -8655,6 +8650,7 @@ optinetworks.kg
 optmk.kg
 opto.kg
 optobaza.kg
+optom-karasuu.kg
 optom.kg
 optomstroy.kg
 optomtkani.kg
@@ -9090,7 +9086,6 @@ pk.kg
 pki.kg
 pkkumu.kg
 pl.kg
-pl106.kg
 pl111tk.kg
 pl113kesip.kg
 pl12.kg
@@ -9206,7 +9201,6 @@ polymedia.kg
 polymer.kg
 polymerservice.kg
 polysafe.kg
-polyurea.kg
 pomellato.kg
 pomogatlegko.kg
 ponimau.kg
@@ -9296,6 +9290,7 @@ pribororemont.kg
 price.kg
 pricer.kg
 pricewaterhousecoopers.kg
+pride.kg
 prima.kg
 primatex.kg
 prime.kg
@@ -9306,7 +9301,6 @@ primecapital.kg
 primecert.kg
 primeholding.kg
 primeservice.kg
-primetime.kg
 primevideo.kg
 print.kg
 printconsulting.kg
@@ -9925,7 +9919,6 @@ runpay.kg
 ruru.kg
 rus.kg
 rusbelt.kg
-rusclub.kg
 rusconsosh.kg
 ruscore.kg
 rusha.kg
@@ -10106,11 +10099,9 @@ saxarok.kg
 sayakat.kg
 sayasat.kg
 sayohat.kg
-sb.kg
 sbc.kg
 sberbank.kg
 sbg.kg
-sc.kg
 scania.kg
 scanrobot.kg
 scavolini.kg
@@ -10419,7 +10410,6 @@ ski.kg
 skidka.kg
 skidki.kg
 skillbox.kg
-skillfactory.kg
 skills.kg
 skillwave.kg
 skinclinic.kg
@@ -10516,7 +10506,6 @@ smartmoney.kg
 smartnet.kg
 smartpay.kg
 smartpro.kg
-smartprof.kg
 smartshop.kg
 smartsport.kg
 smartstone.kg
@@ -10789,7 +10778,6 @@ stc.kg
 steaker.kg
 steam.kg
 stearnsandfoster.kg
-steel.kg
 steelline.kg
 steels.kg
 steklo.kg
@@ -10821,7 +10809,6 @@ stoloto.kg
 stolplit.kg
 stolyar.kg
 stom.kg
-stomatoiogia.kg
 stomatologia.kg
 stomatologiya.kg
 stomdenta.kg
@@ -11168,7 +11155,6 @@ team-services.kg
 team.kg
 teamkg.kg
 teamviewer.kg
-teatr.kg
 teatrkukol.kg
 tebo.kg
 tec.kg
@@ -11753,6 +11739,7 @@ turak.kg
 turan.kg
 turanelectronics.kg
 turangroup.kg
+turar.kg
 turbo.kg
 turbomarket.kg
 turboscan.kg
@@ -12111,7 +12098,6 @@ vesna.kg
 vesovaya.kg
 vesta.kg
 vestel.kg
-vester.kg
 vesti.kg
 vestnik.kg
 vet.kg
