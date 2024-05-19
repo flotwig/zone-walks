@@ -1166,6 +1166,7 @@ desert.audio
 desiredeffect.audio
 deso.audio
 destination.audio
+detroit.audio
 detroittigers.audio
 deutschland.audio
 developer.audio
@@ -1880,7 +1881,6 @@ hellome.audio
 henryaudio.audio
 henschel.audio
 herbertvonkarajan.audio
-heroic.audio
 herol.audio
 hesse.audio
 hettwer.audio
@@ -2063,7 +2063,6 @@ intelli.audio
 interacoustics.audio
 international.audio
 internet-browser.audio
-internet.audio
 internetbrowser.audio
 internetofthings.audio
 internex.audio
@@ -3233,7 +3232,6 @@ pfeiffer.audio
 phalene.audio
 pharmaceutical.audio
 phase.audio
-phasewarp.audio
 phasma.audio
 phenom.audio
 pheric.audio
