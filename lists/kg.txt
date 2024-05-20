@@ -7,7 +7,6 @@
 1-win.kg
 1.kg
 10.kg
-100.kg
 1000likes.kg
 1001likes.kg
 100pudov.kg
@@ -236,6 +235,7 @@ absaqua.kg
 abscissa.kg
 absconstruction.kg
 absolut.kg
+absolute.kg
 abtpartners.kg
 abubakirov.kg
 abuhanifa.kg
@@ -2281,7 +2281,6 @@ bron.kg
 bronchostop.kg
 bronix.kg
 brr.kg
-bruce.kg
 brugman.kg
 brukinsa.kg
 bruschatka-bishkek.kg
@@ -3232,7 +3231,6 @@ diacademy.kg
 diadema.kg
 diagnost.kg
 diagnostik.kg
-dialabix.kg
 dialogue.kg
 diamed.kg
 diamond.kg
@@ -5421,7 +5419,6 @@ iip.kg
 ijc.kg
 ik-muras.kg
 ik.kg
-ika.kg
 ikassa.kg
 ikblok.kg
 ikea.kg
@@ -6085,7 +6082,6 @@ kamen.kg
 kamexport.kg
 kami.kg
 kaminvest.kg
-kamip.kg
 kamkor.kg
 kampa.kg
 kan.kg
@@ -6634,7 +6630,6 @@ kurtgeiger.kg
 kurultai.kg
 kurulush.kg
 kurulushtsh.kg
-kurut.kg
 kut.kg
 kutaalam.kg
 kutai.kg
@@ -6720,7 +6715,6 @@ kyrseff.kg
 kyrtag.kg
 kyzmat.kg
 kyzmatsayakat.kg
-kyzyl-kiya.kg
 kyzyl-suu.kg
 kyzyl-tegirmen.kg
 kyzyl-tuu.kg
@@ -7572,7 +7566,6 @@ meribell-residence.kg
 meribell.kg
 meridian.kg
 meridiangold.kg
-merinaturel.kg
 merkat.kg
 merrigarden.kg
 merwin.kg
@@ -8061,7 +8054,6 @@ name.kg
 nameste.kg
 namiana.kg
 namito.kg
-namo.kg
 namsun.kg
 nanasport.kg
 naniko.kg
@@ -10099,6 +10091,7 @@ saxarok.kg
 sayakat.kg
 sayasat.kg
 sayohat.kg
+sb.kg
 sbc.kg
 sberbank.kg
 sbg.kg
@@ -10500,12 +10493,12 @@ smarthotel.kg
 smarthub.kg
 smartkey.kg
 smartlog.kg
+smartlogistic.kg
 smartlogistics.kg
 smartlt.kg
 smartmoney.kg
 smartnet.kg
 smartpay.kg
-smartpro.kg
 smartshop.kg
 smartsport.kg
 smartstone.kg
@@ -11180,7 +11173,6 @@ technodom.kg
 technofoods.kg
 technogym-kg.kg
 technogym.kg
-technoland-pf.kg
 technology.kg
 technomarket.kg
 technomart.kg
@@ -11640,7 +11632,6 @@ trekmark.kg
 trendmicro.kg
 trendyol.kg
 trendythreads.kg
-treningi.kg
 treolan.kg
 trg.kg
 triadaflex.kg
@@ -11729,7 +11720,6 @@ tunduk.kg
 tunduktravel.kg
 tuning.kg
 tunuk.kg
-tunuke.kg
 tunuksuu.kg
 tupperware.kg
 tur.kg
@@ -11840,7 +11830,6 @@ uku.kg
 ukuk.kg
 ukukconsult.kg
 ul-ai-tasty.kg
-ulak.kg
 ulan-cholponbaev.kg
 ulay.kg
 ulevel.kg
@@ -12249,9 +12238,7 @@ vorota.kg
 vorotahouse.kg
 vortex.kg
 vosst.kg
-vostok-7.kg
 vostok-invest-group.kg
-vostok7.kg
 vostokmed.kg
 vouwallet.kg
 voyage.kg
