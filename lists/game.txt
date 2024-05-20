@@ -46,6 +46,7 @@
 193bet.game
 199bet.game
 1a.game
+1bet.game
 1brl.game
 1f53a.game
 1on1.game
@@ -97,6 +98,7 @@
 291casino.game
 291jili.game
 291live.game
+2bet.game
 2brl.game
 2goats.game
 2k.game
@@ -125,6 +127,7 @@
 39.game
 399.game
 39win.game
+3bet.game
 3brl.game
 3dfrontier.game
 3e.game
@@ -141,6 +144,7 @@
 4444.game
 456.game
 456bet.game
+4bet.game
 4brl.game
 4e.game
 4win.game
@@ -165,6 +169,7 @@
 588.game
 5888.game
 5a.game
+5bet.game
 5brl.game
 5f.game
 5g.game
@@ -271,6 +276,7 @@
 88brl.game
 88w.game
 898bet.game
+8bet.game
 8brl.game
 8c.game
 8g.game
@@ -842,7 +848,6 @@ bliss.game
 bliti.game
 blizzard.game
 blizzardhockey.game
-blm.game
 blockai.game
 blockchain.game
 blockly.game
@@ -969,6 +974,7 @@ campchaos.game
 canal-plus.game
 canal.game
 canalplus.game
+canopy.game
 canto.game
 cap.game
 capitalstar.game
@@ -980,7 +986,6 @@ carbon.game
 card.game
 carnivalsino.game
 carrion.game
-carrotstick.game
 cartoonporn.game
 casa.game
 casanova.game
@@ -2087,7 +2092,6 @@ hologram.game
 hololens.game
 holyweird.game
 home.game
-hometown.game
 honeypot.game
 honkaistarrail.game
 honolulunight.game
@@ -4314,7 +4318,6 @@ sveacasino.game
 swapintime.game
 sweepstake.game
 sweetvictory.game
-swipe.game
 swisscheese.game
 sword.game
 swords.game
@@ -4369,6 +4372,7 @@ taxi.game
 taya.game
 taylorswift.game
 tb.game
+tce.game
 tclottery.game
 td.game
 teamfighttactics.game
