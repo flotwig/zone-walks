@@ -510,6 +510,7 @@ basilisk.audio
 bass-loops.audio
 bassart.audio
 bassloops.audio
+basslurker.audio
 bastian.audio
 basw.audio
 baud.audio
@@ -1096,6 +1097,7 @@ deezer-audio-prod.audio
 deezer-audio-production.audio
 deezer-audioprod.audio
 deezer-audioproduction.audio
+deezer-investor.audio
 deezer-investors.audio
 deezer-prod-audio.audio
 deezer-prod-studio.audio
@@ -1119,6 +1121,8 @@ deezer.audio
 deezeraudio-production.audio
 deezeraudioprod.audio
 deezeraudioproduction.audio
+deezerinvestor.audio
+deezerinvestors.audio
 deezerprod-audio.audio
 deezerprod-studio.audio
 deezerprod.audio
