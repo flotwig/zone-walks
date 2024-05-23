@@ -98,6 +98,8 @@
 999.ax
 9h.ax
 _nicname._tcp.ax
+a-x.ax
+a-z0-9.ax
 a1.ax
 a1k.ax
 a2.ax
@@ -319,6 +321,7 @@ amarin.ax
 amarinconnect.ax
 amarincorp.ax
 amarineurope.ax
+amazon.ax
 amazonbroadband.ax
 amazonclimatepledge.ax
 amazongo.ax
@@ -2509,7 +2512,6 @@ minecraft.ax
 mini-taxi.ax
 minim.ax
 minimax.ax
-minm.ax
 minna.ax
 minsida.ax
 minska.ax
@@ -2615,6 +2617,7 @@ nagl.ax
 nahd.ax
 nakd.ax
 nalle.ax
+nalles.ax
 name.ax
 naprapat.ax
 naringsliv.ax
@@ -2972,6 +2975,7 @@ pop.ax
 popr.ax
 porn.ax
 pornografi.ax
+port.ax
 portal.ax
 portofmariehamn.ax
 post.ax
