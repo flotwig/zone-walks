@@ -30,8 +30,8 @@ TLD | Domain Count
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
 [`id`][id] [(raw)][id-raw] | <div align="right">8052</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">5226</div>
+[`audio`][audio] [(raw)][audio-raw] | <div align="right">4775</div>
 [`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">4774</div>
-[`audio`][audio] [(raw)][audio-raw] | <div align="right">4774</div>
 [`ax`][ax] [(raw)][ax-raw] | <div align="right">4276</div>
 [`dz`][dz] [(raw)][dz-raw] | <div align="right">3760</div>
 [`mc`][mc] [(raw)][mc-raw] | <div align="right">3581</div>
@@ -103,10 +103,10 @@ TLD | Domain Count
 [id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
 [game]: ./lists/game.txt
 [game-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/game.txt
-[ruhr]: ./lists/ruhr.txt
-[ruhr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ruhr.txt
 [audio]: ./lists/audio.txt
 [audio-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/audio.txt
+[ruhr]: ./lists/ruhr.txt
+[ruhr-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ruhr.txt
 [ax]: ./lists/ax.txt
 [ax-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ax.txt
 [dz]: ./lists/dz.txt
