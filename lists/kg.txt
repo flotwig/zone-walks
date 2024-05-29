@@ -41,6 +41,7 @@
 1and1.kg
 1c-bitrix.kg
 1c-cloud.kg
+1c-integra.kg
 1c-kato.kg
 1c.kg
 1capteka.kg
@@ -594,7 +595,6 @@ akvamarket.kg
 akvitens.kg
 akzon.kg
 al-fawz.kg
-al-halal.kg
 al-star.kg
 al-style.kg
 al.kg
@@ -976,6 +976,7 @@ aquapolis.kg
 aquastroy.kg
 aquatech.kg
 ar.kg
+arab.kg
 araba.kg
 arabaev.kg
 arabiancenter.kg
@@ -1551,6 +1552,7 @@ aziaplast.kg
 aziar.kg
 azimut.kg
 azimuth.kg
+azimuth24.kg
 azius.kg
 azmed.kg
 azo.kg
@@ -2011,7 +2013,6 @@ bionorica.kg
 biontainer.kg
 biontech.kg
 biooil.kg
-bioplus.kg
 biorplus.kg
 bioservice.kg
 biotech-sci.kg
@@ -2139,6 +2140,7 @@ blum.kg
 bmc.kg
 bmcc.kg
 bmg.kg
+bmk.kg
 bmoil.kg
 bmp.kg
 bmpk.kg
@@ -2617,6 +2619,7 @@ chemours.kg
 chep-gala.kg
 cherikov.kg
 chery.kg
+cheryauto.kg
 ches.kg
 chess.kg
 chessacademy.kg
@@ -2973,7 +2976,6 @@ ctmax.kg
 cto.kg
 ctobishkek.kg
 ctr.kg
-ctrade.kg
 ctrlservice.kg
 cts.kg
 ctt.kg
@@ -3316,6 +3318,7 @@ dl.kg
 dlaw.kg
 dlc.kg
 dm.kg
+dmaxpro.kg
 dmcompany.kg
 dmed.kg
 dmg.kg
@@ -3905,7 +3908,6 @@ epos.kg
 eposview.kg
 epp.kg
 eppendorf.kg
-eps-tech.kg
 epsilon.kg
 epson.kg
 equipment-trade.kg
@@ -4224,7 +4226,6 @@ fastum.kg
 fastumgel.kg
 fatva.kg
 fauna.kg
-favorite.kg
 favourite.kg
 fawori.kg
 fayz.kg
@@ -4254,6 +4255,7 @@ fenix.kg
 fenixplus.kg
 fermaservis.kg
 fermer.kg
+feromon.kg
 ferre.kg
 ferring.kg
 ferronordic.kg
@@ -4749,7 +4751,6 @@ gipi.kg
 gipprofi.kg
 giprostroy.kg
 giraffecoffee.kg
-girlsforgirls.kg
 gis.kg
 gismeteo.kg
 gispro.kg
@@ -5171,6 +5172,7 @@ hisense-air.kg
 hisense.kg
 history.kg
 historymuseum.kg
+hit-travel.kg
 hit.kg
 hitachi.kg
 hitbuy.kg
@@ -5217,7 +5219,6 @@ homeofthewhopper.kg
 homesense.kg
 hommlife.kg
 honda.kg
-hondagarage.kg
 honey.kg
 honor.kg
 honoraryconsulate.kg
@@ -6133,7 +6134,6 @@ karakol-ski.kg
 karakol.kg
 karakolao.kg
 karakolka.kg
-karakolpl14.kg
 karakolsolution.kg
 karakoltour.kg
 karandashkin.kg
@@ -7517,6 +7517,7 @@ megalit.kg
 megamarket.kg
 megamaster.kg
 megaom.kg
+megapari.kg
 megapay.kg
 megapolis.kg
 megaprint.kg
@@ -8184,6 +8185,7 @@ neotelecom.kg
 neotrading.kg
 neotv.kg
 neouniverse.kg
+nephroline.kg
 neptune.kg
 nerj.kg
 nerse.kg
@@ -8294,6 +8296,7 @@ nomadsport.kg
 nomer1.kg
 nomera.kg
 nomex.kg
+noob.kg
 nookat.kg
 nookenao.kg
 nooruzpromo.kg
@@ -9227,6 +9230,7 @@ porolon.kg
 porsche.kg
 port.kg
 portal.kg
+portalcollege.kg
 portalpnk.kg
 porter-taxi.kg
 porter.kg
@@ -9371,6 +9375,7 @@ profitflow.kg
 profitouch.kg
 proflicei13.kg
 proflog.kg
+profmuc.kg
 profshop.kg
 profskills.kg
 profus.kg
@@ -9885,7 +9890,6 @@ royalthermo.kg
 royaltrade.kg
 roza.kg
 rp.kg
-rpg.kg
 rpo.kg
 rps.kg
 rr.kg
@@ -10159,7 +10163,6 @@ securecargo.kg
 securedata.kg
 securitrust.kg
 security.kg
-securitytoken.kg
 sediver.kg
 see.kg
 seebauer.kg
@@ -10846,7 +10849,6 @@ stratton.kg
 streamtrade.kg
 stretton.kg
 strichmacher.kg
-strl-x-chng.kg
 stroi.kg
 stroicom.kg
 stroidom.kg
@@ -11126,7 +11128,6 @@ tattoo.kg
 tatyr.kg
 taura-express.kg
 taura.kg
-taurus-genetics.kg
 taurus.kg
 tawakkul.kg
 tax.kg
@@ -11155,6 +11156,7 @@ tc.kg
 tcd.kg
 tcenter.kg
 tchibo.kg
+tcl.kg
 tcs.kg
 tcsoft.kg
 td-bishkek.kg
