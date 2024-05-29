@@ -1,3 +1,4 @@
+0-9.ax
 00.ax
 01.ax
 05.ax
@@ -98,6 +99,7 @@
 9h.ax
 _nicname._tcp.ax
 a-x.ax
+a-z.ax
 a-z0-9.ax
 a1.ax
 a1k.ax
@@ -265,6 +267,7 @@ alandstidningen.ax
 alandstrafiken.ax
 alandstransport.ax
 alandstravet.ax
+alandstv.ax
 alandsundersokning.ax
 alandsvanner.ax
 alandsvatten.ax
@@ -1175,7 +1178,6 @@ enfuce.ax
 engblom.ax
 enigheten.ax
 enjoy.ax
-enklare.ax
 enklaregler.ax
 enklareregler.ax
 ennieriksson.ax
@@ -2546,6 +2548,7 @@ mobile.ax
 mobilkran.ax
 mobilkranaland.ax
 model.ax
+modem.ax
 moderat.ax
 moderaterna.ax
 moderatsamling.ax
@@ -2913,7 +2916,6 @@ petcurean.ax
 peter.ax
 peterlindberg.ax
 pethealthclub.ax
-petra.ax
 pfh.ax
 pg.ax
 pgsoft.ax
@@ -3286,6 +3288,7 @@ sdi.ax
 se.ax
 sea.ax
 seagram.ax
+search.ax
 seasea.ax
 sebastian.ax
 sec.ax
@@ -3576,6 +3579,7 @@ subsea.ax
 suite.ax
 sun-contracting-invest.ax
 sun-invest.ax
+sun.ax
 sunborn.ax
 suncontracting-invest.ax
 suncontractinginvest.ax
@@ -4014,6 +4018,7 @@ waldorf.ax
 warm.ax
 waterworx.ax
 watt.ax
+way.ax
 waze.ax
 wb.ax
 wc.ax
