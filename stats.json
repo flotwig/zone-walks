@@ -85,12 +85,12 @@
       "zone": "mc"
     },
     {
-      "domains": "3328",
-      "zone": "ci"
-    },
-    {
       "domains": "3324",
       "zone": "christmas"
+    },
+    {
+      "domains": "3318",
+      "zone": "ci"
     },
     {
       "domains": "2547",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4861356"
+  "total": "4861346"
 }
