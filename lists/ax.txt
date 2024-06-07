@@ -32,7 +32,6 @@
 1n.ax
 21.ax
 2138.ax
-22.ax
 23.ax
 24.ax
 26.ax
@@ -59,6 +58,7 @@
 42.ax
 44.ax
 4h.ax
+4kp.ax
 4m.ax
 4t.ax
 50.ax
@@ -130,6 +130,7 @@ acidm.ax
 acs.ax
 acura.ax
 ad.ax
+ad4m.ax
 ada.ax
 adamant.ax
 adapteo.ax
@@ -200,6 +201,7 @@ alandglimrar.ax
 alandgronskar.ax
 alandguide.ax
 alandhotels.ax
+alandia-rent.ax
 alandia.ax
 alandiabolagen.ax
 alandiabostad.ax
@@ -443,7 +445,6 @@ atom.ax
 att.ax
 atv.ax
 au.ax
-auab.ax
 aub.ax
 aud.ax
 audi.ax
@@ -475,6 +476,7 @@ ax.ax
 ax3.ax
 axa.ax
 axax.ax
+axbuss.ax
 axc.ax
 axcec.ax
 axcon.ax
@@ -517,6 +519,7 @@ bad.ax
 badminton.ax
 bagarstugan.ax
 bagelbee.ax
+bahigo.ax
 baidu.ax
 baj.ax
 balans.ax
@@ -538,7 +541,6 @@ bb.ax
 bbs.ax
 bc.ax
 bclub.ax
-bd.ax
 be.ax
 beautybay.ax
 becker.ax
@@ -637,7 +639,6 @@ bkfiber.ax
 bl.ax
 black.ax
 blackeye.ax
-blackfriday.ax
 blackrock.ax
 blick.ax
 blissmo.ax
@@ -729,7 +730,6 @@ broman.ax
 brunox.ax
 brx.ax
 bryggan.ax
-bs.ax
 bt.ax
 btc.ax
 bu.ax
@@ -820,6 +820,7 @@ centrumimariehamn.ax
 cf.ax
 cg.ax
 cgengineering.ax
+cgs.ax
 ch.ax
 ch1ll.ax
 chamber.ax
@@ -1178,6 +1179,7 @@ enfuce.ax
 engblom.ax
 enigheten.ax
 enjoy.ax
+enklare.ax
 enklaregler.ax
 enklareregler.ax
 ennieriksson.ax
@@ -1381,7 +1383,6 @@ forest.ax
 foretagare.ax
 foretagarna.ax
 foretagsbyran.ax
-forex.ax
 form.ax
 fornlamningar.ax
 forsakringsjuridik.ax
@@ -1579,6 +1580,7 @@ gronvitt.ax
 group.ax
 grus.ax
 gsm.ax
+gt.ax
 gub.ax
 guider.ax
 guitarcenter.ax
@@ -1744,7 +1746,6 @@ hostinger.ax
 hotel.ax
 hotellarkipelag.ax
 hotels.ax
-hotmail.ax
 hotreels.ax
 hotreelscasino.ax
 hotspot.ax
@@ -1956,6 +1957,7 @@ jobbaland.ax
 jobex.ax
 jobsource.ax
 jockesmekaniska.ax
+johan.ax
 johanehn.ax
 johannashembakta.ax
 johansson.ax
@@ -2235,9 +2237,9 @@ lenr.ax
 leo.ax
 leonshus.ax
 leovegas.ax
-lestercov.ax
 level.ax
 li.ax
+liamedia.ax
 liberalerna.ax
 liberto.ax
 lidl.ax
@@ -2514,7 +2516,6 @@ mildreds.ax
 mildredsswingskola.ax
 min.ax
 minafrimarken.ax
-minecraft.ax
 mini-taxi.ax
 minim.ax
 minimax.ax
@@ -2666,6 +2667,7 @@ nft.ax
 ng.ax
 nh.ax
 ni.ax
+nick.ax
 nickelodeon.ax
 night.ax
 nightravintolat.ax
@@ -2803,7 +2805,6 @@ omsenhalsa.ax
 omsesidiga.ax
 on.ax
 one.ax
-oneplace.ax
 onfleekaland.ax
 online.ax
 onniorava.ax
@@ -3159,6 +3160,7 @@ rm.ax
 rn.ax
 ro.ax
 road.ax
+roblox.ax
 robotika.ax
 rod.ax
 rodakorsgarden.ax
@@ -3353,7 +3355,6 @@ sjofartsmuseum.ax
 sjofartsutbildning.ax
 sjofolk.ax
 sjokvarteret.ax
-sjomansskolan.ax
 sjoraddningen.ax
 sjostroms.ax
 sk.ax
@@ -3732,7 +3733,6 @@ tildeman.ax
 tilitoimisto.ax
 tim.ax
 time.ax
-tinder.ax
 tinderplaces.ax
 tiny.ax
 tinyhousealand.ax
@@ -3823,6 +3823,7 @@ tz.ax
 ua.ax
 uas.ax
 ubuy.ax
+uc.ax
 ud.ax
 udda.ax
 uddens.ax
@@ -4001,6 +4002,7 @@ vuokrakoti.ax
 vuokralle.ax
 vuokrattavana.ax
 vv.ax
+vvs-boden.ax
 vvs-webbutik.ax
 vvs.ax
 vvsexperten.ax
