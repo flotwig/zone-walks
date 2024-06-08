@@ -40,7 +40,6 @@
 2d.ax
 2f.ax
 2h.ax
-2ndtrip.ax
 2p.ax
 301.ax
 314.ax
@@ -2048,7 +2047,6 @@ katrina.ax
 kattnas.ax
 kavak.ax
 kb.ax
-kbe.ax
 kbtterapi.ax
 kc.ax
 kd.ax
@@ -2778,7 +2776,6 @@ ohhoh.ax
 ohmansbil.ax
 oi.ax
 oikeus.ax
-oj.ax
 ok.ax
 oki.ax
 oktober.ax
@@ -2905,7 +2902,6 @@ pectus.ax
 pedago.ax
 pellas.ax
 pensionatsolhem.ax
-pepp.ax
 per.ax
 perform.ax
 perinta.ax
@@ -3222,6 +3218,7 @@ s3.ax
 sa.ax
 saaristonkasvatit.ax
 saaristonkasvatti.ax
+safe.ax
 safetycenter.ax
 sag.ax
 saga.ax
