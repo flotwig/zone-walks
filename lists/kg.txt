@@ -1316,7 +1316,6 @@ atstravel.kg
 att.kg
 attila.kg
 attrans.kg
-au.kg
 auca.kg
 aucaschool.kg
 auci.kg
@@ -2217,7 +2216,6 @@ borner.kg
 borofone-hoco.kg
 borofone.kg
 borsan.kg
-borsanbc.kg
 boru.kg
 boruchok.kg
 borusancat.kg
@@ -2601,7 +2599,6 @@ changanauto.kg
 change.kg
 chapan.kg
 charba.kg
-charchy.kg
 charity.kg
 charter.kg
 chasy.kg
@@ -2706,6 +2703,7 @@ cit.kg
 citi.kg
 citilink.kg
 city.kg
+cityclimate.kg
 cityestetic.kg
 cityhotel.kg
 citykr.kg
@@ -3675,7 +3673,6 @@ eg.kg
 egahall.kg
 egcapital.kg
 egemberdieva.kg
-egemen.kg
 egeturkelevator.kg
 egida.kg
 egis.kg
@@ -4307,6 +4304,7 @@ filarmoniia.kg
 file.kg
 files.kg
 filgrastim.kg
+filial.kg
 film.kg
 filmpro.kg
 filter.kg
@@ -4624,6 +4622,7 @@ galenpharm.kg
 galereya.kg
 gallax.kg
 gallery.kg
+galog.kg
 gam.kg
 gambling.kg
 gamegate.kg
@@ -6508,7 +6507,6 @@ konurat.kg
 konush.kg
 koom.kg
 kooz.kg
-kopilka.kg
 kopolok.kg
 korea.kg
 koreacenter.kg
@@ -6895,7 +6893,6 @@ leopart.kg
 leovegas.kg
 lerna.kg
 les.kg
-lesdrev.kg
 lesopoval.kg
 letai.kg
 leti.kg
@@ -7263,6 +7260,7 @@ mango.kg
 mangyt-aimak.kg
 mann-schroeder.kg
 mannol.kg
+manusora.kg
 map-digikonush.kg
 map.kg
 mapid.kg
@@ -7569,7 +7567,6 @@ mekendesh.kg
 mekenibiz.kg
 mektebi.kg
 mektebim.kg
-mektep.kg
 mektep24.kg
 mektepliga.kg
 mel-bet.kg
@@ -8372,7 +8369,6 @@ novel-ts.kg
 noventiq.kg
 noventiqstore.kg
 novikov.kg
-noviritm.kg
 novistore.kg
 novopavlovka.kg
 novosti.kg
@@ -8393,7 +8389,6 @@ ns.kg
 ns1.kg
 ns2.kg
 nsbo.kg
-nsdi.kg
 nsi.kg
 nsk.kg
 nsomid.kg
@@ -8668,6 +8663,7 @@ opentube.kg
 opera.kg
 operamini.kg
 operations.kg
+opka.kg
 oplata.kg
 oplati.kg
 oppa.kg
@@ -9142,7 +9138,6 @@ pl12.kg
 pl18.kg
 pl26.kg
 pl34.kg
-pl37.kg
 pl5.kg
 pl59.kg
 pl7.kg
@@ -9317,6 +9312,7 @@ prazdnik.kg
 prazdniki.kg
 prc.kg
 precedent.kg
+predstavitelstvo.kg
 prego.kg
 premiabishkek.kg
 premiera.kg
@@ -10186,6 +10182,7 @@ sdelanno.kg
 sdelatsite.kg
 sdg.kg
 sdgroup.kg
+sdk.kg
 sdmanas.kg
 sdo.kg
 sdpk.kg
@@ -10293,7 +10290,6 @@ shabdanservice.kg
 shabuhouse.kg
 shacman-center.kg
 shacman.kg
-shagyltash.kg
 shahpalace.kg
 shahtea.kg
 shailoo.kg
@@ -10543,7 +10539,6 @@ smartgate.kg
 smartgeohub.kg
 smartgroup.kg
 smarthome.kg
-smarthost.kg
 smarthotel.kg
 smarthub.kg
 smartkey.kg
@@ -11025,7 +11020,6 @@ swarovski-optik.kg
 swarovski.kg
 swarovskioptik.kg
 swat.kg
-swe.kg
 swedhouse.kg
 sweeper.kg
 sweetdreams.kg
@@ -11509,6 +11503,7 @@ toffifee.kg
 together.kg
 togo.kg
 togolok.kg
+toguz-bulak.kg
 toi.kg
 toiservice.kg
 toiware.kg
@@ -12589,6 +12584,7 @@ yogafit.kg
 yogaretrit.kg
 youcloud.kg
 youcourier.kg
+youla.kg
 youpin.kg
 youradis.kg
 yourbi.kg
@@ -12611,7 +12607,6 @@ yuren.kg
 yuria-pharm.kg
 yurist.kg
 yurkaganat.kg
-yurt.kg
 yurta.kg
 yurtcampalay.kg
 yurtdistribution.kg
@@ -12710,6 +12705,7 @@ zlata.kg
 zm.kg
 zmail.kg
 znachok.kg
+znakomstva.kg
 znatok.kg
 zob.kg
 zobolo.kg
