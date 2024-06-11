@@ -311,6 +311,7 @@ applause.audio
 apple.audio
 applehome.audio
 appleid.audio
+appleintelligence.audio
 applemusicfestival.audio
 applemusiclyrics.audio
 applemusicvoice.audio
@@ -1640,7 +1641,6 @@ frequency.audio
 frequent.audio
 freshair.audio
 freshfruit.audio
-freshwater.audio
 fridge.audio
 fringe.audio
 frolic.audio
@@ -1701,6 +1701,7 @@ generativeai.audio
 genesis.audio
 genisis.audio
 genius.audio
+genmoji.audio
 genuin.audio
 genus.audio
 genuss.audio
@@ -1823,7 +1824,6 @@ handcrafted.audio
 handys.audio
 hangout.audio
 hansen.audio
-happymusic.audio
 hardbass.audio
 hardstyle.audio
 harman.audio
@@ -2013,6 +2013,7 @@ illumin.audio
 illusion.audio
 ilmnuri.audio
 ilya.audio
+imageplayground.audio
 imaginary.audio
 imagine3d.audio
 imgix.audio
@@ -2076,7 +2077,6 @@ internex.audio
 interphase.audio
 interstellar.audio
 inthemix.audio
-intranet.audio
 intrepid.audio
 intui.audio
 intuit.audio
@@ -2103,6 +2103,7 @@ iphone15plus.audio
 iphone15pro.audio
 iphone15promax.audio
 iphonemini.audio
+iphonemirroring.audio
 iqoo.audio
 irelandsounds.audio
 iris.audio
@@ -4181,7 +4182,6 @@ tampabayrays.audio
 tamu.audio
 tandemonium.audio
 tangent.audio
-tangible.audio
 tangotimetravel.audio
 tann.audio
 taos.audio
@@ -4701,7 +4701,6 @@ worldof.audio
 worldseries.audio
 worldwideweb.audio
 worst.audio
-wpad.audio
 wreckording.audio
 wsj.audio
 wsp.audio
