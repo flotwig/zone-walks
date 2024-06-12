@@ -165,7 +165,7 @@
       "zone": "amazon"
     },
     {
-      "domains": "64",
+      "domains": "65",
       "zone": "ve"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4862343"
+  "total": "4862344"
 }
