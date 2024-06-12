@@ -458,7 +458,6 @@ authentichendrix.audio
 authortalk.audio
 auto-tune.audio
 automata.audio
-automate.audio
 autoplay.audio
 autotune.audio
 aux.audio
@@ -2737,7 +2736,6 @@ mix.audio
 mixd.audio
 mixdown.audio
 mixedup.audio
-mixfix.audio
 mixkit.audio
 mixlib.audio
 mixology.audio
