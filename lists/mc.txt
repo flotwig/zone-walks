@@ -1224,7 +1224,6 @@ fm-craft.mc
 fma.mc
 fmbmonaco.mc
 fmcenter.mc
-fmcraft.mc
 fmps.mc
 fmsa.mc
 fmt.mc
@@ -2467,6 +2466,7 @@ nailspa.mc
 nailtech.mc
 nalbantis.mc
 namebay.mc
+namira.mc
 nammos.mc
 nammosworld.mc
 nannetta.mc
@@ -2662,6 +2662,7 @@ osteopathie.mc
 oteis.mc
 otoneuro.mc
 otoneuromonaco.mc
+otranto.mc
 ouulala.mc
 ovpmairie.mc
 own.mc
@@ -3407,6 +3408,7 @@ tracepur.mc
 traductionslaurentpajou.mc
 trafalgarassetmanagers.mc
 trafiparc.mc
+trankvilomanagement.mc
 trans-blinter.mc
 transocean.mc
 trasomar.mc
