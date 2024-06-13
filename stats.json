@@ -77,10 +77,6 @@
       "zone": "ax"
     },
     {
-      "domains": "4020",
-      "zone": "ci"
-    },
-    {
       "domains": "3774",
       "zone": "dz"
     },
@@ -91,6 +87,10 @@
     {
       "domains": "3324",
       "zone": "christmas"
+    },
+    {
+      "domains": "3316",
+      "zone": "ci"
     },
     {
       "domains": "2538",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4862965"
+  "total": "4862261"
 }
