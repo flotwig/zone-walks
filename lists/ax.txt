@@ -40,6 +40,7 @@
 2d.ax
 2f.ax
 2h.ax
+2m.ax
 2p.ax
 301.ax
 314.ax
@@ -650,6 +651,7 @@ blogspot.ax
 blombergs.ax
 blomqvist.ax
 blomstringe.ax
+blue.ax
 bm.ax
 bmf.ax
 bo.ax
@@ -698,7 +700,6 @@ bosgrav.ax
 bosidan.ax
 bostad.ax
 bot.ax
-boviksbygg.ax
 bowling.ax
 box.ax
 br.ax
@@ -3094,7 +3095,6 @@ ravintolaaukio.ax
 ravintolalaboratorio.ax
 ravintolaobra.ax
 ravintolasoster.ax
-ray.ax
 rayo.ax
 rayostudios.ax
 rb.ax
@@ -4018,7 +4018,6 @@ wa.ax
 wage.ax
 wagner.ax
 wak.ax
-waldorf.ax
 warm.ax
 watchfree.ax
 waterworx.ax
