@@ -93,7 +93,7 @@
       "zone": "ci"
     },
     {
-      "domains": "2538",
+      "domains": "2534",
       "zone": "hosting"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4862613"
+  "total": "4862609"
 }
