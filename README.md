@@ -44,7 +44,7 @@ TLD | Domain Count
 [`br`][br] [(raw)][br-raw] | <div align="right">1350</div>
 [`bt`][bt] [(raw)][bt-raw] | <div align="right">1349</div>
 [`diet`][diet] [(raw)][diet-raw] | <div align="right">1192</div>
-[`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1046</div>
+[`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">1048</div>
 [`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">667</div>
 [`xn--pgbs0dh`][xn--pgbs0dh] [(raw)][xn--pgbs0dh-raw] | <div align="right">584</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">517</div>
@@ -63,7 +63,7 @@ TLD | Domain Count
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4861921</div>
+**Total** | <div align="right">4861923</div>
 
 ## See Also
 
