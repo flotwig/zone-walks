@@ -134,11 +134,11 @@
     },
     {
       "domains": "517",
-      "zone": "lr"
+      "zone": "xn--80ao21a"
     },
     {
-      "domains": "514",
-      "zone": "xn--80ao21a"
+      "domains": "517",
+      "zone": "lr"
     },
     {
       "domains": "496",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4860741"
+  "total": "4860744"
 }
