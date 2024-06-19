@@ -1284,7 +1284,6 @@ affixgraphics.tn
 afflatus-studio.tn
 affshop.tn
 afh.tn
-afi-bcs.tn
 afi-tunisie.tn
 afif-store.tn
 afifinotaire.tn
@@ -2090,6 +2089,7 @@ alloconseil.tn
 alloconstat.tn
 allodechet.tn
 allodentiste.tn
+allodm.tn
 allodoc.tn
 allodocteur.tn
 alloexpert.tn
@@ -8742,7 +8742,9 @@ clerprem.tn
 clever-company.tn
 clever-group.tn
 clever.tn
+clever7.tn
 cleverdigital.tn
+cleverset.tn
 clevertek-plus.tn
 clevory.tn
 clevr.tn
@@ -10624,6 +10626,7 @@ daily-deal.tn
 daily-shop-619.tn
 daily-shop.tn
 daily.tn
+dailyboost.tn
 dailyinsurance.tn
 dailymotion.tn
 dailypick.tn
@@ -10913,6 +10916,7 @@ datascai.tn
 datascience.tn
 datascientist.tn
 dataserv.tn
+datashield.tn
 datasquare.tn
 datatresor.tn
 dataval.tn
@@ -11161,7 +11165,6 @@ defouli.tn
 degage.tn
 degla.tn
 deglet-cedada.tn
-deglet-nour.tn
 deglet.tn
 degletmaryouma.tn
 degletna.tn
@@ -15306,7 +15309,6 @@ farhadni.tn
 farhastore.tn
 farhat.tn
 farhathachedfoundation.tn
-farhatmakni.tn
 farhednistore.tn
 farhty.tn
 farinadibasalto.tn
@@ -16157,7 +16159,6 @@ foot.tn
 foot216.tn
 foot24.tn
 foot365.tn
-foot4fit.tn
 foota.tn
 football.tn
 football90.tn
@@ -17064,6 +17065,7 @@ gdi.tn
 gdourarentacar.tn
 gdroid.tn
 gds.tn
+gdx.tn
 ge.tn
 gea-riellotunisie.tn
 gea.tn
@@ -17753,6 +17755,8 @@ goldentunis.tn
 goldentwins.tn
 goldenvisa-portugal-avocat.tn
 goldenwings.tn
+goldex.tn
+goldexperience.tn
 goldhand.tn
 goldiestradingcompany.tn
 goldimmo.tn
@@ -17852,6 +17856,7 @@ goprint.tn
 gopro.tn
 goprod.tn
 goproduction.tn
+goprotraining.tn
 gorilla.tn
 gorillas.tn
 gorille.tn
@@ -19949,6 +19954,7 @@ icosmo.tn
 icowcare.tn
 icps.tn
 icqc.tn
+ics-tn.tn
 ics-tunisie.tn
 ics.tn
 icsecurity.tn
@@ -24532,6 +24538,8 @@ lilasadultes.tn
 lilasbebe.tn
 lilasbebes.tn
 lilasclean.tn
+lilascosmetics.tn
+lilascosmetiques.tn
 lilasdet.tn
 lilasdetergent.tn
 lilasdetergents.tn
@@ -24607,10 +24615,12 @@ lingerie.tn
 lingeries.tn
 lingintime.tn
 linglang.tn
+link-store.tn
 link.tn
 linkbook.tn
 linked.tn
 linkedin.tn
+linkedini.tn
 linkhotel.tn
 linkhotels.tn
 linkify.tn
@@ -28026,6 +28036,7 @@ mondostore.tn
 mondressing.tn
 mondrh.tn
 mondrive.tn
+monecole.tn
 monecolechezmoi.tn
 monemail.tn
 moneta-change.tn
@@ -30268,7 +30279,6 @@ oist.tn
 oite.tn
 oj.tn
 ojastore.tn
-ok-distribution.tn
 ok.tn
 okad.tn
 okaidi.tn
@@ -30903,6 +30913,7 @@ originalstore.tn
 originbakery.tn
 origine.tn
 originsign.tn
+originx.tn
 orika.tn
 orinat.tn
 orion.tn
@@ -30979,6 +30990,7 @@ osez.tn
 osho.tn
 oshop.tn
 oshw.tn
+osi.tn
 osis.tn
 osloob.tn
 osman-osman.tn
@@ -32085,6 +32097,7 @@ phciekhedheri.tn
 phciemchirgui.tn
 phd.tn
 phe.tn
+phenexa.tn
 pheniciashop.tn
 pheniciavoyages.tn
 phenix.tn
@@ -32331,6 +32344,7 @@ placopro.tn
 placostyleplus.tn
 plage.tn
 plages.tn
+plagesvoyage.tn
 plagiat-tunisie.tn
 plaisir.tn
 plan-b.tn
@@ -32419,6 +32433,7 @@ play.tn
 playamo.tn
 playandlearn.tn
 playart.tn
+playback.tn
 playbet.tn
 playcave.tn
 playerone.tn
