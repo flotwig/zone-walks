@@ -109,12 +109,12 @@
       "zone": "tz"
     },
     {
-      "domains": "1350",
-      "zone": "br"
+      "domains": "1351",
+      "zone": "bt"
     },
     {
-      "domains": "1349",
-      "zone": "bt"
+      "domains": "1350",
+      "zone": "br"
     },
     {
       "domains": "1194",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4860347"
+  "total": "4860349"
 }
