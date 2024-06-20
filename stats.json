@@ -65,7 +65,7 @@
       "zone": "game"
     },
     {
-      "domains": "4770",
+      "domains": "4768",
       "zone": "ruhr"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4860501"
+  "total": "4860499"
 }
