@@ -190,7 +190,6 @@
 2is.ci
 2its.ci
 2ka-invest.ci
-2kaconsulting.ci
 2ksmulti-forms.ci
 2mgc.ci
 2mi.ci
@@ -674,6 +673,7 @@ aginvest.ci
 agip.ci
 agir-sante.ci
 agitel.ci
+agni.ci
 agogo.ci
 agproperty.ci
 agrac.ci
@@ -1285,7 +1285,6 @@ atlgestion.ci
 atlogistics.ci
 atmcom.ci
 atminformatique.ci
-atmtours.ci
 atoo.ci
 atorka.ci
 atos.ci
@@ -1293,7 +1292,6 @@ atp.ci
 atpagroupeloko.ci
 atpvgroupeloko.ci
 atr.ci
-atre.ci
 ats-sarl.ci
 ats.ci
 atsinprod.ci
@@ -2099,6 +2097,8 @@ cabinetbokoka.ci
 cabinetbokola.ci
 cabinetdentaire9tranche.ci
 cabinetelites.ci
+cabinetezzdine.ci
+cabinetezzeddine.ci
 cabinetfofana.ci
 cabinetgce.ci
 cabinetgesma.ci
