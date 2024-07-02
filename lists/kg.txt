@@ -138,7 +138,6 @@
 60.kg
 6132.kg
 6277.kg
-63.kg
 6547.kg
 65app.kg
 66.kg
@@ -238,6 +237,7 @@ absconstruction.kg
 absolut.kg
 absolute.kg
 abtpartners.kg
+abtraining.kg
 abubakirov.kg
 abuhanifa.kg
 abukurulush.kg
@@ -464,6 +464,7 @@ ailine.kg
 ailinmed.kg
 ails.kg
 aim.kg
+aimak.kg
 aimarabrand.kg
 aimarket.kg
 aimoda.kg
@@ -1051,6 +1052,7 @@ arju.kg
 arkab-prior.kg
 arkona.kg
 arl.kg
+armada.kg
 armanplast.kg
 armatasecurity.kg
 armatrade.kg
@@ -1734,6 +1736,7 @@ bauer.kg
 bauletka.kg
 baunty.kg
 bavaria.kg
+baxi.kg
 baybee.kg
 baybet.kg
 bayce.kg
@@ -1857,6 +1860,7 @@ benson-hedges.kg
 bensonandhedges.kg
 benuta.kg
 bepanthen.kg
+berall.kg
 bereg.kg
 bereke-building.kg
 bereke-credit.kg
@@ -2278,6 +2282,7 @@ brita.kg
 british-study.kg
 britneyspears.kg
 brizz.kg
+brk.kg
 broadway.kg
 broiler.kg
 broker.kg
@@ -2415,7 +2420,6 @@ cacustody.kg
 cadastre.kg
 cae.kg
 caesar.kg
-caf.kg
 cafe.kg
 cafefazenda.kg
 caferelax.kg
@@ -3687,6 +3691,7 @@ eg.kg
 egahall.kg
 egcapital.kg
 egemberdieva.kg
+egemen.kg
 egeturkelevator.kg
 egida.kg
 egis.kg
@@ -3744,6 +3749,7 @@ eldikbank.kg
 eldiki.kg
 eldikmobile.kg
 eldikpay.kg
+eldiktech.kg
 eldyk.kg
 electra.kg
 electraexchange.kg
@@ -3982,6 +3988,7 @@ esepte.kg
 eset.kg
 esetofficial.kg
 esf.kg
+esgroups.kg
 eshop.kg
 esimde.kg
 esky.kg
@@ -5483,6 +5490,7 @@ iki.kg
 ikipk.kg
 ikit.kg
 ikma.kg
+ikonuguu.kg
 iksu.kg
 iku.kg
 ilaw.kg
@@ -5982,6 +5990,7 @@ jde.kg
 jdecoffee.kg
 jdedwards.kg
 jdmclub.kg
+jedi.kg
 jeep.kg
 jeeptour.kg
 jele.kg
@@ -6263,7 +6272,6 @@ kdl.kg
 kdlolymp.kg
 kdm.kg
 kdnavien.kg
-kds.kg
 kdvonline.kg
 ke.kg
 kecb.kg
@@ -6569,7 +6577,6 @@ kpfl.kg
 kpk.kg
 kpmg.kg
 kps.kg
-kpstroy.kg
 kracks.kg
 kracksplay.kg
 kraken.kg
@@ -7125,6 +7132,7 @@ lose.kg
 lostmary.kg
 lotto.kg
 lotus.kg
+lotusbusiness.kg
 lotuscars.kg
 lova.kg
 love.kg
@@ -7497,12 +7505,10 @@ medicalpointinternational.kg
 medicaltrade.kg
 medicana.kg
 mediclinic.kg
-medicom.kg
 mediconsultants.kg
 medik.kg
 medikana-plus.kg
 medikana.kg
-mediland.kg
 medimpex.kg
 medincus.kg
 medipol.kg
@@ -7532,7 +7538,6 @@ medustat.kg
 meduza.kg
 medved.kg
 medvediva.kg
-medvejatnik.kg
 medworld.kg
 medxpert.kg
 medznanie.kg
@@ -8739,6 +8744,7 @@ ordainvest.kg
 ordamed.kg
 ordo.kg
 ordotrade.kg
+orehi.kg
 orehovo.kg
 org.kg
 organic.kg
@@ -9630,6 +9636,7 @@ rapid.kg
 raritet.kg
 rashodnik.kg
 rashodniki.kg
+rasja.kg
 raspakovka.kg
 rassrochka.kg
 rassylka.kg
@@ -10228,6 +10235,7 @@ securedata.kg
 securiforce.kg
 securitrust.kg
 security.kg
+sedep.kg
 sediver.kg
 see.kg
 seebauer.kg
@@ -10493,7 +10501,6 @@ skm.kg
 skoda-auto.kg
 skoda.kg
 skodaauto.kg
-skorohod.kg
 skp.kg
 skrentacar.kg
 sks-log.kg
@@ -10816,6 +10823,7 @@ standarttest.kg
 stanki.kg
 stankov.kg
 star.kg
+starbox.kg
 starbucks.kg
 starbuckscoffee.kg
 starcleaning.kg
@@ -10842,6 +10850,7 @@ stat.kg
 statoil.kg
 status.kg
 statuscom.kg
+stay.kg
 staytrue.kg
 steaker.kg
 steam.kg
@@ -10921,7 +10930,6 @@ stroytehnika.kg
 stsolutions.kg
 stswb.kg
 student.kg
-studio.kg
 studiobeton.kg
 study-on-tokmok.kg
 study.kg
@@ -11413,6 +11421,7 @@ tf.kg
 tg.kg
 tgif.kg
 tgifridays.kg
+tgs.kg
 th.kg
 thaiconsulate.kg
 thawte.kg
@@ -12555,6 +12564,7 @@ xencelabs.kg
 xeon.kg
 xerox.kg
 xf.kg
+xg.kg
 xgma.kg
 xiaomi.kg
 xiaomiev.kg
@@ -12691,7 +12701,6 @@ zashitaidei.kg
 zavgar.kg
 zavod-implantacii.kg
 zavod-pt.kg
-zavod.kg
 zazzle.kg
 zdorovie-lab.kg
 zdorovie.kg
