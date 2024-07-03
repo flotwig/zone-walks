@@ -129,7 +129,6 @@
 5.kg
 55.kg
 56.kg
-58.kg
 588.kg
 5element.kg
 5g.kg
@@ -299,7 +298,6 @@ address-post.kg
 address.kg
 addsign.kg
 addwise.kg
-adecs.kg
 adel.kg
 aden.kg
 adep.kg
@@ -352,6 +350,7 @@ aeg-electrolux.kg
 aeg.kg
 aero.kg
 aeroadv.kg
+aerogates.kg
 aerokassa.kg
 aerokyrgyzstan.kg
 aerolab.kg
@@ -829,6 +828,7 @@ amanatgroup.kg
 amanatroad.kg
 amanattrans.kg
 amanbank.kg
+amancredit.kg
 amarkets.kg
 amart.kg
 amato.kg
@@ -1139,6 +1139,7 @@ asharfunding.kg
 asharmenenplus.kg
 ashkana.kg
 ashleyhomestore.kg
+ashlyanfu.kg
 ashu.kg
 asia-capital.kg
 asia-energo.kg
@@ -1742,6 +1743,7 @@ baybet.kg
 bayce.kg
 baykar.kg
 baymak.kg
+baysaba.kg
 baytalaa.kg
 baytashgroup.kg
 baytik.kg
@@ -2231,7 +2233,6 @@ bosch-homecomfort.kg
 bosch.kg
 boschrexroth.kg
 bosserlux.kg
-bosteri.kg
 bosti.kg
 bot.kg
 botanica.kg
@@ -2583,7 +2584,6 @@ centrix.kg
 centrnafta.kg
 centrumhotel.kg
 centurion.kg
-ceramicpro.kg
 ceramistica.kg
 ceramostone.kg
 cert.kg
@@ -3051,6 +3051,7 @@ daira.kg
 dairyunion.kg
 daiyrhouse.kg
 dali.kg
+dalida.kg
 dalividali.kg
 dallmayr-kaffee.kg
 dallmayr.kg
@@ -3545,6 +3546,7 @@ e-money.kg
 e-motion24.kg
 e-seller.kg
 e-som.kg
+e-sot.kg
 e-ticket.kg
 e-trade.kg
 e-uni.kg
@@ -3747,7 +3749,6 @@ elden.kg
 eldik.kg
 eldikbank.kg
 eldiki.kg
-eldikmobile.kg
 eldikpay.kg
 eldiktech.kg
 eldyk.kg
@@ -3857,6 +3858,7 @@ emerek.kg
 emerek312.kg
 emex-global.kg
 emex.kg
+emfeuropa.kg
 emgek.kg
 emin.kg
 emio.kg
@@ -4303,6 +4305,7 @@ ferronordicmachines.kg
 ferruminvest.kg
 ferum.kg
 festo.kg
+fetusplus.kg
 fey.kg
 ff.kg
 ffin.kg
@@ -4419,6 +4422,7 @@ flir.kg
 flix.kg
 flixbus.kg
 flixexpress.kg
+flk.kg
 flo.kg
 floor.kg
 floormax.kg
@@ -5074,6 +5078,7 @@ gusi.kg
 gw-world.kg
 gwm.kg
 gxalert.kg
+gz.kg
 h.kg
 h3c.kg
 ha.kg
@@ -6064,6 +6069,7 @@ jubi.kg
 jubileeinsurance.kg
 judo.kg
 juk.kg
+jukmaster.kg
 jumeirah.kg
 jump.kg
 jumush-sgp.kg
@@ -6649,6 +6655,7 @@ kts.kg
 ktt.kg
 ktz.kg
 kub.kg
+kubandyr.kg
 kudago.kg
 kudaibergen.kg
 kudretgozbishkek.kg
@@ -6750,7 +6757,6 @@ kyrgyzhoney.kg
 kyrgyzindustry.kg
 kyrgyzizi.kg
 kyrgyzkorm.kg
-kyrgyzmap.kg
 kyrgyzmedia.kg
 kyrgyzobshepit.kg
 kyrgyzocean.kg
@@ -7355,7 +7361,6 @@ master-kamen.kg
 master-mebel.kg
 master-potolki.kg
 master.kg
-mastera.kg
 masterbar.kg
 masterbek.kg
 mastercard.kg
@@ -7509,6 +7514,7 @@ mediconsultants.kg
 medik.kg
 medikana-plus.kg
 medikana.kg
+mediland.kg
 medimpex.kg
 medincus.kg
 medipol.kg
@@ -8930,6 +8936,7 @@ parfumstore.kg
 pargorkogo.kg
 pari.kg
 parimatch.kg
+park.kg
 parket.kg
 parkhotel.kg
 parking.kg
@@ -9586,6 +9593,7 @@ quick.kg
 quickpay.kg
 quizplease.kg
 quran.kg
+quraq.kg
 qurban.kg
 qurs.kg
 qvatro.kg
@@ -10717,7 +10725,6 @@ soskyrgyzstan.kg
 sot.kg
 sotabrend.kg
 soudal.kg
-soulist.kg
 sound-center.kg
 sound.kg
 soundmaster.kg
@@ -10906,7 +10913,6 @@ stratton.kg
 streamtrade.kg
 stretton.kg
 strichmacher.kg
-stroi.kg
 stroicom.kg
 stroidom.kg
 stroidvor.kg
@@ -10964,6 +10970,7 @@ sultan.kg
 sultangroup.kg
 sultanhotels.kg
 sultanindustry.kg
+sultanshop.kg
 suluktu.kg
 sumki.kg
 summit-adv.kg
@@ -12306,6 +12313,7 @@ vogt.kg
 vogue.kg
 voice.kg
 voip.kg
+vok.kg
 vokko.kg
 vokrug.kg
 volk.kg
@@ -12701,6 +12709,7 @@ zashitaidei.kg
 zavgar.kg
 zavod-implantacii.kg
 zavod-pt.kg
+zavod.kg
 zazzle.kg
 zdorovie-lab.kg
 zdorovie.kg
