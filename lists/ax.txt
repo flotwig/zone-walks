@@ -155,7 +155,6 @@ abfaland.ax
 abion.ax
 ablindan.ax
 abrf.ax
-absglobaltrading.ax
 absk.ax
 ac.ax
 aca.ax
@@ -1693,8 +1692,6 @@ hbtqia.ax
 hc.ax
 hcf.ax
 hd.ax
-hdrglobaltrading.ax
-hdrglobaltradingltd.ax
 he.ax
 headless.ax
 hebo.ax
@@ -1978,8 +1975,6 @@ jhservice.ax
 jhun.ax
 jik.ax
 jimh.ax
-jj.ax
-jjsn.ax
 jk.ax
 jkc.ax
 jl.ax
@@ -2066,7 +2061,6 @@ karingsundsgasthamn.ax
 karingsundsloppet.ax
 karl-ersfrukt.ax
 karlbergs.ax
-karlsson.ax
 karlssons.ax
 karlssonsinfra.ax
 karlssonsmaleri.ax
@@ -2777,6 +2771,7 @@ nu.ax
 null.ax
 num.ax
 nurmi.ax
+nuts.ax
 nuzyra.ax
 nv.ax
 nw.ax
@@ -3415,6 +3410,7 @@ skolsupport.ax
 skonhet.ax
 skonhetsmagasinet.ax
 skordefest.ax
+skordefesten.ax
 skotbatsforeningen.ax
 skraknastet.ax
 skrinnare.ax
@@ -3449,6 +3445,7 @@ smoothdog.ax
 sms.ax
 smygel.ax
 sn.ax
+snackofrukt.ax
 snailhouse.ax
 snaps.ax
 snbll.ax
