@@ -17,7 +17,6 @@
 101domains.kg
 103.kg
 11.kg
-110.kg
 111.kg
 1111.kg
 1200-yandextaxi.kg
@@ -363,6 +362,7 @@ aesculap.kg
 aeservice.kg
 aestheticmed.kg
 aex.kg
+aexport.kg
 af.kg
 aface.kg
 afbichkek.kg
@@ -401,6 +401,7 @@ agro.kg
 agrobaza.kg
 agrobio.kg
 agrocenter.kg
+agrochemical.kg
 agrodrone.kg
 agroexpert.kg
 agrofermer.kg
@@ -575,6 +576,7 @@ akmuz.kg
 aknet.kg
 ako-kaynar.kg
 akpay.kg
+akpost.kg
 akronm.kg
 akros.kg
 aksa.kg
@@ -1092,6 +1094,7 @@ artglass.kg
 arthotel.kg
 arti-group.kg
 article9.kg
+artindustry.kg
 artis-logistics.kg
 artistry.kg
 artlux.kg
@@ -1972,6 +1975,7 @@ bigdutchman.kg
 bigfarm.kg
 bigfish.kg
 bighard.kg
+biglife.kg
 bigmag.kg
 bigroup.kg
 bigser.kg
@@ -2645,6 +2649,7 @@ ches.kg
 chess.kg
 chessacademy.kg
 chesslaw.kg
+chessnut.kg
 chesterfield.kg
 chestnyznak.kg
 chestoflife.kg
@@ -2667,6 +2672,7 @@ chinapro.kg
 chinaship.kg
 chinatown.kg
 chinatransite.kg
+chinatravel.kg
 chint-global.kg
 chint.kg
 chintglobal.kg
@@ -3940,7 +3946,6 @@ ep.kg
 epam.kg
 eparchia.kg
 eparking.kg
-epay.kg
 epchil.kg
 epf.kg
 epi.kg
@@ -3981,6 +3986,7 @@ ersteschritte.kg
 ertelecom.kg
 erten.kg
 es-aluu.kg
+es.kg
 esab.kg
 esal.kg
 esb.kg
@@ -4953,6 +4959,7 @@ gpstech.kg
 gr.kg
 gr8auto.kg
 graboplast.kg
+grace.kg
 graco.kg
 gradsovet.kg
 gradum.kg
@@ -4995,7 +5002,6 @@ green.kg
 greenbishkek.kg
 greench.kg
 greenchicken.kg
-greeneconomy.kg
 greenenergy.kg
 greenex.kg
 greenexpress.kg
@@ -5194,7 +5200,6 @@ heyydrgn.kg
 hg.kg
 hge.kg
 hh-software.kg
-hh.kg
 hi-fi.kg
 hi-tech.kg
 hi.kg
@@ -5968,7 +5973,6 @@ jannatparfum.kg
 janssencosmetics.kg
 janylyk.kg
 japanstart.kg
-japarov.kg
 jaraisyn.kg
 jaran.kg
 jaratman.kg
@@ -5983,6 +5987,7 @@ jashtar.kg
 jasmin.kg
 jasmine.kg
 jasmu.kg
+jassmu.kg
 jasu.kg
 java.kg
 jazeera.kg
@@ -6042,6 +6047,7 @@ joblab.kg
 jobs.kg
 jobst.kg
 johndeere.kg
+joinposter.kg
 jol.kg
 jolbolsun.kg
 joldo.kg
@@ -6132,7 +6138,6 @@ kainda.kg
 kaindykant.kg
 kaiser.kg
 kaiten.kg
-kaizerceramics.kg
 kaktus.kg
 kaldikaffa.kg
 kale.kg
@@ -6204,6 +6209,7 @@ karaoke.kg
 karasuu.kg
 karavan.kg
 karavanidet.kg
+karazhygachailokmoty.kg
 karcher.kg
 karchershop.kg
 kardex.kg
@@ -6364,6 +6370,7 @@ kgz-water.kg
 kgz.kg
 khan.kg
 khantengri.kg
+khimpromtreid.kg
 ki.kg
 kia-bishkek.kg
 kia.kg
@@ -7074,7 +7081,6 @@ llumar.kg
 lm.kg
 lmnop.kg
 lms.kg
-lmz.kg
 ln.kg
 lnelectronic.kg
 lnmc.kg
@@ -7148,6 +7154,8 @@ lovetime.kg
 lovisa.kg
 lovkach.kg
 lowvig.kg
+loymax.kg
+loymaxasia.kg
 lpgroup.kg
 lrt.kg
 ls.kg
@@ -7854,6 +7862,7 @@ mobiletv.kg
 mobilnik.kg
 mobilography.kg
 mobimarket.kg
+mobiplus.kg
 mobis.kg
 moc.kg
 moccona.kg
@@ -8085,7 +8094,6 @@ mygreenway.kg
 myhalyk.kg
 myherbalife.kg
 myheritage.kg
-myhome.kg
 myhost.kg
 myhouse.kg
 mykarakol.kg
@@ -8448,6 +8456,7 @@ nurabad.kg
 nurairways.kg
 nurbala.kg
 nurcinema.kg
+nurcrypto.kg
 nurdalal-travel.kg
 nurgazy-travel.kg
 nuristan.kg
@@ -10064,7 +10073,6 @@ sakmektep.kg
 saksalamat.kg
 salam.kg
 salam24.kg
-salamander.kg
 salamat.kg
 salamhalal.kg
 salammedia.kg
@@ -10417,6 +10425,7 @@ shtrih.kg
 shuft.kg
 shumaher.kg
 shved.kg
+shveipromasia.kg
 siam.kg
 sibtrans.kg
 sibur-sibex.kg
@@ -10436,6 +10445,7 @@ silk-way.kg
 silk.kg
 silkonway.kg
 silkplaster.kg
+silkroad.kg
 silkroadeurasia.kg
 silkroadservices.kg
 silkway-auto.kg
@@ -10925,6 +10935,7 @@ stroydvor.kg
 stroyexpert.kg
 stroyka.kg
 stroylevel.kg
+stroymarket.kg
 stroymaterialy.kg
 stroymig.kg
 stroypoint.kg
@@ -11092,7 +11103,6 @@ t-mobile.kg
 t-systems.kg
 t.kg
 taalimforum.kg
-taanyshuu.kg
 tabilga.kg
 tabilgaonline.kg
 tabylga.kg
@@ -11484,6 +11494,7 @@ tilog.kg
 tilonline.kg
 tim.kg
 tima-akimov.kg
+tima.kg
 timaakimov.kg
 timberica.kg
 time.kg
@@ -11626,6 +11637,7 @@ tour.kg
 tourexpert.kg
 tourism.kg
 tourist.kg
+touristan.kg
 tourmaster.kg
 tourspin.kg
 tovarka.kg
@@ -11832,7 +11844,6 @@ turizm.kg
 turkcell.kg
 turkish.kg
 turkishairlines.kg
-turkmed.kg
 turkshop.kg
 turkuaz.kg
 turkuaztrade.kg
@@ -12273,6 +12284,7 @@ vivahotel.kg
 vivaro.kg
 vivarobet.kg
 vivasumki.kg
+vivat.kg
 vivendi.kg
 viviennesabo.kg
 vivio.kg
@@ -12369,6 +12381,7 @@ vuse.kg
 vv.kg
 vw.kg
 vyberi.kg
+vykup.kg
 vysoty.kg
 vystrel.kg
 vzglyad.kg
@@ -12769,6 +12782,7 @@ zoetis.kg
 zoloto.kg
 zolushka.kg
 zombie3.kg
+zontes.kg
 zoodmall.kg
 zoomag.kg
 zoomlion.kg
