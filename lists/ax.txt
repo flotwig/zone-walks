@@ -433,6 +433,7 @@ arista.ax
 aristanetworks.ax
 arken.ax
 arkeologi.ax
+arkiv.ax
 arkivet.ax
 arm.ax
 arm32.ax
@@ -3435,6 +3436,7 @@ smart-taxi.ax
 smart.ax
 smartabyar.ax
 smartenergy.ax
+smarthome.ax
 smartlandsbygd.ax
 smartpark.ax
 smartvillage.ax
