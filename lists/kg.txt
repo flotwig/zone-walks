@@ -358,7 +358,6 @@ aerospace.kg
 aerostar.kg
 aeroteam.kg
 aerotour.kg
-aes.kg
 aesculap.kg
 aeservice.kg
 aestheticmed.kg
@@ -3281,6 +3280,7 @@ diacademy.kg
 diadema.kg
 diagnost.kg
 diagnostik.kg
+dialabix.kg
 dialogue.kg
 diamed.kg
 diamond.kg
@@ -3296,7 +3296,6 @@ dieta.kg
 dietcoke.kg
 diflucan.kg
 digi.kg
-digicom.kg
 digis.kg
 digiskills.kg
 digit.kg
@@ -4125,7 +4124,6 @@ eventm.kg
 eventmaster.kg
 eventplanner.kg
 events.kg
-everbrick.kg
 everest.kg
 everestmotors.kg
 everton-cis.kg
@@ -5599,6 +5597,7 @@ indo.kg
 industrialcompany.kg
 industry-llc.kg
 industry.kg
+inec.kg
 inerto.kg
 inesse.kg
 infaprim.kg
@@ -5783,7 +5782,6 @@ irbis-tech.kg
 irc.kg
 irfas.kg
 irida.kg
-irit.kg
 iron.kg
 irsay.kg
 irsen.kg
@@ -7521,7 +7519,6 @@ medicalpointinternational.kg
 medicaltrade.kg
 medicana.kg
 mediclinic.kg
-mediconsultants.kg
 medik.kg
 medikana-plus.kg
 medikana.kg
@@ -7981,7 +7978,6 @@ mrvegas.kg
 ms-temirtau.kg
 ms.kg
 ms4m.kg
-msa.kg
 msc.kg
 msccruises.kg
 msco.kg
@@ -8242,7 +8238,6 @@ ndita.kg
 nds.kg
 ne.kg
 neb.kg
-nebo.kg
 nec.kg
 necessarythings.kg
 ned.kg
@@ -8252,7 +8247,6 @@ neirasales.kg
 neirolife.kg
 neist.kg
 neman.kg
-neme.kg
 neo-bank.kg
 neo.kg
 neobank.kg
@@ -8651,6 +8645,7 @@ omegacapital.kg
 omegaenergy.kg
 omegasport.kg
 omk.kg
+omks.kg
 omron.kg
 omuraliev.kg
 omursakta.kg
@@ -8933,7 +8928,6 @@ pantrade.kg
 pantum.kg
 papajohns.kg
 papajphns.kg
-papashina.kg
 paper.kg
 papercom.kg
 papir.kg
@@ -9381,7 +9375,6 @@ prestij.kg
 prevention.kg
 preview.kg
 prezident.kg
-pribororemont.kg
 price.kg
 pricer.kg
 pricewaterhousecoopers.kg
@@ -10454,6 +10447,7 @@ silkonway.kg
 silkplaster.kg
 silkroad.kg
 silkroadeurasia.kg
+silkroadlodge.kg
 silkroadservices.kg
 silkway-auto.kg
 silkway-cargo.kg
@@ -10668,7 +10662,6 @@ socialwork.kg
 socmarket.kg
 sofa.kg
 sofby.kg
-sofi.kg
 soft-ai.kg
 soft.kg
 softclub.kg
@@ -10857,7 +10850,6 @@ starmedia.kg
 starofservice.kg
 staron-interior.kg
 staron.kg
-starphone.kg
 stars.kg
 starshina.kg
 start-company.kg
@@ -11338,6 +11330,7 @@ tellur.kg
 temerek.kg
 temir-kerben.kg
 temir.kg
+temirproduct.kg
 temirstroi.kg
 temp.kg
 temu.kg
@@ -12778,7 +12771,6 @@ zkteco.kg
 zlata.kg
 zm.kg
 zmail.kg
-znachok.kg
 znakomstva.kg
 znatok.kg
 zob.kg
