@@ -91,7 +91,6 @@
 3.kg
 312-security.kg
 312.kg
-312tv.kg
 32.kg
 321.kg
 321start.kg
@@ -397,6 +396,7 @@ ago.kg
 agora.kg
 agri-hr.kg
 agriline.kg
+agro-expertise.kg
 agro-market.kg
 agro.kg
 agrobaza.kg
@@ -599,6 +599,7 @@ al-fawz.kg
 al-halal.kg
 al-star.kg
 al-style.kg
+al.kg
 ala-too.kg
 alaarcha.kg
 alaarchapark.kg
@@ -961,6 +962,7 @@ april.kg
 aprint.kg
 aps.kg
 apt.kg
+apta.kg
 aptechka.kg
 apteka.kg
 apteka1.kg
@@ -1596,6 +1598,7 @@ baburtolbaev.kg
 baby.kg
 babyfood.kg
 babygap.kg
+babyone.kg
 babyssimo.kg
 bac.kg
 bacci.kg
@@ -2672,9 +2675,11 @@ chinaship.kg
 chinatown.kg
 chinatransite.kg
 chinatravel.kg
+chingiz-ajmatov.kg
 chint-global.kg
 chint.kg
 chintglobal.kg
+chip.kg
 chipdip.kg
 chipenko.kg
 chistiydom.kg
@@ -3458,6 +3463,7 @@ dostavka-cvetov24.kg
 dostavka.kg
 dostavka312.kg
 dostek.kg
+dostik.kg
 dostor.kg
 dostour.kg
 dostrade.kg
@@ -3554,6 +3560,7 @@ e-motion24.kg
 e-seller.kg
 e-som.kg
 e-sot.kg
+e-taxservices.kg
 e-ticket.kg
 e-trade.kg
 e-uni.kg
@@ -4572,6 +4579,7 @@ friday.kg
 fridays.kg
 friendstours.kg
 frn.kg
+from.kg
 fromjapan.kg
 fronius.kg
 front.kg
@@ -4779,6 +4787,7 @@ get.kg
 getadscrypto.kg
 getgrant.kg
 gettik.kg
+getvisa.kg
 geze.kg
 gf.kg
 gfox.kg
@@ -4950,6 +4959,7 @@ gps-tracker.kg
 gps.kg
 gpspirtzavod.kg
 gpstech.kg
+gpti.kg
 gr.kg
 gr8auto.kg
 graboplast.kg
@@ -4967,7 +4977,6 @@ grand-realize.kg
 grand.kg
 grandavto.kg
 grandbuilding.kg
-grandcortege.kg
 grandexpedition.kg
 grandhotel.kg
 grandmebel.kg
@@ -7723,7 +7732,6 @@ micmagic.kg
 micom.kg
 microcapital.kg
 microfinance.kg
-microinvest-soft.kg
 microinvest.kg
 microlab.kg
 microlife.kg
@@ -8036,6 +8044,7 @@ murap.kg
 muras-official.kg
 muras-sertificat.kg
 muras.kg
+murasbank.kg
 murasbuilding.kg
 murasdistr.kg
 murasmedia.kg
@@ -8236,7 +8245,6 @@ ncn.kg
 ncog.kg
 ncokoit.kg
 ncsjeans.kg
-ndita.kg
 nds.kg
 ne.kg
 neb.kg
@@ -8294,6 +8302,7 @@ netsystems.kg
 nettshop.kg
 networkappliance.kg
 networks.kg
+netzasoram.kg
 neupogen.kg
 neurobody.kg
 new-east.kg
@@ -8420,6 +8429,7 @@ noventiqstore.kg
 novikov.kg
 novistore.kg
 novosti.kg
+novotel.kg
 nowfoods.kg
 np.kg
 npexport-import.kg
@@ -8666,7 +8676,6 @@ oneplus.kg
 onevision.kg
 onex.kg
 onkron.kg
-online-bazar.kg
 online-shop.kg
 online.kg
 onlineapteka.kg
@@ -9006,6 +9015,7 @@ paystones.kg
 paystore.kg
 paysystem.kg
 paytech.kg
+payter.kg
 payterms.kg
 payway.kg
 pb.kg
@@ -10197,6 +10207,7 @@ sb.kg
 sbc.kg
 sberbank.kg
 sbg.kg
+scan.kg
 scania.kg
 scanrobot.kg
 scavolini.kg
@@ -10480,6 +10491,7 @@ sirius-development.kg
 sirius.kg
 sistem.kg
 sistema.kg
+site.kg
 sites.kg
 sitezone.kg
 sitronic.kg
@@ -10903,6 +10915,7 @@ stoloto.kg
 stolplit.kg
 stolyar.kg
 stom.kg
+stomatologia.kg
 stomdenta.kg
 stompharm.kg
 stonegroup.kg
@@ -11534,6 +11547,7 @@ tkm.kg
 tkt.kg
 tlc.kg
 tlnika.kg
+tm.kg
 tmall.kg
 tmg.kg
 tmgroup.kg
@@ -11899,7 +11913,6 @@ uberfreight.kg
 ubimet.kg
 ubiquiti.kg
 uborka.kg
-uborka312.kg
 ubr.kg
 ubs.kg
 ubstransit.kg
@@ -12026,6 +12039,7 @@ united-domains.kg
 uniticket.kg
 unitur.kg
 unity.kg
+univer.kg
 universal.kg
 universalgoz.kg
 university.kg
@@ -12383,6 +12397,7 @@ vt.kg
 vtb.kg
 vtel.kg
 vtvoihrukah.kg
+vulkan.kg
 vuse.kg
 vv.kg
 vw.kg
