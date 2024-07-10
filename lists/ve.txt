@@ -39,6 +39,9 @@ ipyul.ve
 isb.ve
 ivic.ve
 luz.ve
+mds-telecom.ve
+mds.ve
+mdstelecom.ve
 mil.ve
 movilnet-e.ve
 movilnet.ve
@@ -65,3 +68,4 @@ unet.ve
 usb.ve
 uunet.ve
 web.ve
+wow.ve
