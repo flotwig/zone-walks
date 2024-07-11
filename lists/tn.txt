@@ -123,6 +123,7 @@
 216c.tn
 216immo.tn
 216market.tn
+216para.tn
 21online.tn
 22.tn
 22estates.tn
@@ -320,7 +321,6 @@
 3dprint.tn
 3dproto.tn
 3ds.tn
-3dshop.tn
 3dstore.tn
 3dtech.tn
 3dtek.tn
@@ -1905,7 +1905,6 @@ alfeten.tn
 alfilaha.tn
 alfiniq.tn
 alflila.tn
-alforsa.tn
 alghaithdates.tn
 algo.tn
 algoris.tn
@@ -2176,6 +2175,7 @@ almakamvoyages.tn
 almakhazen.tn
 almakzan-store.tn
 almalaky-store.tn
+almamarket.tn
 almanahel-academy.tn
 almanara-sfax.tn
 almanara.tn
@@ -3117,6 +3117,7 @@ archipill.tn
 archipro.tn
 archiseven.tn
 architech.tn
+architect-walidsaidane.tn
 architect.tn
 architecte-tunisie.tn
 architecte.tn
@@ -3156,7 +3157,6 @@ area-store.tn
 areacuisine.tn
 areca.tn
 areelectronics.tn
-areencubs.tn
 arelec.tn
 arelectronics.tn
 arem.tn
@@ -3360,6 +3360,7 @@ artisans.tn
 artisansart.tn
 artisansdart.tn
 artisansduweb.tn
+artisanstore.tn
 artisant-du-sud.tn
 artisantunisie.tn
 artishow.tn
@@ -7943,6 +7944,7 @@ ceramic.tn
 ceramica.tn
 ceramicaplus.tn
 ceramiquelatifa.tn
+ceramista.tn
 cercina.tn
 cercle-economistes-tunisie.tn
 cerclemultiservice.tn
@@ -8236,7 +8238,6 @@ cheap-shop.tn
 cheapcar.tn
 cheapcasino.tn
 cheapcorner.tn
-cheaper.tn
 cheapmonday.tn
 cheapshop.tn
 cheapyshop.tn
@@ -9610,7 +9611,6 @@ comptacse.tn
 comptafiscale.tn
 comptazone.tn
 compte.tn
-comptechno.tn
 comptoir-gep.tn
 comptoir.tn
 comptoirauto.tn
@@ -10676,6 +10676,7 @@ dalilasgatni.tn
 dalile.tn
 daline.tn
 dalistore.tn
+dalitex.tn
 dallalni-store.tn
 dallalni.tn
 dallalnistore.tn
@@ -11432,6 +11433,7 @@ deutsch-institut.tn
 deutschcolor.tn
 deutsche-bank.tn
 deutschebank.tn
+deutschfeed.tn
 deutschland.tn
 deuxiemechance.tn
 deuxpointzero.tn
@@ -11842,6 +11844,7 @@ dihya.tn
 diil.tn
 dikor.tn
 dilamearkitek.tn
+dilegno.tn
 dilex.tn
 diligate.tn
 diligentcompliance.tn
@@ -12003,7 +12006,6 @@ djerbagolfresort.tn
 djerbaholidayclub.tn
 djerbaimmo.tn
 djerbaisland.tn
-djerbalabes.tn
 djerbamuseum.tn
 djerbaremorquage.tn
 djerbasolidaire.tn
@@ -12239,6 +12241,7 @@ doroshop.tn
 dorraba.tn
 dorradhahri.tn
 dorratex.tn
+dorretelhammamet.tn
 dorry.tn
 dorschhome.tn
 dorsh.tn
@@ -13875,6 +13878,7 @@ elmarchii.tn
 elmarchy.tn
 elmargoum.tn
 elmarsa.tn
+elmasar.tn
 elmassa.tn
 elmassaa.tn
 elmassaedition.tn
@@ -14741,6 +14745,7 @@ ett.tn
 ettaamir.tn
 ettahssin.tn
 ettakatol.tn
+ettamayouz.tn
 ettg.tn
 ettounisia.tn
 ettounisiatv.tn
@@ -15101,6 +15106,7 @@ extralighting.tn
 extrametal.tn
 extraservices.tn
 extrastore.tn
+extravirgintravel.tn
 extreme-shop.tn
 extremegaming.tn
 extremegsm.tn
@@ -15927,7 +15933,6 @@ flashadresse.tn
 flashbac.tn
 flashcards.tn
 flashdelivery.tn
-flashforge.tn
 flashgames.tn
 flashmag.tn
 flashmode.tn
@@ -19702,6 +19707,7 @@ huiles.tn
 huillerie-zitouna-ayadi.tn
 huisclos.tn
 huissier.tn
+huissierdejustice.tn
 huissiers.tn
 huissiersdejustice.tn
 huissiersjustice.tn
@@ -20433,7 +20439,6 @@ immunbiotech.tn
 immybeautylounge.tn
 imo.tn
 imocop.tn
-imorafraf.tn
 imoshop.tn
 imoto.tn
 imou.tn
@@ -20918,6 +20923,7 @@ instashop.tn
 instatv.tn
 instaware.tn
 instead.tn
+insteadof.tn
 instel-technology.tn
 institut-hautes-etudes.tn
 institut-media.tn
@@ -22202,7 +22208,6 @@ juridoc.tn
 juridocs.tn
 jurigo.tn
 juris-consult.tn
-juris.tn
 jurisaffaires.tn
 jurisite.tn
 jurisitetunisie.tn
@@ -22283,6 +22288,7 @@ k2s.tn
 k3a.tn
 k4you.tn
 k8s.tn
+ka-dent.tn
 ka.tn
 kaa.tn
 kaakwarka.tn
@@ -22347,7 +22353,6 @@ kalmni.tn
 kalmontex.tn
 kalstein.tn
 kama.tn
-kamabeauty.tn
 kamagra.tn
 kamansolaire.tn
 kamar.tn
@@ -24891,6 +24896,7 @@ locationpara.tn
 locations.tn
 locationstafroid.tn
 locationvacance.tn
+locationvilla.tn
 locationvoiture.tn
 locationvoitures.tn
 locationvoituresentunisie.tn
@@ -25053,7 +25059,6 @@ lovely-shop.tn
 lovely-store.tn
 loverboy.tn
 loveshop.tn
-lovestore.tn
 lovetest.tn
 lovio.tn
 low.tn
@@ -26752,7 +26757,6 @@ mediagroup.tn
 mediainstitute.tn
 medial.tn
 medialab.tn
-medialand.tn
 medialed.tn
 mediamarket.tn
 mediamarkt.tn
@@ -30253,6 +30257,7 @@ odchosting.tn
 odd-store.tn
 odd.tn
 oddo.tn
+odeco.tn
 odelit.tn
 odeo.tn
 odeonbeds.tn
@@ -31366,6 +31371,7 @@ padel.tn
 padelbusinessleague.tn
 padelconnection.tn
 padelhouse.tn
+padeliummarhaba.tn
 padelmax.tn
 padeltunisie.tn
 padelup.tn
@@ -31535,6 +31541,7 @@ parachezvous.tn
 parachimic.tn
 paracity.tn
 paraclic.tn
+paraconnect.tn
 paradeal.tn
 paraderma.tn
 paradhouha.tn
@@ -32561,6 +32568,7 @@ plurielle.tn
 plus.tn
 plus216.tn
 plusgroup.tn
+plusmedical.tn
 plusnetworks.tn
 pluspiecesauto.tn
 plusquenet.tn
