@@ -114,7 +114,6 @@
 055-04.id
 055-29.id
 055-49.id
-055-75.id
 055.id
 056.id
 057-20.id
@@ -711,7 +710,6 @@
 200bet.id
 201.id
 202-59.id
-202-84.id
 202-87.id
 202-92.id
 202.id
@@ -755,7 +753,6 @@
 207.id
 208-04.id
 208-42.id
-208-44.id
 208-87.id
 208-88.id
 208.id
@@ -817,6 +814,7 @@
 2222bet.id
 22283.id
 222bet.id
+222spin.id
 223.id
 224-25.id
 224-84.id
@@ -851,6 +849,7 @@
 235.id
 23598.id
 235xii.id
+236-95.id
 236.id
 237.id
 23718.id
@@ -867,7 +866,6 @@
 240.id
 241.id
 241249.id
-242-22.id
 242-47.id
 242.id
 243.id
@@ -888,7 +886,6 @@
 246.id
 246502.id
 247-05.id
-247-22.id
 247-77.id
 247-85.id
 247.id
@@ -991,6 +988,7 @@
 26731.id
 268.id
 26827.id
+269-53.id
 269.id
 26motor.id
 27-28.id
@@ -1011,7 +1009,6 @@
 27359.id
 274-28.id
 274.id
-275-27.id
 275.id
 27531.id
 276.id
@@ -1068,7 +1065,6 @@
 287-82.id
 287.id
 288-54.id
-288-92.id
 288.id
 289-22.id
 289-72.id
@@ -1329,6 +1325,7 @@
 378.id
 37838.id
 37886.id
+379-82.id
 379.id
 38-ty.id
 38.id
@@ -1412,6 +1409,7 @@
 3dscan.id
 3dslot.id
 3dstore.id
+3duit.id
 3ebeauty.id
 3ecpa.id
 3els.id
@@ -1456,7 +1454,6 @@
 3warna.id
 4.id
 40.id
-400-04.id
 400.id
 401.id
 402-20.id
@@ -1509,7 +1506,6 @@
 424-42.id
 424-48.id
 424-52.id
-424-82.id
 424.id
 425-82.id
 425-88.id
@@ -1680,7 +1676,6 @@
 48-kb.id
 48.id
 480-40.id
-480-54.id
 480-97.id
 480.id
 480836.id
@@ -1708,7 +1703,6 @@
 488.id
 48875.id
 489-55.id
-489-97.id
 489.id
 49-ht.id
 49.id
@@ -1875,7 +1869,6 @@
 52777.id
 527xii.id
 528-27.id
-528-47.id
 528-87.id
 528-90.id
 528-92.id
@@ -1949,7 +1942,6 @@
 550-20.id
 550-25.id
 550-47.id
-550-52.id
 550.id
 551-55.id
 551.id
@@ -2012,7 +2004,6 @@
 571-24.id
 571.id
 571group.id
-572-88.id
 572.id
 57278.id
 57296.id
@@ -2036,7 +2027,6 @@
 577-45.id
 577-87.id
 577.id
-578-05.id
 578-24.id
 578-75.id
 578-85.id
@@ -2044,7 +2034,6 @@
 578pay.id
 579-25.id
 579-55.id
-579-99.id
 579.id
 57936.id
 57963.id
@@ -2079,8 +2068,6 @@
 584.id
 585-00.id
 585-47.id
-585-58.id
-585-92.id
 585.id
 586.id
 587-57.id
@@ -2092,7 +2079,6 @@
 588-29.id
 588-50.id
 588.id
-58899.id
 589-24.id
 589.id
 58crown.id
@@ -2120,7 +2106,6 @@
 597-18.id
 597-25.id
 597-75.id
-597-80.id
 597.id
 598-88.id
 598.id
@@ -2291,7 +2276,6 @@
 66557.id
 666.id
 66630.id
-66655.id
 66659.id
 6666.id
 66666.id
@@ -2302,6 +2286,7 @@
 66815.id
 66872.id
 66880.id
+669-35.id
 669.id
 66990.id
 66994.id
@@ -2325,9 +2310,7 @@
 676.id
 67621.id
 677.id
-67799.id
 678.id
-67899.id
 679.id
 6795-dw.id
 68-eb.id
@@ -2382,7 +2365,6 @@
 701.id
 702-54.id
 702-58.id
-702-98.id
 702.id
 70289.id
 703.id
@@ -2466,7 +2448,6 @@
 727-20.id
 727-42.id
 727-87.id
-727-88.id
 727.id
 727xii.id
 728-25.id
@@ -2530,7 +2511,6 @@
 747-44.id
 747-77.id
 747-88.id
-747-98.id
 747.id
 748-72.id
 748-87.id
@@ -2578,7 +2558,6 @@
 755sports.id
 756.id
 757-08.id
-757-22.id
 757-58.id
 757-74.id
 757-82.id
@@ -2649,7 +2628,6 @@
 777-97.id
 777.id
 77753.id
-77779.id
 7777bet.id
 777bet.id
 777casino.id
@@ -2699,12 +2677,10 @@
 783.id
 784-05.id
 784-14.id
-784-28.id
 784-52.id
 784.id
 785-48.id
 785-54.id
-785-70.id
 785-72.id
 785-77.id
 785-94.id
@@ -2731,6 +2707,7 @@
 78946.id
 789bet.id
 789club.id
+789clubb.id
 789clubs.id
 789clubz.id
 789win.id
@@ -2813,7 +2790,6 @@
 7summits77.id
 7togelup.id
 7upbet.id
-7vibes.id
 7winbet.id
 7wonders.id
 80.id
@@ -2888,10 +2864,8 @@
 824.id
 82491.id
 825-22.id
-825-28.id
 825-44.id
 825-74.id
-825-88.id
 825.id
 825689.id
 826.id
@@ -2939,7 +2913,6 @@
 83energy.id
 84.id
 840-42.id
-840-74.id
 840.id
 84000.id
 841-28.id
@@ -2973,7 +2946,6 @@
 847.id
 848-28.id
 848-54.id
-848-78.id
 848.id
 849-88.id
 849.id
@@ -3040,14 +3012,12 @@
 868.id
 869.id
 86927.id
-86999.id
 86jaguar-mjakbar.id
 86news.id
 87.id
 870-57.id
 870.id
 871.id
-872-57.id
 872-77.id
 872.id
 87236.id
@@ -3057,10 +3027,10 @@
 873.id
 874-24.id
 874-42.id
-874-55.id
 874-82.id
 874-84.id
 874.id
+87431.id
 87470.id
 875-00.id
 875-45.id
@@ -3099,10 +3069,8 @@
 885-44.id
 885-54.id
 885-57.id
-885-74.id
 885-79.id
 885-87.id
-885-88.id
 885.id
 886.id
 887-28.id
@@ -3111,13 +3079,11 @@
 887-85.id
 887-95.id
 887.id
-888-40.id
 888-54.id
 888-55.id
 888-84.id
 888.id
 88855.id
-88889.id
 8888bet.id
 888b.id
 888bet.id
@@ -3134,11 +3100,9 @@
 888starz.id
 889-25.id
 889-27.id
-889-42.id
 889-78.id
 889-99.id
 889.id
-88999.id
 88agen.id
 88bet.id
 88casino.id
@@ -3187,7 +3151,6 @@
 897-25.id
 897.id
 898-44.id
-898-48.id
 898.id
 8988.id
 899-45.id
@@ -3195,7 +3158,6 @@
 899.id
 89945.id
 89970.id
-89999.id
 899gaming.id
 89bola.id
 89music.id
@@ -3252,7 +3214,6 @@
 907.id
 907545.id
 908-12.id
-908-24.id
 908-55.id
 908-58.id
 908.id
@@ -3381,10 +3342,8 @@
 952-18.id
 952-37.id
 952-52.id
-952-75.id
 952.id
 953.id
-954-48.id
 954.id
 955-58.id
 955-85.id
@@ -3497,7 +3456,6 @@
 994.id
 995.id
 996.id
-997-44.id
 997-49.id
 997.id
 998-72.id
@@ -3764,7 +3722,6 @@ abayaelhabsyi.id
 abb.id
 abbaci.id
 abbacraft.id
-abbafoundation.id
 abbas.id
 abbasy.id
 abbasyprinting.id
@@ -3832,7 +3789,6 @@ abcworks.id
 abdallah.id
 abdansyakuro.id
 abdata.id
-abdgroup.id
 abdi.id
 abdiafrizal.id
 abdiajar.id
@@ -4037,6 +3993,7 @@ abnormal.id
 abnrlaw.id
 abo777.id
 aboard.id
+abodeproperty.id
 aboitizfoods.id
 abonent.id
 abonku.id
@@ -4173,6 +4130,7 @@ abudu.id
 abufurqan.id
 abulous.id
 abumar.id
+abumwb.id
 abunawas.id
 abundance.id
 abundancehomecare.id
@@ -4925,6 +4883,7 @@ adarasa.id
 adarma.id
 adaromineral.id
 adarominerals.id
+adaroperkasa.id
 adartha.id
 adaru.id
 adarumah.id
@@ -5226,6 +5185,7 @@ adirabpkbauto.id
 adiraexpo.id
 adirafinance.id
 adirafinancial.id
+adiragadaibpkb.id
 adirak.id
 adiraku.id
 adiramamitrasehati.id
@@ -5381,6 +5341,7 @@ admires.id
 admiring.id
 admiringly.id
 admis.id
+admisinvestment.id
 admisiuki.id
 admitted.id
 admitting.id
@@ -5584,6 +5545,7 @@ advancesinresearch.id
 advanstartorbit.id
 advantage-lending.id
 advantage.id
+advantagedigital.id
 advantagelending.id
 advantageous.id
 advantagesdisadvantages.id
@@ -5671,6 +5633,7 @@ advokatku.id
 advokatmedan.id
 advokatpro.id
 advokatrahadi.id
+advomed.id
 advosmart.id
 advrally.id
 adweb.id
@@ -6060,6 +6023,7 @@ afruz.id
 afs2000jogja.id
 afscmy.id
 afsha.id
+afsiacademicpartner.id
 afsiinstitute.id
 afsinstitute.id
 afslot.id
@@ -6350,6 +6314,7 @@ agentaid.id
 agentaruahanjudibolaonline.id
 agentcation.id
 agentgr.id
+agentic.id
 agentiket.id
 agentinaboxbali.id
 agentjudibolaterpercaya.id
