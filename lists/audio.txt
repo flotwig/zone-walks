@@ -1091,6 +1091,7 @@ decompression.audio
 deebee.audio
 deep.audio
 deepbass.audio
+deepdive.audio
 deepfake.audio
 deepsky.audio
 deeptruth.audio
@@ -1434,6 +1435,7 @@ ethereum.audio
 ethglobal.audio
 ethnoloops.audio
 eti-research.audio
+etorg.audio
 etr.audio
 etracks.audio
 etre.audio
@@ -4134,7 +4136,6 @@ swisstone.audio
 switchboard.audio
 switchup.audio
 swjs.audio
-swt.audio
 sxsw.audio
 sxswfm.audio
 sylva.audio
