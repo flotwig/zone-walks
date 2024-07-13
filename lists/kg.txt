@@ -103,6 +103,7 @@
 39.kg
 3917.kg
 3cinternational.kg
+3d-rentgen-zubov.kg
 3d.kg
 3dbishkek.kg
 3dmaster.kg
@@ -249,7 +250,6 @@ acapulco.kg
 acb.kg
 acc.kg
 accom.kg
-accorda.kg
 account.kg
 accounting.kg
 acer.kg
@@ -523,7 +523,6 @@ aiyurt.kg
 aizen.kg
 ajkr.kg
 ajr.kg
-ak-bata.kg
 ak-bulakpluse.kg
 ak-jar-aimak.kg
 ak-shumkar.kg
@@ -995,7 +994,6 @@ arabiancenter.kg
 arabiansecrets.kg
 arabis.kg
 arabmir.kg
-arakette.kg
 aral-lubricants.kg
 aral.kg
 aramex.kg
@@ -1014,10 +1012,10 @@ arcgis.kg
 archa.kg
 archabeshik.kg
 archalymedresesi.kg
-arche.kg
 archeo.kg
 archi.kg
 archidea.kg
+archigroup.kg
 archilab.kg
 architech.kg
 archive.kg
@@ -1227,6 +1225,7 @@ asmanairlines.kg
 asmanbank.kg
 asmancity.kg
 asmanconsult.kg
+asmaneco.kg
 asmanfamily.kg
 asmanllc.kg
 asmanpark.kg
@@ -1946,6 +1945,7 @@ bf.kg
 bfet.kg
 bfgoodrich.kg
 bfs.kg
+bft.kg
 bg.kg
 bga.kg
 bgdt.kg
@@ -2116,6 +2116,7 @@ biz.kg
 bizall.kg
 bizdin.kg
 bizexpert.kg
+bizmart.kg
 biznes.kg
 bizone.kg
 bjtravel.kg
@@ -2530,6 +2531,7 @@ casablancaapart.kg
 caselogic.kg
 cash-back.kg
 cash2u.kg
+cashback.kg
 cashflow.kg
 cashiva.kg
 cashivacommunity.kg
@@ -2839,6 +2841,7 @@ columbiasportswear.kg
 columbtrade.kg
 com.kg
 comfort-hotel.kg
+comfort-plus.kg
 comfort.kg
 comirnaty.kg
 commend.kg
@@ -3286,7 +3289,6 @@ dhl.kg
 dhs.kg
 dia.kg
 diacademy.kg
-diadema.kg
 diagnost.kg
 dialabix.kg
 dialogue.kg
@@ -3687,6 +3689,7 @@ edemstroi.kg
 edet.kg
 edna.kg
 edo.kg
+edtech.kg
 edu.kg
 edu24.kg
 edubish.kg
@@ -3700,6 +3703,7 @@ eduordo.kg
 edupress.kg
 eduroam.kg
 edus.kg
+edutech.kg
 eduviso.kg
 edwards.kg
 ee.kg
@@ -4206,7 +4210,6 @@ express.kg
 expressauto.kg
 expressauto24.kg
 expresscargo.kg
-expresslab.kg
 expresslogistics.kg
 expressus.kg
 exprime.kg
@@ -4241,7 +4244,6 @@ fabrika.kg
 fabrika24.kg
 fabrikaokon.kg
 fabroglobal.kg
-fabula.kg
 facebook.kg
 fackelmann.kg
 factcheck.kg
@@ -5132,7 +5134,6 @@ handesign.kg
 handmade.kg
 hansa.kg
 hanseatic-freight.kg
-hansel.kg
 hansgrohe.kg
 hanstroy.kg
 hantel.kg
@@ -5523,7 +5524,6 @@ iksu.kg
 iku.kg
 ilaw.kg
 ilb.kg
-ilbirs.kg
 ilbirstrade.kg
 ilbirsvet.kg
 ilbirsvillage.kg
@@ -5962,7 +5962,6 @@ jacobs.kg
 jacobscoffee.kg
 jacobsdouweegberts.kg
 jadrel.kg
-jae.kg
 jaecoo.kg
 jaga.kg
 jagk.kg
@@ -5988,7 +5987,6 @@ jana-post.kg
 janapost.kg
 janaryk.kg
 janat.kg
-janeiredale.kg
 jannat.kg
 jannatparfum.kg
 janssencosmetics.kg
@@ -7537,6 +7535,7 @@ medicalpoint.kg
 medicalpointinternational.kg
 medicaltrade.kg
 medicana.kg
+medicanainternational.kg
 mediclinic.kg
 medik.kg
 medikana-plus.kg
@@ -7761,7 +7760,6 @@ midordoi.kg
 miele.kg
 miexpress.kg
 mifepristone.kg
-mig.kg
 migapartment24.kg
 migom.kg
 migrant.kg
@@ -8685,6 +8683,7 @@ on.kg
 onbir.kg
 onclinic.kg
 onduline.kg
+one-cn.kg
 one.kg
 oneandone.kg
 oneexpress.kg
@@ -8717,7 +8716,6 @@ onyxhotel.kg
 onza.kg
 oo.kg
 ooba.kg
-oobamarket.kg
 ookat.kg
 ookato.kg
 oomat.kg
@@ -9846,6 +9844,7 @@ resetservice.kg
 resident.kg
 resistingvawinca.kg
 resmed.kg
+resorts.kg
 resource.kg
 respub.kg
 respublica.kg
@@ -10016,7 +10015,6 @@ rrd.kg
 rs-engineering.kg
 rs.kg
 rsagroup.kg
-rsc.kg
 rscp-group.kg
 rsk.kg
 rsktech.kg
@@ -10166,7 +10164,6 @@ sanjira.kg
 sanjyra.kg
 sanjyramuseum.kg
 sanosan.kg
-sanstandart.kg
 santeh.kg
 santehbish.kg
 santehelectric.kg
@@ -10181,7 +10178,6 @@ santehplast.kg
 santehprofi.kg
 santo.kg
 sanzhyraexpress.kg
-sap.kg
 sapar.kg
 sapat-test.kg
 sapat.kg
@@ -10614,6 +10610,7 @@ smart-key.kg
 smart-taxi.kg
 smart.kg
 smartbilim.kg
+smartbiz.kg
 smartbox.kg
 smartbuh.kg
 smartclimate.kg
@@ -10773,6 +10770,7 @@ soulist.kg
 sound-center.kg
 sound.kg
 soundmaster.kg
+southbeach.kg
 southinstrument.kg
 souvenir.kg
 sovetnik.kg
@@ -11222,7 +11220,6 @@ tash-kordo.kg
 tash-moinok.kg
 tash-nur.kg
 tash-temir.kg
-tashbolot.kg
 tashkordo.kg
 tashprom.kg
 tashrabat.kg
@@ -11275,6 +11272,7 @@ tchibo.kg
 tcl.kg
 tcs.kg
 tcsoft.kg
+tcts.kg
 tdi.kg
 tdom.kg
 tdstroitel.kg
@@ -11285,6 +11283,7 @@ team.kg
 teamkg.kg
 teamviewer.kg
 teatr-uch.kg
+teatrkukol.kg
 tebo.kg
 tec.kg
 tecdilog.kg
@@ -11467,7 +11466,6 @@ tezcom.kg
 tezdik.kg
 tezdyk.kg
 tezfinance.kg
-tezjet.kg
 tezkyzmat.kg
 tezmed.kg
 tezpayments.kg
@@ -11499,6 +11497,7 @@ therabody.kg
 theragun.kg
 therezidorhotelgroup.kg
 thermo-centre.kg
+thermocenter.kg
 thermoflex.kg
 thermogradus.kg
 thescore.kg
@@ -11763,6 +11762,7 @@ travelline.kg
 travelling.kg
 travelpoint.kg
 travelport-partner.kg
+travels.kg
 travelshop.kg
 travelsim.kg
 travelstans.kg
