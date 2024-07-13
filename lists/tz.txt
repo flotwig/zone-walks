@@ -369,6 +369,7 @@ digest.tz
 digi.tz
 digitalclubs.tz
 direct.tz
+djangogirls.tz
 dlapiperafrica.tz
 dns.tz
 dnssec.tz
@@ -899,7 +900,6 @@ msosly.tz
 mspa.tz
 msport.tz
 mswahili.tz
-mtn.tz
 mul-t-lock.tz
 mulbadaw.tz
 multichoice.tz
