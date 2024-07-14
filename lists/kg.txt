@@ -198,7 +198,6 @@ aaopo.kg
 aaorg.kg
 aap.kg
 aarhus.kg
-ab-energo.kg
 ab-transfer.kg
 ab.kg
 aba.kg
@@ -216,7 +215,6 @@ abdcapital.kg
 abdysh-ata.kg
 abdyshata.kg
 abeauty.kg
-abi.kg
 abipa.kg
 abiturient.kg
 abiyir.kg
@@ -1544,7 +1542,6 @@ ayacom.kg
 ayaks-security.kg
 ayaks.kg
 ayaldar.kg
-ayan.kg
 ayana.kg
 ayda.kg
 aydanis.kg
@@ -1689,6 +1686,7 @@ bar.kg
 baraka-energy.kg
 barakat.kg
 barakelde.kg
+barashek.kg
 baraxolka.kg
 barbados.kg
 barbaris.kg
@@ -1728,6 +1726,7 @@ batareika.kg
 batareikashop.kg
 batareya.kg
 bathandbodyworks.kg
+batir.kg
 batken.kg
 batkenpetroleum.kg
 batkenraiadmin-gov.kg
@@ -3290,6 +3289,7 @@ dhs.kg
 dia.kg
 diacademy.kg
 diagnost.kg
+diagnostik.kg
 dialabix.kg
 dialogue.kg
 diamed.kg
@@ -3748,7 +3748,6 @@ ekoprom.kg
 ekos.kg
 ekran.kg
 ekstaz.kg
-ekstruder.kg
 el-bayda.kg
 el-kitep.kg
 el-loto.kg
@@ -4210,6 +4209,7 @@ express.kg
 expressauto.kg
 expressauto24.kg
 expresscargo.kg
+expresslab.kg
 expresslogistics.kg
 expressus.kg
 exprime.kg
@@ -4299,7 +4299,6 @@ fawori.kg
 fayz.kg
 faza.kg
 fazax.kg
-fazenda.kg
 fb.kg
 fbkr.kg
 fbs.kg
@@ -4441,7 +4440,6 @@ flats.kg
 flavin7.kg
 flebocenter.kg
 flebolog.kg
-flebologs.kg
 fleurop.kg
 flex-kino.kg
 flex.kg
@@ -5191,7 +5189,6 @@ hellopanda.kg
 hellotomorrow.kg
 help.kg
 helpdesk.kg
-helpresource.kg
 helukabel.kg
 hemophilia.kg
 hempel.kg
@@ -5213,7 +5210,6 @@ herz-armaturen.kg
 hetwok.kg
 hewitt.kg
 hewlettpackard.kg
-heyi.kg
 heyydrgn.kg
 hg.kg
 hge.kg
@@ -6029,7 +6025,6 @@ jemish.kg
 jenish.kg
 jer.kg
 jerdesh.kg
-jergetal.kg
 jessica.kg
 jet-card.kg
 jet-logistic.kg
@@ -6214,7 +6209,6 @@ kara-suu.kg
 karabermet.kg
 karabulak.kg
 karaca.kg
-karacahome.kg
 karagay.kg
 karakol-city.kg
 karakol-ski.kg
@@ -6730,7 +6724,6 @@ kurulush.kg
 kurulushtsh.kg
 kutaalam.kg
 kutai.kg
-kutbilim.kg
 kuthome.kg
 kutnan.kg
 kutned.kg
@@ -6754,7 +6747,6 @@ kws.kg
 kyaragroup.kg
 kyber.kg
 kyialgakadam-expo.kg
-kymyzfest.kg
 kyndryl.kg
 kypc.kg
 kyraan.kg
@@ -7468,7 +7460,6 @@ mcx.kg
 md-fashion.kg
 md.kg
 mdc.kg
-mdclinic.kg
 mdgroup.kg
 mdigital.kg
 mdm.kg
@@ -8156,7 +8147,6 @@ nail.kg
 nailor.kg
 nails.kg
 nak.kg
-nakleika.kg
 nakpkr.kg
 nakta.kg
 naktajol.kg
@@ -9384,7 +9374,6 @@ praymol.kg
 prazdnik.kg
 prazdniki.kg
 prc.kg
-precedent.kg
 precedentinfo.kg
 predstavitelstvo.kg
 prego.kg
@@ -9466,6 +9455,7 @@ produmano.kg
 proekty.kg
 proex.kg
 prof.kg
+profelectric.kg
 profertil-female.kg
 profertil.kg
 profgmu.kg
@@ -9801,7 +9791,6 @@ reload.kg
 relocant.kg
 relxnow.kg
 rem-vozduh.kg
-remkofe.kg
 remmers.kg
 remokno.kg
 remont-computer.kg
@@ -10374,7 +10363,6 @@ shacman-center.kg
 shacman.kg
 shahpalace.kg
 shahtea.kg
-shailoo.kg
 shaman.kg
 shambesai.kg
 shambo.kg
@@ -11925,7 +11913,6 @@ txt.kg
 tyanshansooda.kg
 tyc.kg
 tylolhot.kg
-typical.kg
 tyreplus.kg
 tyres.kg
 tyson.kg
@@ -11976,6 +11963,7 @@ ug.kg
 ugee.kg
 ugeny.kg
 uguustrade.kg
+uk.kg
 uku.kg
 ukuk.kg
 ukukconsult.kg
@@ -12619,6 +12607,7 @@ x.kg
 x10.kg
 xado.kg
 xau.kg
+xauraglobal.kg
 xbox.kg
 xboxlive.kg
 xboxone.kg
@@ -12825,6 +12814,7 @@ zkteco.kg
 zlata.kg
 zm.kg
 zmail.kg
+znachok.kg
 znakomstva.kg
 znatok.kg
 zob.kg
