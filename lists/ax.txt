@@ -114,6 +114,7 @@
 7x.ax
 80.ax
 80211.ax
+818.ax
 83627.ax
 84.ax
 88.ax
@@ -443,6 +444,7 @@ arrivet.ax
 arrow.ax
 arrowecs.ax
 arrowelectronics.ax
+art.ax
 artef.ax
 artenika.ax
 artf.ax
@@ -1159,7 +1161,6 @@ ehiglobal.ax
 ehns.ax
 ei.ax
 ek.ax
-ekenlycka.ax
 eklund.ax
 eklunds.ax
 eko.ax
@@ -2339,6 +2340,7 @@ lonnqvist.ax
 looksm.ax
 lookup.ax
 loop.ax
+lor.ax
 lori.ax
 losningar.ax
 lost-inn.ax
@@ -2996,7 +2998,6 @@ playmgmsport.ax
 playmgmsports.ax
 pleijel.ax
 plocket.ax
-pls.ax
 pm.ax
 pmh.ax
 pn.ax
@@ -3704,7 +3705,6 @@ tandkliniken.ax
 tandlakarna.ax
 tankesmedjan.ax
 tankinvest.ax
-tapco.ax
 tapetfarg.ax
 tara.ax
 taverna.ax
