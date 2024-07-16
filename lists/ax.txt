@@ -1809,6 +1809,7 @@ hus.ax
 husbil.ax
 husellstekniska.ax
 husfixarna-ab.ax
+hv.ax
 hw.ax
 hwtextil.ax
 hx.ax
@@ -1885,7 +1886,6 @@ inpro.ax
 inred.ax
 inreko.ax
 insight.ax
-insikt.ax
 inspektor.ax
 inspiredbyaland.ax
 instagram.ax
@@ -3308,7 +3308,6 @@ saxofonen.ax
 sb.ax
 sc.ax
 scab.ax
-scalperscompany.ax
 scandibygg.ax
 scandlines.ax
 scantr.ax
