@@ -283,6 +283,7 @@
 7culture.ci
 7games.ci
 7info.ci
+8123.ci
 84.ci
 85.ci
 875.ci
@@ -673,6 +674,7 @@ agproperty.ci
 agrac.ci
 agrh.ci
 agri-dev.ci
+agri-immo-plus.ci
 agriandland.ci
 agribll.ci
 agribooster.ci
@@ -1383,7 +1385,6 @@ avisosports.ci
 avisotest.ci
 avisotrafic.ci
 avisozoom.ci
-avocats.ci
 avsec.ci
 awa.ci
 awale-immo.ci
@@ -1554,7 +1555,6 @@ batimat.ci
 batiments.ci
 batimmoplus.ci
 batimpro.ci
-batinet.ci
 batione.ci
 batiplus.ci
 batipro.ci
@@ -2417,6 +2417,7 @@ cerise.ci
 cerruti.ci
 cerruti1881.ci
 certification.ci
+certificatssl.ci
 certys.ci
 cervo.ci
 cesam.ci
