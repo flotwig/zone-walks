@@ -3161,6 +3161,7 @@ area-store.tn
 areacuisine.tn
 areca.tn
 areelectronics.tn
+areencubs.tn
 arelec.tn
 arelectronics.tn
 arem.tn
@@ -5728,6 +5729,7 @@ bijouterie-luxor.tn
 bijouterie-ramziajmi.tn
 bijouterie.tn
 bijouterieelhamdi.tn
+bijouteriehamdielhamdi.tn
 bijoux.tn
 bijouxbisous.tn
 bijouxdecorps.tn
@@ -7002,6 +7004,7 @@ buyme-shop.tn
 buyme-store.tn
 buyme.tn
 buymestore.tn
+buyorbye.tn
 buypal.tn
 buysmart.tn
 buytechstore.tn
@@ -9125,6 +9128,7 @@ cnp-tunisie.tn
 cnp.tn
 cnpto.tn
 cnrd.tn
+cnrps-marhaba.tn
 cnrps-news.tn
 cnrps.tn
 cnrpsdocs.tn
@@ -9526,7 +9530,6 @@ commune-tajerouine.tn
 commune-thelepte.tn
 commune-tlelsa.tn
 commune-tozeur.tn
-commune-zahretmedien.tn
 commune-zannouche.tn
 commune-zeramdine.tn
 commune.tn
@@ -13287,6 +13290,7 @@ edukasserine.tn
 edukkan.tn
 edulang.tn
 edulearn.tn
+edulex.tn
 edulink.tn
 edumed.tn
 edumedia.tn
@@ -14858,6 +14862,7 @@ evart.tn
 evashop.tn
 evasion.tn
 evasiononline.tn
+evastylebzr.tn
 evatour.tn
 evax.tn
 evcloud.tn
@@ -15162,7 +15167,6 @@ ezpanel.tn
 ezpass.tn
 ezviz.tn
 ezylotto.tn
-ezzayet.tn
 ezzemni.tn
 f-consult.tn
 f-consulting.tn
@@ -21493,7 +21497,6 @@ itechcare.tn
 itechdata.tn
 itechplus.tn
 itechpro.tn
-itechsolutions.tn
 itechstore.tn
 itechstorenabeul.tn
 itechstyle.tn
@@ -23222,6 +23225,7 @@ kuriattravel.tn
 kurz.tn
 kurzawa.tn
 kusa.tn
+kustomproduct.tn
 kuwaitistore.tn
 kv.tn
 kw-tunis.tn
@@ -28629,6 +28633,7 @@ multisales.tn
 multiserv.tn
 multiservending.tn
 multiservices.tn
+multisport.tn
 multistore.tn
 multistores.tn
 multitech.tn
@@ -31971,6 +31976,7 @@ pepinieresmbg.tn
 pepper.tn
 pepsane.tn
 perceneige.tn
+perception.tn
 percussioni.tn
 perdus.tn
 peren-public.tn
@@ -32538,6 +32544,7 @@ plateforme.tn
 plateformetextile.tn
 platform-am.tn
 platform.tn
+platformcreative.tn
 platinium-is.tn
 platinium.tn
 platinum-delivery.tn
