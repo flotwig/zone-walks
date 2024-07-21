@@ -1290,7 +1290,6 @@ afif-store.tn
 afinfo.tn
 afkar.tn
 afkari.tn
-afkart.tn
 aflam.tn
 afli.tn
 afmt.tn
@@ -1625,6 +1624,7 @@ aiglusoft.tn
 aijob.tn
 aijobs.tn
 aikikai.tn
+ailearn.tn
 ailease.tn
 aim.tn
 aimit-consult.tn
@@ -1683,6 +1683,7 @@ aisoft.tn
 aissaoui.tn
 aisshop.tn
 aisummit.tn
+aisysnext.tn
 ait-trading.tn
 ait.tn
 aita.tn
@@ -4884,7 +4885,6 @@ bb-solution.tn
 bb.tn
 bba.tn
 bbblu.tn
-bbca.tn
 bbcarabic.tn
 bbceservices.tn
 bbcinformatique.tn
@@ -6129,6 +6129,7 @@ blusky.tn
 blv.tn
 blvck-tunis.tn
 blym.tn
+bm-services.tn
 bm-shop.tn
 bm.tn
 bma-store.tn
@@ -9530,6 +9531,7 @@ commune-tajerouine.tn
 commune-thelepte.tn
 commune-tlelsa.tn
 commune-tozeur.tn
+commune-zahretmedien.tn
 commune-zannouche.tn
 commune-zeramdine.tn
 commune.tn
@@ -9633,6 +9635,7 @@ comptoirmedical.tn
 comptoirnautique.tn
 comptoirnet.tn
 comptoirs-mokador.tn
+comptoirsakli.tn
 comptoirsmokador.tn
 comptoirtunisienaluminium.tn
 compucity.tn
@@ -12598,7 +12601,6 @@ dynastyperfumelounge.tn
 dyndns.tn
 dynomotorsport.tn
 dyson.tn
-dysontunisie.tn
 dyxis.tn
 dyzanotex.tn
 e-a-s.tn
@@ -13290,7 +13292,6 @@ edukasserine.tn
 edukkan.tn
 edulang.tn
 edulearn.tn
-edulex.tn
 edulink.tn
 edumed.tn
 edumedia.tn
@@ -18621,7 +18622,6 @@ hanachi.tn
 hanadinsiri.tn
 hanadvice.tn
 hanahouni.tn
-hanatek.tn
 hand.tn
 handasa.tn
 handassagroup.tn
@@ -19307,7 +19307,6 @@ hoco.tn
 hod.tn
 hoermann.tn
 hof.tn
-hoga.tn
 hoggar.tn
 hola-kasserine.tn
 hola-store.tn
@@ -22567,7 +22566,6 @@ kd.tn
 kdb-tunisie.tn
 kdis.tn
 kdo.tn
-kdor.tn
 ke.tn
 keb.tn
 kebdi.tn
@@ -26718,6 +26716,7 @@ medconsulting.tn
 medcos.tn
 medcretech.tn
 meddar.tn
+meddeb.tn
 meddistribution.tn
 meddkol.tn
 medea.tn
@@ -30053,6 +30052,7 @@ ns1.basmati.tn
 ns1.cultures-web.tn
 ns1.cutiepie.tn
 ns1.deali.tn
+ns1.dysontunisie.tn
 ns1.hkstore.tn
 ns1.jasminshop.tn
 ns1.nostratech.tn
@@ -30065,6 +30065,7 @@ ns2.ayed-technology.tn
 ns2.basmati.tn
 ns2.cutiepie.tn
 ns2.deali.tn
+ns2.dysontunisie.tn
 ns2.hkstore.tn
 ns2.jasminshop.tn
 ns2.nostratech.tn
@@ -30897,6 +30898,7 @@ optimalsolutions.tn
 optimasoft.tn
 optimeubles.tn
 optimind.tn
+optimo.tn
 optimum.tn
 optimumnutrition.tn
 optimus-training.tn
