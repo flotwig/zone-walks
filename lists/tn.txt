@@ -3162,7 +3162,6 @@ area-store.tn
 areacuisine.tn
 areca.tn
 areelectronics.tn
-areencubs.tn
 arelec.tn
 arelectronics.tn
 arem.tn
@@ -4885,6 +4884,7 @@ bb-solution.tn
 bb.tn
 bba.tn
 bbblu.tn
+bbca.tn
 bbcarabic.tn
 bbceservices.tn
 bbcinformatique.tn
@@ -6129,7 +6129,6 @@ blusky.tn
 blv.tn
 blvck-tunis.tn
 blym.tn
-bm-services.tn
 bm-shop.tn
 bm.tn
 bma-store.tn
@@ -9531,7 +9530,6 @@ commune-tajerouine.tn
 commune-thelepte.tn
 commune-tlelsa.tn
 commune-tozeur.tn
-commune-zahretmedien.tn
 commune-zannouche.tn
 commune-zeramdine.tn
 commune.tn
@@ -11470,7 +11468,6 @@ dev4edu.tn
 devadoot.tn
 devan.tn
 devapp.tn
-devapps.tn
 devazion.tn
 devbrains.tn
 devby.tn
@@ -18622,6 +18619,7 @@ hanachi.tn
 hanadinsiri.tn
 hanadvice.tn
 hanahouni.tn
+hanatek.tn
 hand.tn
 handasa.tn
 handassagroup.tn
@@ -22746,7 +22744,6 @@ khotoua.tn
 khotwa.tn
 khoudhhajtek.tn
 khouloudgamoudi.tn
-khouloudjdidi.tn
 khoutaf.tn
 khrafa.tn
 khstore.tn
@@ -27573,6 +27570,7 @@ mima-food.tn
 mima.tn
 mimabio.tn
 mimaschool.tn
+mimashop.tn
 mime-energie.tn
 mimi.tn
 mimicacao.tn
@@ -28632,7 +28630,6 @@ multisales.tn
 multiserv.tn
 multiservending.tn
 multiservices.tn
-multisport.tn
 multistore.tn
 multistores.tn
 multitech.tn
@@ -30087,7 +30084,6 @@ nss.tn
 nstampe.tn
 nstore.tn
 nstudio.tn
-nt.tn
 ntas.tn
 ntc.tn
 ntcafrique7.tn
@@ -30865,6 +30861,7 @@ oppotunisie.tn
 oppy.tn
 ops.tn
 opsai.tn
+opshop.tn
 opshop1234.tn
 opssteer.tn
 opsywork.tn
