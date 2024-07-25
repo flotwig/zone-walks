@@ -123,7 +123,6 @@ aegis.audio
 aer.audio
 aes67.audio
 aes70.audio
-afield.audio
 africa.audio
 afro.audio
 afrowave.audio
@@ -487,6 +486,7 @@ bacch.audio
 backbeat.audio
 badass.audio
 badbone.audio
+bahli.audio
 baileyacoustics.audio
 bakedbeats.audio
 baltimoreorioles.audio
@@ -2020,6 +2020,7 @@ immersify.audio
 immersion.audio
 immersive-3d.audio
 immersive.audio
+immersiveninja.audio
 impeccable.audio
 imperials.audio
 important.audio
@@ -4567,7 +4568,6 @@ voiceovers.audio
 voicevisions.audio
 volk.audio
 volta.audio
-volumetric.audio
 volumio.audio
 volya.audio
 vonyx.audio
@@ -4720,6 +4720,7 @@ xtension.audio
 xxx.audio
 xylo.audio
 xynth.audio
+xyxo.audio
 xyz.audio
 yacc-music.audio
 yaira.audio
