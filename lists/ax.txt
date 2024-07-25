@@ -433,6 +433,7 @@ ar.ax
 arc.ax
 arch.ax
 archipelago.ax
+archive.ax
 areal.ax
 arista.ax
 aristanetworks.ax
@@ -1317,6 +1318,7 @@ fakturering.ax
 familjecentrum.ax
 fanrel.ax
 fantasticservices.ax
+fanumt.ax
 far.ax
 fareata.ax
 fargtapet.ax
@@ -1961,6 +1963,7 @@ jalit.ax
 jalkapalloturnaukset.ax
 jalonen.ax
 jamstalldbarnomsorg.ax
+jan.ax
 janmar.ax
 janne.ax
 jannesplat.ax
@@ -2423,6 +2426,7 @@ manscaped.ax
 mar.ax
 marbibacken.ax
 marbyfjarden.ax
+marc.ax
 marcus.ax
 marel.ax
 maria.ax
@@ -2451,7 +2455,6 @@ marknaden.ax
 marksandspencer.ax
 marksix.ax
 markusas.ax
-mars.ax
 marskogens.ax
 marstad.ax
 martha.ax
@@ -4111,7 +4114,6 @@ williamsbuss.ax
 wine.ax
 winkelmann.ax
 winter.ax
-wireless.ax
 wiren.ax
 with.ax
 witw.ax
