@@ -11,7 +11,6 @@
 002.id
 003.id
 004-25.id
-004-54.id
 004.id
 005.id
 006.id
@@ -72,7 +71,6 @@
 04.id
 040.id
 041.id
-042-07.id
 042-87.id
 042.id
 043.id
@@ -94,12 +92,10 @@
 052.id
 053.id
 054.id
-055-29.id
 055-49.id
 055.id
 056.id
 057-20.id
-057-54.id
 057-57.id
 057-80.id
 057.id
@@ -122,12 +118,10 @@
 07.id
 070.id
 071.id
-072-22.id
 072.id
 073.id
 074-82.id
 074.id
-075-20.id
 075-54.id
 075.id
 076.id
@@ -144,7 +138,6 @@
 081.id
 082.id
 083.id
-08380.id
 084-07.id
 084-79.id
 084.id
@@ -235,7 +228,6 @@
 102.id
 1024.id
 103.id
-10355.id
 104.id
 105.id
 106.id
@@ -356,7 +348,6 @@
 138vegas.id
 138vegasmaju.id
 139.id
-13967.id
 13film.id
 13fishing.id
 13kendali.id
@@ -527,7 +518,6 @@
 195.id
 195432.id
 196.id
-19608.id
 19625.id
 196321.id
 197.id
@@ -591,7 +581,6 @@
 1minggu1cerita.id
 1minute.id
 1mp-o.id
-1mpact.id
 1ndustry.id
 1newhomes.id
 1news.id
@@ -722,10 +711,8 @@
 21shop.id
 21vqaum.id
 22.id
-220-20.id
 220.id
 221.id
-222-44.id
 222.id
 22283.id
 222spin.id
@@ -775,7 +762,6 @@
 24258.id
 243.id
 244-45.id
-244-54.id
 244.id
 245.id
 24513.id
@@ -793,7 +779,6 @@
 247robot.id
 247siangmalam.id
 247test.id
-248-40.id
 248.id
 249-82.id
 249.id
@@ -895,7 +880,6 @@
 284-52.id
 284-85.id
 284.id
-285-74.id
 285.id
 286.id
 287-59.id
@@ -1090,7 +1074,6 @@
 362.id
 363.id
 364.id
-36400.id
 364867.id
 365-pro.id
 365.id
@@ -1133,7 +1116,6 @@
 37635.id
 377.id
 378.id
-37838.id
 37886.id
 379-82.id
 379.id
@@ -1275,9 +1257,9 @@
 404-24.id
 404-88.id
 404.id
+404travel.id
 405.id
 406.id
-407-08.id
 407.id
 408-78.id
 408-84.id
@@ -1321,7 +1303,6 @@
 43.id
 430.id
 431.id
-43175.id
 432.id
 433.id
 4337.id
@@ -1347,7 +1328,6 @@
 444.id
 445-02.id
 445-59.id
-445-79.id
 445.id
 446.id
 447.id
@@ -1361,7 +1341,6 @@
 452.id
 453.id
 453217.id
-454-55.id
 454.id
 455-47.id
 455-78.id
@@ -1369,7 +1348,6 @@
 455.id
 456.id
 45678.id
-457-21.id
 457-74.id
 457.id
 458-82.id
@@ -1390,14 +1368,11 @@
 467.id
 468.id
 469.id
-46902.id
-46919.id
 46961.id
 47.id
 470.id
 471.id
 472-04.id
-472-55.id
 472.id
 47276.id
 473.id
@@ -1408,7 +1383,6 @@
 475.id
 476.id
 477-08.id
-477-47.id
 477.id
 478.id
 479.id
@@ -1437,7 +1411,6 @@
 491.id
 49162.id
 49175.id
-492-22.id
 492.id
 492735.id
 493.id
@@ -1520,7 +1493,6 @@
 510719e5fe8a1e9741b7b9.id
 511.id
 512.id
-51257.id
 51273.id
 513.id
 51376.id
@@ -1587,7 +1559,6 @@
 538.id
 539.id
 54.id
-540-52.id
 540.id
 54052.id
 541.id
@@ -1616,7 +1587,6 @@
 552-47.id
 552.id
 553.id
-554-00.id
 554-84.id
 554.id
 55442.id
@@ -1658,7 +1628,6 @@
 57278.id
 57296.id
 573.id
-574-40.id
 574-70.id
 574.id
 575-98.id
@@ -1666,11 +1635,8 @@
 5758.id
 576.id
 577.id
-578-85.id
 578.id
 578pay.id
-579-25.id
-579-55.id
 579.id
 57963.id
 57computer.id
@@ -1712,7 +1678,6 @@
 596.id
 596387.id
 597.id
-598-88.id
 598.id
 59813.id
 599.id
@@ -1858,7 +1823,6 @@
 6573-as.id
 65781.id
 657a7269.id
-658-31.id
 658.id
 659.id
 66.id
@@ -2052,7 +2016,6 @@
 74.id
 740.id
 741.id
-742-42.id
 742-54.id
 742.id
 743.id
@@ -2065,7 +2028,6 @@
 745.id
 746.id
 747-77.id
-747-88.id
 747.id
 748-72.id
 748-87.id
@@ -2077,7 +2039,6 @@
 749.id
 74943.id
 75.id
-750-72.id
 750.id
 751.id
 75182.id
@@ -2134,7 +2095,6 @@
 772.id
 773.id
 774-77.id
-774-84.id
 774.id
 775.id
 77546.id
@@ -2144,6 +2104,7 @@
 777.id
 77753.id
 77778.id
+7777hot.id
 777akunslot.id
 777casino.id
 777hoki.id
@@ -2175,14 +2136,12 @@
 781.id
 782-04.id
 782-75.id
-782-78.id
 782.id
 78222.id
 78256.id
 783.id
 784.id
 785-94.id
-785-99.id
 785.id
 78542.id
 786.id
@@ -2213,7 +2172,6 @@
 793.id
 79310.id
 79326.id
-794-45.id
 794-88.id
 794.id
 79421.id
@@ -2290,7 +2248,6 @@
 807-49.id
 807.id
 807garage.id
-808-82.id
 808.id
 809.id
 80s90stotal.id
@@ -2317,7 +2274,6 @@
 821.id
 82138.id
 82169.id
-822-75.id
 822.id
 823.id
 824.id
@@ -2399,7 +2355,6 @@
 857.id
 858-45.id
 858.id
-859-27.id
 859-29.id
 859.id
 85927.id
@@ -2439,7 +2394,6 @@
 874.id
 87431.id
 87470.id
-875-00.id
 875-58.id
 875.id
 876.id
@@ -2563,7 +2517,6 @@
 900-78.id
 900.id
 901.id
-902-08.id
 902-58.id
 902.id
 90215.id
@@ -2575,7 +2528,6 @@
 90435.id
 905.id
 906.id
-907-74.id
 907.id
 907545.id
 908-58.id
@@ -2632,7 +2584,6 @@
 92581.id
 926.id
 92615.id
-927-97.id
 927.id
 92756.id
 92765.id
@@ -2746,8 +2697,6 @@
 98.id
 980.id
 981.id
-982-85.id
-982-92.id
 982.id
 983.id
 983172.id
@@ -3207,6 +3156,7 @@ abhinayamitraselaras.id
 abhinayamitraselarasi.id
 abhinsewa.id
 abhipraya.id
+abhiprayagroup.id
 abhisekaprojects.id
 abhiseva.id
 abhishek.id
@@ -3349,6 +3299,7 @@ aboutthefit.id
 aboutusbajajfinance.id
 aboutusbajajfinserv.id
 aboutvape.id
+above.id
 aboveeidea.id
 abovera.id
 abovewater.id
@@ -3693,6 +3644,7 @@ accuratecloud.id
 accuratego.id
 accuratejakarta.id
 accuratelite.id
+accurateonline.id
 accuratesemarang.id
 accuratesoftware.id
 accuriser.id
@@ -3896,6 +3848,7 @@ acne.id
 acneinstitute.id
 acneinstituteclinic.id
 acneno.id
+acnes.id
 acngroup.id
 acnsucks.id
 aco.id
@@ -5948,6 +5901,7 @@ agrosmartsystem.id
 agrostain.id
 agrostar.id
 agrotech.id
+agrotechno.id
 agrotek.id
 agroteknik.id
 agroteknika.id
@@ -6216,7 +6170,6 @@ ahsana.id
 ahsanagroup.id
 ahsanland.id
 ahsanrf.id
-ahsansaid.id
 ahsanta.id
 ahsantravel.id
 ahseya.id
