@@ -1164,7 +1164,6 @@ eg.ax
 egard.ax
 egethantverk.ax
 eh.ax
-ehequestrian.ax
 ehiglobal.ax
 ehns.ax
 ei.ax
@@ -2328,6 +2327,7 @@ ll.ax
 llt.ax
 lm.ax
 lmj.ax
+ln.ax
 lnk.ax
 lo.ax
 load-balance.ax
@@ -2938,7 +2938,6 @@ pay.ax
 paydaycasino.ax
 payfort.ax
 paypal.ax
-paytrim.ax
 pb.ax
 pbd.ax
 pc.ax
@@ -4062,6 +4061,7 @@ w1.ax
 wa.ax
 wage.ax
 wagner.ax
+wak.ax
 warm.ax
 watchfree.ax
 waterworx.ax
