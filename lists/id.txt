@@ -70,9 +70,7 @@
 041.id
 042.id
 043.id
-044-07.id
 044.id
-045-57.id
 045.id
 04503.id
 046.id
@@ -88,8 +86,6 @@
 054.id
 055.id
 056.id
-057-20.id
-057-57.id
 057-80.id
 057.id
 058.id
@@ -118,7 +114,6 @@
 077-79.id
 077.id
 078.id
-079-88.id
 079.id
 07936.id
 08.id
@@ -140,7 +135,6 @@
 092.id
 093.id
 094.id
-095-54.id
 095.id
 096.id
 097.id
@@ -404,7 +398,6 @@
 16898.id
 168corps.id
 169.id
-16973.id
 169cuan.id
 16east.id
 16ekraf.id
@@ -613,7 +606,6 @@
 2001.id
 200bet.id
 201.id
-202-59.id
 202.id
 2023.id
 2024.id
@@ -647,7 +639,6 @@
 205.id
 206.id
 207.id
-208-87.id
 208.id
 20831.id
 209.id
@@ -696,11 +687,9 @@
 22283.id
 222spin.id
 223.id
-224-99.id
 224.id
 225.id
 226.id
-227-09.id
 227.id
 228.id
 229.id
@@ -757,7 +746,6 @@
 247siangmalam.id
 247test.id
 248.id
-249-82.id
 249.id
 24adventure.id
 24casino.id
@@ -863,7 +851,6 @@
 293.id
 293167.id
 29371.id
-294-85.id
 294.id
 295.id
 29598.id
@@ -1219,7 +1206,6 @@
 405.id
 406.id
 407.id
-408-78.id
 408-84.id
 408.id
 409.id
@@ -1273,12 +1259,10 @@
 44.id
 440.id
 441.id
-442-85.id
 442.id
 443.id
 444-84.id
 444.id
-445-02.id
 445.id
 446.id
 447.id
@@ -1447,8 +1431,8 @@
 51talk.id
 52-fq.id
 52.id
-520-45.id
 520.id
+520topup.id
 520tu.id
 521.id
 52163.id
@@ -1456,7 +1440,6 @@
 522.id
 523.id
 52380.id
-524-07.id
 524-77.id
 524-97.id
 524.id
@@ -1467,7 +1450,6 @@
 526738.id
 527.id
 527xii.id
-528-90.id
 528.id
 529.id
 52vivo.id
@@ -1502,7 +1484,6 @@
 54321.id
 544-88.id
 544.id
-545-97.id
 545.id
 546.id
 547.id
@@ -1513,7 +1494,6 @@
 55.id
 550.id
 551.id
-552-47.id
 552.id
 553.id
 554.id
@@ -1555,7 +1535,6 @@
 57296.id
 573.id
 574.id
-575-98.id
 575.id
 5758.id
 576.id
@@ -1576,8 +1555,6 @@
 582.id
 58291.id
 583.id
-584-28.id
-584-52.id
 584.id
 585.id
 586.id
@@ -1878,10 +1855,8 @@
 71958.id
 72-ht.id
 72.id
-720-80.id
 720.id
 721.id
-722-07.id
 722.id
 723.id
 72359.id
@@ -1896,13 +1871,11 @@
 726.id
 72639.id
 72685.id
-727-20.id
 727.id
 727xii.id
 728-54.id
 728.id
 729-00.id
-729-87.id
 729.id
 729153.id
 72950.id
@@ -1934,7 +1907,6 @@
 747.id
 748.id
 749-22.id
-749-78.id
 749.id
 74943.id
 75.id
@@ -1989,7 +1961,6 @@
 771.id
 772.id
 773.id
-774-77.id
 774.id
 775.id
 77546.id
@@ -2035,7 +2006,6 @@
 78542.id
 786.id
 786store.id
-787-08.id
 787.id
 788.id
 78888.id
@@ -2067,12 +2037,11 @@
 795.id
 79531.id
 796.id
-797-44.id
-797-84.id
 797.id
 798.id
 799.id
 79king.id
+79tujuhsembilan.id
 7adventrip.id
 7apparel.id
 7aquo.id
@@ -2129,7 +2098,6 @@
 803.id
 804.id
 805-42.id
-805-54.id
 805.id
 806.id
 807.id
@@ -2169,7 +2137,6 @@
 82651.id
 827-35.id
 827.id
-828-44.id
 828.id
 828group.id
 829.id
@@ -2203,11 +2170,9 @@
 842xii.id
 843.id
 844.id
-845-07.id
 845-95.id
 845.id
 846.id
-847-20.id
 847.id
 848.id
 849.id
@@ -2259,7 +2224,6 @@
 87236.id
 87261.id
 873.id
-874-84.id
 874.id
 87431.id
 875.id
@@ -2288,7 +2252,6 @@
 888living.id
 888naga.id
 888poker.id
-888rv.id
 888slot.id
 888slots.id
 888sport.id
@@ -2421,7 +2384,6 @@
 920.id
 921.id
 92178.id
-922-57.id
 922.id
 923.id
 924.id
@@ -2465,7 +2427,6 @@
 942.id
 943.id
 944.id
-945-54.id
 945.id
 946.id
 946382.id
@@ -2476,7 +2437,6 @@
 950.id
 950483.id
 951.id
-95132.id
 95167.id
 952-37.id
 952.id
@@ -2569,7 +2529,6 @@
 997.id
 998.id
 99822.id
-999-07.id
 999.id
 99976.id
 9999.id
@@ -3565,6 +3524,7 @@ acenet.id
 aceofcasino.id
 aceofspades.id
 acepadelclub.id
+acepjamhuri.id
 aceppstore.id
 acer.id
 acerace.id
@@ -4641,7 +4601,6 @@ adtech.id
 adtrue.id
 aduagis.id
 aduanasn.id
-aduangka.id
 aduankendala.id
 aduankonten.id
 aduannomor.id
@@ -4857,6 +4816,7 @@ aerie.id
 aerigen.id
 aerin.id
 aeris.id
+aerisi.id
 aerium.id
 aerizo.id
 aerjdl.id
@@ -5062,7 +5022,6 @@ affiliatepreneurs.id
 affiliater.id
 affiliates.id
 affilio.id
-affin.id
 affinage.id
 affinidi.id
 affinity.id
@@ -5483,7 +5442,6 @@ ageo.id
 ageof.id
 ageofultron.id
 agepro.id
-agerion.id
 agfashion.id
 aggamestore.id
 aggggha.id
@@ -5909,6 +5867,7 @@ ahensikita.id
 aheryawan.id
 ahes.id
 ahgaff.id
+ahha4d.id
 ahhacorp.id
 ahhastore.id
 ahi.id
@@ -6113,6 +6072,7 @@ ns1.adcetera.id
 ns1.adiya.id
 ns1.adrenalin.id
 ns1.adsplus.id
+ns1.aduangka.id
 ns1.afdaldev.id
 ns1.afsales.id
 ns1.agarilus.id
@@ -6147,6 +6107,7 @@ ns2.adcetera.id
 ns2.adiya.id
 ns2.adrenalin.id
 ns2.adsplus.id
+ns2.aduangka.id
 ns2.afdaldev.id
 ns2.agarilus.id
 ns2.agenjudibolaonline.id
