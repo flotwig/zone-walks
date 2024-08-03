@@ -80,7 +80,6 @@
 520.ax
 53.ax
 53687.ax
-55.ax
 555.ax
 57169.ax
 57416.ax
@@ -1985,6 +1984,7 @@ jhservice.ax
 jhun.ax
 jik.ax
 jimh.ax
+jj.ax
 jk.ax
 jkc.ax
 jl.ax
@@ -3138,6 +3138,7 @@ ravintolaaukio.ax
 ravintolalaboratorio.ax
 ravintolaobra.ax
 ravintolasoster.ax
+ray.ax
 rayo.ax
 rayostudios.ax
 rb.ax
@@ -4071,7 +4072,6 @@ waze.ax
 wb.ax
 wc.ax
 wct.ax
-we.ax
 web.ax
 web3.ax
 webb.ax
@@ -4282,7 +4282,6 @@ yahoo.ax
 yamashit.ax
 yc.ax
 ye.ax
-yepp.ax
 ym.ax
 yo.ax
 yoga.ax
