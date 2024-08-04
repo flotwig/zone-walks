@@ -160,7 +160,6 @@
 7wood.kg
 8.kg
 80.kg
-82.kg
 822.kg
 88.kg
 888.kg
@@ -404,7 +403,6 @@ agro-market.kg
 agro.kg
 agrobaza.kg
 agrobio.kg
-agrocenter.kg
 agrochemical.kg
 agrodrone.kg
 agroexpert.kg
@@ -954,6 +952,7 @@ apop.kg
 aport.kg
 apos.kg
 app.kg
+apparzan.kg
 appkel.kg
 appkelper.kg
 apple.kg
@@ -1984,6 +1983,7 @@ bigfarm.kg
 bigfish.kg
 bighard.kg
 biglife.kg
+bigmag.kg
 bigroup.kg
 bigser.kg
 bigsersport.kg
@@ -2436,7 +2436,6 @@ cadastre.kg
 cae.kg
 caesar.kg
 cafe.kg
-cafefazenda.kg
 caferelax.kg
 caffito.kg
 caia.kg
@@ -2680,7 +2679,6 @@ chinaland.kg
 chinanews.kg
 chinapro.kg
 chinaship.kg
-chinatown.kg
 chinatransite.kg
 chinatravel.kg
 chingiz-ajmatov.kg
@@ -3488,7 +3486,6 @@ dota.kg
 dota2.kg
 double.kg
 doyka.kg
-doyobisan.kg
 dp.kg
 dpd.kg
 dpi.kg
@@ -3813,7 +3810,6 @@ elet.kg
 eletcom.kg
 elevator.kg
 elevit.kg
-elfbar.kg
 elfinance.kg
 elfliq.kg
 elg.kg
@@ -4099,7 +4095,6 @@ eurol.kg
 eurolab.kg
 eurolift.kg
 euromebel.kg
-euromultiservice.kg
 europa.kg
 europaplus.kg
 europarket.kg
@@ -4488,7 +4483,6 @@ flynas.kg
 flypgs.kg
 flypost.kg
 flysky.kg
-flysmart.kg
 flytezjet.kg
 flytofly.kg
 flytours.kg
@@ -4954,6 +4948,7 @@ gongcha.kg
 good.kg
 goodbox.kg
 goodcar.kg
+goodhouse.kg
 goodlake.kg
 goodneighbors.kg
 goodnews.kg
@@ -5123,7 +5118,6 @@ h.kg
 h3c.kg
 ha.kg
 habbo.kg
-habibi.kg
 hachapurnaya.kg
 hackerone.kg
 hadeka.kg
@@ -5196,7 +5190,6 @@ heli-ski.kg
 heli.kg
 helios.kg
 heliski.kg
-helitour.kg
 helix.kg
 helixoriginal.kg
 hella.kg
@@ -5995,7 +5988,6 @@ jailoo.kg
 jaiu.kg
 jakamen.kg
 jakshyjat.kg
-jalal-abad.kg
 jalalabad.kg
 jalgroupasia.kg
 jalusi-centr.kg
@@ -6246,7 +6238,6 @@ karakolsolution.kg
 karakoltour.kg
 karandashkin.kg
 karaoke.kg
-karasuu.kg
 karavan.kg
 karavanidet.kg
 karazhygachailokmoty.kg
@@ -6294,7 +6285,6 @@ kavrolex.kg
 kawj.kg
 kayak.kg
 kaynar.kg
-kaynargroup.kg
 kayo.kg
 kaytus.kg
 kazan.kg
@@ -6500,7 +6490,6 @@ klientiks.kg
 klik.kg
 klimat.kg
 klimat312.kg
-klinker.kg
 klivis.kg
 kln.kg
 kloop.kg
@@ -6660,7 +6649,6 @@ krono.kg
 kronospan.kg
 krose.kg
 kroshka.kg
-krot-bishkek.kg
 krsu.kg
 krugosvet.kg
 krups.kg
@@ -6755,7 +6743,6 @@ kuthome.kg
 kutnan.kg
 kutned.kg
 kutstroy.kg
-kuttuel.kg
 kuttv.kg
 kuu.kg
 kv.kg
@@ -7066,7 +7053,6 @@ lindaily.kg
 lindavit.kg
 lindemann.kg
 lindl.kg
-line.kg
 line24.kg
 lineexpress.kg
 lingua-english.kg
@@ -7101,6 +7087,7 @@ litsenzii.kg
 litsenziya.kg
 littlejapan.kg
 litum.kg
+liu.kg
 liugong.kg
 live.kg
 livebar.kg
@@ -7298,7 +7285,6 @@ magnatools.kg
 magnit.kg
 magnitola.kg
 magnus.kg
-maidamanty.kg
 mail.kg
 mailbox.kg
 mailuusuu.kg
@@ -7420,7 +7406,6 @@ masterokon.kg
 masterplast.kg
 mastersplace.kg
 masterstroiteli.kg
-masterstroy.kg
 mastertour.kg
 mat.kg
 mateus.kg
@@ -7829,7 +7814,6 @@ mioclinic.kg
 mir-instrumenta.kg
 mir-kinoteatr.kg
 mir.kg
-mira.kg
 mirador.kg
 miragrofarm.kg
 mirai.kg
@@ -8253,7 +8237,6 @@ navi.kg
 navien.kg
 navigator-cafe.kg
 navigator-shipping.kg
-navigator.kg
 navigatorgroup.kg
 navigatour.kg
 nazar.kg
@@ -8345,7 +8328,6 @@ newjob.kg
 newme.kg
 newpost.kg
 news.kg
-news312.kg
 newstar.kg
 newtech.kg
 newton.kg
@@ -8543,7 +8525,6 @@ oaobmz.kg
 oaouchkun.kg
 oasis-tradin.kg
 oasisagro.kg
-oasisdoner.kg
 oasisorg.kg
 oazis.kg
 ob.kg
@@ -8929,7 +8910,6 @@ owen.kg
 owl.kg
 oxford.kg
 oxus.kg
-oxygenate.kg
 ozalys.kg
 ozgonnuru.kg
 ozgorushtravel.kg
@@ -9211,7 +9191,6 @@ pir.kg
 pirat.kg
 piromag.kg
 pisa.kg
-pishpek.kg
 pistol.kg
 pit.kg
 piter-ix.kg
@@ -9460,6 +9439,7 @@ prk.kg
 pro-agro.kg
 pro-auto.kg
 pro-avto.kg
+pro-moto.kg
 pro.kg
 proairdigihaler.kg
 proart.kg
@@ -9506,6 +9486,7 @@ profitouch.kg
 proflicei13.kg
 proflog.kg
 profmuc.kg
+profoto.kg
 profshop.kg
 profskills.kg
 profus.kg
@@ -9876,7 +9857,6 @@ respub.kg
 respublica.kg
 rest.kg
 restart.kg
-resto-talisman.kg
 resto.kg
 restoran.kg
 restpay.kg
@@ -10418,7 +10398,6 @@ shangrila.kg
 shantui.kg
 shariki.kg
 sharit.kg
-shashlychnik.kg
 shashlyk.kg
 shatura.kg
 shc.kg
@@ -11051,7 +11030,6 @@ sultangroup.kg
 sultanhotels.kg
 sultanindustry.kg
 sultanshop.kg
-suluktu.kg
 sumki.kg
 summit-adv.kg
 summitinvest.kg
@@ -12182,7 +12160,6 @@ valuta.kg
 valves.kg
 vanessa.kg
 vanguard.kg
-vanillacoffee.kg
 vanmarket.kg
 vap.kg
 vape.kg
@@ -12754,7 +12731,6 @@ yuras-pechati.kg
 yuren.kg
 yuria-pharm.kg
 yurist.kg
-yurkaganat.kg
 yurta.kg
 yurtcampalay.kg
 yurtdistribution.kg
@@ -12833,7 +12809,6 @@ zhetigen-solutions.kg
 zhivoe.kg
 zic.kg
 zigbee.kg
-zigzag.kg
 zil.kg
 zilaneversun.kg
 zilon.kg
