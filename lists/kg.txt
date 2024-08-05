@@ -88,6 +88,7 @@
 2gis.kg
 2proraba.kg
 2techno.kg
+2x2.kg
 3-delectro.kg
 3.kg
 312-security.kg
@@ -460,6 +461,7 @@ aihouse.kg
 aik.kg
 aika.kg
 aikido.kg
+aikol-rent.kg
 aila.kg
 ailana.kg
 ailine.kg
@@ -1885,7 +1887,6 @@ berlin-chemie.kg
 berlinchemie.kg
 berloga.kg
 bermet.kg
-berries.kg
 berry.kg
 bes.kg
 besharcha.kg
@@ -2076,7 +2077,6 @@ bishkekcardio.kg
 bishkekcargo.kg
 bishkekflowers.kg
 bishkekkurulush.kg
-bishkekmed.kg
 bishkekonline.kg
 bishkekpark.kg
 bishkekparts.kg
@@ -2290,7 +2290,6 @@ brick2brick.kg
 bridge-export.kg
 bridge.kg
 bridgepetroleum.kg
-bridges.kg
 bridgestone-firestone.kg
 bridgestone.kg
 bright-crystal.kg
@@ -2939,7 +2938,6 @@ cpu.kg
 craft.kg
 craftbeer.kg
 crasher.kg
-crazybrothers.kg
 crazylove.kg
 crealestate.kg
 creasoft.kg
@@ -3776,7 +3774,6 @@ eldikbank.kg
 eldiki.kg
 eldikpay.kg
 eldiktech.kg
-eldyk.kg
 electra.kg
 electraexchange.kg
 electric.kg
@@ -4831,7 +4828,6 @@ giga.kg
 gigabit.kg
 gigabyte.kg
 gik.kg
-gimnastika.kg
 ginecolaser.kg
 gio.kg
 gipermarket.kg
@@ -6518,7 +6514,6 @@ kng.kg
 kniga.kg
 knitism.kg
 knitu.kg
-knopka.kg
 knowhow.kg
 knoxguard.kg
 knp.kg
@@ -6653,7 +6648,6 @@ krsu.kg
 krugosvet.kg
 krups.kg
 kryon.kg
-ks.kg
 ksa.kg
 ksapcs.kg
 ksb.kg
@@ -6789,7 +6783,6 @@ kyrgyzkorm.kg
 kyrgyzmap.kg
 kyrgyzmedia.kg
 kyrgyzobshepit.kg
-kyrgyzocean.kg
 kyrgyzpatent.kg
 kyrgyzpost.kg
 kyrgyzprokat.kg
@@ -7816,7 +7809,6 @@ mir-kinoteatr.kg
 mir.kg
 mirador.kg
 miragrofarm.kg
-mirai.kg
 mirakb.kg
 mirdez.kg
 mirestetiki.kg
@@ -8011,7 +8003,6 @@ msccruises.kg
 msco.kg
 msdistribution.kg
 msel.kg
-mservice.kg
 msi.kg
 msk.kg
 msmk.kg
@@ -11831,7 +11822,6 @@ ts-powersports.kg
 ts.kg
 ts3.kg
 tsb-bishkek.kg
-tsb-es.kg
 tsb.kg
 tsf.kg
 tsfinance.kg
@@ -12401,6 +12391,7 @@ vosst.kg
 vostokelectro.kg
 vostokmed.kg
 vouwallet.kg
+voyage.kg
 voyagergroup.kg
 voyah.kg
 voznesenovka.kg
