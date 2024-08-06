@@ -1486,6 +1486,7 @@ fw.ax
 fx.ax
 fxcm.ax
 fxm.ax
+fy.ax
 fynda.ax
 fyndet.ax
 fysioaland.ax
@@ -3734,6 +3735,7 @@ tehy.ax
 teknik.ax
 teknikhjalpen.ax
 teknikpartner.ax
+teknikutryckningen.ax
 telecom.ax
 teledyne.ax
 telef.ax
@@ -4311,6 +4313,7 @@ zj.ax
 zk.ax
 zl.ax
 zm.ax
+zn.ax
 zo.ax
 zodiaq.ax
 zomato.ax
