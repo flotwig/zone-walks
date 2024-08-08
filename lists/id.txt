@@ -288,6 +288,7 @@
 126.id
 12698.id
 127.id
+12769.id
 127slot.id
 128.id
 12839.id
@@ -371,6 +372,7 @@
 161.id
 16168.id
 162.id
+16203.id
 162production.id
 163.id
 16315.id
@@ -656,6 +658,7 @@
 214.id
 215.id
 215485.id
+21567.id
 216.id
 217.id
 218.id
@@ -698,7 +701,6 @@
 234xii.id
 235.id
 23598.id
-235xii.id
 236-95.id
 236.id
 237.id
@@ -812,7 +814,6 @@
 27solution.id
 27stars.id
 27trans.id
-28-ht.id
 28.id
 280.id
 281.id
@@ -904,6 +905,7 @@
 316224.id
 31640.id
 31658.id
+31678.id
 31692.id
 317.id
 31769.id
@@ -999,6 +1001,7 @@
 360studio.id
 360system.id
 360utopia.id
+360view.id
 360vpro.id
 360vr.id
 361.id
@@ -1482,7 +1485,6 @@
 554.id
 55442.id
 555.id
-555slot.id
 556.id
 557.id
 558.id
@@ -1585,6 +1587,7 @@
 601.id
 602.id
 60288.id
+60298.id
 603.id
 60343.id
 604.id
@@ -1757,6 +1760,7 @@
 682.id
 683.id
 683172.id
+68325.id
 684.id
 685.id
 68579.id
@@ -1833,7 +1837,6 @@
 719.id
 719354.id
 71958.id
-72-ht.id
 72.id
 720.id
 721.id
@@ -1868,7 +1871,6 @@
 737a6f6669e1.id
 738.id
 739.id
-74-ht.id
 74.id
 740.id
 741.id
@@ -1942,13 +1944,11 @@
 77753.id
 77778.id
 7777hot.id
-777akunslot.id
 777casino.id
 777hoki.id
 777hokislot.id
 777kaya.id
 777loc.id
-777luckyslot.id
 777mgm.id
 777peka.id
 777score.id
@@ -1992,7 +1992,6 @@
 78farm.id
 78kemerdekaan.id
 78win.id
-79-ht.id
 79.id
 790.id
 791.id
@@ -2061,6 +2060,7 @@
 800bestex.id
 800sat.id
 801.id
+80152.id
 802.id
 80297.id
 803.id
@@ -2140,7 +2140,6 @@
 848.id
 849.id
 84rising.id
-85-ht.id
 85.id
 850.id
 850xii.id
@@ -2237,7 +2236,6 @@
 88situspoker.id
 88slot.id
 88slotjitu.id
-88slots.id
 88space.id
 88spin.id
 88studio.id
@@ -2346,6 +2344,7 @@
 92.id
 920.id
 921.id
+92178.id
 922.id
 923.id
 924.id
@@ -2371,9 +2370,11 @@
 93157.id
 93158.id
 932.id
+93210.id
 933.id
 934.id
 935.id
+93580.id
 936.id
 937.id
 938.id
@@ -2627,6 +2628,7 @@ aamin.id
 aan-projectmanagement.id
 aandd.id
 aandzee.id
+aangbaejuri.id
 aangilam.id
 aankancil.id
 aankoop.id
@@ -3110,7 +3112,6 @@ absenonline.id
 absensi-go.id
 absensi-kek.id
 absensi.id
-absensiandroid.id
 absensinow.id
 absensionline.id
 absensipegawai.id
@@ -3929,6 +3930,7 @@ adarafashion.id
 adarasa.id
 adarma.id
 adarmagasinaga.id
+adarmasinaga.id
 adaroandalan.id
 adaromineral.id
 adarominerals.id
@@ -4216,7 +4218,6 @@ adipangastuti.id
 adipathi.id
 adipati.id
 adipatidolken.id
-adipatilangit.id
 adipecmitraenergi.id
 adipertiwi.id
 adipeux.id
@@ -4237,6 +4238,7 @@ adiragadaibpkb.id
 adirak.id
 adiraku.id
 adiramamitrasehati.id
+adiramultiguna.id
 adirasidoarjo.id
 adiravirtualexpo.id
 adirect.id
@@ -4732,6 +4734,7 @@ aeg.id
 aegean.id
 aegin.id
 aegis.id
+aegisbisnis.id
 aegislaw.id
 aegisnet.id
 aegon.id
@@ -5327,6 +5330,7 @@ agenpelayaran.id
 agenpengadaan.id
 agenperubahan.id
 agenpialadunia2018.id
+agenpintar.id
 agenpkv.id
 agenplay88.id
 agenpoker.id
@@ -5365,7 +5369,6 @@ agensis.id
 agensiundian.id
 agenslot168.id
 agenslot69.id
-agenslot78.id
 agenslotgacor.id
 agenslotonline.id
 agenslotonlineresmi.id
@@ -5951,6 +5954,7 @@ ahssigma.id
 ahstore.id
 aht-garage.id
 ahtastore.id
+ahteam.id
 ahti.id
 ahtrmi.id
 ahwal.id
