@@ -585,6 +585,7 @@
 1winn.id
 1winonline.id
 1wins.id
+1winterslot.id
 1wintoken.id
 1winz.id
 1world.id
@@ -744,6 +745,7 @@
 24hourscasino.id
 24ill.id
 24jam.id
+24jamindonesia.id
 24jamnews.id
 24k.id
 24karat.id
@@ -869,6 +871,7 @@
 2store.id
 2tang.id
 2up.id
+2winterslot.id
 2xucompressionrun.id
 3-dev.id
 3.id
@@ -1190,6 +1193,7 @@
 3tokendigital.id
 3toso.id
 3warna.id
+3winterslot.id
 4.id
 40.id
 400.id
@@ -1531,8 +1535,6 @@
 57computer.id
 57creative.id
 57promenade.id
-58-3r.id
-58-6r.id
 58.id
 580.id
 58071.id
@@ -2313,6 +2315,7 @@
 908.id
 90826.id
 909.id
+90bola.id
 90min.id
 90minindonesia.id
 90phut.id
@@ -2657,6 +2660,7 @@ aasnack.id
 aasted.id
 aasthaautopartindo.id
 aastore.id
+aastudiobeautybar.id
 aasumitro.id
 aatoto.id
 aaui-services.id
@@ -2700,6 +2704,7 @@ abaditrans.id
 abafoundation.id
 abafteknologi.id
 abaga.id
+abah69.id
 abahdede.id
 abahhusein.id
 abahkost.id
@@ -3011,7 +3016,6 @@ ablution.id
 abm-digital.id
 abm.id
 abmauri.id
-abmed.id
 abmedia.id
 abmfiber.id
 abmsolution.id
@@ -3101,6 +3105,7 @@ abschool.id
 abscorp.id
 absen.id
 absenacingjaya.id
+absenbat.id
 absencerdas.id
 absendroid.id
 absendulu.id
@@ -3463,7 +3468,6 @@ acehjogja.id
 acehkini.id
 acehku.id
 acehlink.id
-acehlonsayang.id
 acehmakmurbersama.id
 acehmansion.id
 acehmarket.id
@@ -3577,6 +3581,7 @@ acknowly.id
 acmaintenance.id
 acmasters.id
 acmatic.id
+acmcert.id
 acmeapps.id
 acmeasia.id
 acmecard.id
@@ -3777,6 +3782,7 @@ acungrajut.id
 acupuncture.id
 acura.id
 acutogel.id
+acutogel4d.id
 acv-astra.id
 acvee.id
 acvenus.id
@@ -4506,7 +4512,6 @@ ads-associates.id
 ads-express.id
 ads-kapital.id
 ads-kmb.id
-ads.id
 ads15.id
 ads3.id
 adsagency.id
@@ -4843,7 +4848,6 @@ aerowisatalogistics.id
 aerowisatatransport.id
 aerowisatatravel.id
 aeroxspace.id
-aeroyoung.id
 aerputh.id
 aerputhi.id
 aerputih.id
@@ -5277,7 +5281,6 @@ agency.id
 agencyawards.id
 agencybali.id
 agencygr.id
-agencynews.id
 agencyspg.id
 agenda.id
 agenda45.id
@@ -5986,6 +5989,7 @@ aiagent.id
 aiai.id
 aiaja.id
 aiandco.id
+aianews.id
 aiart.id
 aiartist.id
 aiasolution.id
