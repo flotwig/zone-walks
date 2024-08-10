@@ -381,7 +381,6 @@ abidjanevents.ci
 abidjanfacile.ci
 abidjanfashion.ci
 abidjanfrais.ci
-abidjaninformatique.ci
 abidjanmall.ci
 abidjanmetro.ci
 abidjanplanet.ci
@@ -610,6 +609,7 @@ afrimarket.ci
 afrimcaonline.co.ci
 afrimedis.ci
 afriqiyah.ci
+afriqpro.ci
 afriqsolus.ci
 afriqtp.ci
 afrique-sur7.ci
@@ -1065,7 +1065,6 @@ apsfd.ci
 apsi.ci
 apsonic-moto.ci
 apsonic.ci
-apt.ci
 aptonia.ci
 aq.ci
 aquifereforage.ci
@@ -2350,7 +2349,6 @@ cdpbingerville.ci
 cdr.ci
 cdsi.ci
 cdt.ci
-cdtcousteau.ci
 cdtindustrie.ci
 cdz.ci
 ce.ci
@@ -2636,6 +2634,8 @@ cirad.ci
 cirba.ci
 circet.ci
 circle.ci
+circus.ci
+circusgroup.ci
 cirec.ci
 ciref.ci
 cirepci.ci
