@@ -40,7 +40,7 @@ TLD | Domain Count
 [`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2520</div>
 [`pr`][pr] [(raw)][pr-raw] | <div align="right">2226</div>
 [`desi`][desi] [(raw)][desi-raw] | <div align="right">1852</div>
-[`tz`][tz] [(raw)][tz-raw] | <div align="right">1498</div>
+[`tz`][tz] [(raw)][tz-raw] | <div align="right">1497</div>
 [`bt`][bt] [(raw)][bt-raw] | <div align="right">1371</div>
 [`br`][br] [(raw)][br-raw] | <div align="right">1350</div>
 [`diet`][diet] [(raw)][diet-raw] | <div align="right">1168</div>
