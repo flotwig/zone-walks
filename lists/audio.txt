@@ -1075,6 +1075,7 @@ dd.audio
 ddd.audio
 de-reverberation.audio
 deadzone.audio
+deaf.audio
 deafbonce.audio
 dears.audio
 debaat.audio
@@ -1567,6 +1568,7 @@ flatrate.audio
 flatrates.audio
 flex.audio
 flexi.audio
+flightcast.audio
 flippingtheladder.audio
 float.audio
 floatingpoint.audio
@@ -1680,6 +1682,7 @@ gameplay.audio
 gamescape.audio
 ganesh.audio
 gapp.audio
+garth.audio
 gates.audio
 gaydio.audio
 gdcpmh.audio
@@ -2356,6 +2359,7 @@ le-rhine.audio
 leak.audio
 leaked.audio
 lechtal.audio
+lector.audio
 leezen.audio
 legendary.audio
 lehle.audio
@@ -4294,7 +4298,6 @@ titato.audio
 tivoli.audio
 tjh.audio
 tma.audio
-tmc.audio
 toby.audio
 tobymusic.audio
 tofugu.audio
