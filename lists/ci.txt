@@ -226,7 +226,6 @@
 3d-system.ci
 3d.ci
 3dev.ci
-3dnetinfo.ci
 3ebat.ci
 3f.ci
 3ic.ci
@@ -237,6 +236,7 @@
 404.ci
 42.ci
 44.ci
+444.ci
 4l-innovation.ci
 4rabet.ci
 50visagesivoiretech.ci
@@ -1103,6 +1103,7 @@ arianepubservices.ci
 ariel-kentreprise.ci
 arielallbase.ci
 arielglaser.ci
+arielindustries.ci
 aris-intelligence.ci
 arismagroup.ci
 ariston.ci
@@ -1651,6 +1652,7 @@ bestbread.ci
 bestbuy.ci
 bestcom.ci
 bestcompetence.ci
+bestinfo.ci
 bet-andreas.ci
 bet-andreas.com.ci
 bet.ci
@@ -1739,7 +1741,6 @@ biim.ci
 biji.ci
 bijouoriginal.ci
 bijouterie-medina.ci
-bijoux.ci
 bikee.ci
 bilamah.ci
 bildiri.ci
