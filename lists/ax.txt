@@ -185,7 +185,6 @@ af.ax
 aferry.ax
 affessjomaskiner.ax
 afff.ax
-afhs.ax
 afrika.ax
 aftonsol.ax
 ag.ax
@@ -376,7 +375,6 @@ amnas.ax
 amoena.ax
 ams.ax
 amt.ax
-amzn.ax
 an.ax
 and.ax
 andelsbanken.ax
@@ -704,7 +702,6 @@ bodybio.ax
 boeckmanncenter.ax
 boedeker.ax
 bogskar.ax
-boilemland.ax
 bojoko.ax
 bok.ax
 bokaband.ax
@@ -735,6 +732,7 @@ boquerian.ax
 bor.ax
 borgast.ax
 borgdala.ax
+borreliagruppen.ax
 borreliakliniken.ax
 bosgrav.ax
 bosidan.ax
@@ -2198,7 +2196,6 @@ ks.ax
 kst.ax
 kt.ax
 kulebo.ax
-kultur.ax
 kulturarv.ax
 kulturhistoriska.ax
 kulturkraft.ax
@@ -2361,7 +2358,6 @@ love.ax
 lowvig.ax
 lp.ax
 lr.ax
-ls-mail.ax
 lt.ax
 lu.ax
 lucia.ax
@@ -2537,7 +2533,6 @@ metaverse.ax
 metawhatsapp.ax
 metaworkplace.ax
 mf.ax
-mfb.ax
 mh.ax
 mhd.ax
 mi.ax
@@ -2618,7 +2613,6 @@ mote.ax
 motion.ax
 motleydenim.ax
 motorcompany.ax
-motorfordonsbyran.ax
 motormuseum.ax
 motorportalen.ax
 motrasism.ax
@@ -2661,7 +2655,6 @@ mwa.ax
 mx.ax
 my.ax
 mybeautycare.ax
-mydomain.ax
 myf.ax
 myfabulosa.ax
 mym.ax
@@ -2782,8 +2775,11 @@ np.ax
 npf.ax
 ns.ax
 ns.jd.ax
+ns1.mydomain.ax
 ns2.jd.ax
+ns2.mydomain.ax
 ns2.quedro.ax
+ns3.mydomain.ax
 nt.ax
 nu.ax
 null.ax
