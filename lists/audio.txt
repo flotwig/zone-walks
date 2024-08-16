@@ -39,6 +39,7 @@
 4ktv.audio
 4play.audio
 5050.audio
+528hz.audio
 5g.audio
 60cyclehumm.audio
 70v.audio
@@ -51,6 +52,7 @@
 8fm.audio
 8ktv.audio
 8xbet.audio
+963hz.audio
 9k.audio
 a-cool-sound.audio
 a-s.audio
@@ -1299,6 +1301,7 @@ earli.audio
 earsup.audio
 earth.audio
 earthtribe.audio
+easier.audio
 eastcoast.audio
 easy.audio
 eat.audio
@@ -1525,6 +1528,7 @@ fidelizer.audio
 fidibo.audio
 fiedler.audio
 field.audio
+fieldrecording.audio
 fierce.audio
 fiess.audio
 fifthelement.audio
@@ -2431,7 +2435,6 @@ localist.audio
 localize.audio
 location.audio
 locationsound.audio
-locked.audio
 locutores.audio
 lodestone.audio
 loewe.audio
@@ -3967,7 +3970,6 @@ sounds.audio
 soundscape.audio
 soundscapes.audio
 soundscouts.audio
-soundseparator.audio
 soundshadow.audio
 soundsmith.audio
 soundsound.audio
