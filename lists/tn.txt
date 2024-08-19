@@ -1261,7 +1261,6 @@ afc-industrie.tn
 afc.tn
 afce.tn
 afcnet.tn
-afdesign.tn
 afdhalstore.tn
 afek-tounes.tn
 afek.tn
@@ -10094,7 +10093,6 @@ count.tn
 countryfruits.tn
 countryguide.tn
 county.tn
-coupdemain.tn
 coupdepouceacademy.tn
 coupole.tn
 coupon.tn
@@ -11918,7 +11916,6 @@ digitoz.tn
 digitperf.tn
 digitrack.tn
 digitraining.tn
-digitrix-agency.tn
 digits.tn
 digitun.tn
 digiturbo.tn
@@ -16674,7 +16671,6 @@ freecom.tn
 freeda.tn
 freedark.tn
 freedastore.tn
-freedeal.tn
 freedev.tn
 freedom-technology.tn
 freedom.tn
@@ -25510,6 +25506,7 @@ ma3oun.tn
 ma3roufa.tn
 ma9al.tn
 maa.tn
+maacha.tn
 maafex.tn
 maak-corp.tn
 maak.tn
@@ -30238,6 +30235,7 @@ ns1.cultures-web.tn
 ns1.cutiepie.tn
 ns1.deali.tn
 ns1.fpk-plus.tn
+ns1.freedeal.tn
 ns1.hkstore.tn
 ns1.jasminshop.tn
 ns1.nostratech.tn
@@ -30250,6 +30248,7 @@ ns2.ayed-technology.tn
 ns2.basmati.tn
 ns2.cutiepie.tn
 ns2.deali.tn
+ns2.freedeal.tn
 ns2.hkstore.tn
 ns2.jasminshop.tn
 ns2.nostratech.tn
