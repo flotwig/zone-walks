@@ -275,6 +275,7 @@
 6net.ci
 70.ci
 72.ci
+725.ci
 7253.ci
 73.ci
 7337.ci
@@ -1577,6 +1578,7 @@ bcc.ci
 bccshop.ci
 bccsigec.ci
 bcdtravel.ci
+bclub.ci
 bcnews225.ci
 bcs.ci
 bcsgroup.ci
@@ -2569,6 +2571,7 @@ cidigit.ci
 cidt.ci
 cie.ci
 cied.ci
+ciel.ci
 cieltmsa.ci
 ciemindus.ci
 cietb.ci
@@ -2647,7 +2650,6 @@ cisco.com.ci
 ciscosystems.ci
 ciscosystems.co.ci
 ciscosystems.com.ci
-cislo.ci
 cit-ica.ci
 cit.ci
 citadel.ci
