@@ -1517,6 +1517,7 @@ atlanta.gdn
 atlantaapartments.gdn
 atm.gdn
 atmosfera.gdn
+ato-svcure.gdn
 atrapa.gdn
 attendance.gdn
 attendant.gdn
@@ -3151,7 +3152,6 @@ cohen.gdn
 coin.gdn
 coins.gdn
 coinsbanks.gdn
-coinstore.gdn
 coinstoreclub.gdn
 coke.gdn
 colchester.gdn
@@ -6437,7 +6437,6 @@ heptachlorodifluropropane.gdn
 heptaldehydes.gdn
 her.gdn
 herbaceousplantseeds.gdn
-herbal.gdn
 herbalist.gdn
 herbicides.gdn
 herbivore.gdn
@@ -6915,7 +6914,6 @@ intl.gdn
 intracom.gdn
 intraocularlens.gdn
 intrapid.gdn
-intrepid.gdn
 invention.gdn
 inventory.gdn
 invest.gdn
@@ -9294,7 +9292,6 @@ outlets.gdn
 outofscope.gdn
 outsource.gdn
 overnightshipping.gdn
-overseer.gdn
 overstock.gdn
 overture.gdn
 overview.gdn
@@ -11666,6 +11663,7 @@ termitecontrol.gdn
 termiteinspection.gdn
 terribly.gdn
 terry.gdn
+tesco.gdn
 tesla.gdn
 test-ndrs-renew-01.gdn
 test.gdn
@@ -11712,7 +11710,6 @@ thomson.gdn
 thomsonreuters.gdn
 thong.gdn
 though.gdn
-threads.gdn
 three.gdn
 thrive.gdn
 thursday.gdn
@@ -12303,7 +12300,6 @@ webdesign.gdn
 webdesigning.gdn
 webdev.gdn
 webdomain.gdn
-webdrive.gdn
 weber.gdn
 webhook.gdn
 webhosting.gdn
