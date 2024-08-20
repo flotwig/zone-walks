@@ -137,6 +137,7 @@ _nicname._tcp.ax
 a-x.ax
 a-z.ax
 a-z0-9.ax
+a0.ax
 a1.ax
 a1k.ax
 a2.ax
@@ -1051,7 +1052,6 @@ di.ax
 diabetes.ax
 diablo.ax
 diadora.ax
-diem.ax
 digital.ax
 dinfastighet.ax
 dinsko.ax
@@ -1811,6 +1811,7 @@ hugos.ax
 humlan.ax
 hundfys.ax
 hundraprocent.ax
+hundrastning.ax
 huntit.ax
 hus.ax
 husbil.ax
@@ -1828,6 +1829,7 @@ hyran.ax
 hyras.ax
 hyrhosclasohlson.ax
 hyris.ax
+hyrmax.ax
 hz.ax
 ia.ax
 ib.ax
@@ -4277,6 +4279,7 @@ xxbet.ax
 xxx.ax
 xy.ax
 xylo.ax
+xylogik.ax
 xyz.ax
 xz.ax
 ya.ax
