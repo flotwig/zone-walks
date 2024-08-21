@@ -566,6 +566,9 @@ akfix.kg
 akfr.kg
 aki.kg
 akipress.kg
+akjola.kg
+akjolahotel.kg
+akjolsoodacompany.kg
 akk.kg
 akka.kg
 akkeme.kg
@@ -1015,7 +1018,6 @@ arcelor-mittal.kg
 arcelormittal.kg
 arcgis.kg
 archa.kg
-archabeshik.kg
 archalymedresesi.kg
 archeo.kg
 archi.kg
@@ -1166,7 +1168,6 @@ asiacargo.kg
 asiacg.kg
 asiacity.kg
 asiaclear.kg
-asiaecogoods.kg
 asiaes.kg
 asiaexpress.kg
 asiafactoring.kg
@@ -1227,6 +1228,7 @@ asktravel.kg
 askye.kg
 aslanstroi.kg
 asm.kg
+asman-oil-company.kg
 asman.kg
 asmanair.kg
 asmanairlines.kg
@@ -2508,7 +2510,6 @@ carclick.kg
 card.kg
 card2card.kg
 cardiology.kg
-cardiosurgery.kg
 cardplus.kg
 cardsmoney.kg
 cardstandard.kg
@@ -2592,6 +2593,7 @@ cci-china.kg
 cci.kg
 ccs.kg
 cctld.kg
+cd.kg
 cdek.kg
 cdl.kg
 cdlolymp.kg
@@ -3333,7 +3335,6 @@ digis.kg
 digiskills.kg
 digit.kg
 digital.kg
-digitalasia.kg
 digitalassets.kg
 digitalcapital.kg
 digitalcentralcorridor.kg
@@ -3571,7 +3572,6 @@ dvoynyashki.kg
 dvv-international.kg
 dwc.kg
 dwhs.kg
-dwpos.kg
 dx.kg
 dyneco.kg
 dyslexia.kg
@@ -3666,6 +3666,7 @@ ecofood.kg
 ecohouse.kg
 ecoislamicbank.kg
 ecokids.kg
+ecokna.kg
 ecoland.kg
 ecole.kg
 ecoluna.kg
@@ -3769,6 +3770,7 @@ ekoprom.kg
 ekos.kg
 ekran.kg
 ekstaz.kg
+ekstruder.kg
 el-kitep.kg
 el-loto.kg
 el-sozduk.kg
@@ -3838,6 +3840,7 @@ elge.kg
 elgezit.kg
 elim.kg
 elimbar.kg
+elime.kg
 elishacoy.kg
 elita.kg
 elite-bruschatka.kg
@@ -4138,7 +4141,6 @@ evaathome.kg
 evacuator.kg
 evacuatorsokol.kg
 evacuatorsokol140.kg
-evakuator-garant.kg
 evakuator-team.kg
 evakuator.kg
 evakuator23.kg
@@ -4556,7 +4558,6 @@ fors.kg
 forteinvest.kg
 fortenergy.kg
 fortestroy.kg
-fortuna.kg
 forum.kg
 forumofwomenngos.kg
 forvis-mazars.kg
@@ -4801,6 +4802,7 @@ generator-sets.kg
 generator.kg
 generators.kg
 generatory.kg
+genimport.kg
 genius.kg
 geo-sm.kg
 geo-sp.kg
@@ -4878,6 +4880,7 @@ glassteam.kg
 glavbuh.kg
 glavbukh.kg
 glavmaster.kg
+glavstroy-okna.kg
 glavtbtob.kg
 glavtour.kg
 glavturnik.kg
@@ -5125,7 +5128,6 @@ gum.kg
 gumat.kg
 gunay.kg
 guobdd.kg
-guru.kg
 gusi.kg
 gw-world.kg
 gwm.kg
@@ -5151,7 +5153,6 @@ haktan.kg
 halal.kg
 halalcenter.kg
 halalindustry.kg
-hall.kg
 hallerlomax.kg
 halyk.kg
 halykbank.kg
@@ -5279,6 +5280,7 @@ hirehub.kg
 hisense-air.kg
 hisense.kg
 history.kg
+historymuseum.kg
 hit-travel.kg
 hit.kg
 hitachi.kg
@@ -5734,6 +5736,7 @@ integra.kg
 integrator.kg
 integrity.kg
 intek.kg
+intel-logistic.kg
 intel.kg
 intelka.kg
 intelmed.kg
@@ -5961,6 +5964,7 @@ iuca.kg
 iuk.kg
 ivf.kg
 ivigroup.kg
+ivision.kg
 ivoclar-vivadent.kg
 ivoclarvivadent.kg
 ivory.kg
@@ -6088,7 +6092,6 @@ jetykazyna.kg
 jewelry.kg
 jg.kg
 jia.kg
-jiba.kg
 jibekcity.kg
 jibekjolu.kg
 jibekjolukafe.kg
@@ -6250,7 +6253,6 @@ kara-balta.kg
 kara-bermet.kg
 kara-bulak.kg
 kara-guz.kg
-kara-kulja.kg
 kara-suu.kg
 karabermet.kg
 karabulak.kg
@@ -6939,6 +6941,7 @@ ldscharities.kg
 ldschurch.kg
 ldsp.kg
 leacli.kg
+lead.kg
 leader-consulting.kg
 leader.kg
 leadership.kg
@@ -7223,13 +7226,13 @@ loymaxasia.kg
 lpgroup.kg
 lrt.kg
 ls.kg
-lss.kg
 lstudio.kg
 lt.kg
 ltd.kg
 ltdsoft.kg
 lte.kg
 lts.kg
+ltt.kg
 ltv.kg
 lu.kg
 lubidom.kg
@@ -7738,6 +7741,7 @@ metallken.kg
 metallobaza.kg
 metallomir.kg
 metalloprofil.kg
+metallprofi.kg
 metallprofil.kg
 metallprom.kg
 metallpromko.kg
@@ -7905,6 +7909,7 @@ ml.kg
 mleasing.kg
 mlgroup.kg
 mls-asian.kg
+mlsp.kg
 mm-l.kg
 mm.kg
 mmarket.kg
@@ -8542,6 +8547,7 @@ nurjak.kg
 nurjanov.kg
 nurmebel.kg
 nurmedia.kg
+nurmi.kg
 nurnews.kg
 nurpress.kg
 nurstroy.kg
@@ -9650,6 +9656,7 @@ q.kg
 qaragat.kg
 qarashlab.kg
 qazexpress.kg
+qbt.kg
 qbtools.kg
 qezek.kg
 qezeq.kg
@@ -10254,6 +10261,7 @@ sapatned.kg
 sapatprom.kg
 sapatrezerv.kg
 saphir.kg
+saqta.kg
 saran-ga.kg
 saratan.kg
 saray.kg
@@ -10286,7 +10294,6 @@ savor.kg
 sawwa.kg
 saxarok.kg
 sayasat.kg
-sayohat.kg
 sb.kg
 sbc.kg
 sberbank.kg
@@ -10357,6 +10364,7 @@ selectric.kg
 selfietravel.kg
 selicosm.kg
 selinastyle.kg
+sell.kg
 seller-promotion.kg
 seller-shopper.kg
 seller.kg
@@ -10919,7 +10927,6 @@ sr.kg
 srimpex.kg
 sris.kg
 srk.kg
-sropasture.kg
 srs.kg
 srt.kg
 srv.kg
@@ -11077,7 +11084,7 @@ studyinczech.kg
 studyinkyrgyzstan.kg
 studynow.kg
 studyusa.kg
-stus.kg
+studyworld.kg
 stuz.kg
 stvs.kg
 styleboutique.kg
@@ -11135,6 +11142,7 @@ superdry.kg
 superjob.kg
 superkassa.kg
 supermarket.kg
+supermaster.kg
 supermedia.kg
 superpena.kg
 superslots.kg
@@ -11353,7 +11361,6 @@ tcsoft.kg
 tcts.kg
 tdi.kg
 tdom.kg
-tdstroitel.kg
 tea.kg
 teacher.kg
 team-services.kg
@@ -12794,6 +12801,7 @@ yourbi.kg
 yoursafe.kg
 yourta.kg
 yourway.kg
+youthofosh.kg
 youtube.kg
 youwanna.kg
 yoyo.kg
@@ -12819,6 +12827,7 @@ z.kg
 za-kemin-uchun.kg
 za.kg
 zabor.kg
+zade-vital.kg
 zaem.kg
 zaim.kg
 zaimi.kg
