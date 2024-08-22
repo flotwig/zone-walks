@@ -544,6 +544,7 @@ beats3.audio
 beats4.audio
 beats5.audio
 beatssolopro.audio
+beautilation.audio
 becker-foss.audio
 beelab.audio
 beeldengeluid.audio
@@ -2821,6 +2822,7 @@ msb.audio
 msd.audio
 msngr.audio
 msteiert.audio
+mtlnovel.audio
 mtx.audio
 mtxaudio.audio
 mufc.audio
@@ -4043,6 +4045,7 @@ stagepool.audio
 stagesound.audio
 stalker.audio
 stanleycup.audio
+star.audio
 starboard.audio
 starburns.audio
 stark.audio
@@ -4194,7 +4197,6 @@ tangotimetravel.audio
 tann.audio
 taos.audio
 tap.audio
-tapco.audio
 tape.audio
 tapedeck.audio
 tapes.audio
