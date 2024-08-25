@@ -283,7 +283,6 @@
 124.id
 125.id
 12539.id
-12563.id
 126.id
 12698.id
 127.id
@@ -555,6 +554,7 @@
 1percentgarage.id
 1pharma.id
 1pintu.id
+1poker.id
 1rantai88.id
 1room.id
 1souvenir.id
@@ -783,11 +783,9 @@
 26351.id
 264.id
 265.id
-26513.id
 26531.id
 266.id
 267.id
-26731.id
 268.id
 26827.id
 269.id
@@ -1363,6 +1361,7 @@
 4pe.id
 4play.id
 4pleague.id
+4poker.id
 4rantai88.id
 4relial.id
 4s1m.id
@@ -1402,7 +1401,6 @@
 511-jakarta.id
 511.id
 512.id
-51273.id
 513.id
 51376.id
 514.id
@@ -1548,7 +1546,6 @@
 596387.id
 597.id
 598.id
-59813.id
 599.id
 5bintang.id
 5days.id
@@ -1594,7 +1591,6 @@
 611.id
 612.id
 613.id
-61358.id
 61359.id
 613985.id
 614.id
@@ -1611,7 +1607,6 @@
 62.id
 620.id
 621.id
-62179.id
 622.id
 62251.id
 623.id
@@ -1619,7 +1614,6 @@
 625.id
 626.id
 627.id
-62719.id
 62777.id
 628.id
 629.id
@@ -1676,7 +1670,6 @@
 650.id
 651.id
 65172.id
-65193.id
 652.id
 653-ft.id
 653.id
@@ -1802,7 +1795,6 @@
 715.id
 71516.id
 716.id
-71623.id
 717.id
 718.id
 71807.id
@@ -1815,7 +1807,6 @@
 722.id
 723.id
 72396.id
-72398.id
 724.id
 72425.id
 725.id
@@ -1870,7 +1861,6 @@
 75602.id
 757.id
 758.id
-75839.id
 75846.id
 75849.id
 75856.id
@@ -1966,7 +1956,6 @@
 792.id
 792699.id
 793.id
-79326.id
 794.id
 795.id
 79531.id
@@ -2056,13 +2045,11 @@
 817.id
 818.id
 819.id
-81975.id
 82.id
 820.id
 82031.id
 821.id
 82138.id
-82169.id
 822.id
 823.id
 824.id
@@ -2075,7 +2062,6 @@
 828group.id
 829.id
 829421.id
-82957.id
 82cart.id
 83.id
 830.id
@@ -2126,7 +2112,6 @@
 860.id
 861.id
 862.id
-86215.id
 86259.id
 863.id
 864.id
@@ -2306,7 +2291,6 @@
 923.id
 924.id
 925.id
-92561.id
 92581.id
 926.id
 927.id
@@ -2352,7 +2336,6 @@
 950.id
 950483.id
 951.id
-95167.id
 952.id
 95207.id
 953.id
@@ -2395,7 +2378,6 @@
 974532.id
 975.id
 976.id
-97681.id
 977.id
 978.id
 978473.id
@@ -2997,7 +2979,6 @@ aborigin.id
 aborigine.id
 abortioncare.id
 abounding.id
-about-you.id
 about.id
 aboutbajaj.id
 aboutbajajfinance.id
@@ -3993,6 +3974,7 @@ addodesakuripan.id
 addodesalandih.id
 addodesalubukraman.id
 addodesamelaya.id
+addodesapengiangan.id
 addodesapenglumbaran.id
 addodesaselat.id
 addodesasulahan.id
@@ -4388,6 +4370,7 @@ adnet.id
 adnice.id
 adnitech.id
 adnlogistics.id
+adnnn.id
 adnyana.id
 adobaladesa.id
 adobe-indonesia.id
@@ -5331,6 +5314,7 @@ agenpkv.id
 agenplay88.id
 agenpoker.id
 agenpokeronline.id
+agenpokerqq.id
 agenposfin.id
 agenpro.id
 agenpromogratis.id
@@ -5389,6 +5373,7 @@ agentnco.id
 agentogel.id
 agentopup.id
 agentoto.id
+agentotoplay-login.id
 agentotoplay.id
 agentpro.id
 agentravel.id
@@ -5775,6 +5760,7 @@ aguscustom.id
 aguservices.id
 aguskuncoro.id
 agusmu.id
+agusnovan.id
 aguspakpahan.id
 agusprasasti.id
 aguspriyanto.id
