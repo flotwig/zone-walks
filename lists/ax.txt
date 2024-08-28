@@ -1163,6 +1163,7 @@ eh.ax
 ehiglobal.ax
 ehns.ax
 ei.ax
+ej.ax
 ek.ax
 eklund.ax
 eklunds.ax
@@ -1342,7 +1343,6 @@ feministparaplyet.ax
 fenix.ax
 fer.ax
 ferm.ax
-festmagasinet.ax
 ff.ax
 ffbk.ax
 fg.ax
@@ -2928,7 +2928,6 @@ paketbil.ax
 palikka.ax
 palingtr.ax
 pan.ax
-pandax.ax
 parall.ax
 parsun.ax
 pask.ax
@@ -3668,7 +3667,6 @@ sv.ax
 svanebo.ax
 svartakatten.ax
 svarvservice.ax
-svedberga.ax
 sveden.ax
 svenskttenn.ax
 svensson.ax
@@ -4221,7 +4219,6 @@ xn--lr-via.ax
 xn--mklarhuset-q5a.ax
 xn--msenhlsa-4za8o.ax
 xn--mssan-gra.ax
-xn--mtar-qoa.ax
 xn--nordsonsgrv-u8a.ax
 xn--ntbutiken-v2a.ax
 xn--op-tjnster-u5a.ax
