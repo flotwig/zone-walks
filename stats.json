@@ -169,10 +169,6 @@
       "zone": "ve"
     },
     {
-      "domains": "27",
-      "zone": "gn"
-    },
-    {
       "domains": "23",
       "zone": "arpa"
     },
@@ -195,7 +191,11 @@
     {
       "domains": "6",
       "zone": "lb"
+    },
+    {
+      "domains": "0",
+      "zone": "gn"
     }
   ],
-  "total": "4863454"
+  "total": "4863427"
 }
