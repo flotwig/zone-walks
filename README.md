@@ -56,14 +56,14 @@ TLD | Domain Count
 [`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">149</div>
 [`amazon`][amazon] [(raw)][amazon-raw] | <div align="right">111</div>
 [`ve`][ve] [(raw)][ve-raw] | <div align="right">86</div>
+[`gn`][gn] [(raw)][gn-raw] | <div align="right">27</div>
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">23</div>
 [`wed`][wed] [(raw)][wed-raw] | <div align="right">21</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-[`gn`][gn] [(raw)][gn-raw] | <div align="right">0</div>
-**Total** | <div align="right">4863496</div>
+**Total** | <div align="right">4863523</div>
 
 ## See Also
 
@@ -155,6 +155,8 @@ TLD | Domain Count
 [amazon-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/amazon.txt
 [ve]: ./lists/ve.txt
 [ve-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ve.txt
+[gn]: ./lists/gn.txt
+[gn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/gn.txt
 [arpa]: ./lists/arpa.txt
 [arpa-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/arpa.txt
 [wed]: ./lists/wed.txt
@@ -167,5 +169,3 @@ TLD | Domain Count
 [er-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/er.txt
 [lb]: ./lists/lb.txt
 [lb-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lb.txt
-[gn]: ./lists/gn.txt
-[gn-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/gn.txt
