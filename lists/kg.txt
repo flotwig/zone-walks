@@ -116,7 +116,6 @@
 3sorta.kg
 3ya.kg
 4.kg
-417.kg
 42.kg
 42bishkek.kg
 44.kg
@@ -1540,6 +1539,7 @@ avtoservice.kg
 avtoshina.kg
 avtostart.kg
 avtoves.kg
+avtovokzal.kg
 avtovorota.kg
 avtovyshka.kg
 avtozapchast.kg
@@ -3491,6 +3491,7 @@ doorfresh.kg
 doorhan-club.kg
 doorhan.kg
 doormedia.kg
+doors.kg
 dordoi.kg
 dordoifashion.kg
 dordoiinsurance.kg
@@ -4884,6 +4885,7 @@ givbox.kg
 givee.kg
 giz-employment.kg
 gk.kg
+gknb.kg
 gkpen.kg
 gkt.kg
 gladius.kg
@@ -5041,6 +5043,7 @@ grandavto.kg
 grandexpedition.kg
 grandhotel.kg
 grandmebel.kg
+grandpanorama.kg
 grandpark.kg
 grandsound.kg
 grandstone.kg
@@ -6002,6 +6005,7 @@ izi-finance.kg
 izi-life.kg
 izi-med.kg
 izi-mobile.kg
+izi-tech.kg
 izi.kg
 izifinance.kg
 izigo.kg
@@ -11644,6 +11648,7 @@ tilakademiya.kg
 tilberry.kg
 tilclub.kg
 tili.kg
+tilimpoz.kg
 tilog.kg
 tim.kg
 tima-akimov.kg
@@ -12030,7 +12035,6 @@ tvl.kg
 tvmedia.kg
 tvoetaxi.kg
 tvoifulfillment.kg
-tvoyarabota.kg
 tvoydom.kg
 twinkl.kg
 twogo.kg
@@ -12109,6 +12113,7 @@ ulysses.kg
 umag.kg
 umai.kg
 umaigroup.kg
+umayfarm.kg
 umbrella.kg
 umc.kg
 umg.kg
@@ -12651,7 +12656,6 @@ wificity.kg
 wildberries.kg
 wildbox.kg
 wildcasino.kg
-wildrose.kg
 wildwuchs.kg
 willgroup.kg
 willie.kg
