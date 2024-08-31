@@ -1422,7 +1422,6 @@ azito-om.ci
 azkproductions.ci
 azprocurement.ci
 azservices.ci
-azur-inter.ci
 azyza.ci
 b-et-a.ci
 b-technologies.ci
@@ -1871,7 +1870,6 @@ bolt.ci
 bona.ci
 bonamouo.ci
 bonasavoir.ci
-boncoin.ci
 bondereduction.ci
 bondin.ci
 bondoukou.ci
@@ -2400,6 +2398,7 @@ ceringroup.ci
 cerise.ci
 cerruti.ci
 cerruti1881.ci
+certification.ci
 certificatssl.ci
 certys.ci
 cervo.ci
