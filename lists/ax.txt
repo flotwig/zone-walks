@@ -115,7 +115,6 @@
 79325.ax
 798.ax
 7x.ax
-80.ax
 80211.ax
 818.ax
 83627.ax
@@ -1561,6 +1560,7 @@ godbyservice.ax
 godis.ax
 goertz.ax
 goku.ax
+gold.ax
 golfclub.ax
 golfrestaurangen.ax
 golvtjanst.ax
@@ -3259,6 +3259,7 @@ ruokaravintolamestari.ax
 rush.ax
 rv.ax
 rw.ax
+rwa.ax
 rx.ax
 ryans.ax
 ryssklapp.ax
