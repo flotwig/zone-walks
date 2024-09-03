@@ -31,7 +31,6 @@
 1402.kg
 1430.kg
 15.kg
-16.kg
 1688.kg
 17.kg
 1869.kg
@@ -453,14 +452,12 @@ aic.kg
 aicom.kg
 aida.kg
 aidiyn.kg
-aidom.kg
 aidscenter.kg
 aif.kg
 aifusion.kg
 aig.kg
 aigine.kg
 aigultrade.kg
-aihouse.kg
 aik.kg
 aika.kg
 aikido.kg
@@ -526,7 +523,6 @@ aiva.kg
 aivamall.kg
 aiways.kg
 aiwory.kg
-aiyurt.kg
 aizen.kg
 aj-logistics.kg
 ajkr.kg
@@ -585,7 +581,6 @@ akkuu.kg
 akm.kg
 akmaral.kg
 akmatov.kg
-akmuz.kg
 aknet.kg
 ako-kaynar.kg
 akpay.kg
@@ -1455,6 +1450,7 @@ avanta.kg
 avantage.kg
 avantalaser.kg
 avatr.kg
+avatur.kg
 avazkanova.kg
 avd.kg
 aveno-oil.kg
@@ -2925,6 +2921,7 @@ consulate.kg
 consulere.kg
 consulting.kg
 consultpro.kg
+contact.kg
 container-house.kg
 container-logistics.kg
 container.kg
@@ -3224,7 +3221,6 @@ delo.kg
 deloitte.kg
 delovoisobesednik.kg
 delta-profi.kg
-delta.kg
 deltaclinic.kg
 deltamedical.kg
 deltatech.kg
@@ -4392,7 +4388,6 @@ filter.kg
 filtr.kg
 fin.kg
 finaid.kg
-finance-flow.kg
 finance.kg
 financepartner.kg
 financesoft.kg
@@ -4455,6 +4450,7 @@ fix-master.kg
 fix-price.kg
 fix.kg
 fixletty.kg
+fk.kg
 fkb.kg
 fl-shop.kg
 fl-space.kg
@@ -4647,6 +4643,7 @@ fs.kg
 fsa.kg
 fscapital.kg
 fsd.kg
+fsds.kg
 fsp.kg
 fst.kg
 fstravel.kg
@@ -6165,7 +6162,6 @@ jumush.kg
 junus.kg
 jupiter-airlines.kg
 jurland.kg
-jurok.kg
 justifico.kg
 justintime.kg
 jutsu.kg
@@ -6611,6 +6607,7 @@ komod.kg
 kompanion.kg
 kompanionbank.kg
 kompastour.kg
+kompetenz.kg
 kompozitor.kg
 kompromat.kg
 komurspm.kg
@@ -7080,6 +7077,7 @@ life.kg
 lifefitness.kg
 lifenews.kg
 lifeprint.kg
+lifeshop.kg
 lifex.kg
 lift.kg
 liftes.kg
@@ -7196,6 +7194,7 @@ logos-school.kg
 logos.kg
 logosgroup.kg
 logoton.kg
+logotur.kg
 logsystem.kg
 loi.kg
 lolamag.kg
@@ -7317,6 +7316,7 @@ macroinvest.kg
 mactea.kg
 mactractor.kg
 made-in.kg
+madein.kg
 madeleine.kg
 madina.kg
 madinailim.kg
@@ -7383,7 +7383,6 @@ manchester.kg
 mancho.kg
 mands.kg
 mango.kg
-mangyt-aimak.kg
 mann-schroeder.kg
 mannol.kg
 manusora.kg
@@ -7706,6 +7705,7 @@ melodiasna.kg
 meloman.kg
 membrana.kg
 men.kg
+mendeptap.kg
 menkar-lab.kg
 menkargroup.kg
 menkarlab.kg
@@ -7942,7 +7942,6 @@ mnu.kg
 mnv.kg
 mo.kg
 moalem.kg
-moalemaviation.kg
 mobi.kg
 mobiba.kg
 mobicoin.kg
@@ -8246,7 +8245,6 @@ name.kg
 nameste.kg
 namiana.kg
 namito.kg
-nanasport.kg
 naniko.kg
 nanos.kg
 nap-travel.kg
@@ -8389,7 +8387,6 @@ new.kg
 newbalance.kg
 newcas.kg
 newdays.kg
-newegg.kg
 newjob.kg
 newme.kg
 newpost.kg
@@ -8489,6 +8486,7 @@ notarius.kg
 notary.kg
 notary312.kg
 notnik.kg
+notorture.kg
 notpalata.kg
 nova.kg
 novaclinic.kg
@@ -8711,6 +8709,7 @@ okubasma.kg
 okuma.kg
 okuu.kg
 okuuchu.kg
+okuukitebi.kg
 oky.kg
 okyapp.kg
 olainfarm.kg
@@ -9568,7 +9567,6 @@ profshop.kg
 profskills.kg
 profus.kg
 progarage.kg
-programmist.kg
 progrill.kg
 prohlada.kg
 prohost.kg
@@ -9597,6 +9595,7 @@ promexpert.kg
 promled.kg
 promo-salih.kg
 promo.kg
+promoexpress.kg
 promoland.kg
 promoto.kg
 promprivod.kg
@@ -10483,7 +10482,6 @@ shantui.kg
 shariki.kg
 sharit.kg
 shashlyk.kg
-shatura.kg
 shc.kg
 shebei-wood.kg
 shebey.kg
@@ -10500,6 +10498,7 @@ sheriff.kg
 shesterenka.kg
 shex.kg
 shg1tolstoy.kg
+shifa313.kg
 shift.kg
 shik.kg
 shimano.kg
@@ -11005,7 +11004,6 @@ starshina.kg
 start-company.kg
 start.kg
 startrade.kg
-startup.kg
 startupnation.kg
 starz.kg
 starz777.kg
@@ -11026,7 +11024,6 @@ steelline.kg
 steels.kg
 steklo.kg
 steklostroi.kg
-stellagroup.kg
 stellateam.kg
 stellefashion.kg
 stellox.kg
@@ -11337,6 +11334,7 @@ tashkordo.kg
 tashprom.kg
 tashrabat.kg
 tashtamat.kg
+tasman.kg
 tasnim.kg
 tat-group.kg
 tat.kg
@@ -11528,6 +11526,7 @@ teri.kg
 termetravel.kg
 terminal.kg
 terminals.kg
+termobox.kg
 termoclimat.kg
 terra.kg
 terradeck.kg
@@ -11566,7 +11565,6 @@ tez-kabar.kg
 tez-pochta.kg
 tez-suu.kg
 tez.kg
-tezakcha.kg
 tezauto.kg
 tezbilet.kg
 tezcargo.kg
@@ -12305,6 +12303,7 @@ vcv.kg
 vdi.kg
 vds.kg
 vecherka.kg
+vector-bit.kg
 ved360.kg
 veda.kg
 vedanta.kg
@@ -12839,6 +12838,7 @@ yubico.kg
 yubikey.kg
 yugstroyservice.kg
 yumi.kg
+yumin.kg
 yummisushi.kg
 yur.kg
 yural-medical.kg
@@ -12936,7 +12936,6 @@ zinzino.kg
 zip.kg
 zippo.kg
 zipunya-collection.kg
-zitagita.kg
 zivert.kg
 zjm.kg
 zkteco.kg
