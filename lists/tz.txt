@@ -649,12 +649,14 @@ insure.tz
 interact.tz
 interactclub.tz
 internet.tz
+internetsummit.tz
 invisalign.tz
 invoicer.tz
 ionu.tz
 ipay.tz
 iplook.tz
 iprint.tz
+ipv6.tz
 iranmarket.tz
 islamichelp.tz
 islandtrips.tz
@@ -685,6 +687,7 @@ jcra.tz
 jicho.tz
 jiji.tz
 jmjmicrofinance.tz
+joeygroup.tz
 jogoo.tz
 jti.tz
 juerlogistics.tz
@@ -1098,6 +1101,7 @@ pullable.tz
 push.tz
 pxp.tz
 pycon.tz
+pydata.tz
 python.tz
 qatarairways.tz
 qigroup.tz
@@ -1378,7 +1382,6 @@ toshiba.tz
 total.tz
 totalenergies.tz
 tour.tz
-touristsexpi.tz
 tours.tz
 tppl.tz
 track.tz
