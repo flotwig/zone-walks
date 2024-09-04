@@ -956,7 +956,6 @@ amouretvie.ci
 ams.ci
 amsci.ci
 amservices.ci
-amso.ci
 amssarl.ci
 amuga.ci
 an.ci
@@ -983,7 +982,6 @@ andersentax.ci
 andersentaxlegal.ci
 andja.ci
 android.ci
-andros.ci
 ane.ci
 anehci.ci
 anemak.ci
@@ -1037,6 +1035,8 @@ apm.ci
 apmstore.ci
 app-immo.ci
 app.ci
+appartement.ci
+appartements.ci
 appcoditrans.ci
 appivser.ci
 apple-shop.ci
@@ -1082,6 +1082,7 @@ archiconcept.ci
 archipro.ci
 architecte.ci
 architectes.ci
+architecture.ci
 archivepro.ci
 archtrading.ci
 ard.ci
@@ -1327,6 +1328,7 @@ autocapital.ci
 autocare.ci
 autochap.ci
 autoclic.ci
+autodeal.ci
 autodiscover.ci
 autoecole.ci
 autoecoledelatene.ci
@@ -2084,6 +2086,7 @@ cabinetavocat-aenzakonate.ci
 cabinetbelievegroup.ci
 cabinetbokoka.ci
 cabinetbokola.ci
+cabinetdentaire9t.ci
 cabinetdentaire9tranche.ci
 cabinetelites.ci
 cabinetezzdine.ci
@@ -2311,6 +2314,7 @@ ccbagnon.ci
 ccc.ci
 cccciue.ci
 ccesp.ci
+ccespalecoute.ci
 cceu.ci
 ccgfsp.ci
 cci.ci
@@ -2352,6 +2356,7 @@ cebe.ci
 cec-alo.ci
 ceci.ci
 cedd.ci
+cedec.ci
 ceditech.ci
 cedivoire.ci
 ceetrus.ci
