@@ -2,6 +2,7 @@
 ad-api.amazon
 ads.amazon
 aero-tardigrade.amazon
+ai-studio.amazon
 ailab.amazon
 alexa.amazon
 amazonbot.amazon
@@ -88,6 +89,7 @@ sellersinthecommunity.amazon
 sellersinyourcommunity.amazon
 sellersofthecommunity.amazon
 sellersofyourcommunity.amazon
+service-partner.amazon
 sfi.amazon
 shop-external-api.amazon
 shop-external.amazon
@@ -105,6 +107,7 @@ trafficevents.amazon
 validationtool.amazon
 vcabs.amazon
 vendorexchange.amazon
+vmr.amazon
 watchparty.amazon
 workroom.amazon
 www.amazon
