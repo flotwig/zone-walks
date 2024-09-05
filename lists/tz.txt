@@ -91,7 +91,6 @@ americanexpress.tz
 amex.tz
 amitanzania.tz
 ampersand.tz
-amplify.tz
 amusnet.tz
 andri.tz
 android.tz
@@ -542,6 +541,7 @@ gokito.tz
 goldenocean.tz
 goldnet.tz
 goldpari.tz
+goldstarbattery.tz
 gole.tz
 golle.tz
 google.tz
@@ -926,6 +926,7 @@ mswahili.tz
 mul-t-lock.tz
 mulbadaw.tz
 multichoice.tz
+multimodalservices.tz
 mun.tz
 muni.tz
 musumba-steel.tz
@@ -1033,6 +1034,8 @@ paramountplus.tz
 pardus.tz
 pari.tz
 parksonspackaging.tz
+pateplay.tz
+pateplaytech.tz
 pathquesttours.tz
 paydaycasino.tz
 payguard.tz
@@ -1054,6 +1057,7 @@ pharmacy.tz
 philips.tz
 phoenix.tz
 phoenixhouse.tz
+piku.tz
 pilotcentre.tz
 pka.tz
 pla.tz
@@ -1295,6 +1299,7 @@ stjosephsec.tz
 store.tz
 storebet.tz
 strenx.tz
+strim.tz
 stru.tz
 stu.tz
 summit.tz
