@@ -285,7 +285,6 @@
 126.id
 12698.id
 127.id
-12769.id
 127slot.id
 128.id
 12839.id
@@ -296,7 +295,6 @@
 12bet.id
 12betalternatif.id
 12betlogin.id
-12tkj1b.id
 12wired.id
 13.id
 130.id
@@ -367,7 +365,6 @@
 161.id
 16168.id
 162.id
-16203.id
 162production.id
 163.id
 16315.id
@@ -447,6 +444,7 @@
 188.id
 1880.id
 188batubara.id
+188bet.id
 188betshop.id
 188spesial.id
 189.id
@@ -660,7 +658,6 @@
 214.id
 215.id
 215485.id
-21567.id
 216.id
 217.id
 218.id
@@ -673,6 +670,8 @@
 21plus.id
 21shoes.id
 21shop.id
+21slot.id
+21vip.id
 21vqaum.id
 22.id
 220.id
@@ -905,7 +904,6 @@
 316.id
 316224.id
 31658.id
-31678.id
 317.id
 31769.id
 318.id
@@ -1376,6 +1374,7 @@
 4tunggal.id
 4u2indonesia.id
 4uapp.id
+4winterslot.id
 5-ala.id
 5.id
 50.id
@@ -1577,6 +1576,7 @@
 5sila.id
 5situstogelterpercaya.id
 5w1hindonesia.id
+5winterslot.id
 6.id
 60.id
 600.id
@@ -1584,7 +1584,6 @@
 601.id
 602.id
 60288.id
-60298.id
 603.id
 60343.id
 604.id
@@ -1744,7 +1743,6 @@
 682.id
 683.id
 683172.id
-68325.id
 684.id
 685.id
 68579.id
@@ -1779,6 +1777,7 @@
 6rantai88.id
 6sekawanslot.id
 6sigma.id
+6winterslot.id
 6xavia.id
 7-eleven.id
 7.id
@@ -2031,6 +2030,7 @@
 7summers.id
 7supercuan88.id
 7togelplus.id
+7togeltop.id
 7togelup.id
 7togelzy.id
 7upbet.id
@@ -2043,7 +2043,6 @@
 800bestex.id
 800sat.id
 801.id
-80152.id
 802.id
 80297.id
 803.id
@@ -2320,7 +2319,6 @@
 92.id
 920.id
 921.id
-92178.id
 922.id
 923.id
 924.id
@@ -2346,11 +2344,9 @@
 93157.id
 93158.id
 932.id
-93210.id
 933.id
 934.id
 935.id
-93580.id
 936.id
 937.id
 938.id
@@ -2792,6 +2788,7 @@ abcslot.id
 abcstudio.id
 abctile.id
 abctoys.id
+abcvip.id
 abcwin368.id
 abcwin386.id
 abcworks.id
@@ -3081,6 +3078,7 @@ absconsultant.id
 abscorp.id
 absen.id
 absenacingjaya.id
+absenalifs.id
 absenbat.id
 absencerdas.id
 absendroid.id
@@ -3518,6 +3516,7 @@ achara.id
 achatfour.id
 achatinfo.id
 achatprive.id
+achbar.id
 ached.id
 achematlistrik.id
 acheng.id
@@ -3801,7 +3800,6 @@ adaaqua.id
 adabatik.id
 adabayar.id
 adabcloud.id
-adabengkel.id
 adaberitanet.id
 adabsantri.id
 adacara.id
@@ -4017,6 +4015,7 @@ addmy.id
 addodesaabuan.id
 addodesaairkuning.id
 addodesaantosari.id
+addodesaapuan.id
 addodesaawan.id
 addodesabantas.id
 addodesabanyubiru.id
@@ -4207,6 +4206,7 @@ adikriya.id
 adiksi.id
 adikurniawan.id
 adila.id
+adilawfirm.id
 adilink.id
 adiliopro.id
 adiljaya.id
@@ -4367,6 +4367,7 @@ admedika.id
 admen.id
 admf.id
 admfoundation.id
+admfsc.id
 admhgs.id
 admin-hadiah.id
 admin-oneummah.id
@@ -4667,6 +4668,7 @@ advertisement.id
 advertiser.id
 advertising-indonesia.id
 advertising.id
+advertisingjakarta.id
 advertisingsurabaya.id
 advertist.id
 advertorial.id
@@ -4836,6 +4838,7 @@ aeroclean.id
 aeroculture.id
 aeroedu.id
 aerofood.id
+aerofoodacs.id
 aeroforte.id
 aerogard.id
 aerogeo.id
@@ -4873,6 +4876,7 @@ aerotiva.id
 aerotrans.id
 aerotravel.id
 aerotrip.id
+aerotropolis.id
 aeroviationcybersec.id
 aerowisata.id
 aerowisatafood.id
@@ -4959,6 +4963,7 @@ afarishouse.id
 afaro.id
 afayaindonesia.id
 afb.id
+afbdata.id
 afbenesia.id
 afc-indonesia.id
 afc-lifeindonesia.id
@@ -5469,6 +5474,7 @@ ageo.id
 ageof.id
 ageofultron.id
 agepro.id
+agfarm.id
 agfashion.id
 aggamestore.id
 aggggha.id
@@ -6015,7 +6021,6 @@ ahriesonta.id
 ahris.id
 ahsan.id
 ahsana.id
-ahsanagroup.id
 ahsanland.id
 ahsanrf.id
 ahsanta.id
