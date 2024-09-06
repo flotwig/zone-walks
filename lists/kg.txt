@@ -57,7 +57,6 @@
 1studio.kg
 1tv.kg
 1win-bet.kg
-1win-kg.kg
 1win.kg
 1winapp.kg
 1x-bet.kg
@@ -129,7 +128,6 @@
 4pro.kg
 4rent.kg
 4x4.kg
-5-tv.kg
 5.kg
 55.kg
 56.kg
@@ -2734,6 +2732,7 @@ chocolate.kg
 chocomix.kg
 choconails.kg
 cholpon-ata.kg
+cholpon.kg
 cholponlab.kg
 chon-alayrga.kg
 chonalay.kg
@@ -2982,6 +2981,7 @@ cpu.kg
 craft.kg
 craftbeer.kg
 crasher.kg
+crazybrothers.kg
 crazylove.kg
 crealestate.kg
 creasoft.kg
@@ -3145,6 +3145,7 @@ darika.kg
 darikana.kg
 darilar.kg
 darkstore.kg
+darmek.kg
 darotboga.kg
 darproduction.kg
 darulifta.kg
@@ -3516,6 +3517,7 @@ dostrade.kg
 dostuk-aimak.kg
 dostuk.kg
 dostukao.kg
+dostukbulagy.kg
 dostukcha.kg
 dostukgroup.kg
 dostuktrading.kg
@@ -3714,6 +3716,7 @@ ecpostavki.kg
 ecv.kg
 ed.kg
 eda.kg
+eda7.kg
 edas.kg
 edc.kg
 edelweiss.kg
@@ -4342,6 +4345,7 @@ fbs.kg
 fc-dordoi.kg
 fc-pr.kg
 fc.kg
+fcaa.kg
 fcb.kg
 fccu.kg
 fcmu.kg
@@ -4941,7 +4945,6 @@ gmbh.kg
 gmc.kg
 gmpays.kg
 gmpk.kg
-gns.kg
 go.kg
 gobazar.kg
 gobook.kg
@@ -5074,7 +5077,6 @@ greenkassa.kg
 greenland.kg
 greenlife.kg
 greenlight.kg
-greenmarket.kg
 greenroad.kg
 greensolution.kg
 greentelecom.kg
@@ -5123,7 +5125,6 @@ gti.kg
 gtl.kg
 gtrade.kg
 gts.kg
-gu-unaa.kg
 guard.kg
 guava.kg
 gubkabob.kg
@@ -5132,7 +5133,6 @@ gucci.kg
 guccivault.kg
 gudini.kg
 guest.kg
-gul-med.kg
 gulfwestern.kg
 gulmarket.kg
 gulmesch.kg
@@ -5190,6 +5190,7 @@ haribo.kg
 harmonia.kg
 harmonicaapp.kg
 harrypotter.kg
+hatber.kg
 haulmar.kg
 hauraton.kg
 haustertrating.kg
@@ -6354,7 +6355,6 @@ kbi.kg
 kbl.kg
 kbm.kg
 kbplus.kg
-kbtrade.kg
 kcso.kg
 kdc.kg
 kdks.kg
@@ -6749,8 +6749,8 @@ kubandyr.kg
 kudago.kg
 kudaibergen.kg
 kudretgozbishkek.kg
+kugoo-kirin.kg
 kugoo.kg
-kugookirin.kg
 kuhn.kg
 kuhni.kg
 kuk.kg
@@ -7219,7 +7219,6 @@ longisolar.kg
 lonking.kg
 lookbook.kg
 looneytunes.kg
-lor.kg
 lorazueva.kg
 loreal-paris.kg
 loreal.kg
@@ -7903,7 +7902,6 @@ mirra-trading.kg
 mirshin.kg
 mirtech.kg
 mirtek.kg
-mirtrub.kg
 mirtul.kg
 mirvodopadov.kg
 mirzvuka.kg
@@ -8026,7 +8024,6 @@ mosmebel.kg
 mostbet-pro.kg
 mostbet.kg
 mostbets.kg
-mostbett.kg
 motauto.kg
 motcpiu.kg
 motel.kg
@@ -8189,7 +8186,6 @@ mydiesel.kg
 mydoctor.kg
 mydom.kg
 myflowers.kg
-mygarden.kg
 mygig.kg
 myglo.kg
 mygreenway.kg
@@ -8254,6 +8250,7 @@ nameste.kg
 namiana.kg
 namito.kg
 naniko.kg
+nano.kg
 nanos.kg
 nap-travel.kg
 napizza.kg
@@ -8494,7 +8491,6 @@ notarius.kg
 notary.kg
 notary312.kg
 notnik.kg
-notorture.kg
 notpalata.kg
 nova.kg
 novaclinic.kg
@@ -8538,6 +8534,7 @@ nsk.kg
 nsomid.kg
 nsp.kg
 nstc.kg
+nsu.kg
 nt.kg
 ntek.kg
 ntk.kg
@@ -9431,6 +9428,7 @@ porter-bishkek.kg
 porter-taxi.kg
 porter.kg
 porter94.kg
+porterexpress.kg
 portertaxi.kg
 portwest.kg
 pos-service.kg
@@ -9986,6 +9984,7 @@ riberg.kg
 riccoman.kg
 ricet.kg
 rich.kg
+rider.kg
 rieker.kg
 rielta.kg
 rifar.kg
@@ -10112,7 +10111,6 @@ rpo.kg
 rps.kg
 rr.kg
 rrc.kg
-rrd.kg
 rs.kg
 rsagroup.kg
 rsc.kg
@@ -11039,6 +11037,7 @@ steelline.kg
 steels.kg
 steklo.kg
 steklostroi.kg
+stellagroup.kg
 stellateam.kg
 stellefashion.kg
 stellox.kg
@@ -12076,6 +12075,7 @@ ubs.kg
 ubstransit.kg
 ubuy.kg
 uca.kg
+ucb.kg
 ucentralasia.kg
 uch-credit.kg
 uch-sumer.kg
@@ -12739,7 +12739,6 @@ wuling.kg
 wurth.kg
 ww.kg
 wwenetwork.kg
-wwgroup.kg
 wws-wasserkraft.kg
 www.kg
 x-can.kg
@@ -12859,6 +12858,7 @@ yuras-pechati.kg
 yuren.kg
 yuria-pharm.kg
 yurist.kg
+yurkaganat.kg
 yurta.kg
 yurtcampalay.kg
 yurtdistribution.kg
