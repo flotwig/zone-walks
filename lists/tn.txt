@@ -3684,6 +3684,7 @@ ata.tn
 atac.tn
 atacp.tn
 atacs.tn
+ataf.tn
 atai.tn
 atajed.tn
 atakatul-alwatani.tn
@@ -6655,7 +6656,6 @@ brandinistore.tn
 brandit.tn
 brandlab.tn
 brandmind.tn
-brandname.tn
 brandnew.tn
 brands.tn
 brandshop.tn
@@ -8849,7 +8849,6 @@ clif.tn
 clik.tn
 clikkboxagency.tn
 clim.tn
-clim4green.tn
 clima.tn
 climaf.tn
 climagaine.tn
@@ -28894,6 +28893,7 @@ myhealthybox.tn
 myhome.tn
 myhome20.tn
 myhomeo.tn
+myhometroc.tn
 myhootel.tn
 myhosting.tn
 myhotel.tn
@@ -29053,7 +29053,6 @@ myvirtual-expo.tn
 myvisa.tn
 myvisio.tn
 myvision.tn
-myvote.tn
 mywallet.tn
 mywarehouses.tn
 mywatch.tn
