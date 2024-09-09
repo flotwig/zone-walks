@@ -245,6 +245,7 @@
 119.id
 11exch.id
 11wbet.id
+11winbet.id
 11xbet.id
 12.id
 120.id
@@ -284,7 +285,6 @@
 126.id
 12698.id
 127.id
-127slot.id
 128.id
 12839.id
 12869.id
@@ -835,7 +835,6 @@
 29598.id
 296-ke.id
 296.id
-296389.id
 297.id
 29753.id
 298.id
@@ -1548,7 +1547,6 @@
 594.id
 595.id
 596.id
-596387.id
 597.id
 598.id
 59813.id
@@ -1783,7 +1781,6 @@
 703.id
 704.id
 705.id
-705steakhouse.id
 706.id
 707.id
 707co.id
@@ -3054,6 +3051,7 @@ abracadabra.id
 abracadabracafe.id
 abraco.id
 abrahamcarrent.id
+abraj.id
 abram.id
 abrand.id
 abrar.id
@@ -3099,6 +3097,7 @@ absent.id
 absentminded.id
 absentri.id
 abset.id
+absherharamain.id
 abskargo.id
 absland.id
 absmineral.id
@@ -4955,7 +4954,6 @@ afandi.id
 afapoker.id
 afara.id
 afarent.id
-afarez.id
 afarishouse.id
 afaro.id
 afayaindonesia.id
@@ -5025,6 +5023,7 @@ affiliateindonesia.id
 affiliatejunction.id
 affiliatekaya.id
 affiliatemarketing.id
+affiliatepedia.id
 affiliatepreneurs.id
 affiliater.id
 affiliates.id
@@ -5609,7 +5608,6 @@ agretail.id
 agri.id
 agria.id
 agriable.id
-agriaku.id
 agriaperkasa.id
 agribisnis-uinjkt.id
 agribisnis.id
@@ -6055,8 +6053,10 @@ aia.id
 aiacademy.id
 aiacorp.id
 aiagen.id
+aiagency.id
 aiagent.id
 aiai.id
+aiaischool.id
 aiaja.id
 aiandco.id
 aianews.id
@@ -6119,7 +6119,6 @@ ns1.adcetera.id
 ns1.adiya.id
 ns1.adrenalin.id
 ns1.adsplus.id
-ns1.aduangka.id
 ns1.afdaldev.id
 ns1.afsales.id
 ns1.agarilus.id
@@ -6156,7 +6155,6 @@ ns2.adcetera.id
 ns2.adiya.id
 ns2.adrenalin.id
 ns2.adsplus.id
-ns2.aduangka.id
 ns2.afdaldev.id
 ns2.agarilus.id
 ns2.agenjudibolaonline.id
