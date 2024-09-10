@@ -1084,7 +1084,6 @@ ddd.audio
 de-reverberation.audio
 deadcat.audio
 deadzone.audio
-deaf.audio
 deafbonce.audio
 dears.audio
 debaat.audio
@@ -2111,6 +2110,10 @@ iphone15.audio
 iphone15plus.audio
 iphone15pro.audio
 iphone15promax.audio
+iphone16.audio
+iphone16plus.audio
+iphone16pro.audio
+iphone16promax.audio
 iphonemini.audio
 iphonemirroring.audio
 iqoo.audio
@@ -2507,6 +2510,7 @@ lyravox.audio
 lyrebird.audio
 m2m.audio
 m4rl.audio
+m4u.audio
 maag.audio
 maas.audio
 mac.audio
@@ -4102,7 +4106,6 @@ streamunlimited.audio
 streamy.audio
 strefa.audio
 streicher.audio
-stretto.audio
 striker.audio
 stritt.audio
 stritter.audio
@@ -4230,7 +4233,6 @@ teeay.audio
 telefonie.audio
 telefunken.audio
 telephone.audio
-televox.audio
 tempest.audio
 tencent.audio
 tenement.audio
@@ -4252,6 +4254,7 @@ thanhtung.audio
 the100.audio
 thebunker.audio
 thecommunistpig.audio
+thedk.audio
 thefairplay.audio
 thefobcast.audio
 thegig.audio
