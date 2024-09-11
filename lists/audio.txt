@@ -562,7 +562,6 @@ belp.audio
 bench.audio
 bendball.audio
 bendik.audio
-benjamin.audio
 bensteiner.audio
 benzmicro.audio
 bergamo.audio
@@ -887,7 +886,6 @@ clankrattle.audio
 clap.audio
 clarity.audio
 classi.audio
-classicalmusicheadphones.audio
 classifieds.audio
 claudio.audio
 clean.audio
@@ -1935,6 +1933,8 @@ homepod.audio
 homepodmini.audio
 homerunderby.audio
 homeserver.audio
+hoodmuzik-entertainment-tv.audio
+hoodmuzik-tv.audio
 hooked.audio
 hopper.audio
 horand.audio
