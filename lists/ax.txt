@@ -726,6 +726,7 @@ bonnsfotklinik.ax
 bonusmannen.ax
 book.ax
 booking.ax
+bookit.ax
 boost.ax
 boppi.ax
 boquerian.ax
@@ -1114,6 +1115,7 @@ dz.ax
 e-aland.ax
 e-cat.ax
 e-commerce.ax
+e-fakturor.ax
 e-handel.ax
 e-mail.ax
 e-rent.ax
@@ -1723,6 +1725,7 @@ helmroos.ax
 help.ax
 helthundra.ax
 hem.ax
+hemfixarn.ax
 hemma.ax
 hemming.ax
 hemsida.ax
@@ -1739,6 +1742,7 @@ heymohotel.ax
 heymohotels.ax
 heyvet.ax
 hf.ax
+hfab.ax
 hfc.ax
 hh.ax
 hi.ax
@@ -1900,6 +1904,7 @@ inspektor.ax
 inspiredbyaland.ax
 inst.ax
 instagram.ax
+insurance.ax
 int.ax
 inte2.ax
 inter.ax
@@ -2373,8 +2378,6 @@ lumparlab.ax
 lumparland.ax
 luna.ax
 lunchguiden.ax
-lunchkupong.ax
-lunchkuponger.ax
 lund.ax
 lundberg.ax
 lunden.ax
@@ -2673,6 +2676,7 @@ nalles.ax
 name.ax
 naprapat.ax
 naringsliv.ax
+naringslivsgalan.ax
 narmobergs.ax
 narwhal.ax
 nastapaikka.ax
@@ -2829,6 +2833,7 @@ oh.ax
 ohhoh.ax
 ohmansbil.ax
 oi.ax
+oikeus.ax
 ok.ax
 oki.ax
 oktober.ax
@@ -3130,7 +3135,6 @@ rahoitus.ax
 rall.ax
 ramirent.ax
 ramonasscrapstore.ax
-rand.ax
 rangsbyskola.ax
 rap.ax
 rask.ax
@@ -3768,6 +3772,7 @@ thscore.ax
 ticket.ax
 ticketbis.ax
 tickets.ax
+tickster.ax
 tid.ax
 tidningar.ax
 tidningen.ax
@@ -3855,6 +3860,7 @@ turist-konferens.ax
 tv.ax
 tvaland.ax
 tw.ax
+twe.ax
 twint.ax
 twitter.ax
 twoontrek.ax
