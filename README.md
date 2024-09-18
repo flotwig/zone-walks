@@ -59,11 +59,11 @@ TLD | Domain Count
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">28</div>
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">24</div>
 [`wed`][wed] [(raw)][wed-raw] | <div align="right">21</div>
-[`bd`][bd] [(raw)][bd-raw] | <div align="right">15</div>
+[`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4863581</div>
+**Total** | <div align="right">4863580</div>
 
 ## See Also
 
