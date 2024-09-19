@@ -209,7 +209,6 @@ ai.ax
 aia.ax
 aicis.ax
 aidan.ax
-aih.ax
 air.ax
 airalo.ax
 airbnb.ax
@@ -297,6 +296,7 @@ alandspall.ax
 alandspersienn.ax
 alandsportweek.ax
 alandsrabatten.ax
+alandsraddningsmyndighet.ax
 alandsradio.ax
 alandsradiotv.ax
 alandssenap.ax
@@ -318,6 +318,7 @@ alanta.ax
 alarm.ax
 alarmcentralen.ax
 alastair.ax
+alb.ax
 albanus.ax
 albij.ax
 alclean.ax
@@ -487,6 +488,7 @@ aub.ax
 aud.ax
 audi.ax
 audience.ax
+audienceinsights.ax
 audim.ax
 audiorent.ax
 audiovideo.ax
@@ -572,6 +574,7 @@ barkraft.ax
 barons.ax
 barplay.ax
 basso.ax
+batteri.ax
 battle.ax
 battvatten.ax
 bauerstudios.ax
@@ -585,7 +588,6 @@ beer.ax
 beesyssla.ax
 belcanto.ax
 bellof.ax
-bemanning.ax
 benganstrafikskola.ax
 bengtdahlgren.ax
 benjaminmoore.ax
@@ -790,6 +792,7 @@ butcherandbanker.ax
 butcherbanker.ax
 butiken.ax
 buttercup.ax
+buy.ax
 bw.ax
 bx.ax
 by.ax
@@ -1990,6 +1993,7 @@ jhservice.ax
 jhun.ax
 jik.ax
 jimh.ax
+jj.ax
 jk.ax
 jkc.ax
 jl.ax
@@ -2333,7 +2337,6 @@ lmj.ax
 ln.ax
 lnk.ax
 lo.ax
-load-balance.ax
 local.ax
 localhost.ax
 locotech.ax
@@ -2403,7 +2406,6 @@ lyyskitravels.ax
 lz.ax
 m3.ax
 ma.ax
-macdoktorn.ax
 macrost.ax
 madm.ax
 maem.ax
@@ -2541,7 +2543,6 @@ mh.ax
 mhd.ax
 mi.ax
 mia.ax
-miaslivsenergi.ax
 miaw.ax
 michaelsars.ax
 mickels.ax
@@ -2566,13 +2567,13 @@ minimax.ax
 minna.ax
 minsida.ax
 minska.ax
+mint.ax
 mio.ax
 mira.ax
 miramar.ax
 mirari.ax
 miro.ax
 mise.ax
-missionskyrkan.ax
 mit.ax
 mitawa.ax
 mitec.ax
@@ -2956,6 +2957,7 @@ pectus.ax
 pedago.ax
 pellas.ax
 pensionatsolhem.ax
+pensionsfonden.ax
 pepp.ax
 per.ax
 perform.ax
@@ -3122,12 +3124,14 @@ racing.ax
 racketcenter.ax
 raddabarnen.ax
 raddalumparn.ax
+raddning.ax
 raddningshund.ax
 radion.ax
 radiorel.ax
 radiotv.ax
 rafaels.ax
 raflaamo.ax
+rahapaja.ax
 rahastot.ax
 rahoitus.ax
 rall.ax
@@ -3136,6 +3140,7 @@ ramonasscrapstore.ax
 rangsbyskola.ax
 rap.ax
 rask.ax
+rav.ax
 ravintolaaukio.ax
 ravintolalaboratorio.ax
 ravintolaobra.ax
@@ -3159,6 +3164,7 @@ redovisning.ax
 ref.ax
 refinitiv.ax
 refuture.ax
+reg.ax
 regeringen.ax
 register.ax
 registrar.ax
@@ -3412,6 +3418,7 @@ sjostroms.ax
 sk.ax
 skadecenter.ax
 skargarden.ax
+skargardssmak.ax
 skarpnato.ax
 skatt.ax
 skattetoppen.ax
@@ -3653,6 +3660,7 @@ sunnycars.ax
 sunrise.ax
 sunset-boulevard.ax
 sunsetboulevard.ax
+suomenrahapaja.ax
 suomenrehu.ax
 superdry.ax
 superslots.ax
@@ -4284,6 +4292,7 @@ ya.ax
 yachtservice.ax
 yahoo.ax
 yamashit.ax
+yanthr.ax
 yc.ax
 ye.ax
 ym.ax
