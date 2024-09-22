@@ -1255,6 +1255,7 @@ dot.audio
 dotonline.audio
 doubleblind.audio
 downpour.audio
+dp.audio
 draadlozeluidsprekers.audio
 draadlozespeakers.audio
 draft.audio
@@ -1888,7 +1889,6 @@ hifi.audio
 hifilab.audio
 hifipro.audio
 hifishop.audio
-hifitage.audio
 high-fidelity.audio
 high-res.audio
 high-resolution.audio
@@ -4038,6 +4038,7 @@ st.audio
 stacks.audio
 stagepool.audio
 stagesound.audio
+stairway.audio
 stalker.audio
 stanleycup.audio
 star.audio
