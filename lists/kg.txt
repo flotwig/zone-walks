@@ -97,8 +97,6 @@
 321start.kg
 33.kg
 333.kg
-35.kg
-36.kg
 360.kg
 365farmnet.kg
 39.kg
@@ -968,7 +966,6 @@ applehostel.kg
 appliednutrition.kg
 apply.kg
 april.kg
-aprint.kg
 aprom.kg
 aps.kg
 apt.kg
@@ -1209,6 +1206,7 @@ asiatv.kg
 asicstiger.kg
 asitecsa.kg
 ask-locals.kg
+ask.kg
 aska-gt.kg
 aska.kg
 askabail.kg
@@ -1606,6 +1604,7 @@ baat-sat.kg
 babanov.kg
 baburtolbaev.kg
 baby.kg
+babycity.kg
 babyfood.kg
 babygap.kg
 babyone.kg
@@ -1697,7 +1696,6 @@ baptist.kg
 bar.kg
 baraka-energy.kg
 barakagroup.kg
-barakat.kg
 barakelde.kg
 barashek.kg
 baraxolka.kg
@@ -2617,7 +2615,6 @@ central-asia.kg
 central-asiatravel.kg
 centralasia.kg
 centralasianfilms.kg
-centralasiastone.kg
 centrallab.kg
 centrik.kg
 centrix.kg
@@ -2861,6 +2858,7 @@ coinstar.kg
 coinx.kg
 coke.kg
 colgate.kg
+colibri.kg
 coliseum.kg
 coliseumgres.kg
 collab.kg
@@ -2963,7 +2961,6 @@ cosmoberry.kg
 cosmopark.kg
 cosmovape.kg
 costa-brava.kg
-cotanteam.kg
 cotto.kg
 courses.kg
 covestro.kg
@@ -3473,7 +3470,6 @@ domprava.kg
 domstroy.kg
 domvent.kg
 doner42.kg
-donors.kg
 doolot.kg
 doolotfinance.kg
 door-asia.kg
@@ -4462,7 +4458,6 @@ flashtips.kg
 flashwallet.kg
 flat.kg
 flatfy.kg
-flats.kg
 flebocenter.kg
 flebolog.kg
 flebologs.kg
@@ -5033,7 +5028,6 @@ grandexpedition.kg
 grandhotel.kg
 grandmebel.kg
 grandpanorama.kg
-grandpark.kg
 grandsound.kg
 grandstone.kg
 grandstroy.kg
@@ -5093,7 +5087,6 @@ groz-beckert.kg
 grozbeckert.kg
 grt.kg
 grundfos.kg
-gruz.kg
 gruzo.kg
 gruzoperevozki-312.kg
 gruzoperevozki.kg
@@ -5652,6 +5645,7 @@ incosystem.kg
 incraft.kg
 incredibleosh.kg
 incruises.kg
+indesit.kg
 index.kg
 indigo.kg
 indimassage.kg
@@ -5693,6 +5687,7 @@ ingrammicro.kg
 ingredients.kg
 ingroup.kg
 inhouse-app.kg
+inhouse.kg
 initrade.kg
 ink.kg
 inkor.kg
@@ -6438,7 +6433,6 @@ kgst.kg
 kgt.kg
 kgti.kg
 kgtoll.kg
-kguki.kg
 kgz-water.kg
 kgz.kg
 khan.kg
@@ -6645,6 +6639,7 @@ korshop.kg
 korsovet.kg
 korter.kg
 kortes.kg
+korzina.kg
 korzinka.kg
 korzinka312.kg
 kosg.kg
@@ -6866,10 +6861,10 @@ kyrgyzwind.kg
 kyrlibnet.kg
 kyrseff.kg
 kyrtag.kg
+kytaza.kg
 kyzmat.kg
 kyzmatsayakat.kg
 kyzyl-suu.kg
-kyzyl-tegirmen.kg
 kyzyl-tuu.kg
 kyzylompol.kg
 kzmc.kg
@@ -7554,7 +7549,6 @@ med.kg
 med312.kg
 medacino.kg
 medal.kg
-medalatoo.kg
 medandmore.kg
 medart.kg
 medbioresearchers.kg
@@ -8488,7 +8482,6 @@ novamebel.kg
 novartis.kg
 novasklad.kg
 novataxi.kg
-novatech.kg
 novatorpharma.kg
 novel-ts.kg
 noventiq.kg
@@ -9819,7 +9812,6 @@ reclama.kg
 record.kg
 recovery-center.kg
 recovery.kg
-recruiting.kg
 rectrade.kg
 recuperator.kg
 red.kg
@@ -11102,6 +11094,7 @@ stroyprice.kg
 stroytehnika.kg
 stsolutions.kg
 stswb.kg
+student.kg
 studio.kg
 studiobeton.kg
 study-on-tokmok.kg
@@ -12016,6 +12009,7 @@ turar.kg
 turbo.kg
 turbomarket.kg
 turboscan.kg
+turboservice.kg
 turist-travel.kg
 turizm.kg
 turkcell.kg
@@ -12159,14 +12153,10 @@ unibind.kg
 unibook.kg
 unicar.kg
 unicom.kg
-unicredit-bank.kg
-unicredit-corporate.kg
-unicredit-corporatebanking.kg
 unicredit-group.kg
 unicredit.kg
 unicreditbank.kg
 unicreditcorporate.kg
-unicreditcorporatebanking.kg
 unicreditgroup.kg
 unieuro.kg
 uniform.kg
