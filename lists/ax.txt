@@ -795,6 +795,7 @@ butiken.ax
 buttercup.ax
 buy.ax
 bw.ax
+bx.ax
 by.ax
 bygg.ax
 byggab.ax
@@ -941,7 +942,6 @@ compagnietmariehamn.ax
 compass.ax
 compassionkatja.ax
 comst.ax
-con.ax
 confido.ax
 conman.ax
 connect.ax
@@ -1103,6 +1103,7 @@ dropbox.ax
 drupal.ax
 ds.ax
 dt.ax
+du.ax
 dunderdans.ax
 dupont.ax
 dustin.ax
@@ -1845,6 +1846,7 @@ ib.ax
 ibinder.ax
 ic.ax
 ice.ax
+icm.ax
 icon.ax
 id.ax
 idc.ax
@@ -2831,7 +2833,6 @@ og.ax
 oh.ax
 ohhoh.ax
 ohmansbil.ax
-oi.ax
 oikeus.ax
 ok.ax
 oki.ax
