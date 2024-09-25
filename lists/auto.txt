@@ -75,7 +75,6 @@ bofa.auto
 bollo.auto
 boston.auto
 bot.auto
-bots.auto
 brose.auto
 buhler.auto
 byd.auto
@@ -218,6 +217,7 @@ hurry.auto
 hv.auto
 hyundai.auto
 iaa.auto
+iconnect.auto
 ideal.auto
 import.auto
 infiniti.auto
