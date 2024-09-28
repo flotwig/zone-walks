@@ -61,7 +61,6 @@
 037hd.id
 038.id
 039.id
-03985.id
 04.id
 040.id
 041.id
@@ -284,7 +283,6 @@
 123win.id
 124.id
 125.id
-12539.id
 126.id
 127.id
 128.id
@@ -349,7 +347,6 @@
 152.id
 153.id
 15310.id
-15379.id
 154.id
 155.id
 156.id
@@ -375,7 +372,6 @@
 166.id
 167.id
 16758.id
-16785.id
 168.id
 1688.id
 16898.id
@@ -745,8 +741,6 @@
 25.id
 250.id
 251.id
-25138.id
-25173.id
 252.id
 253.id
 25317.id
@@ -769,7 +763,6 @@
 262.id
 26268.id
 263.id
-26351.id
 264.id
 265.id
 266.id
@@ -822,7 +815,6 @@
 296-ke.id
 296.id
 297.id
-29753.id
 298.id
 299.id
 29to41.id
@@ -841,6 +833,7 @@
 2gang4d.id
 2godigital.id
 2idaman.id
+2idry.id
 2insan.id
 2krn.id
 2m2kids.id
@@ -875,7 +868,6 @@
 311255.id
 31160.id
 312.id
-31286.id
 313.id
 31337.id
 314.id
@@ -944,7 +936,6 @@
 35.id
 350.id
 351.id
-35126.id
 352.id
 353.id
 354.id
@@ -955,7 +946,6 @@
 357.id
 358.id
 35829.id
-35861.id
 359.id
 35916.id
 35962.id
@@ -1041,7 +1031,6 @@
 374.id
 375.id
 376.id
-37601.id
 37635.id
 377.id
 378.id
@@ -1481,6 +1470,7 @@
 567plus.id
 568.id
 568sport.id
+568win.id
 569.id
 56bet.id
 56mart.id
@@ -1574,11 +1564,9 @@
 611.id
 612.id
 613.id
-61359.id
 613985.id
 614.id
 615.id
-61532.id
 616.id
 61671.id
 617.id
@@ -1702,7 +1690,6 @@
 68.id
 680.id
 681.id
-68192.id
 68197.id
 682.id
 683.id
@@ -2087,7 +2074,6 @@
 860.id
 861.id
 862.id
-86259.id
 863.id
 864.id
 864yas.id
@@ -2104,7 +2090,6 @@
 871.id
 872.id
 87236.id
-87261.id
 873.id
 874.id
 87431.id
@@ -2271,7 +2256,6 @@
 92765.id
 928.id
 92850.id
-92863.id
 929.id
 92940.id
 92news.id
@@ -2338,7 +2322,6 @@
 97.id
 970.id
 971.id
-97160.id
 972.id
 973.id
 974.id
@@ -2965,7 +2948,6 @@ aboutcotton.id
 aboutcoupang.id
 aboutestate.id
 aboutfemale.id
-aboutfishing.id
 aboutfloors.id
 abouthomecare.id
 abouthomehealth.id
@@ -3386,6 +3368,7 @@ aceglobalmercy.id
 acegood.id
 acehardwareindonesia.id
 acehberita.id
+acehbola.id
 acehcargoservice.id
 acehcms.id
 acehealth.id
@@ -3635,6 +3618,7 @@ acsolo.id
 acspub.id
 acsschool.id
 acssgroup.id
+act-geomembrane.id
 act-now.id
 act.id
 act2real.id
@@ -4316,6 +4300,7 @@ adllo.id
 adlyne.id
 adm-4d.id
 adm-aquaculture.id
+adm4d-official.id
 adm4d-real.id
 adm4dtinggi.id
 admafia.id
@@ -5030,6 +5015,7 @@ afiffuads.id
 afifharyanti.id
 afifly.id
 afifpratamaputra.id
+afifun.id
 afika.id
 afilar.id
 afiliator.id
@@ -5351,6 +5337,7 @@ agenloker.id
 agenmadu.id
 agenmain.id
 agenmainan.id
+agenmantan4d.id
 agenminyakkutuskutus.id
 agenmu.id
 agennalo.id
@@ -5712,7 +5699,6 @@ agronusafarm.id
 agroo.id
 agropalmateknologi.id
 agropasti.id
-agroped.id
 agropertiwi.id
 agropreneur.id
 agroprima.id
@@ -5780,7 +5766,6 @@ agumyp.id
 agunanbpkbmobil.id
 agunda.id
 agung.id
-agung4dx500.id
 agungabadi.id
 agungalpra.id
 agungbara.id
@@ -6060,7 +6045,6 @@ aiboo.id
 aibootcamp.id
 aibot.id
 aibou.id
-aibrain.id
 aicademy.id
 aicaindria.id
 aicar.id
