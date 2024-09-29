@@ -448,7 +448,6 @@
 18hokiplay.id
 18hokislot.id
 18hole.id
-18land.id
 18plus.id
 19.id
 190.id
@@ -2239,6 +2238,7 @@
 916.id
 917.id
 918.id
+918kiss.id
 919.id
 91app.id
 91dewa.id
@@ -3750,6 +3750,7 @@ adacerita.id
 adachi.id
 adacorp.id
 adacta.id
+adadana-co.id
 adadanaa.id
 adadigi.id
 adadihati.id
@@ -5699,6 +5700,7 @@ agronusafarm.id
 agroo.id
 agropalmateknologi.id
 agropasti.id
+agroped.id
 agropertiwi.id
 agropreneur.id
 agroprima.id
