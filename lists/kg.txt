@@ -1520,7 +1520,6 @@ avtoelektrik.kg
 avtogid.kg
 avtoglass.kg
 avtoinstall.kg
-avtokovriki.kg
 avtokraska.kg
 avtokredit.kg
 avtokriminalist.kg
@@ -1878,7 +1877,6 @@ bellona.kg
 bellonamebel.kg
 belmaro.kg
 belochka.kg
-bemer.kg
 bemode.kg
 bender.kg
 benefit.kg
@@ -2023,7 +2021,6 @@ bilesinbi.kg
 bilet.kg
 biletik.kg
 biletstandart.kg
-biletter.kg
 bilim.kg
 bilimaluu.kg
 bilimbelek.kg
@@ -2551,7 +2548,6 @@ carmarket.kg
 carnavalshow.kg
 caroll.kg
 carparts.kg
-carpax.kg
 carpet.kg
 carpets.kg
 carprice.kg
@@ -3283,7 +3279,6 @@ descom.kg
 desertcart.kg
 design.kg
 desire.kg
-desko.kg
 desktop.kg
 desport.kg
 destan.kg
@@ -3298,7 +3293,6 @@ detector.kg
 deti.kg
 detivody.kg
 detki.kg
-detmir.kg
 detralex.kg
 detsad.kg
 deure.kg
@@ -3609,6 +3603,7 @@ e-jashtar.kg
 e-mba.kg
 e-meria.kg
 e-money.kg
+e-scrap.kg
 e-seller.kg
 e-som.kg
 e-sot.kg
@@ -3937,7 +3932,6 @@ emm.kg
 emmanuil.kg
 emmareha.kg
 emotive.kg
-emotors.kg
 empire.kg
 employment.kg
 emr.kg
@@ -4230,6 +4224,7 @@ excavator.kg
 exchange.kg
 exclusive.kg
 exeed.kg
+exeedcars.kg
 exely.kg
 exist.kg
 exness.kg
@@ -4599,7 +4594,6 @@ fpc.kg
 fpi.kg
 fpk.kg
 fpsk.kg
-fr.kg
 fracino.kg
 fragrancehub.kg
 fragstore.kg
@@ -4795,7 +4789,6 @@ geek.kg
 geekbrains.kg
 geeks.kg
 geekstudio.kg
-geektech.kg
 geely.kg
 geelyauto.kg
 gefest-building.kg
@@ -5235,6 +5228,7 @@ help.kg
 helpdesk.kg
 helpresource.kg
 helukabel.kg
+hemohim.kg
 hemophilia.kg
 hempel.kg
 hennessy.kg
@@ -5547,6 +5541,7 @@ ihftnaskr.kg
 ihg.kg
 ihlas.kg
 ihn.kg
+ihome.kg
 ihrconsulting.kg
 ihub.kg
 ii.kg
@@ -5691,7 +5686,6 @@ infoport.kg
 inform.kg
 informer.kg
 infoscout.kg
-infosystema.kg
 infosystems.kg
 infotech.kg
 infotel.kg
@@ -6285,7 +6279,6 @@ karagay.kg
 karakol-city.kg
 karakol-ski.kg
 karakol.kg
-karakolao.kg
 karakolflower.kg
 karakolpl14.kg
 karakolsolution.kg
@@ -7237,7 +7230,9 @@ loropiana.kg
 lose.kg
 lostmary.kg
 lotto.kg
+lotus.kg
 lotusbusiness.kg
+lotuscars.kg
 lova.kg
 love.kg
 loveflowers.kg
@@ -7494,7 +7489,6 @@ mavic.kg
 mavto.kg
 max.kg
 maxaz-electric.kg
-maxclinic.kg
 maxdev.kg
 maxgame.kg
 maxgo.kg
@@ -7998,6 +7992,7 @@ money.kg
 moneygram.kg
 moneymaker.kg
 moneytransfers.kg
+monica.kg
 monolit.kg
 monolith-pamir.kg
 monro.kg
@@ -9307,7 +9302,6 @@ pl97.kg
 pl99.kg
 place.kg
 plagiat.kg
-planbaby.kg
 planeta-sh.kg
 planeta.kg
 planetadoors.kg
@@ -10962,7 +10956,6 @@ sqr.kg
 squirrel.kg
 sr.kg
 srimpex.kg
-sris.kg
 srk.kg
 srs.kg
 srt.kg
@@ -11301,7 +11294,6 @@ talas-farm.kg
 talas.kg
 talasdaamy.kg
 talasmedcollege.kg
-talduu-bulak.kg
 talipoff.kg
 talisman.kg
 talsu.kg
@@ -11797,7 +11789,6 @@ torgroup.kg
 torgsnab.kg
 toriengi.kg
 tork.kg
-torland.kg
 toro.kg
 torrent.kg
 torro.kg
@@ -12731,7 +12722,6 @@ work.kg
 workcit.kg
 worklab.kg
 workland.kg
-worktime.kg
 worktoday.kg
 world.kg
 worldclass.kg
