@@ -499,7 +499,6 @@ aurinkopaneeli.ax
 aurora.ax
 autism.ax
 auto-service.ax
-auto.ax
 autodiscover.ax
 autos.ax
 av.ax
@@ -510,7 +509,6 @@ avfall.ax
 avi.ax
 avitax.ax
 avloppsexperten.ax
-avori.ax
 aw.ax
 ax-el.ax
 ax.ax
@@ -593,6 +591,7 @@ bemanning.ax
 benganstrafikskola.ax
 bengtdahlgren.ax
 benjaminmoore.ax
+beone.ax
 bergkulla.ax
 berlin.ax
 beroma.ax
@@ -617,7 +616,6 @@ bifabike.ax
 bifaboat.ax
 bifarent.ax
 big.ax
-bil.ax
 bila.ax
 bilcenter.ax
 bildbanken.ax
@@ -810,7 +808,6 @@ byggvaruhuset.ax
 bytejot.ax
 bz.ax
 ca.ax
-cab.ax
 cabo.ax
 cadenza.ax
 cafea.ax
@@ -829,7 +826,6 @@ canon.ax
 canva.ax
 cap.ax
 car.ax
-caravan.ax
 caravanclub.ax
 carb.ax
 carbont.ax
@@ -1294,6 +1290,7 @@ evve.ax
 ew.ax
 ex.ax
 exad.ax
+exch.ax
 exchange.ax
 exhale.ax
 exness.ax
@@ -1726,11 +1723,9 @@ hellorayo.ax
 helloworld123.ax
 helmer.ax
 helmroos.ax
-help.ax
 helthundra.ax
 hem.ax
 hemfixarn.ax
-hemma.ax
 hemming.ax
 hemsida.ax
 henriks.ax
@@ -1835,7 +1830,6 @@ hy.ax
 hypr.ax
 hyr.ax
 hyra.ax
-hyran.ax
 hyras.ax
 hyrhosclasohlson.ax
 hyris.ax
@@ -2564,7 +2558,6 @@ mildreds.ax
 mildredsswingskola.ax
 minafrimarken.ax
 minecraft.ax
-mini-taxi.ax
 minim.ax
 minimax.ax
 minna.ax
@@ -3229,7 +3222,6 @@ roleplay.ax
 rolex.ax
 rollesbygg.ax
 rollic.ax
-rompetori.ax
 ronnholm.ax
 rono.ax
 roos.ax
@@ -3461,7 +3453,6 @@ smadjurskliniken.ax
 smakbyn.ax
 smakverket.ax
 small.ax
-smart-taxi.ax
 smart.ax
 smartabyar.ax
 smartenergy.ax
@@ -3706,7 +3697,6 @@ tagewilen.ax
 tahini.ax
 tahtirisuaita.ax
 takanoha.ax
-taksi.ax
 takteknik.ax
 tal.ax
 talc.ax
@@ -3751,7 +3741,6 @@ telecom.ax
 teledyne.ax
 telef.ax
 telegrafen.ax
-telegram.ax
 telia.ax
 tem.ax
 tema.ax
@@ -4058,10 +4047,7 @@ vs.ax
 vsfbk.ax
 vt.ax
 vu.ax
-vuokra-asunnot.ax
-vuokraa.ax
 vuokrakoti.ax
-vuokrattavana.ax
 vv.ax
 vvs-boden.ax
 vvs-webbutik.ax
@@ -4190,7 +4176,6 @@ xn--bokhandlargrnd-hib.ax
 xn--bosgrv-fua.ax
 xn--brgarn-bua.ax
 xn--brkraft-5wa.ax
-xn--bt-yia.ax
 xn--btfrvaring-15a0s.ax
 xn--byggaitr-7za.ax
 xn--con-tla.ax
