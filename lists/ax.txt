@@ -1921,7 +1921,6 @@ io.ax
 iot.ax
 ip.ax
 ipc.ax
-iph.ax
 ipmdomains.ax
 iptv.ax
 ipv6.ax
@@ -2928,6 +2927,7 @@ palikka.ax
 palingtr.ax
 pan.ax
 pandax.ax
+panel.ax
 parall.ax
 parsun.ax
 pask.ax
