@@ -697,6 +697,7 @@
 239574.id
 23986.id
 23paskal.id
+23semarang.id
 24.id
 240.id
 241.id
@@ -1018,6 +1019,7 @@
 367.id
 368.id
 369.id
+369food.id
 37.id
 370.id
 371.id
@@ -1320,7 +1322,6 @@
 4home.id
 4klab.id
 4kwin.id
-4lexa.id
 4life.id
 4live.id
 4mcad.id
@@ -2768,7 +2769,6 @@ abdurrohman.id
 abdussalam.id
 abdusysyafi.id
 abe.id
-abece.id
 abedfitcoach.id
 abednego.id
 abeeq.id
@@ -3125,6 +3125,8 @@ academiaworks.id
 academic-life.id
 academic.id
 academica.id
+academicassetmanagement-pusdikarhanud.id
+academicassetmaterial-pusdikarmed.id
 academicjournal.id
 academics.id
 academicskills.id
@@ -3160,6 +3162,7 @@ acapela.id
 acara.id
 acarain.id
 acaraitu.id
+acarakami.id
 acaraki.id
 acarakijamu.id
 acarakisite.id
@@ -3302,6 +3305,7 @@ accra.id
 accredited.id
 accredo.id
 accrent.id
+accsy.id
 accsys.id
 acct.id
 acctrade.id
@@ -3474,6 +3478,7 @@ achmaduntung.id
 achmatjuri.id
 achmiral.id
 achpay.id
+achsanulqosasi.id
 achterna.id
 achyarnurandi.id
 aci-agro.id
@@ -4297,6 +4302,7 @@ adllo.id
 adlyne.id
 adm-4d.id
 adm-aquaculture.id
+adm4d-maxwin.id
 adm4d-official.id
 adm4d-real.id
 adm4dtinggi.id
@@ -5360,6 +5366,7 @@ agenpoker.id
 agenpokeronline.id
 agenpokerqq.id
 agenposfin.id
+agenposindonesia.id
 agenpro.id
 agenpromogratis.id
 agenproperti.id
@@ -6020,6 +6027,7 @@ ai-powered.id
 ai-ra.id
 ai-research.id
 ai-security.id
+ai-university.id
 ai-verse.id
 ai-ways.id
 ai2learn.id
