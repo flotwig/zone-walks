@@ -24,7 +24,6 @@ alphabet.auto
 alpine.auto
 amazon.auto
 amg.auto
-amica.auto
 amp.auto
 ampere.auto
 android.auto
@@ -360,6 +359,7 @@ regroup.auto
 remakers.auto
 renault.auto
 renew.auto
+renovo.auto
 restart.auto
 revolution.auto
 rhino.auto
