@@ -954,6 +954,7 @@ continuum.audio
 controlroom.audio
 coocoo.audio
 cooking.audio
+cool.audio
 coolblue.audio
 cope.audio
 copyright.audio
@@ -1929,8 +1930,6 @@ homepod.audio
 homepodmini.audio
 homerunderby.audio
 homeserver.audio
-hoodmuzik-entertainment-tv.audio
-hoodmuzik-tv.audio
 hooked.audio
 hopper.audio
 horand.audio
@@ -2036,6 +2035,7 @@ incanto.audio
 inception.audio
 indians.audio
 industry.audio
+industrystandard.audio
 inears.audio
 infinity.audio
 infodakinevoyage.audio
