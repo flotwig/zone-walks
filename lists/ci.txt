@@ -1200,10 +1200,7 @@ assoya.ci
 assoyacar.ci
 assurancevoyage.ci
 assureplus.ci
-assurermavoiture.ci
-assurervotrevoiture.ci
 assureus.ci
-assurezvotrevoiture.ci
 assurland.ci
 astc.ci
 astd.ci
@@ -1877,6 +1874,7 @@ bonken.ci
 bonneaffaire.ci
 bonnegouvernance.ci
 bonni.ci
+bonplan.ci
 bonprix.ci
 bonsejour.ci
 bonus.ci
@@ -2130,6 +2128,7 @@ caidamultiservices.ci
 caidp.ci
 caimpex.ci
 cajou.ci
+cak-avocats.ci
 cal.ci
 calac.ci
 calaohotel.ci
@@ -2743,7 +2742,6 @@ cmbellevue.ci
 cmci-store.ci
 cme.ci
 cmecespoir.ci
-cmed.ci
 cmgc.ci
 cmgp.ci
 cmi.ci
