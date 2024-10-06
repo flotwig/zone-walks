@@ -178,7 +178,6 @@
 1001pragmatic.id
 1001slot.id
 1001slots.id
-1001togel.id
 10061.id
 10062.id
 10086.id
@@ -749,7 +748,6 @@
 255.id
 256.id
 2567-sa.id
-25689.id
 257.id
 25763.id
 258.id
@@ -779,7 +777,6 @@
 27359.id
 274.id
 275.id
-27531.id
 276.id
 277.id
 278.id
@@ -1013,6 +1010,7 @@
 365sexy.id
 365slots.id
 365spin.id
+365stories.id
 365tv.id
 365vip.id
 365win.id
@@ -1494,7 +1492,6 @@
 580.id
 581.id
 582.id
-58291.id
 583.id
 584.id
 585.id
@@ -1670,7 +1667,6 @@
 67135.id
 671516.id
 672.id
-67259.id
 673.id
 674.id
 675.id
@@ -1804,7 +1800,6 @@
 750.id
 751.id
 752.id
-75291.id
 753.id
 754.id
 755.id
@@ -2014,7 +2009,6 @@
 825.id
 825689.id
 826.id
-82651.id
 827.id
 828.id
 828group.id
@@ -2025,7 +2019,6 @@
 830.id
 831.id
 83169.id
-83172.id
 832.id
 833.id
 834.id
@@ -2154,7 +2147,6 @@
 894.id
 895.id
 896.id
-89635.id
 89654.id
 897.id
 898.id
@@ -2265,7 +2257,6 @@
 936.id
 937.id
 938.id
-93862.id
 93872.id
 939.id
 94.id
@@ -2348,7 +2339,6 @@
 98sharga.id
 98spin.id
 98tiger.id
-98toto.id
 98win.id
 99-indonesia.id
 99-scootershop.id
@@ -3681,7 +3671,6 @@ activindonesiarace.id
 activision.id
 activist.id
 activity.id
-activitybeds.id
 activitypub.id
 activium.id
 activli.id
@@ -4304,8 +4293,10 @@ adllo.id
 adlyne.id
 adm-4d.id
 adm-aquaculture.id
+adm4d-max.id
 adm4d-maxwin.id
 adm4d-official.id
+adm4d-oficial.id
 adm4d-real.id
 adm4dtinggi.id
 admafia.id
@@ -5112,6 +5103,7 @@ aftechinstitute.id
 aftechnics.id
 after-pay.id
 after.id
+aftercampus.id
 afterclean.id
 afterdrive.id
 afteregoevent.id
@@ -5143,7 +5135,6 @@ afteryoudessertcafe.id
 afthanpayment.id
 afu.id
 afuche.id
-afuly.id
 afurnitureindonesia.id
 afv.id
 afwajatour.id
@@ -5762,7 +5753,6 @@ agskdry.id
 agslxsd.id
 agsmdrb.id
 agsmdrh.id
-agsnet.id
 agson.id
 agspdrw.id
 agsphry.id
@@ -6021,6 +6011,7 @@ ahtastore.id
 ahteam.id
 ahti.id
 ahtrmi.id
+ahtsana.id
 ahwal.id
 ahy.id
 ahyana.id
@@ -6034,6 +6025,7 @@ ai-powered.id
 ai-ra.id
 ai-research.id
 ai-security.id
+ai-university.id
 ai-verse.id
 ai-ways.id
 ai2learn.id
@@ -6086,6 +6078,7 @@ ns-gets.accelary.id
 ns.adaro.id
 ns01.afsales.id
 ns1.1001startupdigital.id
+ns1.1001togel.id
 ns1.14045.id
 ns1.3pilar.id
 ns1.421akurmakmur.id
@@ -6123,6 +6116,7 @@ ns1.agungsuryoputra.id
 ns1.aichallenge.id
 ns1.freehosting.com.abangupih.id
 ns2.1001startupdigital.id
+ns2.1001togel.id
 ns2.14045.id
 ns2.3pilar.id
 ns2.421akurmakmur.id
