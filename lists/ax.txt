@@ -504,7 +504,6 @@ auto-service.ax
 auto.ax
 autodiscover.ax
 autos.ax
-av.ax
 ava.ax
 avancia.ax
 avbetalning.ax
@@ -1948,6 +1947,7 @@ island.ax
 isojoenkonehalli.ax
 isuzu.ax
 it.ax
+it24.ax
 itb.ax
 itbolaget.ax
 itiden.ax
@@ -3037,7 +3037,6 @@ polisen.ax
 polisforeningen.ax
 polismyndigheten.ax
 politik.ax
-polymath.ax
 pommern.ax
 ponape.ax
 popr.ax
@@ -3377,7 +3376,6 @@ sf.ax
 sfim2022.ax
 sg.ax
 sgrouphotels.ax
-sh.ax
 shanty.ax
 sharebook.ax
 shein.ax
