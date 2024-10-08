@@ -138,11 +138,11 @@
     },
     {
       "domains": "494",
-      "zone": "xn--80ao21a"
+      "zone": "auto"
     },
     {
-      "domains": "494",
-      "zone": "auto"
+      "domains": "493",
+      "zone": "xn--80ao21a"
     },
     {
       "domains": "301",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4865417"
+  "total": "4865416"
 }
