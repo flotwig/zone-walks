@@ -160,6 +160,7 @@
 100-pasaran.id
 1000aksibogor.id
 1000bintang.id
+1000desain.id
 1000dunia.id
 1000haripertamasikecil.id
 1000jurnalterakreditasi.id
@@ -2730,6 +2731,7 @@ abdillahputratamala.id
 abdillahstore.id
 abdimas.id
 abdimaskwarnas.id
+abdimetal.id
 abdimuda.id
 abdinegara.id
 abdinegarasurabaya.id
@@ -2787,6 +2789,7 @@ abelnet.id
 abelylula.id
 abendum.id
 abepura.id
+abera.id
 abercrombie.id
 abercrombieandfitch.id
 abercrombiefitch.id
@@ -3698,6 +3701,7 @@ actor.id
 actors.id
 actransit.id
 acts.id
+actstudio.id
 actual.id
 actualab.id
 actually.id
@@ -4209,7 +4213,6 @@ adiramultiguna.id
 adirasidoarjo.id
 adiratunai.id
 adirect.id
-adirejo-desa.id
 adirejo-pekalongan.id
 adirp.id
 adisampoerna.id
@@ -4535,6 +4538,7 @@ adspcenter.id
 adspedia.id
 adsplatform.id
 adsplit.id
+adspreneur.id
 adspro.id
 adsproject.id
 adsqoo.id
@@ -4955,7 +4959,6 @@ afcollection.id
 afcsop.id
 afcsopindonesia.id
 afcsopsubarashi.id
-afcstore.id
 afcsubarashi.id
 afcsuperfood.id
 afda.id
@@ -5448,6 +5451,7 @@ agents.id
 agentsystem.id
 agenttaruahanjudibolaonline.id
 agentuspro.id
+agentx.id
 agentxbali.id
 agentz.id
 agenumroh.id
@@ -5843,6 +5847,7 @@ aguscustom.id
 aguservices.id
 agusfajar.id
 aguskuncoro.id
+aguskurniawan.id
 agusmu.id
 agusnovan.id
 aguspakpahan.id
@@ -6003,7 +6008,6 @@ ahmadyani.id
 ahmadyusuf.id
 ahmafood.id
 ahmar.id
-ahmed.id
 ahmet.id
 ahnaf.id
 ahoistudios.id
