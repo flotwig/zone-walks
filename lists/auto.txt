@@ -314,7 +314,6 @@ oculusvr.auto
 odell.auto
 omar.auto
 omni.auto
-online.auto
 opel.auto
 open.auto
 openly.auto
@@ -369,6 +368,7 @@ rivian.auto
 roam.auto
 robocar.auto
 roboride.auto
+robotaxi.auto
 robotcar.auto
 robotride.auto
 rockingham.auto
