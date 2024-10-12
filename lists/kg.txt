@@ -120,7 +120,6 @@
 4clinic.kg
 4g.kg
 4me.kg
-4pro.kg
 4rent.kg
 4union-tech.kg
 4x4.kg
@@ -496,7 +495,6 @@ aircharter.kg
 airconder.kg
 aircover.kg
 aircoverplus.kg
-airfel.kg
 airfrance.kg
 airfresh.kg
 airkg.kg
@@ -822,7 +820,6 @@ aluprof-system.kg
 aluprof.kg
 alur-avto.kg
 alutech.kg
-aluu-satuu.kg
 alyalina.kg
 alyara.kg
 alymbaev.kg
@@ -1033,7 +1030,6 @@ archalymedresesi.kg
 archeo.kg
 archigroup.kg
 archilab.kg
-architech.kg
 archive.kg
 arcokomerco.kg
 arcus.kg
@@ -1567,6 +1563,7 @@ ayaks-security.kg
 ayaks.kg
 ayaldar.kg
 ayana.kg
+ayat-clinic.kg
 ayda.kg
 aydanis.kg
 ayland.kg
@@ -1675,6 +1672,7 @@ bakyt-kip.kg
 bakyt.kg
 bal.kg
 balabakcha.kg
+balabala.kg
 balagabelek.kg
 balajan.kg
 balajanclinic.kg
@@ -1791,6 +1789,7 @@ baytur-build.kg
 baytur-resort.kg
 baytur.kg
 baytushum.kg
+baza.kg
 bazaar.kg
 bazagolosov.kg
 bazalt.kg
@@ -2531,12 +2530,10 @@ carcheck.kg
 carciti.kg
 carcity.kg
 carclick.kg
-card.kg
 cardiology.kg
 cardplus.kg
 cardsmoney.kg
 cardstandard.kg
-cardtocard.kg
 cardtrade.kg
 careprost.kg
 carexkorea.kg
@@ -3873,6 +3870,7 @@ elishacoy.kg
 elit-mozzarella.kg
 elita.kg
 elite-bruschatka.kg
+elite-herb.kg
 elite.kg
 eliteacademy.kg
 eliteglass.kg
@@ -6257,6 +6255,7 @@ kalyi-nur.kg
 kalysco.kg
 kamasana.kg
 kamaz.kg
+kambarkan.kg
 kambarova.kg
 kamen.kg
 kamexport.kg
@@ -6510,7 +6509,6 @@ kino-flex.kg
 kino.kg
 kinobox.kg
 kinoflex.kg
-kinoliving.kg
 kinopoisk.kg
 kinoteatr.kg
 kinotechnology.kg
@@ -6908,7 +6906,6 @@ kyzyl-tuu.kg
 kyzylompol.kg
 kzmc.kg
 l-m.kg
-l-pro.kg
 la.kg
 lab.kg
 labpro.kg
@@ -6980,7 +6977,6 @@ lba.kg
 lbpf.kg
 lc.kg
 lck.kg
-lcoin.kg
 lctv.kg
 lcw.kg
 lcwaikiki.kg
@@ -7807,6 +7803,7 @@ metiztorg.kg
 metpromintex.kg
 metpromko.kg
 metrica.kg
+metro.kg
 metrohm.kg
 mettransterminal.kg
 mex.kg
@@ -8291,7 +8288,6 @@ naryn.kg
 naryncity.kg
 naryncorp.kg
 narynhub.kg
-narynimport.kg
 narynlib.kg
 narynokmot.kg
 naryntufoms.kg
@@ -9488,11 +9484,12 @@ powertrade.kg
 powervital.kg
 pozitiv.kg
 pp.kg
+ppc.kg
+ppcgroup.kg
 pplo.kg
 ppz.kg
 pr-fly.kg
 pr.kg
-praktik.kg
 prana.kg
 pranamat.kg
 pranamateco.kg
@@ -9591,11 +9588,11 @@ proekty.kg
 proex.kg
 prof.kg
 profelectric.kg
-profertil-female.kg
 profertil.kg
 proff-lab.kg
 profgmu.kg
 profi.kg
+profib.kg
 proficomm.kg
 profident.kg
 profiklass.kg
@@ -9758,6 +9755,7 @@ qurban.kg
 qurs.kg
 qvatro.kg
 r-keeper.kg
+r-ulybka.kg
 r.kg
 rabe.kg
 rabota.kg
@@ -10203,7 +10201,6 @@ safepay.kg
 safety.kg
 saffran.kg
 safiabakery.kg
-safihealth.kg
 sagynbaeva.kg
 sailing.kg
 saima.kg
@@ -12370,7 +12367,6 @@ velomesto.kg
 velosport.kg
 velours-noir.kg
 veloursnoir.kg
-velstar.kg
 velux.kg
 vemastroy.kg
 vendo.kg
@@ -12982,6 +12978,7 @@ zima.kg
 zimoda.kg
 zina.kg
 zinzino.kg
+zip.kg
 zippo.kg
 zipunya-collection.kg
 zivert.kg
