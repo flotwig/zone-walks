@@ -480,11 +480,9 @@
 1acc4d.id
 1amin.id
 1asia.id
-1autobody.id
 1bandar.id
 1bangsa.id
 1bauma.id
-1bodyshop.id
 1btc.id
 1clic.id
 1click.id
@@ -503,7 +501,6 @@
 1exch.id
 1g3wvj0.id
 1gang4d.id
-1garage.id
 1hari.id
 1health.id
 1hmong.id
@@ -1872,6 +1869,7 @@
 777peka.id
 777score.id
 777slot.id
+777win.id
 778.id
 779.id
 77betspin.id
@@ -2377,7 +2375,6 @@
 99976.id
 9999.id
 99advertising.id
-99asmaulhusna.id
 99bandar.id
 99berita.id
 99bet.id
@@ -2713,7 +2710,6 @@ abctoys.id
 abcvip.id
 abcwin368.id
 abcwin386.id
-abcworks.id
 abdallah.id
 abdata.id
 abdaziz.id
@@ -3035,6 +3031,7 @@ absnet.id
 absoft.id
 absol.id
 absolut.id
+absolutdata.id
 absolute.id
 absoluteindonesia.id
 absolutely.id
@@ -4605,7 +4602,6 @@ advance.id
 advancecleaning.id
 advanced.id
 advancedhomecare.id
-advancedtech.id
 advancegearbox.id
 advanceguard.id
 advancemeds.id
@@ -5662,6 +5658,7 @@ agrimuda.id
 agrina.id
 agrinas.id
 agrinesia.id
+agrinexus.id
 agrinutrisiskin.id
 agrio.id
 agrion.id
@@ -5866,6 +5863,7 @@ agusbatik.id
 aguservices.id
 agusfajar.id
 aguskuncoro.id
+aguskurniawan.id
 agusmu.id
 agusnovan.id
 aguspakpahan.id
