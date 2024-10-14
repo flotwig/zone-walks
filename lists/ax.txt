@@ -1378,7 +1378,6 @@ fint.ax
 finvoicer.ax
 fire.ax
 fisher.ax
-fishingguide.ax
 fishingmap.ax
 fiskekarta.ax
 fiskekartan.ax
@@ -1519,7 +1518,6 @@ gardlarpes.ax
 garnkorgen.ax
 gastgivars.ax
 gasthamn.ax
-gasthamnar.ax
 gasthamnsguiden.ax
 gasthemjomalagard.ax
 gate.ax
@@ -3939,6 +3937,7 @@ uu.ax
 uv.ax
 uw.ax
 ux.ax
+uy.ax
 v1.ax
 v7.ax
 va.ax
@@ -3968,7 +3967,6 @@ vasterro.ax
 vateknik.ax
 vater.ax
 vatten.ax
-vattenskydd.ax
 vazkepa.ax
 vc.ax
 vd.ax
