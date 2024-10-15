@@ -157,12 +157,12 @@
       "zone": "cars"
     },
     {
-      "domains": "143",
-      "zone": "xn--l1acc"
-    },
-    {
       "domains": "119",
       "zone": "amazon"
+    },
+    {
+      "domains": "106",
+      "zone": "xn--l1acc"
     },
     {
       "domains": "98",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4865759"
+  "total": "4865722"
 }
