@@ -604,6 +604,7 @@ anthology.game
 anywhere.game
 aov.game
 aozorabank.game
+ap.game
 aparat.game
 apefest.game
 aperion.game
@@ -612,7 +613,6 @@ apostas.game
 app.game
 apple.game
 applearcade.game
-appleland.game
 appleone.game
 applepencilpro.game
 applesports.game
@@ -2265,6 +2265,7 @@ googlecloud.game
 googlemaps.game
 googlepay.game
 googleworkspace.game
+goon.game
 goose.game
 gopg.game
 goplay.game
@@ -3796,7 +3797,6 @@ ontheway.game
 onyx.game
 opagacor99.game
 openbox.game
-openroads.game
 opensea.game
 opgg.game
 ops.game
@@ -4149,7 +4149,6 @@ popg.game
 popit.game
 popslot.game
 poptarts.game
-popular.game
 porcupine.game
 pork.game
 porn.game
@@ -4685,6 +4684,7 @@ slotxo.game
 slotxo1.game
 slotxo2.game
 slotxoauto.game
+slvip.game
 smashing.game
 smashverse.game
 smilegate.game
@@ -4734,7 +4734,6 @@ sona.game
 songsofsilence.game
 sonic.game
 sonicthehedgehog.game
-sophiadao.game
 sorrir.game
 sorte.game
 sortebet.game
@@ -5511,6 +5510,7 @@ volka.game
 volt.game
 vortex.game
 voxlshot.game
+voyage.game
 voyagewest.game
 vp.game
 vpn.game
@@ -5914,6 +5914,7 @@ zealot.game
 zenni.game
 zeroimpossible.game
 zeroping.game
+zest.game
 zeuscasino.game
 zeuspg.game
 zilionzbet.game
