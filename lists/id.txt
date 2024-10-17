@@ -675,7 +675,6 @@
 22bet.id
 22crown.id
 22rbet.id
-22spin.id
 22travel.id
 23.id
 230.id
@@ -910,6 +909,7 @@
 335.id
 336.id
 337.id
+337sports.id
 338.id
 339.id
 33hbet.id
@@ -2142,7 +2142,6 @@
 88rising.id
 88sbobet.id
 88situspoker.id
-88slot.id
 88slotjitu.id
 88space.id
 88spin.id
@@ -2168,6 +2167,7 @@
 899.id
 89970.id
 899gaming.id
+899sports.id
 89bola.id
 89music.id
 89net.id
@@ -2376,6 +2376,8 @@
 99976.id
 9999.id
 99advertising.id
+99asmaulhusna.id
+99aso.id
 99bandar.id
 99berita.id
 99bet.id
@@ -2705,7 +2707,6 @@ abcpasko.id
 abcpi.id
 abcrealestate.id
 abcslot.id
-abcslt.id
 abcstudio.id
 abctile.id
 abctoys.id
@@ -3628,6 +3629,7 @@ acrylicworks.id
 acryliczone.id
 acsborneo.id
 acscents.id
+acsconsulting.id
 acsgroup.id
 acsi.id
 acsindonesia.id
@@ -3726,7 +3728,6 @@ acuandigital.id
 acuda.id
 acuderma.id
 acuks.id
-acumenconsulting.id
 acumenengineering.id
 acunetix.id
 acungrajut.id
@@ -3818,7 +3819,6 @@ adam.id
 adamair.id
 adamali.id
 adamalkhair.id
-adamcenter.id
 adameds.id
 adamedspro.id
 adameteran.id
@@ -4113,7 +4113,6 @@ adhiwangsabali.id
 adhiwijaya.id
 adhmi.id
 adhoc.id
-adhome.id
 adhomfarmindonesia.id
 adhtik.id
 adhwa.id
@@ -4645,7 +4644,6 @@ adventurefestival.id
 adventurefriends.id
 adventureindonesia.id
 adventureland.id
-adventurerafting.id
 adventuretrip.id
 adventurous.id
 adver.id
@@ -5259,7 +5257,6 @@ agedcareservice.id
 ageddenim.id
 ageddomain.id
 agedhomecare.id
-agegacorhariini.id
 agegate.id
 ageka.id
 ageless.id
@@ -5356,14 +5353,12 @@ agenfood.id
 agenforklift.id
 agenfrozenfood.id
 ageng.id
-agengacorkasino.id
 agengaming.id
 agenganugrahani.id
 agengbagja.id
 agengmetha.id
 agenhabspro.id
 agenhalal.id
-agenhariini.id
 agenhebel.id
 agenhk.id
 agenia.id
@@ -5374,7 +5369,6 @@ agenjualmobilbekasori.id
 agenjudipoker.id
 agenjudipoker88.id
 agenkaospolos.id
-agenkasinoslot.id
 agenkilat.id
 agenlibra.id
 agenliveclub.id
@@ -5387,7 +5381,6 @@ agenmantan4d.id
 agenminyakkutuskutus.id
 agenmu.id
 agennalo.id
-agenonlineslot.id
 agenosb.id
 agenpaito.id
 agenpandai.id
@@ -5627,6 +5620,7 @@ agri.id
 agria.id
 agriable.id
 agriaperkasa.id
+agribis.id
 agribisnis-uinjkt.id
 agribisnis.id
 agribusiness.id
@@ -5778,6 +5772,7 @@ agrotenera.id
 agrotera.id
 agrotopia.id
 agroup.id
+agroverse.id
 agroveta.id
 agrovision.id
 agrow.id
@@ -5991,6 +5986,7 @@ ahlulbait.id
 ahlulhijaz.id
 ahlulquran.id
 ahlusshuffah.id
+ahlussuffah.id
 ahlussunnah.id
 ahlusunnah.id
 ahm-my.id
@@ -6055,6 +6051,7 @@ ahstore.id
 aht-garage.id
 ahtastore.id
 ahteam.id
+ahti.id
 ahtrmi.id
 ahtsana.id
 ahwal.id
