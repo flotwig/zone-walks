@@ -1381,6 +1381,7 @@ fint.ax
 finvoicer.ax
 fire.ax
 fisher.ax
+fishingguide.ax
 fishingmap.ax
 fiskekarta.ax
 fiskekartan.ax
@@ -1712,7 +1713,6 @@ hbom.ax
 hbomax.ax
 hbtqia.ax
 hc.ax
-hcf.ax
 hd.ax
 he.ax
 headless.ax
@@ -2431,7 +2431,6 @@ maklarhuset.ax
 malmlunds.ax
 malo.ax
 man.ax
-mandalayoga.ax
 mandea.ax
 manga.ax
 mani.ax
@@ -3141,7 +3140,6 @@ ra.ax
 rabe.ax
 raceit.ax
 racing.ax
-racketcenter.ax
 raddabarnen.ax
 raddalumparn.ax
 raddning.ax
@@ -3785,7 +3783,6 @@ theshit.ax
 thomas.ax
 thompson.ax
 thor.ax
-thorn.ax
 thr.ax
 threadneedle.ax
 throw.ax
@@ -3976,6 +3973,7 @@ vasterro.ax
 vateknik.ax
 vater.ax
 vatten.ax
+vattenskydd.ax
 vazkepa.ax
 vc.ax
 vd.ax
@@ -4063,7 +4061,6 @@ vor.ax
 voxel.ax
 vp.ax
 vpa.ax
-vpn.ax
 vps.ax
 vr.ax
 vs.ax
@@ -4148,7 +4145,6 @@ wn.ax
 wo.ax
 wohnmobil.ax
 wohnmobile.ax
-wolf.ax
 wolff.ax
 woodline.ax
 woody.ax
