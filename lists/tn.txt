@@ -11541,16 +11541,12 @@ desktop.tn
 dessa.tn
 dessange.tn
 destination-carthage.tn
-destination-djerba.tn
-destination-jerba.tn
 destination-mahdia.tn
 destination-voyage.tn
 destination-zaghouan.tn
 destination.tn
 destinationcarthage.tn
 destinationdahar.tn
-destinationdjerba.tn
-destinationjerba.tn
 destinationlekef.tn
 destinationmahdia.tn
 destinationtunisie.tn
@@ -28383,7 +28379,6 @@ mohtaref.tn
 moiinsaf.tn
 moimeme1.tn
 moimeme2.tn
-moins-cher.tn
 mojira.tn
 mojtamaona.tn
 mokador.tn
@@ -31987,6 +31982,7 @@ para-soin.tn
 para-store.tn
 para-street.tn
 para.tn
+para1.tn
 paraamour.tn
 paraask.tn
 parabayaskincare.tn
@@ -32077,6 +32073,7 @@ paramust.tn
 paranaturalia.tn
 paranature.tn
 paranet.tn
+paraone.tn
 parapharm.tn
 parapharmacie-en-ligne.tn
 parapharmacie-express.tn
@@ -33350,7 +33347,6 @@ poststore.tn
 posttunisie.tn
 posty.tn
 pot.tn
-potence.tn
 poterie.tn
 poterieslama.tn
 potocean.tn
