@@ -448,6 +448,7 @@
 18hokiplay.id
 18hokislot.id
 18hole.id
+18news.id
 18plus.id
 19.id
 190.id
@@ -1872,7 +1873,6 @@
 77lucks.id
 77neko.id
 77news.id
-77putarhadiah.id
 77rabbit.id
 77rabbit1.id
 77rent.id
@@ -2223,6 +2223,7 @@
 911.id
 911ccs.id
 911laundry.id
+911medicalclinic.id
 911responce.id
 912.id
 912245.id
@@ -2253,6 +2254,7 @@
 92850.id
 929.id
 92940.id
+92lottery.id
 92news.id
 93.id
 930.id
@@ -3744,7 +3746,6 @@ ad-plus.id
 ad-source.id
 ada-asia.id
 ada-dana.id
-ada-health.id
 adaadventure.id
 adaaku.id
 adaapa.id
@@ -4004,7 +4005,6 @@ addodesayehkuning.id
 addons.id
 addoor.id
 addpay.id
-addplus.id
 addproperty.id
 addr.id
 addra.id
@@ -4344,6 +4344,7 @@ admfsc.id
 admhgs.id
 admin-hadiah.id
 admin-oneummah.id
+admin-sentarumapps.id
 admin.id
 admina.id
 adminbawean.id
@@ -4961,6 +4962,7 @@ afc-lifescience.id
 afcdigital.id
 afcfarmasijepang.id
 afcglobal.id
+afcindonesia.id
 afcindonesiaofficial.id
 afcjapan.id
 afcjepang.id
@@ -6109,6 +6111,7 @@ aicaindria.id
 aicar.id
 aicare.id
 aiccon.id
+aicenter-itb.id
 aicenter.id
 aicert.id
 as1.agungsuryoputra.id
