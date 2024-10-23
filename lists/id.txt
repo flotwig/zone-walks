@@ -2836,6 +2836,7 @@ abiboo.id
 abicentral.id
 abid-investama.id
 abidestudio.id
+abidhanet.id
 abidin.id
 abidinadvokat.id
 abiding.id
@@ -3140,6 +3141,7 @@ academica.id
 academicassetmanagement-pusdikarhanud.id
 academicassetmaterial-pusdikarmed.id
 academicjournal.id
+academicpress.id
 academics.id
 academicskills.id
 academicus.id
@@ -4611,7 +4613,6 @@ advancedhomecare.id
 advancegearbox.id
 advanceguard.id
 advancemeds.id
-advancenews.id
 advanceofficial.id
 advancesinresearch.id
 advanceskill.id
@@ -5558,7 +5559,6 @@ agnes.id
 agneskin.id
 agneslaras.id
 agnesmaria.id
-agnesticahya.id
 agnis.id
 agnosia.id
 agnpartners.id
@@ -5850,7 +5850,6 @@ agungsuyoga.id
 agungtimur-desa.id
 agungtimur.id
 agungtoyota.id
-agungtoyotabatam.id
 agungtoyotajambi.id
 agungtoyotapekanbaru.id
 agungtravel.id
@@ -5893,7 +5892,6 @@ agutrip.id
 agvrobot.id
 agvtoto.id
 agwin.id
-agwoundcare.id
 agxnt.id
 ah.id
 aha-institute.id
@@ -6014,7 +6012,6 @@ ahmadipedia.id
 ahmadismail.id
 ahmadiyah.id
 ahmadiyya.id
-ahmadkhairuddin.id
 ahmadluthfi.id
 ahmadrifai.id
 ahmadsaefudin.id
@@ -6137,7 +6134,6 @@ ns1.4fior.id
 ns1.4tune.id
 ns1.66kbetgacor.id
 ns1.7tech.id
-ns1.8facets.id
 ns1.8host.id
 ns1.aagroup.id
 ns1.abangpraja.id
@@ -6176,7 +6172,6 @@ ns2.4everstudio.id
 ns2.4tune.id
 ns2.66kbetgacor.id
 ns2.7tech.id
-ns2.8facets.id
 ns2.8host.id
 ns2.aagroup.id
 ns2.abangpraja.id
