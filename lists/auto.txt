@@ -66,6 +66,7 @@ bentley.auto
 bergstrom.auto
 bid.auto
 bitcoin.auto
+blg-logistics.auto
 blogger.auto
 bmw.auto
 boch.auto
@@ -153,7 +154,9 @@ erieinsurance.auto
 erieratelock.auto
 eriesecure.auto
 eriesense.auto
+erp.auto
 eve.auto
+ex.auto
 f1.auto
 facebook.auto
 fafsd.auto
@@ -303,7 +306,6 @@ nissan.auto
 nitro.auto
 nms.auto
 nok88.auto
-nomia.auto
 nor.auto
 novo.auto
 novus.auto
@@ -322,7 +324,6 @@ oportun.auto
 oscar.auto
 oscaro.auto
 ovo.auto
-parts.auto
 pepboys.auto
 peugeot.auto
 phantom.auto
