@@ -3,7 +3,6 @@
 00314.ax
 01.ax
 05.ax
-08.ax
 089.ax
 09.ax
 0a.ax
@@ -16,6 +15,7 @@
 100kvinnor.ax
 10mm.ax
 11.ax
+111.ax
 112.ax
 12.ax
 123.ax
@@ -44,7 +44,6 @@
 23.ax
 24.ax
 24587.ax
-26.ax
 26381.ax
 26589.ax
 28.ax
@@ -90,7 +89,6 @@
 58.ax
 59.ax
 59162.ax
-60.ax
 6132.ax
 6277.ax
 65.ax
@@ -104,10 +102,9 @@
 69.ax
 69451.ax
 69523.ax
-70.ax
-71.ax
 72851.ax
 73.ax
+74.ax
 76412.ax
 77.ax
 777.ax
@@ -126,7 +123,6 @@
 89347.ax
 91.ax
 91752.ax
-94.ax
 94168.ax
 95237.ax
 96.ax
@@ -201,7 +197,6 @@ agilefinanceconsulting.ax
 agility.ax
 agk.ax
 agrimarket.ax
-agrimaskin.ax
 ah.ax
 ahl.ax
 ahlsell.ax
@@ -223,7 +218,6 @@ ak-aland.ax
 ak.ax
 akavaaland.ax
 akd.ax
-akeri.ax
 aklagare.ax
 aktiaafm.ax
 aktialkv.ax
@@ -469,6 +463,7 @@ asfh.ax
 asi.ax
 asics.ax
 askurochembla.ax
+asl.ax
 asm.ax
 asp.ax
 assapubit.ax
@@ -484,6 +479,7 @@ athena.ax
 ati.ax
 atk.ax
 atom.ax
+atr.ax
 att.ax
 atv.ax
 au.ax
@@ -518,7 +514,6 @@ ax.ax
 ax3.ax
 axax.ax
 axbuss.ax
-axc.ax
 axcec.ax
 axcon.ax
 axe.ax
@@ -556,8 +551,10 @@ bacarodoppio.ax
 back.ax
 backman.ax
 backmansoptik.ax
+backstrom.ax
 bad.ax
 badminton.ax
+badtr.ax
 bagarstugan.ax
 bagelbee.ax
 bahigo.ax
@@ -610,6 +607,7 @@ bf.ax
 bg.ax
 bgp.ax
 bh.ax
+bi.ax
 bibliotek.ax
 bibo.ax
 bid.ax
@@ -678,6 +676,7 @@ bjorkman.ax
 bjorkouthyrning.ax
 bjorkslingan.ax
 bjornviken.ax
+bk.ax
 bkfiber.ax
 bl.ax
 black.ax
@@ -715,7 +714,6 @@ bokashi.ax
 bokhandel.ax
 bokhandeln.ax
 bokhandlargrand.ax
-bokhuset.ax
 bokuniversum.ax
 boland.ax
 bolstaholm.ax
@@ -782,6 +780,7 @@ buffa.ax
 buffert.ax
 buffet.ax
 buffstreams.ax
+bunkr.ax
 burgers.ax
 burkarochbin.ax
 burrito.ax
@@ -797,7 +796,6 @@ buttercup.ax
 buy.ax
 bw.ax
 bx.ax
-by.ax
 bygg.ax
 byggab.ax
 byggfirmacg.ax
@@ -875,6 +873,7 @@ charlie.ax
 charlotte.ax
 charly.ax
 chat.ax
+chatgpt.ax
 chax.ax
 check.ax
 chess.ax
@@ -943,7 +942,6 @@ compagnietmariehamn.ax
 compass.ax
 comst.ax
 confido.ax
-conman.ax
 connect.ax
 consciouscapital.ax
 consilia.ax
@@ -1037,7 +1035,6 @@ dekoora.ax
 delicatessen.ax
 deluxe.ax
 demens.ax
-demo.ax
 dentalcenter.ax
 design.ax
 designtothem.ax
@@ -1064,7 +1061,6 @@ disponent.ax
 disponenta.ax
 disponenthuset.ax
 dj.ax
-djm.ax
 djupsund.ax
 djurlyckan.ax
 djurskydd.ax
@@ -1254,6 +1250,7 @@ ermida.ax
 erou.ax
 es.ax
 esc.ax
+esim.ax
 esoxaland.ax
 esplanadkliniken.ax
 esportscores.ax
@@ -1273,7 +1270,6 @@ ettstegitaget.ax
 eu.ax
 euroassociation.ax
 euronics.ax
-europe.ax
 europol.ax
 eurosko.ax
 eurosport.ax
@@ -1297,7 +1293,6 @@ exch.ax
 exchange.ax
 exhale.ax
 exness.ax
-exo.ax
 ey.ax
 eyi.ax
 ez.ax
@@ -1319,6 +1314,7 @@ familjecentrum.ax
 fanrel.ax
 fantasticservices.ax
 fanumt.ax
+faq.ax
 far.ax
 fareata.ax
 fargtapet.ax
@@ -1398,6 +1394,7 @@ flisofisk.ax
 flodin.ax
 flourish.ax
 flowdog.ax
+fluctus.ax
 fluid.ax
 flux.ax
 flygfoto.ax
@@ -1852,7 +1849,6 @@ ice.ax
 icm.ax
 icon.ax
 id.ax
-idc.ax
 idealista.ax
 idme.ax
 idrott.ax
@@ -2061,7 +2057,6 @@ k2h.ax
 k7.ax
 k8.ax
 k98.ax
-ka.ax
 kai.ax
 kaigai.ax
 kalastuskartta.ax
@@ -2119,7 +2114,6 @@ kfz.ax
 kgtrading.ax
 kh.ax
 khs.ax
-ki.ax
 kia.ax
 kierto.ax
 kim.ax
@@ -2178,6 +2172,7 @@ konsthantverk.ax
 konstmuseum.ax
 konsulten.ax
 konsulterna.ax
+kontor.ax
 kontoret.ax
 kop.ax
 koppargrytan.ax
@@ -2222,14 +2217,12 @@ kumlingeskola.ax
 kundresan.ax
 kungsholmen.ax
 kungsnas.ax
-kv.ax
 kvarnbopensionat.ax
 kvarter5.ax
 kvick.ax
 kvinnfolk.ax
 kw.ax
 kx.ax
-ky.ax
 kyndryl.ax
 kyrkor.ax
 l1.ax
@@ -2295,6 +2288,7 @@ leovegas.ax
 level.ax
 leverans.ax
 levy.ax
+lex.ax
 lf.ax
 li.ax
 liamedia.ax
@@ -2356,8 +2350,11 @@ loka.ax
 lokal.ax
 lokaltapiola.ax
 lokalvader.ax
+lol.ax
 loli.ax
 lom.ax
+london.ax
+lonebolaget.ax
 lonnqvist.ax
 looksm.ax
 lookup.ax
@@ -2408,7 +2405,6 @@ lykko.ax
 lyko.ax
 lyyski.ax
 lyyskihome.ax
-lyyskis.ax
 lyyskitravels.ax
 lz.ax
 m3.ax
@@ -2431,6 +2427,7 @@ man.ax
 mandea.ax
 manga.ax
 mani.ax
+manscaped.ax
 mar.ax
 marbibacken.ax
 marbyfjarden.ax
@@ -2632,6 +2629,7 @@ motormuseum.ax
 motorportalen.ax
 motrasism.ax
 mottagningen.ax
+movr.ax
 mow.ax
 mp.ax
 mpd.ax
@@ -2644,7 +2642,6 @@ ms.ax
 msf.ax
 msg.ax
 mshad.ax
-msn.ax
 mss.ax
 mstrand.ax
 mt.ax
@@ -2946,6 +2943,7 @@ pan.ax
 pandax.ax
 panel.ax
 parall.ax
+paris.ax
 parsun.ax
 pask.ax
 pasta.ax
@@ -3143,6 +3141,7 @@ raddabarnen.ax
 raddalumparn.ax
 raddning.ax
 raddningshund.ax
+radio.ax
 radion.ax
 radiorel.ax
 radiotv.ax
@@ -3151,6 +3150,7 @@ raflaamo.ax
 rahapaja.ax
 rahastot.ax
 rahoitus.ax
+rajamaki.ax
 rall.ax
 ramirent.ax
 ramonasscrapstore.ax
@@ -3460,7 +3460,6 @@ skrinnare.ax
 skroten.ax
 skunk.ax
 sky.ax
-skyddspolisen.ax
 skylift.ax
 skylten.ax
 skytt.ax
@@ -3546,6 +3545,7 @@ sp.ax
 sparhallen.ax
 speed.ax
 speeding.ax
+sph.ax
 sphh.ax
 spike.ax
 spir.ax
@@ -3564,6 +3564,7 @@ sportskytte.ax
 sporttiklubi.ax
 spotify.ax
 spraka.ax
+sprint.ax
 sq.ax
 sr.ax
 srv.ax
@@ -3677,9 +3678,9 @@ sunset-boulevard.ax
 sunsetboulevard.ax
 suomenrahapaja.ax
 suomenrehu.ax
+suomi.ax
 superdry.ax
 superslots.ax
-supo.ax
 supremehorsecare.ax
 surfnet.ax
 surt.ax
@@ -3725,6 +3726,7 @@ talenom.ax
 tallink.ax
 tallship.ax
 tallshipsmariehamn.ax
+tallum.ax
 tamara.ax
 tandfen.ax
 tandkliniken.ax
@@ -3762,6 +3764,7 @@ telecom.ax
 teledyne.ax
 telef.ax
 telegrafen.ax
+telegram.ax
 telia.ax
 tem.ax
 tema.ax
@@ -3769,7 +3772,6 @@ tencent.ax
 terrieristens.ax
 territoni.ax
 tesla.ax
-tesser.ax
 test.ax
 tgr.ax
 th.ax
@@ -3792,6 +3794,7 @@ ticket.ax
 ticketbis.ax
 tickets.ax
 tickster.ax
+ticombo.ax
 tid.ax
 tidningar.ax
 tidningen.ax
@@ -3799,6 +3802,7 @@ tietotarjotin.ax
 tigergaming.ax
 tildeman.ax
 tilitoimisto.ax
+till.ax
 tim.ax
 time.ax
 timm.ax
@@ -3892,6 +3896,7 @@ tyvek.ax
 tz.ax
 ua.ax
 uas.ax
+ub.ax
 ubuy.ax
 uc.ax
 ud.ax
@@ -3977,6 +3982,7 @@ vatten.ax
 vattenskydd.ax
 vazkepa.ax
 vc.ax
+vclub.ax
 vd.ax
 ve.ax
 vecte.ax
@@ -4026,7 +4032,6 @@ vinkelboda.ax
 vinsmedjan.ax
 vinter.ax
 vip.ax
-virtual.ax
 visa.ax
 visibia.ax
 vision.ax
@@ -4181,7 +4186,6 @@ xeroj.ax
 xf.ax
 xg.ax
 xh.ax
-xhamster.ax
 xi.ax
 xiaomi.ax
 xj.ax
@@ -4190,6 +4194,7 @@ xk.ax
 xl.ax
 xm.ax
 xmont.ax
+xmr.ax
 xn--alandiafrskring-9kb71a.ax
 xn--andersekstrm-fjb.ax
 xn--bergsprngning-hfb.ax
@@ -4253,6 +4258,7 @@ xn--ppetland-d0a9n.ax
 xn--pverkavattnen-pfb.ax
 xn--rddabarnen-q5a.ax
 xn--resmedgran-kcb.ax
+xn--skhla-nra.ax
 xn--sknhet-xxa.ax
 xn--sknhetsmagasinet-nwb.ax
 xn--skogsgarna-u5a.ax
@@ -4288,7 +4294,6 @@ xtom.ax
 xu.ax
 xuwu.ax
 xv.ax
-xvideos.ax
 xw.ax
 xx.ax
 xxx.ax
@@ -4322,6 +4327,7 @@ zandra.ax
 zc.ax
 ze.ax
 zebrabil.ax
+zenim.ax
 zeoc.ax
 zero.ax
 zerom.ax
