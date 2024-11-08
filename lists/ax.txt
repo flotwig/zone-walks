@@ -218,6 +218,7 @@ ak-aland.ax
 ak.ax
 akavaaland.ax
 akd.ax
+akeri.ax
 aklagare.ax
 aktiaafm.ax
 aktialkv.ax
@@ -2137,6 +2138,7 @@ klingberg.ax
 klingbergs.ax
 klingbergsplatslageri.ax
 klingbergsstugor.ax
+kliniken.ax
 klintvagenapartments.ax
 klippupp.ax
 klirr.ax
@@ -2314,6 +2316,7 @@ lindholm.ax
 lindman.ax
 lindro.ax
 lindstrom.ax
+line.ax
 lingua.ax
 linki.ax
 linlouise.ax
@@ -2600,7 +2603,6 @@ mobil.ax
 mobile.ax
 mobilkran.ax
 mobilkranaland.ax
-model.ax
 modem.ax
 moderat.ax
 moderaterna.ax
@@ -4241,6 +4243,7 @@ xn--landsidrott-w8a.ax
 xn--landslagting-scb.ax
 xn--lex-tla.ax
 xn--lindstromland-xfb.ax
+xn--lkare-gra.ax
 xn--lnedag-wxa.ax
 xn--lr-via.ax
 xn--mklarhuset-q5a.ax
@@ -4283,6 +4286,7 @@ xn--vk-xia.ax
 xn--vrmepump-0za.ax
 xn--vxthus-bua.ax
 xn.ax
+xo.ax
 xoom.ax
 xp.ax
 xq.ax
