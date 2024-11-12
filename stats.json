@@ -93,7 +93,7 @@
       "zone": "christmas"
     },
     {
-      "domains": "2480",
+      "domains": "2479",
       "zone": "hosting"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4866801"
+  "total": "4866800"
 }
