@@ -3996,6 +3996,7 @@ addodesacandikusuma.id
 addodesademulih.id
 addodesadenggentimur.id
 addodesagadungan.id
+addodesagadungsari.id
 addodesakarangmulya.id
 addodesakayubihi.id
 addodesakuripan.id
@@ -4105,7 +4106,6 @@ adhikarawijayagroup.id
 adhikarifoundation.id
 adhikarijaya.id
 adhiland.id
-adhimixrmc.id
 adhiperkasa.id
 adhipradha.id
 adhiputro.id
@@ -4181,7 +4181,6 @@ adijaya.id
 adikara.id
 adikaralaw.id
 adikarast.id
-adikarya.id
 adikencana.id
 adikriya.id
 adiksi.id
@@ -4420,6 +4419,7 @@ adnet.id
 adnetwork.id
 adnice.id
 adnitech.id
+adnkonstruksi.id
 adnlogistics.id
 adnnn.id
 adnyana.id
@@ -4439,6 +4439,7 @@ adonanmama.id
 adonggroup.id
 adonia.id
 adoniabeauty.id
+adonnyabeauty.id
 adontacomm.id
 adop.id
 adopapa.id
@@ -5272,11 +5273,7 @@ agemindonesia.id
 agen-asuransi.id
 agen-joker123.id
 agen-pulsa.id
-agen-slot-gacor.id
-agen-slot-online.id
 agen-slot-terbaru.id
-agen-slot-terpercaya.id
-agen-slot.id
 agen-tepercaya.id
 agen-uwakslot.id
 agen.id
@@ -5443,11 +5440,9 @@ agensiundian.id
 agenslot138.id
 agenslot168.id
 agenslot69.id
-agenslotgacor.id
 agenslotonline.id
 agenslotonlineresmi.id
 agenslotterbaru.id
-agenslotterpercaya.id
 agensmmku.id
 agensosmed.id
 agensusukambing.id
@@ -5471,6 +5466,7 @@ agentotoplay-login.id
 agentotoplay.id
 agentotoplay2.id
 agentotoplayvip.id
+agentravel.id
 agents.id
 agentsystem.id
 agenttaruahanjudibolaonline.id
@@ -5583,6 +5579,7 @@ agorabali.id
 agoralife.id
 agoramall.id
 agoratechnosolution.id
+agorism.id
 agotani.id
 agp-law.id
 agparthakes.id
@@ -5769,7 +5766,6 @@ agroraya.id
 agrosae.id
 agrosantara.id
 agrosejahtera.id
-agrosmartsystem.id
 agrostain.id
 agrostar.id
 agrotec.id
@@ -6127,6 +6123,10 @@ bix8.aarna.id
 bs1.agungsuryoputra.id
 bs2.agungsuryoputra.id
 cloud1.a2dic.id
+dns1.adikarya.id
+dns2.adikarya.id
+dns3.adikarya.id
+dns4.adikarya.id
 ftp.14045.id
 mail.14045.id
 master.adsnet.id
@@ -6157,6 +6157,7 @@ ns1.accelary.id
 ns1.actpoint.id
 ns1.adapromosi.id
 ns1.adcetera.id
+ns1.adikarya.id
 ns1.adiya.id
 ns1.adrenalin.id
 ns1.adsnet.id
@@ -6194,6 +6195,7 @@ ns2.accelary.id
 ns2.actpoint.id
 ns2.adapromosi.id
 ns2.adcetera.id
+ns2.adikarya.id
 ns2.adiya.id
 ns2.adrenalin.id
 ns2.adsnet.id
