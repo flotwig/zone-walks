@@ -952,7 +952,6 @@ corp.ax
 coursio.ax
 cov.ax
 covid-19.ax
-covid.ax
 cp.ax
 cr.ax
 cranim.ax
@@ -1178,6 +1177,7 @@ elgiganten.ax
 elin.ax
 elisa.ax
 elisavet.ax
+elledarna.ax
 elmvik.ax
 elnat.ax
 elon.ax
@@ -2929,6 +2929,7 @@ parall.ax
 paris.ax
 parsun.ax
 pask.ax
+password.ax
 pasta.ax
 paste.ax
 patina.ax
@@ -3036,7 +3037,6 @@ portal.ax
 portalen.ax
 portofmariehamn.ax
 post.ax
-postcrossingforening.ax
 posten.ax
 postit.ax
 postochtullhuset.ax
@@ -4034,6 +4034,7 @@ vn.ax
 vo.ax
 voces.ax
 voice.ax
+void.ax
 voip.ax
 volkswagen.ax
 volvopentaahvenanmaa.ax
