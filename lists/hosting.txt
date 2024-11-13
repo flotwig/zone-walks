@@ -394,6 +394,7 @@ clever.hosting
 cloud-hosting.hosting
 cloud-server.hosting
 cloud-service.hosting
+cloud.hosting
 cloud1.hosting
 cloud9.hosting
 cloudapp.hosting
@@ -716,7 +717,6 @@ esxii.hosting
 etes.hosting
 ethical.hosting
 etisalat.hosting
-ets.hosting
 euer.hosting
 europa.hosting
 europe.hosting
@@ -1436,7 +1436,6 @@ myservices.hosting
 myshop.hosting
 myswiss.hosting
 mywebsite.hosting
-mywordpress.hosting
 myworkday.hosting
 n-1.hosting
 n-able.hosting
