@@ -3061,6 +3061,7 @@ nyne.audio
 nyt.audio
 nyuad.audio
 nyyankees.audio
+oac.audio
 oaklandas.audio
 oaklandathletics.audio
 object-based.audio
@@ -3264,6 +3265,7 @@ phillies.audio
 phlox.audio
 phoenix.audio
 phoenixaz.audio
+phonon.audio
 photo.audio
 photon.audio
 piano.audio
@@ -4031,6 +4033,7 @@ spanishvoiceovers.audio
 spatial-3d.audio
 spatial.audio
 speak.audio
+speaker.audio
 speakercorrection.audio
 speakerfactory.audio
 speakingvolumesbooks.audio
@@ -4738,7 +4741,6 @@ wsj.audio
 wsp.audio
 wtapi.audio
 wwbw.audio
-wyrd.audio
 x-series.audio
 x.audio
 x11.audio
