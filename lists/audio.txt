@@ -2798,7 +2798,6 @@ monkeyc.audio
 monkeyd.audio
 mono.audio
 monoatomic.audio
-monoform.audio
 monolith.audio
 monomono.audio
 monster.audio
@@ -3284,6 +3283,7 @@ pinknoise.audio
 pinnacle.audio
 pioneer.audio
 pirates.audio
+pitch.audio
 pitchdokta.audio
 pittsburghpirates.audio
 pixel.audio
