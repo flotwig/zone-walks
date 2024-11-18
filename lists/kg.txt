@@ -104,7 +104,6 @@
 3cinternational.kg
 3d-electro.kg
 3d-rentgen-zubov.kg
-3d.kg
 3dbishkek.kg
 3delectro.kg
 3dmaster.kg
@@ -722,6 +721,7 @@ allaboutyou.kg
 alladin.kg
 alladinstroi.kg
 allai.kg
+allautoinfo.kg
 allcall.kg
 allegal.kg
 allegra.kg
@@ -1422,7 +1422,6 @@ autokey.kg
 autolab.kg
 autoland.kg
 autoline.kg
-autolombard.kg
 autoluxunion.kg
 automag.kg
 automall-asia.kg
@@ -2017,6 +2016,7 @@ bia.kg
 bianhim.kg
 biast.kg
 bibi.kg
+bibip.kg
 bible.kg
 biblioteka.kg
 bicamc.kg
@@ -2704,7 +2704,6 @@ chaek-aimak.kg
 chagylgan.kg
 chaika.kg
 chainbridge.kg
-chakanges.kg
 chakchak.kg
 chalkan.kg
 champion.kg
@@ -2945,13 +2944,11 @@ compas.kg
 compass.kg
 compland.kg
 complexbar.kg
-component.kg
 comportal.kg
 compservice.kg
 comptek.kg
 computerra.kg
 comtehno.kg
-concept.kg
 concert.kg
 concierge.kg
 condair.kg
@@ -3541,7 +3538,6 @@ doorexpo.kg
 doorfresh.kg
 doorhan-club.kg
 doorhan.kg
-doormedia.kg
 doors.kg
 dordoi.kg
 dordoiinsurance.kg
@@ -4101,6 +4097,7 @@ ericsson.kg
 erkin-too.kg
 erkindikfinance.kg
 erkindiklab.kg
+erkintoo.kg
 ermannoscervino.kg
 ermex.kg
 eros.kg
@@ -4840,7 +4837,6 @@ gaz.kg
 gazauto.kg
 gazenergy.kg
 gazeta.kg
-gazetarabota.kg
 gazkomm.kg
 gazoblok.kg
 gazon.kg
@@ -6498,6 +6494,7 @@ kfmipp.kg
 kfu.kg
 kfv.kg
 kg-business.kg
+kg-group.kg
 kg-ts.kg
 kg.kg
 kgb.kg
@@ -6790,7 +6787,6 @@ kroshka.kg
 krsu.kg
 krugosvet.kg
 krups.kg
-kryon.kg
 ks.kg
 ksa.kg
 ksapcs.kg
@@ -6852,7 +6848,6 @@ kunch.kg
 kundal.kg
 kundemi.kg
 kundoluk.kg
-kunduzai.kg
 kuntuu-aimak.kg
 kupi.kg
 kupicn.kg
@@ -8513,7 +8508,6 @@ nimbus.kg
 nimsi.kg
 nintendo.kg
 nintex.kg
-nisi.kg
 nissan.kg
 nissens-halk.kg
 nissens.kg
@@ -8638,6 +8632,7 @@ numa.kg
 numakids.kg
 numberone.kg
 numiscoin.kg
+nur-optics.kg
 nur.kg
 nurairways.kg
 nuran.kg
@@ -8902,6 +8897,7 @@ opti.kg
 optic.kg
 optica.kg
 opticom.kg
+optics.kg
 optik-sk.kg
 optik.kg
 optika.kg
@@ -8992,7 +8988,6 @@ oshcity.kg
 oshcu.kg
 oshdutyfree.kg
 oshelectro.kg
-oshfood.kg
 oshgpi.kg
 oshimu.kg
 oshkenesh.kg
@@ -9864,7 +9859,6 @@ rating-edu.kg
 rating-iarc.kg
 rating.kg
 ratinovclinic.kg
-ratio.kg
 ravenol.kg
 ravenstvo.kg
 rawigaming.kg
@@ -10239,7 +10233,6 @@ sacilas.kg
 sad.kg
 sadaka.kg
 sadanbekov.kg
-sadik.kg
 sadovnik.kg
 sadovoe.kg
 sady.kg
@@ -11196,7 +11189,6 @@ student.kg
 studio.kg
 studiobeton.kg
 study-on-tokmok.kg
-study.kg
 studyinchina.kg
 studyinchinas.kg
 studyinkyrgyzstan.kg
@@ -11315,7 +11307,6 @@ swift.kg
 swissquote.kg
 swissre.kg
 swisstime-exclusive.kg
-swisswatch.kg
 switi.kg
 swlux.kg
 swwomen.kg
@@ -11606,7 +11597,6 @@ teplodom.kg
 teplofon.kg
 teploinvest.kg
 teplolux.kg
-teploplus.kg
 teplorobot.kg
 teploseti.kg
 teplostil.kg
@@ -12104,7 +12094,6 @@ turboservice.kg
 turist.kg
 turizm.kg
 turkcell.kg
-turkish.kg
 turkishairlines.kg
 turkshop.kg
 turkuaz.kg
@@ -12294,7 +12283,6 @@ unlock911.kg
 uno-banquethall.kg
 uno.kg
 unreal.kg
-up.kg
 upgrade.kg
 upgradeschool.kg
 upjohn.kg
@@ -12321,7 +12309,6 @@ urology.kg
 urta.kg
 uruk.kg
 us.kg
-usa.kg
 usd.kg
 usdt.kg
 ushak.kg
@@ -12403,7 +12390,6 @@ vds.kg
 vecherka.kg
 vector-bit.kg
 ved360.kg
-vedanta.kg
 veev-vape.kg
 vefaavm.kg
 vefacenter.kg
@@ -12562,6 +12548,7 @@ vkus.kg
 vkusazii.kg
 vkusnoandpolezno.kg
 vkusvill.kg
+vkvoil.kg
 vlast.kg
 vlata.kg
 vm.kg
