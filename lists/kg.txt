@@ -122,6 +122,7 @@
 4d.kg
 4g.kg
 4me.kg
+4pro.kg
 4rent.kg
 4union-tech.kg
 4x4.kg
@@ -273,6 +274,7 @@ activebroker.kg
 activedesign.kg
 activegroup.kg
 activeleasing.kg
+activelogistics.kg
 activemarkets.kg
 ad.kg
 ada.kg
@@ -550,6 +552,7 @@ akademia.kg
 akademiyawb.kg
 akb.kg
 akbars.kg
+akbashat.kg
 akbermet.kg
 akbulut.kg
 akcha-bulak.kg
@@ -565,7 +568,6 @@ akfa-build.kg
 akfa.kg
 akfabuild.kg
 akfamedfarm.kg
-akfix.kg
 akfr.kg
 akg.kg
 aki.kg
@@ -602,7 +604,6 @@ aksy.kg
 aksymarket.kg
 aktai.kg
 aktash.kg
-aktek.kg
 aktilek.kg
 aktiv.kg
 akubela.kg
@@ -1200,6 +1201,7 @@ asianalytics.kg
 asianfood.kg
 asiant.kg
 asiantransit.kg
+asianvibe.kg
 asiaonline.kg
 asiapalace.kg
 asiapayment.kg
@@ -1328,7 +1330,6 @@ atlantis.kg
 atlants.kg
 atlantsecurity.kg
 atlas.kg
-atlasasia.kg
 atlascopco.kg
 atlasgroup.kg
 atlasinternational.kg
@@ -1350,7 +1351,6 @@ atp.kg
 ats-group.kg
 ats.kg
 atscargo.kg
-atsgroup.kg
 atstravel.kg
 att.kg
 atta.kg
@@ -2944,11 +2944,13 @@ compas.kg
 compass.kg
 compland.kg
 complexbar.kg
+component.kg
 comportal.kg
 compservice.kg
 comptek.kg
 computerra.kg
 comtehno.kg
+concept.kg
 concert.kg
 concierge.kg
 condair.kg
@@ -3437,6 +3439,7 @@ disposer.kg
 distance.kg
 distr.kg
 distributor.kg
+diva.kg
 divan.kg
 dive.kg
 divera.kg
@@ -3538,8 +3541,10 @@ doorexpo.kg
 doorfresh.kg
 doorhan-club.kg
 doorhan.kg
+doormedia.kg
 doors.kg
 dordoi.kg
+dordoifashion.kg
 dordoiinsurance.kg
 dordoiplaza.kg
 dordoisecurity.kg
@@ -3864,7 +3869,6 @@ elay.kg
 elayim.kg
 elbank.kg
 elbase.kg
-elbepools.kg
 elbet.kg
 elcard.kg
 elcars-club.kg
@@ -4290,6 +4294,7 @@ ework-egov.kg
 ework-gov.kg
 ework.kg
 ex-prime.kg
+ex.kg
 ex2crypto.kg
 example.kg
 excavator.kg
@@ -5595,6 +5600,7 @@ ifcenter.kg
 ifes.kg
 ifinwil.kg
 ifix.kg
+ifs.kg
 ifunfun.kg
 ig.kg
 igbt.kg
@@ -6520,6 +6526,7 @@ kgrk.kg
 kgs.kg
 kgst.kg
 kgt.kg
+kgtex.kg
 kgti.kg
 kgtoll.kg
 kguki.kg
@@ -6579,7 +6586,6 @@ kitchen.kg
 kitchenaid.kg
 kitchenmaster.kg
 kitdc.kg
-kite.kg
 kitep.kg
 kitepkana.kg
 kitepman.kg
@@ -6610,8 +6616,6 @@ kkm-online.kg
 kkm.kg
 kkmk.kg
 kl.kg
-klafs-kyrgyzstan.kg
-klaus.kg
 kleber.kg
 kleemann.kg
 kleiberit.kg
@@ -8758,6 +8762,7 @@ ojc.kg
 ok.kg
 okay.kg
 okean.kg
+okey.kg
 oki.kg
 okm.kg
 okmot.kg
@@ -8988,7 +8993,6 @@ oshcity.kg
 oshcu.kg
 oshdutyfree.kg
 oshelectro.kg
-oshgpi.kg
 oshimu.kg
 oshkenesh.kg
 oshmail.kg
@@ -9463,6 +9467,7 @@ pokerstars.kg
 pokolenie.kg
 pokupka.kg
 polaris.kg
+polati.kg
 policarbonat.kg
 polifas.kg
 polifasplus.kg
@@ -9650,7 +9655,6 @@ profident.kg
 profiklass.kg
 profil.kg
 profile-systems.kg
-profipack.kg
 profitcoin.kg
 profiteor.kg
 profitouch.kg
@@ -10107,11 +10111,11 @@ rocon.kg
 rod.kg
 rodents.kg
 rodeo.kg
-rodex.kg
 rodexpower.kg
 rohatnbu.kg
 rohde-schwarz.kg
 rola.kg
+roland.kg
 rolex.kg
 roliksushi.kg
 roll.kg
@@ -10128,7 +10132,6 @@ room.kg
 rooq.kg
 root.kg
 roqed.kg
-rosagres.kg
 rosedetergent.kg
 roslombard.kg
 rosneft-oil.kg
@@ -10416,6 +10419,7 @@ schwarz.kg
 schweppes.kg
 sciaps.kg
 science-journal.kg
+sconsulting.kg
 scoring.kg
 scorista.kg
 scout.kg
@@ -10879,6 +10883,7 @@ socfond.kg
 sochi.kg
 social.kg
 socialwork.kg
+socrat.kg
 sofa.kg
 sofby.kg
 sofi.kg
@@ -11054,6 +11059,7 @@ st.kg
 sta.kg
 stablex.kg
 stada.kg
+staff-pro.kg
 staffaugmentation.kg
 stake.kg
 stalker.kg
@@ -11414,6 +11420,7 @@ tash-temir.kg
 tashkordo.kg
 tashprom.kg
 tashrabat.kg
+tashtamat.kg
 tasmagroup.kg
 tasman.kg
 tasnim.kg
@@ -11899,6 +11906,7 @@ tproff.kg
 tps.kg
 tr-logistik.kg
 tracing.kg
+track.kg
 tractor.kg
 tractors.kg
 trade-sol.kg
@@ -12121,6 +12129,7 @@ tvoifulfillment.kg
 tvoydom.kg
 tway.kg
 twinkl.kg
+twins.kg
 twogo.kg
 twp.kg
 txt.kg
