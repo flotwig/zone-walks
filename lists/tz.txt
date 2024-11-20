@@ -107,7 +107,6 @@ apmterminals.tz
 app.tz
 apple.tz
 apply.tz
-apsonic.tz
 aptus.tz
 aquaplast.tz
 arc.tz
@@ -279,6 +278,7 @@ bwin.tz
 c4sc.tz
 cable.tz
 caju.tz
+camovue.tz
 canny.tz
 car.tz
 cardamom.tz
@@ -429,6 +429,7 @@ dominos.tz
 dominospizza.tz
 dongodopark.tz
 dooh.tz
+dorkagroup.tz
 doshcars.tz
 doshlife.tz
 doubleclick.tz
@@ -501,6 +502,8 @@ eyby.tz
 eye.tz
 facebook.tz
 factcheck.tz
+fairdeal.tz
+fairdealfurniture.tz
 fakhrigroup.tz
 farmwise.tz
 fast.tz
@@ -1252,6 +1255,7 @@ reimer.tz
 relet.tz
 reliablecars.tz
 rent.tz
+reolink.tz
 repair.tz
 reppogroup.tz
 retconsult.tz
@@ -1553,7 +1557,6 @@ transport.tz
 travco.tz
 travelport-partner.tz
 trayvon.tz
-tribalcafe.tz
 triple8bet.tz
 tripleeightbet.tz
 trips.tz
