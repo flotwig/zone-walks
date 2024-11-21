@@ -480,6 +480,7 @@ avt.audio
 awake.audio
 awave.audio
 awesome.audio
+awoominati.audio
 aws.audio
 axa.audio
 axiom.audio
@@ -1046,7 +1047,6 @@ daisy.audio
 dales.audio
 dali.audio
 daltonpegel.audio
-damage.audio
 damavand.audio
 damon.audio
 dance.audio
@@ -2860,6 +2860,7 @@ murgia.audio
 murmur.audio
 musaic.audio
 muse.audio
+musea.audio
 music-and-arts.audio
 music-engine.audio
 music-from-another-room.audio
@@ -3096,7 +3097,6 @@ offthewall.audio
 oglo.audio
 ohmega.audio
 ohmnaga.audio
-oink.audio
 oipne.audio
 oladra.audio
 olddognewtricks.audio
@@ -3425,6 +3425,7 @@ pub.audio
 public.audio
 pulsar.audio
 pulse.audio
+pump.audio
 pumpkin.audio
 punqtum.audio
 pure.audio
@@ -4388,6 +4389,7 @@ transform.audio
 transformer.audio
 transformers.audio
 transistory.audio
+transit.audio
 translation.audio
 transmisje.audio
 transparent.audio
