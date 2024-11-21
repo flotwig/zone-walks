@@ -34,7 +34,7 @@ TLD | Domain Count
 [`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">4603</div>
 [`ax`][ax] [(raw)][ax-raw] | <div align="right">4349</div>
 [`dz`][dz] [(raw)][dz-raw] | <div align="right">3909</div>
-[`mc`][mc] [(raw)][mc-raw] | <div align="right">3653</div>
+[`mc`][mc] [(raw)][mc-raw] | <div align="right">3655</div>
 [`ci`][ci] [(raw)][ci-raw] | <div align="right">3351</div>
 [`christmas`][christmas] [(raw)][christmas-raw] | <div align="right">3324</div>
 [`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2482</div>

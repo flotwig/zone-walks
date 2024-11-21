@@ -1017,6 +1017,7 @@ ecs.mc
 edalcosam.mc
 edenagency.mc
 edge.mc
+edgeconstruction.mc
 edifico.mc
 edilizia.mc
 editionsdesmoulins.mc
@@ -1418,6 +1419,7 @@ gtma.mc
 gtsmonaco.mc
 guillemot.mc
 gulas.mc
+gustiamodio.mc
 gvtmonaco.mc
 gwmcm.mc
 h2i.mc
@@ -2816,7 +2818,6 @@ pix.mc
 pixels.mc
 pixl.mc
 pixtalents.mc
-piznkeb.mc
 pizzarotti.mc
 pizzeriamonegasque.mc
 pizzeriasorrento.mc
@@ -3467,6 +3468,7 @@ trafalgarassetmanagers.mc
 trafiparc.mc
 trankvilomanagement.mc
 trans-blinter.mc
+translatingart.mc
 transocean.mc
 trasomar.mc
 travelclubmonaco.mc
