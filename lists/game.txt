@@ -136,6 +136,7 @@
 25pp.game
 27.game
 277bet.game
+27b.game
 28.game
 28r.game
 291bet.game
@@ -504,7 +505,6 @@ a3.game
 a5.game
 a6.game
 a7.game
-a8.game
 a9.game
 aa.game
 aaa.game
@@ -1067,6 +1067,7 @@ blockai.game
 blockchain.game
 blockly.game
 blockparty.game
+blocks.game
 blockswithfriends.game
 blockus.game
 bloodhunt.game
@@ -1080,6 +1081,7 @@ bluedevils.game
 blueplay.game
 blueprint.game
 bluff-baff.game
+bluff-buff.game
 bm.game
 bmw.game
 bmx.game
@@ -1163,6 +1165,7 @@ brganhar.game
 brgo.game
 bridge.game
 brij.game
+bringthewar.game
 brisa.game
 brjogos.game
 brll.game
@@ -2927,7 +2930,6 @@ kkkkk.game
 kkkkkk.game
 kkpoker.game
 km88.game
-knightly.game
 knivesout.game
 knowledgeispower.game
 knowsy.game
@@ -3220,7 +3222,6 @@ lv.game
 lv8.game
 lvcasino.game
 lvl-up.game
-lvlup.game
 lvup.game
 lyto.game
 m2w.game
@@ -3476,7 +3477,6 @@ million.game
 millionaire.game
 millions.game
 mimic.game
-mindfield.game
 mindset.game
 mindseye.game
 mine.game
@@ -3557,6 +3557,7 @@ mooning.game
 moonlanders.game
 moonray.game
 moonshot.game
+moossangjr.game
 mor.game
 mostbet.game
 motion.game
@@ -3647,7 +3648,6 @@ narrow.game
 naruto-slugfest.game
 naruto.game
 nasa.game
-nasaslot.game
 naseebet.game
 naughtynyx.game
 naver.game
@@ -3852,7 +3852,6 @@ omega.game
 omen.game
 omg.game
 omni.game
-omnipotence.game
 omnium.game
 on.game
 onamae.game
@@ -4269,6 +4268,7 @@ porcupine.game
 pork.game
 porn.game
 porngames.game
+portals.game
 portudo.game
 postplay.game
 potatopirates.game
@@ -4965,6 +4965,7 @@ starplus.game
 starri.game
 stars.game
 starship.game
+starslingers.game
 starsoft.game
 start.game
 startrek.game
