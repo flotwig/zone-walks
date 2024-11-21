@@ -17,6 +17,7 @@
 007news.id
 008.id
 009.id
+009bet.id
 01.id
 010.id
 01010.id
@@ -231,6 +232,7 @@
 10stars.id
 10ten.id
 10terbaik.id
+10winterslot.id
 10xmedia.id
 10xmy.id
 11.id
@@ -255,6 +257,7 @@
 11exch.id
 11wbet.id
 11winbet.id
+11winterslot.id
 11xbet.id
 12.id
 120.id
@@ -455,7 +458,6 @@
 194.id
 1945.id
 19452.id
-19452045.id
 195.id
 195432.id
 196.id
@@ -607,7 +609,6 @@
 2042.id
 2043.id
 2044.id
-2045indonesia.id
 2048.id
 205.id
 206.id
@@ -627,7 +628,6 @@
 2101.id
 211.id
 212.id
-212asus.id
 212baim.id
 212baju.id
 212bayu.id
@@ -950,6 +950,7 @@
 360foodsafe.id
 360indonesia.id
 360kredi.id
+360link.id
 360loop.id
 360motion.id
 360nusantara.id
@@ -1848,8 +1849,6 @@
 7777hot.id
 777888.id
 777casino.id
-777hoki.id
-777hokislot.id
 777kaya.id
 777las.id
 777loc.id
@@ -1860,6 +1859,7 @@
 777win.id
 778.id
 779.id
+77bet.id
 77betspin.id
 77lucks.id
 77neko.id
@@ -2401,10 +2401,10 @@
 9round.id
 9square.id
 9store.id
-9to5.id
 9to9online.id
 9tours.id
 9transports.id
+9winterslot.id
 a-creative.id
 a-dokter.id
 a-ipower.id
@@ -2557,7 +2557,6 @@ abada.id
 abadan.id
 abadi.id
 abadi123.id
-abadibatik.id
 abadiberkarya.id
 abadibina.id
 abadico.id
@@ -3060,7 +3059,6 @@ abstract.id
 abstractbeauty.id
 abstractcare.id
 abstracted.id
-abstractstory.id
 abstrak.id
 abstraksi.id
 absurd.id
@@ -4899,6 +4897,7 @@ aertee.id
 aeruma.id
 aerxpx.id
 aerys.id
+aesel.id
 aesform.id
 aesgov.id
 aesia.id
@@ -4907,7 +4906,6 @@ aeska.id
 aesoft.id
 aespa.id
 aespe.id
-aesriau.id
 aestate.id
 aestc.id
 aestech.id
@@ -5074,6 +5072,7 @@ afindo.id
 afindonesia.id
 afiniti.id
 afinobygrande.id
+afionline.id
 afirmasi.id
 afirmasinews.id
 afirmation.id
@@ -5184,6 +5183,7 @@ afu.id
 afuche.id
 afurnitureindonesia.id
 afv.id
+afwajatour.id
 afwan.id
 afxfireblocker.id
 afyaa.id
@@ -5328,6 +5328,7 @@ agencuanbola.id
 agencuanlogin.id
 agencuanslot.id
 agency.id
+agencyai.id
 agencyawards.id
 agencygr.id
 agencynews.id
@@ -5341,6 +5342,7 @@ agendaku.id
 agendaprkpck.id
 agendarat.id
 agendarattogel.id
+agendarattogelresmi.id
 agendasekolah.id
 agendasurabaya.id
 agendazbeachclub.id
@@ -5963,7 +5965,6 @@ ahlibet88.id
 ahlibet88pro.id
 ahlibunga.id
 ahlif.id
-ahlifasad.id
 ahlifengshui.id
 ahligigijakarta.id
 ahligizi.id
@@ -6078,6 +6079,7 @@ ai-research.id
 ai-security.id
 ai-university.id
 ai-verse.id
+ai-volution.id
 ai-ways.id
 ai2learn.id
 ai4karate.id
