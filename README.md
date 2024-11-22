@@ -32,7 +32,7 @@ TLD | Domain Count
 [`game`][game] [(raw)][game-raw] | <div align="right">6114</div>
 [`audio`][audio] [(raw)][audio-raw] | <div align="right">4837</div>
 [`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">4604</div>
-[`ax`][ax] [(raw)][ax-raw] | <div align="right">4348</div>
+[`ax`][ax] [(raw)][ax-raw] | <div align="right">4347</div>
 [`dz`][dz] [(raw)][dz-raw] | <div align="right">3910</div>
 [`mc`][mc] [(raw)][mc-raw] | <div align="right">3655</div>
 [`ci`][ci] [(raw)][ci-raw] | <div align="right">3354</div>

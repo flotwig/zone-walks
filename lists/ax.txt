@@ -110,7 +110,6 @@
 77.ax
 777.ax
 789.ax
-79.ax
 79325.ax
 798.ax
 7x.ax
@@ -532,6 +531,7 @@ axoft.ax
 axombyggnad.ax
 axon.ax
 axora.ax
+axpartum.ax
 axport.ax
 axr.ax
 axred.ax
@@ -711,6 +711,7 @@ boedeker.ax
 bogskar.ax
 boilemland.ax
 bojoko.ax
+bok.ax
 bokaband.ax
 bokashi.ax
 bokhandel.ax
@@ -1363,7 +1364,6 @@ finno.ax
 finnostugby.ax
 finnword.ax
 finstrom.ax
-finstromgeta.ax
 fint.ax
 finvoicer.ax
 fire.ax
@@ -2348,6 +2348,7 @@ lofstrom.ax
 log.ax
 logistikcentrum.ax
 logopederna.ax
+loikas.ax
 loka.ax
 lokal.ax
 lokaltapiola.ax
@@ -3470,7 +3471,6 @@ smartabyar.ax
 smartenergy.ax
 smarthome.ax
 smartlandsbygd.ax
-smartpark.ax
 smartvillage.ax
 smeeting.ax
 smelektro.ax
@@ -4277,7 +4277,6 @@ xo.ax
 xoom.ax
 xp.ax
 xr.ax
-xs.ax
 xt.ax
 xtom.ax
 xu.ax
