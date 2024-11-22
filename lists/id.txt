@@ -1308,6 +1308,7 @@
 4event.id
 4everfit.id
 4free.id
+4game.id
 4glow.id
 4grow.id
 4gtrack.id
@@ -2635,7 +2636,6 @@ abbas.id
 abbasy.id
 abbasyprinting.id
 abbei.id
-abbf.id
 abbinamento.id
 abbokongang.id
 abboota.id
@@ -2702,6 +2702,7 @@ abcworks.id
 abdallah.id
 abdata.id
 abdaziz.id
+abdes.id
 abdi.id
 abdiafrizal.id
 abdiajar.id
@@ -2918,6 +2919,7 @@ abmsolution.id
 abmstore.id
 abn.id
 abnatour.id
+abnaulchairaat.id
 abnconsultant.id
 abner.id
 abnews.id
@@ -3563,6 +3565,7 @@ acmic.id
 acmilan.id
 acmindonesia.id
 acmobil.id
+acmobilblitar.id
 acmotowashcafe.id
 acmtrade.id
 acne.id
@@ -5080,7 +5083,6 @@ afirsoft.id
 afirstsoft.id
 afisha.id
 afit.id
-afitax.id
 afitour.id
 afiya.id
 afiyah.id
@@ -5272,8 +5274,6 @@ agemindonesia.id
 agen-asuransi.id
 agen-joker123.id
 agen-pulsa.id
-agen-slot-terbaru.id
-agen-tepercaya.id
 agen-uwakslot.id
 agen.id
 agen138.id
@@ -5444,7 +5444,6 @@ agenslot168.id
 agenslot69.id
 agenslotonline.id
 agenslotonlineresmi.id
-agenslotterbaru.id
 agensmmku.id
 agensosmed.id
 agensusukambing.id
@@ -5984,6 +5983,7 @@ ahlimata.id
 ahlina.id
 ahlinumerologi.id
 ahlinyacloud.id
+ahlinyaobatasamurat.id
 ahlisedotwc.id
 ahliseo.id
 ahliskincare.id
