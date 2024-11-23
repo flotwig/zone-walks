@@ -57,7 +57,6 @@
 301.ax
 31289.ax
 314.ax
-32.ax
 32614.ax
 32697.ax
 33.ax
@@ -951,10 +950,12 @@ controlrisk.ax
 cor.ax
 corian.ax
 corner.ax
+corona.ax
 corp.ax
 coursio.ax
 cov.ax
 covid-19.ax
+covid.ax
 cp.ax
 cr.ax
 cranim.ax
@@ -2104,6 +2105,7 @@ kbtterapi.ax
 kc.ax
 kd.ax
 ke.ax
+keid.ax
 keith.ax
 keittokirja.ax
 kela.ax
@@ -2529,7 +2531,6 @@ menter.ax
 meqsports.ax
 meraki.ax
 merlin.ax
-messenger.ax
 mesvac.ax
 mesvacproduction.ax
 meta.ax
@@ -2652,7 +2653,6 @@ mtfastigheter.ax
 mtm.ax
 mtryck.ax
 mtv.ax
-mu.ax
 mueller.ax
 mugg.ax
 mullin.ax
@@ -3626,7 +3626,6 @@ streamrel.ax
 streetview.ax
 stresscoach.ax
 strike.ax
-stripchat.ax
 strom.ax
 struktur.ax
 stuart.ax
@@ -4114,7 +4113,6 @@ westergard.ax
 westling.ax
 weyand.ax
 wh.ax
-whatsapp.ax
 who.ax
 whois.ax
 whoop.ax
