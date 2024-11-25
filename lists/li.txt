@@ -2311,6 +2311,7 @@ alarmliechtenstein.li
 alarmlink.li
 alarmmanagement.li
 alarmnet.li
+alarmserver.li
 alarmzentrale.li
 alaula.li
 alaxa24.li
@@ -6187,6 +6188,7 @@ bcm.li
 bcn.li
 bcoin.li
 bcp.li
+bcr.li
 bcs.li
 bct.li
 bcts.li
@@ -6196,7 +6198,6 @@ bdag.li
 bdb.li
 bdc.li
 bdd.li
-bde.li
 bdf.li
 bdg.li
 bdj.li
@@ -12056,7 +12057,6 @@ com-logs.li
 com-map-za.li
 com-media.li
 com-my-acc.li
-com-nets.li
 com-search.li
 com-secure.li
 com-track.li
@@ -15057,7 +15057,6 @@ digiworld.li
 diglin.li
 digma.li
 digtl.li
-diguardo.li
 dihost.li
 dii.li
 diib.li
@@ -16127,6 +16126,7 @@ duarte.li
 duatguat.li
 dub.li
 dubach.li
+dubai-schokolade.li
 dubai.li
 dubbelman.li
 dube.li
@@ -16586,7 +16586,6 @@ eatlocal.li
 eatplanted.li
 eatteam.li
 eatyoursticks.li
-eauto.li
 eay.li
 eaze.li
 eba.li
@@ -19000,6 +18999,7 @@ f45.li
 f45training.li
 f5networks.li
 f6s.li
+f8bet.li
 f99.li
 fa3.li
 fa88.li
@@ -20491,7 +20491,6 @@ fitz-foundation.li
 fitz-group.li
 fitz-gruppe.li
 fitz-holding.li
-fitz-immo.li
 fitz-industries.li
 fitz-verwaltung.li
 fitz.li
@@ -20501,7 +20500,6 @@ fitzfoundation.li
 fitzgroup.li
 fitzgruppe.li
 fitzholding.li
-fitzimmo.li
 fitzindustries.li
 fitzverwaltung.li
 fiu.li
@@ -28361,7 +28359,6 @@ imitation.li
 imju.li
 imjustin.li
 imker.li
-imkerei-jehle.li
 imkr.li
 iml.li
 imladen.li
@@ -29560,7 +29557,6 @@ isi.li
 isin.li
 isis.li
 isk.li
-iskconthecaribbean.li
 iskra.li
 isl.li
 islam.li
@@ -31201,7 +31197,6 @@ kah.li
 kaha.li
 kahle.li
 kahnt.li
-kaho.li
 kahoot.li
 kai-yi.li
 kai.li
@@ -31290,6 +31285,7 @@ kalonge.li
 kaltband.li
 kaltenbach.li
 kaltenrieder.li
+kalu.li
 kalyana.li
 kam.li
 kama.li
@@ -33881,6 +33877,7 @@ lanzarote.li
 lanzville.li
 lanzvilleinvestments.li
 lao.li
+laohu.li
 laola.li
 laos.li
 lap.li
@@ -37739,6 +37736,7 @@ marmelade.li
 marmet.li
 marmiegraniti.li
 marmor.li
+marna.li
 marnautic.li
 maro.li
 maroc.li
@@ -38300,6 +38298,7 @@ mdp-directprint.li
 mdp-tampondruck.li
 mdr-europe-ag.li
 mds.li
+mdt.li
 mdtwin.li
 mdv.li
 mdw.li
@@ -41180,6 +41179,7 @@ myli.li
 myliberiahelp.li
 myliechtenstein.li
 mylife.li
+mylifeplan-academy.li
 mylifeplan-anstalt.li
 mylifeplan-center.li
 mylink.li
@@ -43939,6 +43939,7 @@ onedrive.li
 onefund.li
 onefunds.li
 onegroup.li
+oneict.li
 oneill.li
 oneit.li
 onelife.li
@@ -44264,6 +44265,7 @@ orbium.li
 orbo.li
 orc.li
 orca.li
+orchard.li
 orchester.li
 orchesterschnuppern.li
 orchestration.li
@@ -45556,6 +45558,7 @@ penning.li
 penny.li
 pennylane.li
 pennysaver.li
+pensa.li
 pension.li
 pensionfund.li
 pensionfundinliechtenstein.li
@@ -46316,6 +46319,7 @@ pimbolino.li
 pimco.li
 pimme.li
 pimmel.li
+pimp.li
 pin.li
 pina.li
 pinaffo.li
@@ -48360,7 +48364,6 @@ q10oxyrepair.li
 q1k.li
 q1q.li
 q80.li
-qai.li
 qanda.li
 qanoid.li
 qaoub.li
@@ -57077,7 +57080,6 @@ subbestnet.li
 subgruppe.li
 subject.li
 sublime.li
-sublimina.li
 submanga.li
 submit-media.li
 submitmedia.li
@@ -57700,6 +57702,7 @@ swissbedding.li
 swissbikecup.li
 swissblock.li
 swissblockchainsecurities.li
+swissbuildingautomationpass.li
 swissbus-eurasia.li
 swisscanto-invest.li
 swisscanto.li
@@ -57707,6 +57710,7 @@ swisscantoinvest.li
 swisscar.li
 swisscarcs.li
 swisscare.li
+swisscarepass.li
 swisscasino-24.li
 swisscasino-247.li
 swisscasino.li
@@ -57755,6 +57759,11 @@ swissdepil.li
 swissdepot.li
 swissdetox.li
 swissdiamondcoin.li
+swissdigitalcryptopass.li
+swissdigitalhotelspass.li
+swissdigitalmarketingpass.li
+swissdigitalpass.li
+swissdigitalsportspass.li
 swissdiplomacy.li
 swissdrain.li
 swissdrive.li
@@ -57763,10 +57772,13 @@ swissdronemasters.li
 swissdroneracing.li
 swissdroneracingchampionship.li
 swissdropbox.li
+swisse-mobilitypass.li
 swissedvsolutions.li
 swisselectronics.li
+swissenergypass.li
 swissethanol.li
 swissexpressweb.li
+swissfacilitydigitalpass.li
 swissfeel.li
 swissfinity-group.li
 swissfl-rcparateam.li
@@ -57886,6 +57898,7 @@ swissquoteforex.li
 swissquotefx.li
 swissradioplayer.li
 swissre.li
+swissrealestatepass.li
 swissreboard.li
 swissrecycle.li
 swissrecycling.li
@@ -57904,6 +57917,7 @@ swisssign.li
 swisssigngroup.li
 swissskifactory.li
 swisssmile.li
+swisssolarpass.li
 swisssportintegrity.li
 swissstraw.li
 swissstream.li
@@ -58114,6 +58128,7 @@ t-systems.li
 t-t.li
 t-v.li
 t1z.li
+t24.li
 t27.li
 t411.li
 t6power.li
@@ -59685,6 +59700,7 @@ tin88.li
 tina-mara.li
 tina.li
 tinagerner.li
+tinamaria.li
 tinekhome.li
 tinel.li
 tinext.li
@@ -61710,7 +61726,6 @@ uniqa360solutions.li
 uniqasbs.li
 uniqasustainable.li
 uniqlo.li
-uniqu3app.li
 unique-assist.li
 unique-chic.li
 unique-gaming.li
@@ -64923,6 +64938,7 @@ wh-stiftung.li
 wh33ls.li
 wha.li
 whaa.li
+wham.li
 whanselmann.li
 what.li
 whatever.li
@@ -66775,7 +66791,6 @@ xn--hrn-sna.li
 xn--hrqualitt-22a4q.li
 xn--hrzgschnk-v2ag.li
 xn--hs-fka.li
-xn--hs-via.li
 xn--hs-xka.li
 xn--hsch-5qa.li
 xn--hsh-qla.li
@@ -67569,6 +67584,7 @@ xxs.li
 xxv.li
 xxx.li
 xxxkrd.li
+xxxstreams.li
 xxxufa.li
 xxxx.li
 xxxxx.li
@@ -69027,7 +69043,6 @@ zooblitz.li
 zoodirect.li
 zoof.li
 zoohit.li
-zook.li
 zoolando.li
 zoom.li
 zoomalia.li
