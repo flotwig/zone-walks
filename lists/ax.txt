@@ -2,9 +2,7 @@
 00.ax
 00314.ax
 01.ax
-05.ax
 089.ax
-09.ax
 0a.ax
 0h.ax
 0m.ax
@@ -1147,6 +1145,7 @@ edgars.ax
 edge.ax
 edgeprint.ax
 edit.ax
+edsoftware.ax
 edu.ax
 ee.ax
 eec.ax
@@ -3154,6 +3153,7 @@ ramirent.ax
 rangsbyskola.ax
 rap.ax
 rask.ax
+raum.ax
 rav.ax
 ravintolaaukio.ax
 ravintolalaboratorio.ax
