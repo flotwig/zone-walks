@@ -245,6 +245,8 @@ as-estate.mc
 asbach.mc
 ascoma.mc
 asepta.mc
+asf.mc
+asfi.mc
 askmemonaco.mc
 asm.mc
 asmonacobasket.mc
@@ -537,7 +539,6 @@ caisses-monegasque-retraites-complementaires.mc
 caisses-retraite-complementaire-monegasque.mc
 caisses-retraites-complementaires-monegasque.mc
 caisses-sociales.mc
-cam-club.mc
 cam.mc
 camaieu.mc
 camatel.mc
@@ -1500,7 +1501,6 @@ hotelmiramar.mc
 houseandco.mc
 houston-palace.mc
 houstonpalace.mc
-hp-genie-energetique.mc
 hpp-pastor.mc
 hr-consulting.mc
 hrh.mc
@@ -3568,6 +3568,7 @@ visitmonaco.mc
 vitavea.mc
 vivremaville.mc
 vkp.mc
+vlaamseclub.mc
 vlieghe.mc
 voltylab.mc
 volumes.mc
