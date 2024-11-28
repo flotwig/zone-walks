@@ -111,6 +111,7 @@ aptus.tz
 aquaplast.tz
 arc.tz
 aricom.tz
+arif.tz
 arksecurity.tz
 armox.tz
 aromaze.tz
@@ -909,6 +910,8 @@ luxe.tz
 m2investment.tz
 maasaicenter.tz
 maasaiculturecenter.tz
+maasaiecolodge.tz
+maasaiecovillage.tz
 mabumbe.tz
 madeintanzania.tz
 maendeleoinvestmentfund.tz
@@ -982,6 +985,8 @@ metraclark.tz
 metrohm.tz
 mgas.tz
 mgenergysystems.tz
+mgrcecolodge.tz
+mgrcecovillage.tz
 mgs.tz
 mia.tz
 michezonaafya.tz
@@ -1162,6 +1167,7 @@ paytan.tz
 payu.tz
 pearson.tz
 peekaboo.tz
+peipl.tz
 pel.tz
 pendwa.tz
 perfectos.tz
@@ -1368,6 +1374,7 @@ sicim.tz
 siconsultants.tz
 siemens.tz
 sigara.tz
+silentocean.tz
 simama.tz
 simba.tz
 simbabet.tz
@@ -1702,6 +1709,7 @@ yanga.tz
 yangabet.tz
 yanowi.tz
 yara.tz
+yas.tz
 yengroup.tz
 yesplay.tz
 yoga.tz
@@ -1712,7 +1720,6 @@ yy-ic.tz
 zanzibarair.tz
 zanzibarairlines.tz
 zapisy.tz
-zawadi.tz
 zedlab.tz
 zesha.tz
 zff.tz
