@@ -2891,7 +2891,6 @@ musiciansfriend.audio
 musickit.audio
 musicpartner.audio
 musicplanetrecords.audio
-musicpleer.audio
 musicpro.audio
 musicteam.audio
 musix.audio
@@ -3515,7 +3514,6 @@ rattlehawk.audio
 raumakustikshop.audio
 raumfeld.audio
 raw.audio
-rawland.audio
 rawr.audio
 rays.audio
 raytube.audio
@@ -4589,6 +4587,7 @@ vintage.audio
 vintagehifi.audio
 vintagetechnics.audio
 vinyl.audio
+vinylpro.audio
 vip.audio
 vipe.audio
 viper.audio
