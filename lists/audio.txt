@@ -1313,6 +1313,7 @@ eara.audio
 earbuds.audio
 earcandy.audio
 earforce.audio
+earli.audio
 earsup.audio
 earth.audio
 easier.audio
@@ -2042,7 +2043,6 @@ important.audio
 impossible.audio
 improve.audio
 impulse.audio
-imrsv.audio
 in-home.audio
 in-one.audio
 in-store.audio
@@ -3296,6 +3296,7 @@ pimpmysound.audio
 pimsleur.audio
 pinch.audio
 pindrop.audio
+ping.audio
 pingado.audio
 pinion.audio
 pinknoise.audio
@@ -3344,7 +3345,6 @@ pollsound.audio
 polsound.audio
 poly.audio
 pond.audio
-pong.audio
 pop.audio
 popcast.audio
 porkpolitics.audio
