@@ -699,6 +699,7 @@ braille.audio
 brain.audio
 brainlab.audio
 brainwave.audio
+brainwaves.audio
 brainwavz.audio
 brainworx.audio
 brand.audio
@@ -2464,7 +2465,6 @@ locationsound.audio
 locutores.audio
 lodestone.audio
 loewe.audio
-lofi.audio
 logitek.audio
 logos.audio
 loli.audio
@@ -2522,6 +2522,7 @@ lupinity.audio
 lutebox.audio
 luttenberger.audio
 lux.audio
+luxloops.audio
 lvdt.audio
 lynx.audio
 lyra.audio
@@ -2862,7 +2863,6 @@ multi-zone.audio
 multichannel.audio
 multiplier.audio
 multiskript.audio
-multitracks.audio
 multizone.audio
 munch.audio
 munki.audio
@@ -3103,7 +3103,6 @@ odradek.audio
 odyssee.audio
 oeli.audio
 offbeatopenhats.audio
-offbyone.audio
 offkey.audio
 offthewall.audio
 oglo.audio
