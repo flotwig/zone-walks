@@ -112,7 +112,6 @@
 80211.ax
 818.ax
 83627.ax
-84.ax
 88.ax
 888.ax
 8888.ax
@@ -1270,6 +1269,7 @@ euronics.ax
 europol.ax
 eurosko.ax
 eurosport.ax
+eurovault.ax
 ev.ax
 evbike.ax
 evenemang.ax
@@ -2919,7 +2919,6 @@ ou.ax
 outlook.ax
 overnasgarden.ax
 overt.ax
-ovk.ax
 ow.ax
 owlandit.ax
 ox.ax
@@ -3044,6 +3043,7 @@ polisen.ax
 polisforeningen.ax
 polismyndigheten.ax
 politik.ax
+polymath.ax
 pommern.ax
 ponape.ax
 popr.ax
@@ -3292,6 +3292,7 @@ s3.ax
 sa.ax
 saaristonkasvatit.ax
 safe.ax
+safedesk.ax
 safetycenter.ax
 sag.ax
 saga.ax
@@ -3855,6 +3856,7 @@ trateknik.ax
 trattoriaaukio.ax
 trattoriaravintolat.ax
 trattoriaseurahuone.ax
+travel.ax
 trendum.ax
 trevor.ax
 triathlon.ax
