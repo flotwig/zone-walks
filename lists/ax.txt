@@ -410,6 +410,7 @@ api.ax
 apis.ax
 aplagarden.ax
 apotea.ax
+apotek.ax
 apoteket.ax
 app.ax
 apparel.ax
@@ -1396,7 +1397,6 @@ flux.ax
 flygfoto.ax
 flygklubben.ax
 flyplay.ax
-flyttligan.ax
 fm.ax
 fma.ax
 fmakjsgrav.ax
@@ -1890,6 +1890,7 @@ inc.ax
 indigo.ax
 industry.ax
 inf.ax
+infinium.ax
 info.ax
 infoportal.ax
 informationplatform.ax
@@ -2017,6 +2018,7 @@ johanehn.ax
 johannashembakta.ax
 johansson.ax
 jomala.ax
+jomalaapotek.ax
 jomalabillack.ax
 jonas.ax
 jonh.ax
@@ -3462,7 +3464,6 @@ skylten.ax
 skytt.ax
 sl.ax
 sleipner.ax
-slottsbonan.ax
 slottsund.ax
 slutagrav.ax
 sm.ax
