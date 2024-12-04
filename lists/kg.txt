@@ -141,7 +141,6 @@
 6132.kg
 6277.kg
 6547.kg
-65app.kg
 66.kg
 69.kg
 6917.kg
@@ -435,7 +434,6 @@ agronova.kg
 agroplus.kg
 agroprod.kg
 agroprom.kg
-agropromeng.kg
 agroservice.kg
 agrosooda.kg
 agrostyle.kg
@@ -1645,6 +1643,7 @@ b1g.kg
 b24.kg
 b2bmarket.kg
 b40.kg
+b4b.kg
 b7.kg
 ba.kg
 baa.kg
@@ -2461,6 +2460,7 @@ buhgalter.kg
 buhgalteria.kg
 buhonline.kg
 buhta.kg
+buhuslugi.kg
 buildgarant.kg
 buildmart.kg
 builtfordproud.kg
@@ -2707,6 +2707,7 @@ centurion.kg
 ceramistica.kg
 ceramostone.kg
 cert.kg
+certificat.kg
 certification.kg
 certtest.kg
 cerva.kg
@@ -4055,7 +4056,6 @@ endosurgery.kg
 enduro.kg
 enduroshop.kg
 ene-say.kg
-energi.kg
 energo-es.kg
 energo.kg
 energokubat.kg
@@ -4495,6 +4495,7 @@ file.kg
 files.kg
 filgrastim.kg
 filial.kg
+filmpro.kg
 filter.kg
 filtr.kg
 fin.kg
@@ -4563,6 +4564,7 @@ fiveplus.kg
 fiveseasons.kg
 fix-price.kg
 fix.kg
+fixletty.kg
 fk.kg
 fkb.kg
 fl-shop.kg
@@ -4755,6 +4757,7 @@ fruair.kg
 fruits.kg
 frunzerest.kg
 frutovit.kg
+fs-capital.kg
 fs.kg
 fsa.kg
 fscapital.kg
@@ -6467,7 +6470,6 @@ kbb.kg
 kbb996.kg
 kbcity.kg
 kbi.kg
-kbl.kg
 kbm.kg
 kbplus.kg
 kcso.kg
@@ -6662,6 +6664,7 @@ kkm-online.kg
 kkm.kg
 kkmk.kg
 kl.kg
+klafs-kyrgyzstan.kg
 klaus.kg
 kleber.kg
 kleemann.kg
@@ -6814,6 +6817,7 @@ kraken.kg
 kraldoner.kg
 krao.kg
 kraska.kg
+krec.kg
 krena.kg
 kresla.kg
 kreslolux.kg
@@ -6856,6 +6860,7 @@ kspp.kg
 kss.kg
 kssda.kg
 kstone.kg
+kstu.kg
 ksucta.kg
 kswiss.kg
 kt.kg
@@ -7428,7 +7433,6 @@ m2m.kg
 m3.kg
 m9999.kg
 ma.kg
-maalymat.kg
 maarif.kg
 maarifeducationalcomplex.kg
 maarifschools.kg
@@ -7740,7 +7744,6 @@ mediplus.kg
 medipol.kg
 medipolglobal.kg
 mediq.kg
-medisoft.kg
 medistom.kg
 meditek.kg
 medixinternational.kg
@@ -7791,6 +7794,7 @@ megahand.kg
 megaholod.kg
 megahost.kg
 megaklimat.kg
+megalight.kg
 megaline.kg
 megalit.kg
 megamarket.kg
@@ -8042,6 +8046,7 @@ mixbs.kg
 mixmedia.kg
 mk.kg
 mkassa.kg
+mkp.kg
 mkt.kg
 mktu.kg
 ml.kg
@@ -8586,7 +8591,6 @@ nl.kg
 nlkg.kg
 nm.kg
 nmc.kg
-nmx.kg
 nn.kg
 nobel.kg
 nobelkitep.kg
@@ -9784,6 +9788,7 @@ prosto.kg
 prostodom.kg
 prostorage.kg
 prosus.kg
+prosv.kg
 prosystems.kg
 protech.kg
 protei.kg
@@ -10108,6 +10113,7 @@ rf.kg
 rg.kg
 rg45.kg
 rgo.kg
+rgroup.kg
 rhak.kg
 rheacosmetics.kg
 rheuma.kg
@@ -10194,12 +10200,14 @@ rollton.kg
 romana.kg
 romanenko.kg
 romashka.kg
+ronipizza.kg
 roof.kg
 roofwindow.kg
 room.kg
 rooq.kg
 root.kg
 roqed.kg
+rosagres.kg
 rosatom.kg
 roslombard.kg
 rosneft-oil.kg
@@ -10970,6 +10978,7 @@ softech.kg
 softhoreca.kg
 softi.kg
 softik.kg
+softko.kg
 softline.kg
 softmaker.kg
 softordo.kg
@@ -11020,6 +11029,7 @@ somyk.kg
 sonar-trade-engineering.kg
 sonax.kg
 sonaxshop.kg
+sonkol.kg
 sonlinkmotor.kg
 sonoon.kg
 sonora.kg
@@ -11563,6 +11573,7 @@ tcts.kg
 td-kg.kg
 tdi.kg
 tdom.kg
+te.kg
 tea.kg
 teacher.kg
 team-services.kg
@@ -12789,6 +12800,7 @@ webmail.kg
 webmarket.kg
 webmoney.kg
 webparadox.kg
+websecure.kg
 webseo.kg
 webservice.kg
 website.kg
