@@ -96,7 +96,6 @@
 064.id
 065.id
 066.id
-06666.id
 067.id
 068.id
 069.id
@@ -1644,7 +1643,6 @@
 665359.id
 666.id
 6666.id
-66666.id
 667.id
 668.id
 66872.id
@@ -2237,6 +2235,7 @@
 91app.id
 91dewa.id
 91news.id
+91porn.id
 92.id
 920.id
 921.id
@@ -2465,6 +2464,7 @@ aaadvisory.id
 aaaglobal.id
 aaagreencell.id
 aaahgroup.id
+aaapower.id
 aaattendance.id
 aaaxdistribution.id
 aabindo-autocar.id
@@ -2478,7 +2478,6 @@ aafarma.id
 aafinasional.id
 aagallery.id
 aagco.id
-aagdeagung.id
 aagency.id
 aagiy.id
 aaglobal.id
@@ -2604,6 +2603,7 @@ abangcetak.id
 abangexpress.id
 abangfarm.id
 abangganteng.id
+abangkubotak.id
 abangsayur.id
 abangsayurorganik.id
 abangservis.id
@@ -2918,6 +2918,7 @@ abm-digital.id
 abm.id
 abmauri.id
 abmcorp.id
+abmedia.id
 abmeetfans.id
 abmineral.id
 abmpdqa2024.id
@@ -3197,7 +3198,6 @@ acaraitu.id
 acarakami.id
 acaraki.id
 acarakijamu.id
-acarakita.id
 acaraku.id
 acaranya.id
 acarapedia.id
@@ -3498,7 +3498,6 @@ acheng.id
 aches.id
 achesgone.id
 achetons.id
-achickinaja.id
 achiera.id
 achievable.id
 achieved.id
@@ -3731,6 +3730,7 @@ activity.id
 activitypub.id
 activium.id
 activli.id
+activo-travel.id
 activo.id
 activtek.id
 activy.id
@@ -3741,7 +3741,6 @@ actnow.id
 actonagroup.id
 actoncopd.id
 actor.id
-actors.id
 actransit.id
 acts.id
 actual.id
@@ -4416,6 +4415,7 @@ adminponpes.id
 adminpulsa.id
 adminratushop.id
 admins.id
+adminsekolah.id
 adminslot.id
 adminsmart.id
 adminsosialmedia.id
@@ -4565,6 +4565,7 @@ adscreator.id
 adsdigi.id
 adsec.id
 adsense.id
+adsera.id
 adset.id
 adsflow.id
 adsfree.id
@@ -5010,7 +5011,6 @@ afclife.id
 afclifeindonesia.id
 afclifeofficial.id
 afclifescience.id
-afcmataramcity.id
 afcnusantara.id
 afcofficial.id
 afcofficialstore.id
@@ -5553,6 +5553,7 @@ agigold.id
 agigr.id
 agilang.id
 agilaw.id
+agilbintangabit.id
 agile.id
 agileacademy.id
 agileagency.id
@@ -5867,6 +5868,7 @@ agungbudip.id
 agungbudisantoso.id
 agungcorporindo.id
 agungdev.id
+agungdirgantara.id
 agunggum.id
 agungjayakaca.id
 agunglogisticstes.id
@@ -6121,6 +6123,7 @@ ai-digi.id
 ai-dikti.id
 ai-innovation.id
 ai-max.id
+ai-qr.id
 ai-research.id
 ai-security.id
 ai-university.id
