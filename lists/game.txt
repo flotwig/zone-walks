@@ -1073,7 +1073,6 @@ bluff-baff.game
 bluff-buff.game
 bm.game
 bmw.game
-bmx.game
 bni.game
 bo.game
 board.game
@@ -1411,6 +1410,7 @@ coil.game
 coin.game
 coincasino.game
 coinfarm.game
+coinflip.game
 coinheist.game
 coinhero.game
 coinhunting.game
@@ -3171,6 +3171,7 @@ lucknow.game
 luckpg.game
 lucksvip.game
 luckvip.game
+lucky-mi.game
 lucky-star.game
 lucky.game
 lucky11.game
@@ -3188,6 +3189,7 @@ luckyhash.game
 luckyjet.game
 luckylark.game
 luckylook.game
+luckymi.game
 luckymrgreen.game
 luckypari.game
 luckypg.game
@@ -3998,6 +4000,7 @@ parody.game
 partnerbc.game
 partyhard.game
 pasino.game
+patent.game
 path-of-fire.game
 pathe.game
 pathoffire.game
@@ -4646,6 +4649,7 @@ sbo2u.game
 sbobet.game
 sbox.game
 sbx.game
+scam.game
 scape.game
 scarquest.game
 scavengers.game
@@ -5092,6 +5096,7 @@ sv368cpc4.game
 sveacasino.game
 swapintime.game
 sweep.game
+sweeps.game
 sweepstake.game
 sweepstakes.game
 sweet-bonanza.game
@@ -5113,6 +5118,7 @@ t77.game
 t789.game
 t8.game
 t83.game
+t883.game
 t89.game
 t9.game
 tabletop.game
@@ -6117,6 +6123,7 @@ zenith.game
 zenni.game
 zeroimpossible.game
 zeroping.game
+zeroplayer.game
 zest.game
 zeuscasino.game
 zeuspg.game
