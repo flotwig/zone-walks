@@ -1452,6 +1452,8 @@ cooperstown.game
 copperleaf.game
 core.game
 corn.game
+corona-attack.game
+coronaattack.game
 coronaquest.game
 corteva.game
 cortex.game
@@ -2998,7 +3000,6 @@ larian.game
 lark-lucky.game
 larklucky.game
 larkyluck.game
-laser.game
 laser247.game
 laserbook.game
 lastcaretaker.game
@@ -4340,7 +4341,6 @@ province.game
 proxi.game
 ps4.game
 psg.game
-psyker.game
 pt.game
 pubgcorp.game
 pucca.game
@@ -4377,8 +4377,6 @@ qualiarts.game
 quanmin.game
 quantum.game
 quantumdawn.game
-queenbee.game
-queenbeecasino.game
 queenofbingo.game
 quest.game
 questionai.game
@@ -5990,7 +5988,6 @@ x7.game
 x8.game
 x88.game
 x888.game
-x9.game
 x9bet.game
 xai.game
 xbit.game
@@ -6142,6 +6139,7 @@ zitro.game
 zitrogames.game
 znd.game
 zoba.game
+zomebie.game
 zone.game
 zoniackids.game
 zoo.game
