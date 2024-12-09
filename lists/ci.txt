@@ -1327,7 +1327,6 @@ audi.ci
 audiotexci.ci
 auditinter.ci
 auici.ci
-aupadis.ci
 auparchemin.ci
 aupcn.ci
 aups-edu.ci
@@ -1377,6 +1376,7 @@ auziatech.ci
 auziatechenergie.ci
 ava.ci
 avaedu.ci
+avancix.ci
 avatclaims.ci
 avedis.ci
 avedist.ci
@@ -1796,7 +1796,6 @@ biobellaci.ci
 bioderma.com.ci
 biogaz.ci
 biolab.ci
-biolabsarl.ci
 biologique-recherche.ci
 biomaraichere.ci
 biomarket.ci
@@ -2488,6 +2487,7 @@ cge-bile.ci
 cge.ci
 cgeci.ci
 cgeciv.ci
+cgem.ci
 cgfcc.ci
 cgi.ci
 cgir-sarl.ci
