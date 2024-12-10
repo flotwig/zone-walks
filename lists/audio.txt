@@ -498,7 +498,6 @@ babel.audio
 baboom.audio
 bacch.audio
 backbeat.audio
-badass.audio
 badbone.audio
 bahli.audio
 baileyacoustics.audio
@@ -650,6 +649,7 @@ bluedio.audio
 bluejays.audio
 bluenote.audio
 blueoak.audio
+blueprint.audio
 blueroom.audio
 bluesound.audio
 blufor.audio
@@ -1710,8 +1710,6 @@ gates.audio
 gaydio.audio
 gdcpmh.audio
 gecko.audio
-gem.audio
-gems.audio
 gemwin.audio
 gen.audio
 generative.audio
@@ -2738,7 +2736,6 @@ mikey.audio
 mikkelsen.audio
 milady.audio
 milestone.audio
-milim.audio
 millennium.audio
 milli.audio
 milwaukeebrewers.audio
@@ -3755,6 +3752,7 @@ schwarzfeld.audio
 science.audio
 scifi.audio
 scour.audio
+scratch.audio
 scribble.audio
 script.audio
 scs.audio
@@ -4611,7 +4609,6 @@ visualizer.audio
 visuel.audio
 vital.audio
 vivendi.audio
-vivid.audio
 vividizer.audio
 vivo.audio
 vizio.audio
@@ -4643,6 +4640,7 @@ vox.audio
 voxativ.audio
 voyage.audio
 vsevmeste.audio
+vssl.audio
 vt-linn.audio
 vue-audiotechnik.audio
 vueaudiotechnik.audio
