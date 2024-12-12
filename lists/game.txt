@@ -1,7 +1,6 @@
 00.game
 007.game
 007win.game
-009.game
 01.game
 01win.game
 020.game
@@ -287,6 +286,7 @@
 6bet.game
 6club.game
 6g.game
+6h.game
 6it.game
 6k.game
 6kbet.game
@@ -401,9 +401,11 @@
 898bet.game
 899bet.game
 89bet.game
+89p.game
 8bet.game
 8c.game
 8g.game
+8h.game
 8k.game
 8m.game
 8p.game
@@ -469,6 +471,7 @@
 9f0bc.game
 9g.game
 9game.game
+9h.game
 9ja.game
 9k.game
 9kbet.game
@@ -765,6 +768,7 @@ b52club.game
 b5esports.game
 b7.game
 b7bet.game
+b8.game
 b9.game
 ba.game
 babu88.game
@@ -792,6 +796,7 @@ ballz.game
 banana.game
 barbie.game
 barracuda.game
+basa.game
 basa8.game
 baseplatform.game
 bat.game
@@ -1208,6 +1213,7 @@ c5.game
 c55.game
 c77.game
 c7c7.game
+c8.game
 caardi.game
 cabal.game
 caipiao.game
@@ -1231,6 +1237,7 @@ capverse.game
 capycastaway.game
 car.game
 caravan.game
+card.game
 carnivalsino.game
 carrion.game
 cartoonporn.game
@@ -1332,6 +1339,7 @@ chessrush.game
 chexx.game
 chibichaser.game
 chibichasers.game
+chicken-road.game
 chicken.game
 chinajoy.game
 choi.game
@@ -2181,6 +2189,7 @@ g-portal.game
 g168.game
 g22.game
 g5.game
+g8.game
 g9.game
 ga-me.game
 ga368.game
@@ -2381,6 +2390,7 @@ grapht.game
 graticube.game
 gravityplayground.game
 greatwar.game
+greed.game
 greengaming.game
 gresypg.game
 gridders.game
@@ -2418,6 +2428,7 @@ h25.game
 h365.game
 h3z.game
 h7.game
+h8.game
 ha.game
 habbo.game
 habbox.game
@@ -2712,9 +2723,7 @@ iscoot.game
 islamicrepublic.game
 islot.game
 ispeak.game
-it-is-time.game
 iterate.game
-its-time.game
 itunes.game
 itunesstore.game
 itwasyou.game
@@ -2788,6 +2797,7 @@ joa.game
 jobs.game
 joefortune.game
 jogar.game
+jogo.game
 jogobetclub.game
 jogojogo.game
 jogoresponsavel.game
@@ -2955,7 +2965,6 @@ korwin.game
 kr.game
 kr333.game
 krafton.game
-krash.game
 krasnayapolyana.game
 krbet777.game
 krbetwin.game
@@ -3427,6 +3436,7 @@ metalogin.game
 metamap.game
 metamask.game
 metamaze.game
+metamerge.game
 metamessenger.game
 metanovi.game
 metapet.game
@@ -4037,7 +4047,6 @@ pbv88.game
 pc.game
 pc28.game
 pco.game
-pd.game
 peak.game
 peakgames.game
 pearlabyss.game
@@ -4253,6 +4262,7 @@ pluswhat.game
 pmr.game
 poap.game
 pocket.game
+pockettrader.game
 pog.game
 pogo.game
 points.game
@@ -4394,7 +4404,6 @@ quickplay.game
 quizdavirada.game
 quizdomilhao.game
 quizplanet.game
-quizzle.game
 quordle.game
 qurare.game
 qwest.game
@@ -4569,6 +4578,7 @@ rp8888.game
 rpg.game
 rps.game
 rr9.game
+rr9in.game
 rrr.game
 rrrbet.game
 rrwin.game
@@ -4713,7 +4723,6 @@ seujogo.game
 seven.game
 sex.game
 sexy.game
-sexygame.game
 sexygame666.game
 sf.game
 sgm.game
@@ -5585,6 +5594,7 @@ v3game.game
 v5.game
 v68.game
 v7.game
+v8.game
 v9.game
 vahalia.game
 vaihaiia.game
@@ -5711,6 +5721,7 @@ voice.game
 void.game
 volka.game
 vortex.game
+vou.game
 voxel.game
 voxile.game
 voxlshot.game
@@ -5963,6 +5974,7 @@ wu.game
 wukong.game
 ww2.game
 ww5.game
+ww5in.game
 ww88.game
 wwb.game
 wwe.game
