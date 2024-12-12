@@ -194,6 +194,7 @@
 2dci.ci
 2fatm.ci
 2ge.ci
+2ginvestissement.ci
 2hci.ci
 2hfinances.ci
 2i.ci
@@ -295,7 +296,6 @@
 6net.ci
 70.ci
 70491.ci
-72.ci
 725.ci
 7253.ci
 73.ci
@@ -1011,7 +1011,6 @@ ane.ci
 anehci.ci
 anexci.ci
 anfose.ci
-angela-r-productions.ci
 angelagency.ci
 angelsmood.ci
 angeltechnology.ci
@@ -1085,6 +1084,7 @@ apsa.ci
 apsfd.ci
 apsi.ci
 apsonic-moto.ci
+apsonic.ci
 aptonia.ci
 aq.ci
 aquachimie.ci
@@ -1252,7 +1252,6 @@ astradal.ci
 astraining.ci
 astrolab.ci
 astronomie.ci
-astrotech.ci
 astrum.ci
 aswa.ci
 aswanaccessories.ci
@@ -1807,6 +1806,7 @@ bio-oil.ci
 biobellaci.ci
 bioderma.com.ci
 biogaz.ci
+biolab.ci
 biolabsarl.ci
 biologique-recherche.ci
 biomaraichere.ci
