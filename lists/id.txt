@@ -7,6 +7,8 @@
 000343.id
 000351.id
 001.id
+001game.id
+001win.id
 002.id
 003.id
 004.id
@@ -14,6 +16,7 @@
 006.id
 007.id
 007biz.id
+007game.id
 007news.id
 008.id
 009.id
@@ -230,7 +233,6 @@
 10terbaik.id
 10winterslot.id
 10xmedia.id
-10xmy.id
 11.id
 110.id
 111.id
@@ -1513,6 +1515,7 @@
 5days.id
 5dewa.id
 5dpro.id
+5gbet.id
 5gnow.id
 5gresort.id
 5minvideo.id
@@ -1678,7 +1681,6 @@
 68197.id
 682.id
 683.id
-683172.id
 684.id
 685.id
 686.id
@@ -1860,6 +1862,7 @@
 777peka.id
 777score.id
 777slot.id
+777tiger.id
 777win.id
 778.id
 779.id
@@ -2008,7 +2011,6 @@
 823.id
 824.id
 825.id
-825689.id
 826.id
 827.id
 828.id
@@ -2103,8 +2105,10 @@
 888.id
 888b.id
 888casino.id
+888hot.id
 888living.id
 888naga.id
+888pg.id
 888poker.id
 888shop.id
 888slots.id
@@ -2367,6 +2371,7 @@
 99976.id
 9999.id
 99999.id
+99advertising.id
 99asmaulhusna.id
 99aso.id
 99bandar.id
@@ -2396,6 +2401,7 @@
 99toto.id
 99virtualrace.id
 99wells.id
+9anime.id
 9apps.id
 9code.id
 9cv9jobs.id
@@ -2853,6 +2859,7 @@ abidinnet.id
 abidintoto.id
 abidjan.id
 abien.id
+abifau.id
 abifitness.id
 abigail.id
 abigailb.id
@@ -3039,6 +3046,7 @@ absensi-kek.id
 absensi.id
 absensiandroid.id
 absensidesaasahan.id
+absensidesatabukhulu.id
 absensinow.id
 absensionline.id
 absensipegawai.id
@@ -3495,7 +3503,6 @@ achajaya.id
 acham.id
 achan.id
 achannel.id
-achara.id
 achatfour.id
 achatinfo.id
 achatprive.id
@@ -3832,6 +3839,7 @@ adain.id
 adainaja.id
 adainfo.id
 adaint.id
+adajasa.id
 adajepara.id
 adajob.id
 adakabar.id
@@ -3850,6 +3858,7 @@ adakerja.id
 adakita.id
 adakitanews.id
 adakom.id
+adakopi.id
 adakreatif.id
 adakuota.id
 adalah.id
@@ -3908,6 +3917,7 @@ adaphan.id
 adapolisi.id
 adapro.id
 adaproject.id
+adapromo.id
 adaproperti.id
 adaprotek.id
 adapta.id
@@ -4950,7 +4960,6 @@ aespe.id
 aestate.id
 aestc.id
 aestech.id
-aesth.id
 aesthetes.id
 aesthetic.id
 aestheticfurniture.id
@@ -5174,6 +5183,7 @@ afrocat.id
 afrofarm.id
 afromix.id
 afropie.id
+afroz.id
 afruz.id
 afs2000jogja.id
 afscmy.id
