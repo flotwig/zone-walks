@@ -1305,6 +1305,7 @@
 4age-forum.id
 4bnet.id
 4care.id
+4chem.id
 4d-gummy.id
 4ddig.id
 4doctor.id
@@ -1562,9 +1563,7 @@
 616.id
 61671.id
 617.id
-617766.id
 617777.id
-617788.id
 618.id
 619.id
 62.id
@@ -2584,6 +2583,7 @@ abadijayasuksesprima.id
 abadiklender.id
 abadinews.id
 abadinikelnusantara.id
+abadinirwana-mulya.id
 abadisentosapackaging.id
 abadisinergi.id
 abaditourtravel.id
@@ -3897,6 +3897,7 @@ adamproject.id
 adamre.id
 adams.id
 adamsjunk.id
+adamsyahassociates.id
 adamusik.id
 adamvillapuncak.id
 adamware.id
@@ -4617,6 +4618,7 @@ adsoulmedia.id
 adspace.id
 adspcenter.id
 adspedia.id
+adspeed.id
 adsplatform.id
 adsplit.id
 adspreneur.id
@@ -4631,6 +4633,7 @@ adstra.id
 adstudio.id
 adsumo.id
 adsup.id
+adsvice.id
 adswift.id
 adtec.id
 adtech.id
@@ -4689,6 +4692,7 @@ advantageous.id
 advantagesdisadvantages.id
 advantaseeds.id
 advantech.id
+advantedge.id
 advantek.id
 advantra.id
 advanzforlife.id
@@ -5938,11 +5942,9 @@ agusnovan.id
 aguspakpahan.id
 agusprasasti.id
 aguspriyanto.id
-aguspurnamaromadoni.id
 aguss.id
 agussalim.id
 agussetiawan.id
-agussugiyanto.id
 agussutarna.id
 agustam.id
 agustian.id
@@ -6081,7 +6083,6 @@ ahmadfaisalr.id
 ahmadfauzi.id
 ahmadgozali.id
 ahmadhelmy.id
-ahmadhidayat.id
 ahmadiham.id
 ahmadipedia.id
 ahmadismail.id
@@ -6145,7 +6146,6 @@ ai-chat.id
 ai-creation.id
 ai-digi.id
 ai-dikti.id
-ai-innovation.id
 ai-max.id
 ai-qr.id
 ai-research.id
