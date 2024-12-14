@@ -56,14 +56,14 @@ TLD | Domain Count
 [`ve`][ve] [(raw)][ve-raw] | <div align="right">183</div>
 [`amazon`][amazon] [(raw)][amazon-raw] | <div align="right">124</div>
 [`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">96</div>
-[`gn`][gn] [(raw)][gn-raw] | <div align="right">32</div>
+[`gn`][gn] [(raw)][gn-raw] | <div align="right">37</div>
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">24</div>
 [`wed`][wed] [(raw)][wed-raw] | <div align="right">21</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4877671</div>
+**Total** | <div align="right">4877676</div>
 
 ## See Also
 
