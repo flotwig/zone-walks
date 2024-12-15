@@ -392,6 +392,7 @@
 16ekraf.id
 16games.id
 16menit.id
+16winterslot.id
 17.id
 170.id
 171.id
@@ -413,6 +414,7 @@
 17anmotorankeikn.id
 17mesindo.id
 17net.id
+17winterslot.id
 18.id
 180.id
 180care.id
@@ -477,6 +479,7 @@
 1bandar.id
 1bangsa.id
 1bauma.id
+1belegendbet.id
 1btc.id
 1clic.id
 1click.id
@@ -582,6 +585,7 @@
 200.id
 2001.id
 200bet.id
+200mobil.id
 201.id
 202.id
 2023.id
@@ -952,6 +956,7 @@
 360foodsafe.id
 360indonesia.id
 360kredi.id
+360kredit.id
 360link.id
 360loop.id
 360motion.id
@@ -1554,6 +1559,7 @@
 60min.id
 61.id
 610.id
+610palmerah.id
 611.id
 612.id
 613.id
@@ -1563,7 +1569,9 @@
 616.id
 61671.id
 617.id
+617766.id
 617777.id
+617788.id
 618.id
 619.id
 62.id
@@ -1647,7 +1655,6 @@
 663.id
 664.id
 665.id
-665359.id
 666.id
 6666.id
 667.id
@@ -1929,6 +1936,7 @@
 7cosia.id
 7days.id
 7dewa.id
+7diamonds.id
 7dimensi.id
 7dtoto.id
 7energi.id
@@ -2141,7 +2149,6 @@
 88spin.id
 88studio.id
 88tototogel.id
-88vin.id
 88viobet.id
 88vip.id
 89.id
@@ -2339,7 +2346,6 @@
 981.id
 982.id
 983.id
-983172.id
 984.id
 985.id
 986.id
@@ -2945,7 +2951,6 @@ abnatour.id
 abnaulchairaat.id
 abnconsultant.id
 abner.id
-abnews.id
 abni.id
 abnnews.id
 abnomaly.id
@@ -3155,7 +3160,6 @@ abystyle-studio.id
 abystyle.id
 abyudaya.id
 abyudayamultistrada.id
-abznv.id
 ac-cpa.id
 ac-ku.id
 ac-mu.id
@@ -4122,7 +4126,6 @@ adentalclinic.id
 adept.id
 adequate.id
 aderamedika.id
-aderaskincare.id
 aderezo.id
 adesa.id
 adesco.id
@@ -5011,6 +5014,7 @@ afaglobalcendana.id
 afajarnews.id
 afakom.id
 afamenyapa.id
+afamily.id
 afandi.id
 afapoker.id
 afara.id
@@ -5364,7 +5368,6 @@ agen911.id
 agen99.id
 agenafc.id
 agenai.id
-agenart.id
 agenasports.id
 agenasuransi.id
 agenbagi.id
@@ -5531,6 +5534,7 @@ agentinaboxbali.id
 agentjudibolaterpercaya.id
 agentkit.id
 agentnco.id
+agentogel.id
 agentopup.id
 agentoto.id
 agentotoplay-login.id
@@ -5591,6 +5595,7 @@ agileacademy.id
 agileagency.id
 agilearn.id
 agilechampion.id
+agilecircles.id
 agilee.id
 agileflux.id
 agilegal.id
@@ -5920,7 +5925,6 @@ agungsedayupik2.id
 agungsep.id
 agungstore.id
 agungsurveyortopografi.id
-agungsuyoga.id
 agungtimur-desa.id
 agungtimur.id
 agungtoyota.id
@@ -5930,7 +5934,6 @@ agungtoyotapekanbaru.id
 agungtravel.id
 agungwash.id
 agungwicaksono.id
-agungwijayanto.id
 agunklakalaka.id
 agus.id
 agusadit.id
