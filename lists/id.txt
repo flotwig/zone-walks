@@ -438,7 +438,6 @@
 188betshop.id
 188spesial.id
 189.id
-189656.id
 18degree.id
 18hoki.id
 18hokiac.id
@@ -646,7 +645,6 @@
 217.id
 218.id
 219.id
-219446.id
 21cineplex.id
 21doors.id
 21e8.id
@@ -680,7 +678,6 @@
 231.id
 232.id
 233.id
-233554.id
 234.id
 234cars.id
 234sc.id
@@ -710,7 +707,6 @@
 246502.id
 247.id
 247153.id
-247182.id
 247go.id
 247news.id
 247robot.id
@@ -856,7 +852,6 @@
 31.id
 310.id
 311.id
-311255.id
 31160.id
 312.id
 313.id
@@ -867,7 +862,6 @@
 315749.id
 315snacks.id
 316.id
-316224.id
 31658.id
 317.id
 31769.id
@@ -971,7 +965,6 @@
 362.id
 363.id
 364.id
-364867.id
 365-pro.id
 365.id
 36500.id
@@ -1000,7 +993,6 @@
 365grow.id
 365hot.id
 365idr.id
-365info.id
 365microsoft.id
 365mvp.id
 365partner.id
@@ -1070,7 +1062,6 @@
 396.id
 396slot.id
 397.id
-397238.id
 398.id
 39876.id
 39894.id
@@ -1208,7 +1199,6 @@
 42642.id
 427.id
 428.id
-428184.id
 429.id
 42floors.id
 42net.id
@@ -1415,7 +1405,6 @@
 53124.id
 532.id
 533.id
-533179.id
 53399.id
 534.id
 535.id
@@ -1461,7 +1450,6 @@
 56.id
 560.id
 561.id
-561652.id
 562.id
 563.id
 564.id
@@ -1492,6 +1480,7 @@
 579.id
 57963.id
 57creative.id
+57desaininterior.id
 57promenade.id
 58.id
 580.id
@@ -1906,6 +1895,7 @@
 789clubz.id
 789win.id
 78farm.id
+78toto.id
 78win.id
 79.id
 790.id
@@ -2035,7 +2025,6 @@
 834.id
 835.id
 836.id
-836269.id
 837.id
 8376-gs.id
 838.id
@@ -2236,10 +2225,8 @@
 911medicalclinic.id
 911responce.id
 912.id
-912245.id
 913.id
 914.id
-914381.id
 915.id
 91530.id
 916.id
@@ -2561,7 +2548,6 @@ aaulibrary.id
 aave.id
 aawarabanjara.id
 aaway.id
-aaybc.id
 aazot.id
 ab-home.id
 aba-mlc.id
@@ -2636,7 +2622,6 @@ abasay.id
 abase.id
 abashes.id
 abashing.id
-abasorganizer.id
 abaspost.id
 abata.id
 abatasa.id
@@ -3479,7 +3464,6 @@ acerace.id
 acerbic.id
 acerday.id
 aceredusummit.id
-acerforeducation.id
 acerforindonesia.id
 acergedu.id
 acero.id
@@ -3951,6 +3935,8 @@ adapto.id
 adaptor.id
 adapundi-asia.id
 adapundi-official.id
+adapundiandalanmu.id
+adapundiasia.id
 adaqua.id
 adaracoco.id
 adarafashion.id
@@ -4431,6 +4417,7 @@ adminhub.id
 administrasi-desa.id
 administrasi.id
 administrasibisnis.id
+administrasisekolah.id
 administration.id
 administrative.id
 administrator.id
@@ -4703,6 +4690,7 @@ advantedge.id
 advantek.id
 advantra.id
 advanzforlife.id
+advas.id
 advcas.id
 adventfajar.id
 adventist.id
@@ -4999,6 +4987,7 @@ aetnasummit.id
 aetobatus.id
 aetrex.id
 aetronik.id
+aeucbn.id
 aeufx.id
 aeuko.id
 aexapro.id
@@ -5892,6 +5881,7 @@ agtex.id
 agtinet.id
 agudata.id
 aguiar.id
+aguilar.id
 agumi.id
 agumyp.id
 agunanbpkbmobil.id
