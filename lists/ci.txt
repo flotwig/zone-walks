@@ -190,6 +190,7 @@
 2aleit.ci
 2amegroupe.ci
 2bintec.ci
+2cminfo.ci
 2dci.ci
 2fatm.ci
 2ge.ci
@@ -621,6 +622,7 @@ afridev-group.ci
 afriexpress.ci
 afrigroupe.ci
 afriiexpress.ci
+afrikabanque.ci
 afrikacreations.ci
 afrikalex.ci
 afrikana.ci
@@ -905,6 +907,7 @@ allodriver.ci
 alloecole.ci
 allofi.ci
 allomondoc.ci
+allone.ci
 allonsavecado.ci
 alloosante.ci
 alloosantepro.ci
@@ -1584,7 +1587,6 @@ batirici-annuairebtp.ci
 batirici.ci
 batis.ci
 batisseurs357.ci
-batisseursdecites.ci
 batitech.ci
 baudouin.ci
 bayabay.ci
@@ -1815,6 +1817,7 @@ biolabsarl.ci
 biologique-recherche.ci
 biomaraichere.ci
 biomarket.ci
+biomass-energy.ci
 biome.ci
 biomedis.ci
 biomerieux-af.ci
@@ -2221,7 +2224,6 @@ camera.ci
 cameron.ci
 camovue.ci
 camp2e.ci
-campusivoire.ci
 campusjuridique.ci
 cams.ci
 camt-cargo.ci
@@ -2841,6 +2843,7 @@ cmgc.ci
 cmgp.ci
 cmi.ci
 cmintima.ci
+cmlv.ci
 cmpc.ci
 cmrestorehope.ci
 cms.ci
