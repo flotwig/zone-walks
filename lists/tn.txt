@@ -1433,6 +1433,7 @@ age.tn
 agec.tn
 agedstone.tn
 agelac.tn
+agence-amour.tn
 agence-boomerang-communication.tn
 agence-de-voyage.tn
 agence-digitale.tn
@@ -4114,11 +4115,13 @@ aumac.tn
 auna.tn
 aunde.tn
 aupanier.tn
+aura-essence.tn
 aura-pharmavie.tn
 aura.tn
 aurabijoux.tn
 aurafragrance.tn
 aurareadytowear.tn
+aurascents.tn
 auratransit.tn
 aureole.tn
 aurevita.tn
@@ -5733,6 +5736,7 @@ bewell.tn
 bewellpharma.tn
 bewellstore.tn
 bewin1x2.tn
+bewinner.tn
 bey-store.tn
 bey.tn
 beya.tn
@@ -7320,7 +7324,6 @@ bytransit.tn
 byweb.tn
 bz.tn
 bzstore.tn
-c-and-a.tn
 c-bomeubles.tn
 c-c.tn
 c-construction.tn
@@ -9763,6 +9766,7 @@ commune-ariana.tn
 commune-bardo.tn
 commune-bchelli.tn
 commune-beja.tn
+commune-bekalta.tn
 commune-belkhir.tn
 commune-belkir.tn
 commune-bengardene.tn
@@ -12845,6 +12849,7 @@ drjuice.tn
 drkhouadjakarim.tn
 drmdistribution.tn
 drmeriemmadani.tn
+drnadermeziou.tn
 drnature.tn
 drnouri.tn
 droetker.tn
@@ -13047,6 +13052,7 @@ e-cepex.tn
 e-cervin.tn
 e-charika.tn
 e-chariot.tn
+e-cheque.tn
 e-chri.tn
 e-citoyen.tn
 e-citoyens.tn
@@ -13383,6 +13389,7 @@ echange.tn
 echarpe.tn
 echbp.tn
 echemi.tn
+echeque.tn
 echeri.tn
 echo.tn
 echofoetal.tn
@@ -13446,6 +13453,7 @@ ecobella.tn
 ecobingo.tn
 ecobio.tn
 ecobooking.tn
+ecochimix-erp.tn
 ecochimix.tn
 ecoclicko.tn
 ecocloud.tn
@@ -14112,6 +14120,7 @@ electronique-store.tn
 electronique-tunisie.tn
 electronix.tn
 electrons.tn
+electropika.tn
 electroplus.tn
 electropower.tn
 electroprix.tn
@@ -15374,6 +15383,7 @@ evenements.tn
 evensys.tn
 event-registration.tn
 event.tn
+eventailconsulting.tn
 eventek-vcenter.tn
 eventi.tn
 eventia.tn
@@ -15631,6 +15641,7 @@ extraits.tn
 extralighting.tn
 extrametal.tn
 extraservices.tn
+extrashop.tn
 extrastore.tn
 extravirgintravel.tn
 extreme-shop.tn
@@ -16544,6 +16555,7 @@ flexoplate.tn
 flexos-tunisie.tn
 flexrol.tn
 flexstore.tn
+flexygo.tn
 flexyshop.tn
 flf.tn
 flickdeals.tn
@@ -22343,7 +22355,6 @@ jacmotors.tn
 jacob-cohen.tn
 jacobcohen.tn
 jacodis.tn
-jaconsulting.tn
 jad.tn
 jadever.tn
 jadhome.tn
@@ -22469,6 +22480,7 @@ jazzax.tn
 jazzytweet.tn
 jb.tn
 jbalbio.tn
+jbdesign.tn
 jbimportexport.tn
 jbltunisie.tn
 jbmaccesorry.tn
@@ -24398,7 +24410,6 @@ lapara.tn
 laparapharmacie.tn
 laparole.tn
 lapatissiere.tn
-lapej.tn
 laper.tn
 laperledulac.tn
 laperseverance.tn
@@ -26150,6 +26161,7 @@ m360d.tn
 m3alem.tn
 m3s.tn
 m4uhd.tn
+m5para.tn
 ma-boutique.tn
 ma-home.tn
 ma-maison.tn
@@ -27440,7 +27452,6 @@ mbssolutions.tn
 mbstore.tn
 mbwaay.tn
 mby.tn
-mc-agency.tn
 mc-carre.tn
 mca-avocats.tn
 mca.tn
@@ -27647,7 +27658,6 @@ media-store.tn
 media-trade.tn
 media-training.tn
 media.tn
-mediaaplus.tn
 mediabureautique.tn
 mediacentre.tn
 mediacity.tn
@@ -29811,6 +29821,7 @@ myexpert.tn
 myfam-store.tn
 myfamilydomain.tn
 myfamilystore.tn
+myfashion.tn
 myfatoora.tn
 myfit.tn
 myfitroom.tn
@@ -29985,6 +29996,7 @@ mytss.tn
 mytt.tn
 myttstunisia.tn
 mytuning.tn
+mytunisiatv.tn
 mytv.tn
 myultimate.tn
 myvet.tn
@@ -31278,6 +31290,7 @@ oculusrift.tn
 oculusvr.tn
 od.tn
 odaco.tn
+odas.tn
 odc.tn
 odchosting.tn
 odd-store.tn
@@ -32301,6 +32314,7 @@ ovaprod.tn
 ovation.tn
 ovc.tn
 overadvantage.tn
+overblack.tn
 overgroups.tn
 overseasjobs.tn
 oversize.tn
@@ -32694,7 +32708,6 @@ paranet.tn
 paraone.tn
 parapharm.tn
 parapharmacie-en-ligne.tn
-parapharmacie-express.tn
 parapharmacie-tunisie.tn
 parapharmacie.tn
 parapharmaciebardo.tn
@@ -32968,6 +32981,7 @@ peaudouce.tn
 pec.tn
 pecb-ms.tn
 pecb.tn
+pecc.tn
 peche-zembra.tn
 peche.tn
 pechecontinentale.tn
