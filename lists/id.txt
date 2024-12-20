@@ -15,6 +15,7 @@
 005.id
 006.id
 007.id
+007660.id
 007biz.id
 007game.id
 007news.id
@@ -575,7 +576,6 @@
 1winz.id
 1world.id
 1xbet-sport.id
-1xbet.id
 1xbetgames.id
 1xbets.id
 1xbit.id
@@ -2434,7 +2434,6 @@ a-news.id
 a-oneindustri.id
 a-p-c.id
 a-pay.id
-a-plus.id
 a-secure.id
 a-task.id
 a-times.id
@@ -3217,7 +3216,6 @@ acams.id
 acamse.id
 acana.id
 acannabidiol.id
-acantha.id
 acapela.id
 acara.id
 acaraitu.id
@@ -3737,6 +3735,7 @@ activeherb.id
 activelabor.id
 activelink.id
 activelives.id
+activemandarin.id
 activemovement.id
 activepay.id
 activepeople.id
@@ -3962,7 +3961,6 @@ adaqua.id
 adaracoco.id
 adarafashion.id
 adaragroup.id
-adarasa.id
 adaratan.id
 adarma.id
 adarmagasinaga.id
@@ -4390,7 +4388,6 @@ adlcloudify.id
 adlee.id
 adleevaskincare.id
 adler.id
-adlevel.id
 adlex.id
 adlexa.id
 adlgaward.id
@@ -5977,6 +5974,7 @@ agustri.id
 aguswmika.id
 agutrip.id
 agvrobot.id
+agvst.id
 agvtoto.id
 agwin.id
 agwoundcare.id
