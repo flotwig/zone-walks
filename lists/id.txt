@@ -561,12 +561,14 @@
 1win-id.id
 1win-indonesia.id
 1win-kasino.id
+1win-official.id
 1win-online.id
 1win-token.id
 1win.id
 1win1.id
 1winapp.id
 1winbet.id
+1wincasino.id
 1winindonesia.id
 1winn.id
 1winonline.id
@@ -712,6 +714,7 @@
 247.id
 247153.id
 247182.id
+247cell.id
 247go.id
 247news.id
 247robot.id
@@ -814,6 +817,7 @@
 2acc4d.id
 2adults.id
 2behome.id
+2belegendbet.id
 2bong.id
 2design.id
 2dmax.id
@@ -955,6 +959,7 @@
 360finmart.id
 360foodcamp.id
 360foodsafe.id
+360go.id
 360indonesia.id
 360kredi.id
 360kredit.id
@@ -1080,6 +1085,7 @@
 3ads.id
 3auth.id
 3band.id
+3belegendbet.id
 3bila.id
 3bulinna.id
 3cahaya.id
@@ -1308,6 +1314,7 @@
 499.id
 4adults.id
 4age-forum.id
+4belegendbet.id
 4bnet.id
 4care.id
 4chem.id
@@ -1519,6 +1526,7 @@
 597.id
 598.id
 599.id
+5belegendbet.id
 5bintang.id
 5days.id
 5dewa.id
@@ -2553,7 +2561,6 @@ aashishpatel.id
 aasic.id
 aasnack.id
 aasted.id
-aasthaautopartindo.id
 aastore.id
 aastr.id
 aastudiobeautybar.id
@@ -3684,7 +3691,9 @@ acsconsulting.id
 acsgroup.id
 acsi.id
 acsindonesia.id
+acskatering.id
 acsolo.id
+acsparking.id
 acspub.id
 acsschool.id
 acssgroup.id
@@ -4788,6 +4797,7 @@ advokasi.id
 advokasirakyat.id
 advokat-aprian.id
 advokat.id
+advokatbayu.id
 advokatdesa.id
 advokatku.id
 advokatmedan.id
@@ -4880,6 +4890,7 @@ aepublishing.id
 aeqsgu.id
 aer.id
 aera.id
+aerasea.id
 aerate.id
 aeratek.id
 aerbrx.id
@@ -5273,7 +5284,6 @@ agada.id
 agafia.id
 again.id
 againbags.id
-againfaster.id
 against.id
 againstgravity.id
 againtime.id
@@ -5380,6 +5390,7 @@ agenbagi.id
 agenbaja.id
 agenbankgaransi.id
 agenbapautoto.id
+agenbatubara.id
 agenbesar.id
 agenbesi.id
 agenbet.id
@@ -5387,6 +5398,7 @@ agenbobatoto.id
 agenbola.id
 agenbolaonline.id
 agenbos168.id
+agenbrilife.id
 agenbrilink.id
 agenbritishpropolis.id
 agenbuspo.id
@@ -5538,7 +5550,6 @@ agentforce.id
 agentgr.id
 agentic.id
 agentiket.id
-agentinaboxbali.id
 agentjudibolaterpercaya.id
 agentkit.id
 agentnco.id
@@ -5557,7 +5568,6 @@ agentsystem.id
 agenttaruahanjudibolaonline.id
 agentuspro.id
 agentx.id
-agentxbali.id
 agentz.id
 agenumroh.id
 agenvarash.id
@@ -5775,6 +5785,7 @@ agritechindonesia.id
 agritechnews.id
 agritechs.id
 agriteknusa.id
+agritrack.id
 agritusi.id
 agritv.id
 agrivisi.id
@@ -6164,7 +6175,9 @@ ai-chat.id
 ai-creation.id
 ai-digi.id
 ai-dikti.id
+ai-innovation.id
 ai-max.id
+ai-powered.id
 ai-qr.id
 ai-research.id
 ai-security.id
