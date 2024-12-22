@@ -265,7 +265,6 @@ alandsbonden.ax
 alandsbostader.ax
 alandsbutiken.ax
 alandsbygg.ax
-alandsea.ax
 alandsfaret.ax
 alandsfarjan.ax
 alandsfolkrace.ax
@@ -829,6 +828,7 @@ cancer.ax
 canon.ax
 canva.ax
 cap.ax
+capitalexchange.ax
 car.ax
 caravan.ax
 caravanclub.ax
@@ -1222,6 +1222,7 @@ ennieriksson.ax
 enros.ax
 enterprise.ax
 entrepreneur.ax
+envilla.ax
 enviro.ax
 eo.ax
 ep.ax
@@ -1951,7 +1952,6 @@ it24.ax
 itb.ax
 itbolaget.ax
 itiden.ax
-itkonsulterna.ax
 its.ax
 iv.ax
 ivcevidensia.ax
