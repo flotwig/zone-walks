@@ -298,7 +298,6 @@ adamas-tex.kg
 adamas.kg
 adamountain.kg
 adamsoul.kg
-adapter.kg
 adcherlo.kg
 add.kg
 addinol.kg
@@ -568,7 +567,6 @@ akaba.kg
 akademia-sluha.kg
 akademia.kg
 akademiya-chistoty.kg
-akademiyawb.kg
 akb.kg
 akbars.kg
 akbashat.kg
@@ -720,6 +718,7 @@ algoritmplus.kg
 alhakim.kg
 ali-garant.kg
 ali-transfer.kg
+alianscapital.kg
 alibaba.kg
 alidar.kg
 alievfactory.kg
@@ -1179,7 +1178,6 @@ asecourier.kg
 aser.kg
 asfarma.kg
 asfinance.kg
-asg.kg
 ashar.kg
 asharfunding.kg
 asharmenenplus.kg
@@ -1483,6 +1481,7 @@ avada-media.kg
 avae.kg
 avaecapital.kg
 avalanche.kg
+avalon.kg
 avanco.kg
 avangard-mebel.kg
 avangard.kg
@@ -1622,7 +1621,6 @@ azattykplus.kg
 azbuka.kg
 azbukadoma.kg
 azemkel.kg
-azharia.kg
 azia.kg
 aziabet.kg
 aziacasino.kg
@@ -2488,6 +2486,7 @@ bulgar.kg
 bulova.kg
 bulu.kg
 bulut-express.kg
+bulut.kg
 bumper.kg
 buran.kg
 burana-grandhotel.kg
@@ -2758,7 +2757,6 @@ charter.kg
 chasy.kg
 chat.kg
 chat2desk.kg
-chatkal.kg
 chcnav.kg
 cheaptickets.kg
 cheber.kg
@@ -2888,7 +2886,6 @@ cleanetica.kg
 cleaning-house.kg
 cleaning.kg
 cleanworld.kg
-clever.kg
 clevertouch.kg
 clickpay.kg
 climat.kg
@@ -3120,6 +3117,7 @@ cryptofirm.kg
 cryptogate.kg
 cryptokit.kg
 crypton.kg
+cryptopay.kg
 cryptosolutions.kg
 cryptostore.kg
 cryptovaluta.kg
@@ -3160,7 +3158,6 @@ cvetkoff.kg
 cvetnoidym.kg
 cvl.kg
 cvp.kg
-cyber.kg
 cybercoom.kg
 cybernet.kg
 cyberport.kg
@@ -3406,6 +3403,7 @@ devops.kg
 dex.kg
 dez-garant.kg
 dez.kg
+dezeffect.kg
 dezinfector.kg
 dezinfekcia.kg
 dezis.kg
@@ -3590,7 +3588,6 @@ door.kg
 doorexpo.kg
 doorfresh.kg
 doorhan-club.kg
-doorhan.kg
 doormedia.kg
 doors.kg
 dordoi.kg
@@ -3603,7 +3600,6 @@ dordoy.kg
 dorelan.kg
 dores.kg
 doriclub.kg
-dorma.kg
 dornbracht.kg
 dorstroy.kg
 dorznaki.kg
@@ -4400,7 +4396,6 @@ f1.kg
 f2c.kg
 fa-fa.kg
 fa.kg
-faac.kg
 fabao.kg
 faberlic.kg
 fabrika.kg
@@ -4768,6 +4763,7 @@ fronius.kg
 front.kg
 frontiers.kg
 frp.kg
+fruair.kg
 fruits.kg
 frunze.kg
 frunzerest.kg
@@ -5916,6 +5912,7 @@ interneturok.kg
 internetx.kg
 internews.kg
 internic.kg
+interparts.kg
 interpay.kg
 interpost.kg
 intersolution-trade.kg
@@ -6006,6 +6003,7 @@ isco.kg
 isds.kg
 iseal.kg
 iservice.kg
+ish.kg
 ishenim.kg
 ishhub.kg
 ishida.kg
@@ -6091,7 +6089,6 @@ itourism.kg
 itp.kg
 itpark.kg
 itpoint.kg
-itpro.kg
 itr.kg
 itresource.kg
 itrun.kg
@@ -7426,6 +7423,7 @@ lunapark.kg
 lunaparkgum.kg
 lunaprofabric.kg
 lundbeck.kg
+lunex.kg
 lupibit.kg
 lutz.kg
 lux.kg
@@ -7464,7 +7462,6 @@ maalymat.kg
 maarif.kg
 maarifeducationalcomplex.kg
 maarifschools.kg
-macburger.kg
 macchoco.kg
 macchocolate.kg
 maccoffee.kg
@@ -8063,6 +8060,7 @@ mirpultov.kg
 mirra-trading.kg
 mirshin.kg
 mirstroyplast.kg
+mirtech.kg
 mirtek.kg
 mirtul.kg
 mirvodopadov.kg
@@ -8676,6 +8674,7 @@ notariat.kg
 notarius.kg
 notary.kg
 notary312.kg
+notaryservice.kg
 notnik.kg
 notorture.kg
 nout-center.kg
@@ -9006,6 +9005,7 @@ opros.kg
 ops.kg
 opt.kg
 optex.kg
+opti.kg
 optic.kg
 optica.kg
 opticom.kg
@@ -9516,6 +9516,7 @@ plastic-surgery.kg
 plastic.kg
 plastilux.kg
 platforma.kg
+platformone.kg
 plath.kg
 platinka.kg
 platinum.kg
@@ -9675,7 +9676,6 @@ pravum.kg
 praymol.kg
 prazdnik.kg
 prazdniki.kg
-prc.kg
 precedentinfo.kg
 predstavitelstvo.kg
 prego.kg
@@ -9855,6 +9855,7 @@ psihoanaliz.kg
 psihodrama.kg
 psiholog.kg
 psikhologist.kg
+psk.kg
 pss.kg
 psw.kg
 psy-care.kg
@@ -10204,7 +10205,6 @@ rmconsult.kg
 rmdd.kg
 rme.kg
 rmgtrade.kg
-rms.kg
 rmservise.kg
 rmsoft.kg
 rnd.kg
@@ -10372,7 +10372,6 @@ safeburg.kg
 safekids.kg
 safement.kg
 safepay.kg
-safety.kg
 saffran.kg
 safiabakery.kg
 sailing.kg
@@ -10489,8 +10488,8 @@ sapaty.kg
 saphir.kg
 saqta.kg
 saran-ga.kg
+saratan.kg
 saray.kg
-sardar-cargo.kg
 saresep.kg
 sarkech.kg
 sartbaev.kg
@@ -10508,7 +10507,6 @@ satigroup.kg
 satimdc.kg
 satoshitrading.kg
 satoshitradingllc.kg
-satu.kg
 saturn.kg
 sauber.kg
 saudivisaoffice.kg
@@ -11414,6 +11412,7 @@ sushi-time.kg
 sushibar.kg
 sushibox.kg
 sushiroom.kg
+sushitime.kg
 sushivesla.kg
 sushiwok.kg
 sushiworld.kg
@@ -11996,6 +11995,7 @@ topto.kg
 toptogolok.kg
 toptrade.kg
 toptravel.kg
+toptrend.kg
 topup.kg
 tor.kg
 torg-consult.kg
@@ -13089,6 +13089,7 @@ youthofosh.kg
 youtube.kg
 yoyo.kg
 yr.kg
+ys.kg
 yubico.kg
 yubikey.kg
 yugstroyservice.kg
