@@ -1336,6 +1336,7 @@ afmt.tn
 afnan.tn
 afnen-shop.tn
 afnor.tn
+afra.tn
 afratim.tn
 afrec.tn
 afribatiment.tn
@@ -9632,6 +9633,7 @@ coinstore1.tn
 cointech.tn
 coinvip.tn
 cojedjuniorentreprise.tn
+cokal.tn
 cola.tn
 colibri-pelican.tn
 colibrirelais.tn
@@ -11771,16 +11773,9 @@ deskshop.tn
 desktop.tn
 dessa.tn
 dessange.tn
-destination-carthage.tn
-destination-mahdia.tn
 destination-voyage.tn
-destination-zaghouan.tn
 destination.tn
-destinationcarthage.tn
-destinationlekef.tn
-destinationmahdia.tn
 destinationtunisie.tn
-destinationzaghouan.tn
 destinyprod.tn
 destock.tn
 destockage.tn
@@ -13264,7 +13259,6 @@ easydistribution.tn
 easydom.tn
 easyfit.tn
 easyhome.tn
-easyinformatique.tn
 easyinsurance.tn
 easyjob.tn
 easyk.tn
@@ -13523,6 +13517,7 @@ ecolobloc.tn
 ecoloc.tn
 ecolodge-ksarghilane.tn
 ecolytech.tn
+ecom-shine.tn
 ecom.tn
 ecomag.tn
 ecomagency.tn
@@ -15301,6 +15296,7 @@ etudiant.tn
 etudiante.tn
 etudiants-fsegt.tn
 etudiants.tn
+etudierletranger.tn
 etudionet.tn
 etudyonet.tn
 etunet.tn
@@ -16049,7 +16045,6 @@ fazashop.tn
 fazastore.tn
 fazat.tn
 faze.tn
-fazeti.tn
 fazettn.tn
 fazety.tn
 fazti.tn
@@ -18865,6 +18860,7 @@ groupeham.tn
 groupehermess.tn
 groupekacem.tn
 groupelesvoisins.tn
+groupemechergui.tn
 groupement-abazakaib.tn
 groupemessaoud.tn
 groupeperlashoes.tn
@@ -26231,7 +26227,6 @@ maboutique.tn
 mabox.tn
 mabrook.tn
 mabrouk.tn
-mabrouka-holding.tn
 mabroukdistribution.tn
 mabroukretailgroup.tn
 mabstore.tn
@@ -26882,6 +26877,7 @@ manoubaclub.tn
 manpowergroup.tn
 manpowerprofessional.tn
 manprofessional.tn
+manprofessionnel.tn
 mansajfriga.tn
 mansoft.tn
 mansour.tn
