@@ -37,12 +37,12 @@
       "zone": "mom"
     },
     {
-      "domains": "34051",
-      "zone": "tn"
+      "domains": "34173",
+      "zone": "gdn"
     },
     {
-      "domains": "31799",
-      "zone": "gdn"
+      "domains": "34051",
+      "zone": "tn"
     },
     {
       "domains": "13246",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4888539"
+  "total": "4890913"
 }
