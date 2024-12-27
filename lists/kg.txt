@@ -147,6 +147,7 @@
 69.kg
 6917.kg
 7.kg
+70.kg
 74.kg
 76.kg
 78.kg
@@ -440,6 +441,7 @@ agromir.kg
 agroneto.kg
 agronetto.kg
 agronomika.kg
+agronova.kg
 agroplus.kg
 agroprod.kg
 agroprom.kg
@@ -581,7 +583,6 @@ akchamat.kg
 akdemilge.kg
 akdf.kg
 akfa-build.kg
-akfa.kg
 akfamedfarm.kg
 akfix.kg
 akfr.kg
@@ -690,7 +691,6 @@ alex.kg
 alexcatering.kg
 alextest.kg
 alfa-stroy.kg
-alfa-wpn.kg
 alfa.kg
 alfabank.kg
 alfabit.kg
@@ -841,6 +841,7 @@ altynken.kg
 altynkur.kg
 altynloto.kg
 altynordo.kg
+altyntech.kg
 altyntulpar.kg
 altynuya.kg
 aluglass.kg
@@ -1759,6 +1760,7 @@ banner.kg
 bansys.kg
 banzai.kg
 banzaimotors.kg
+bao.kg
 baptist.kg
 baqaigold.kg
 baqtyluu.kg
@@ -2080,7 +2082,6 @@ bigser-muras.kg
 bigser.kg
 bigsersport.kg
 bigstar.kg
-bigstarter.kg
 bihotel.kg
 bii-tur.kg
 bik.kg
@@ -2678,7 +2679,6 @@ castolin.kg
 cat.kg
 catalog.kg
 catering.kg
-catholic.kg
 catsystem.kg
 cavis.kg
 cbd.kg
@@ -2759,6 +2759,7 @@ changan.kg
 changanauto.kg
 change.kg
 chapan.kg
+chapel.kg
 charba.kg
 charter.kg
 chasy.kg
@@ -2849,6 +2850,7 @@ chygysh.kg
 chyndyk.kg
 chyntash.kg
 chyrak.kg
+ci.kg
 cian.kg
 cibosano.kg
 cid.kg
@@ -4661,6 +4663,7 @@ fmc-agrotrade.kg
 fmfc.kg
 fmmk.kg
 fmtg.kg
+fo.kg
 focus.kg
 focuson.kg
 focustrading.kg
@@ -4960,6 +4963,7 @@ geolabtsh.kg
 geolog.kg
 geology.kg
 geomax.kg
+geominvod.kg
 geopark.kg
 geopost.kg
 geotech.kg
@@ -5186,6 +5190,7 @@ grandstone.kg
 grandstroy.kg
 grandstyle.kg
 grandtour.kg
+granit-master.kg
 grantthornton.kg
 graph.kg
 graude.kg
@@ -5834,6 +5839,7 @@ inform.kg
 informer.kg
 infoscout.kg
 infosystema.kg
+infosystems.kg
 infotech.kg
 infotel.kg
 infounaagroup.kg
@@ -7119,6 +7125,7 @@ lds.kg
 ldscharities.kg
 ldschurch.kg
 ldsp.kg
+le.kg
 leacli.kg
 lead.kg
 leader-consulting.kg
@@ -7785,7 +7792,6 @@ medistom.kg
 meditek.kg
 medixinternational.kg
 medkniga.kg
-medline.kg
 medlink.kg
 medlit.kg
 medmarket.kg
@@ -8324,6 +8330,7 @@ murasvision.kg
 muraveinik.kg
 murella.kg
 murokplus.kg
+murza.kg
 musa.kg
 musafirun.kg
 muse.kg
@@ -9375,6 +9382,7 @@ perevod-card.kg
 perevod.kg
 perevodcard.kg
 perfect-stroy.kg
+perfecttransport.kg
 peri.kg
 perila.kg
 perimetr.kg
@@ -10013,8 +10021,8 @@ rcpkooki.kg
 rcplus.kg
 rcpn.kg
 rcs.kg
-rct.kg
 rcut.kg
+rcvolunteers.kg
 rd.kg
 rdevice.kg
 rdf.kg
@@ -10069,6 +10077,7 @@ referent.kg
 reforma.kg
 reformakerek.kg
 refsystem.kg
+reg.kg
 region.kg
 register.kg
 registprofi.kg
@@ -10350,6 +10359,7 @@ rusklimat.kg
 russellbedford.kg
 russia-neft.kg
 russia.kg
+russian.kg
 rustaronline.kg
 rusteatr.kg
 rustel.kg
@@ -10903,6 +10913,7 @@ skysystems.kg
 skyworth.kg
 skyworthev.kg
 skzic.kg
+sl.kg
 slavyane.kg
 slc.kg
 sleep.kg
@@ -11197,6 +11208,7 @@ sss.kg
 sstroy.kg
 st-art.kg
 st.kg
+sta.kg
 stablex.kg
 stada.kg
 staff-pro.kg
@@ -12130,7 +12142,6 @@ travertine.kg
 travma.kg
 travorium.kg
 trb.kg
-trcargo.kg
 treego.kg
 trekking.kg
 trekmark.kg
@@ -12367,6 +12378,7 @@ ulut.kg
 uluttuksport.kg
 uluu-too.kg
 ulysses.kg
+uma.kg
 umag-kyrgyzstan.kg
 umag.kg
 umai.kg
@@ -12374,6 +12386,7 @@ umaigroup.kg
 umayfarm.kg
 umbrella.kg
 umc.kg
+umg.kg
 ummadesign.kg
 ummamag.kg
 ummapizza.kg
@@ -12486,6 +12499,7 @@ urologiya.kg
 urology.kg
 urta.kg
 uruk.kg
+us.kg
 usa.kg
 usd.kg
 usdt.kg
@@ -12782,7 +12796,6 @@ vouwallet.kg
 voyage.kg
 voyagergroup.kg
 voyah.kg
-voznesenovka.kg
 vpdn.kg
 vpn.kg
 vprognoze.kg
@@ -12961,7 +12974,6 @@ wolflubes.kg
 woman.kg
 women.kg
 womeninenergy.kg
-womensnetwork.kg
 wonderland.kg
 woodland.kg
 woody-art.kg
@@ -13095,7 +13107,6 @@ yokobaby-promo.kg
 yokomom.kg
 youcloud.kg
 youla.kg
-youradis.kg
 yourbi.kg
 yourt.kg
 yourta.kg
