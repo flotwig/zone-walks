@@ -273,7 +273,6 @@ acquadiparma.kg
 acquiring.kg
 acrymatt.kg
 acs.kg
-act-building.kg
 act.kg
 actavis.kg
 actimove.kg
@@ -1019,6 +1018,7 @@ apteki.kg
 aptex.kg
 aq.kg
 aqara.kg
+aqua.kg
 aquabest.kg
 aquadetrim.kg
 aqualab.kg
@@ -1595,7 +1595,6 @@ avtozapchasti.kg
 avzur.kg
 awb.kg
 awei.kg
-awli.kg
 awt.kg
 axiomalife.kg
 axis.kg
@@ -3965,9 +3964,9 @@ electromotors.kg
 electron.kg
 electronica.kg
 electronixhub.kg
+electroservice.kg
 electrosila.kg
 elegant-kamen.kg
-elegant.kg
 elehant.kg
 elek.kg
 elektrik.kg
@@ -5264,6 +5263,7 @@ gsm.kg
 gsmarket.kg
 gso.kg
 gspa.kg
+gsr.kg
 gt.kg
 gtech.kg
 gtf.kg
@@ -6397,6 +6397,7 @@ kampa.kg
 kan.kg
 kanai.kg
 kanatgroup.kg
+kanc.kg
 kancmaster.kg
 kancservice.kg
 kandai.kg
@@ -7040,7 +7041,6 @@ kytaza.kg
 kyzmat.kg
 kyzmatsayakat.kg
 kyzyl-suu.kg
-kyzyl-tuu.kg
 kyzylompol.kg
 kzmc.kg
 l-m.kg
@@ -7560,7 +7560,6 @@ mango.kg
 mangoelectronics.kg
 mann-schroeder.kg
 mannol.kg
-mansap.kg
 manufactura.kg
 manusora.kg
 manybroker.kg
@@ -7636,7 +7635,6 @@ mat.kg
 mateus.kg
 math.kg
 matkasymov.kg
-matrix.kg
 matrixport.kg
 matt.kg
 matter.kg
@@ -8895,6 +8893,7 @@ oknabishkek.kg
 oknakomforta.kg
 oknarosta.kg
 oknaspace.kg
+okno.kg
 oknobishkek.kg
 oknomaster.kg
 okocrm.kg
@@ -10228,7 +10227,6 @@ rmsoft.kg
 rnd.kg
 rnmc.kg
 roaming.kg
-roben.kg
 robertobravo.kg
 robinson.kg
 roblox.kg
@@ -10485,7 +10483,6 @@ santehmarket.kg
 santehnica-shop.kg
 santehnica.kg
 santehnik.kg
-santehnik1.kg
 santehnikabish.kg
 santehnikprofi.kg
 santehplast.kg
@@ -11862,6 +11859,7 @@ thermocenter.kg
 thermoflex.kg
 thermogradus.kg
 thermogran.kg
+theroom.kg
 thescore.kg
 think-be-alert.kg
 thkt.kg
@@ -12314,6 +12312,7 @@ u-climate.kg
 u-credit.kg
 u.kg
 ua.kg
+uaec.kg
 uav.kg
 ub.kg
 ubacademy.kg
@@ -12979,6 +12978,7 @@ woomy.kg
 wordpress.kg
 work.kg
 workcit.kg
+workhub.kg
 workland.kg
 worktoday.kg
 workworld.kg
