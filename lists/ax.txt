@@ -103,7 +103,9 @@
 76412.ax
 77.ax
 777.ax
+78.ax
 789.ax
+79.ax
 79325.ax
 798.ax
 7x.ax
@@ -677,7 +679,6 @@ bjorkouthyrning.ax
 bjorkslingan.ax
 bjornviken.ax
 bk.ax
-bkfiber.ax
 bl.ax
 black.ax
 blackeye.ax
@@ -901,6 +902,7 @@ citycykel.ax
 cityjuristerna.ax
 citylakarna.ax
 citymariehamn.ax
+cityrevision.ax
 civ.ax
 ckh.ax
 cl.ax
@@ -1929,6 +1931,7 @@ invia.ax
 invivo.ax
 inwx.ax
 inzenter.ax
+io.ax
 iot.ax
 ip.ax
 ipc.ax
@@ -2414,6 +2417,7 @@ lz.ax
 m3.ax
 ma.ax
 macdoktorn.ax
+macen.ax
 macrost.ax
 madm.ax
 maem.ax
@@ -2490,6 +2494,7 @@ mathemaland.ax
 mathis.ax
 mathishallen.ax
 mathispunkten.ax
+matrix.ax
 mats.ax
 matt.ax
 mattas.ax
