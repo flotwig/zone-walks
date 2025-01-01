@@ -902,7 +902,6 @@ citycykel.ax
 cityjuristerna.ax
 citylakarna.ax
 citymariehamn.ax
-cityrevision.ax
 civ.ax
 ckh.ax
 cl.ax
@@ -1079,7 +1078,6 @@ domains.ax
 donalds.ax
 doneriet.ax
 donning.ax
-dot.ax
 doubleclick.ax
 doug.ax
 down.ax
@@ -2520,6 +2518,7 @@ meatingroom.ax
 mecax.ax
 med.ax
 medi.ax
+media.ax
 medimar.ax
 medis.ax
 medlingsbyran.ax
