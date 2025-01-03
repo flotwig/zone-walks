@@ -202,7 +202,6 @@
 1011event.id
 101cara.id
 101co.id
-101donuts.id
 101internet.id
 101kfe.id
 101materi.id
@@ -335,6 +334,7 @@
 142.id
 143.id
 144.id
+144chan.id
 145.id
 145050.id
 146.id
@@ -450,7 +450,6 @@
 19.id
 190.id
 191.id
-19105.id
 19126.id
 192-168-100-1.id
 192.id
@@ -567,7 +566,6 @@
 1winbet.id
 1wincasino.id
 1winindonesia.id
-1winn.id
 1winonline.id
 1wins.id
 1winterslot.id
@@ -689,6 +687,7 @@
 239574.id
 23986.id
 23paskal.id
+23publishing.id
 23semarang.id
 23win.id
 24.id
@@ -811,6 +810,7 @@
 2behome.id
 2belegendbet.id
 2bong.id
+2daughter.id
 2design.id
 2dmax.id
 2dsegaris.id
@@ -1379,7 +1379,6 @@
 51606.id
 51661.id
 518.id
-51846.id
 519.id
 519274.id
 51qbiz.id
@@ -1409,7 +1408,6 @@
 532.id
 533.id
 533179.id
-53399.id
 534.id
 535.id
 536.id
@@ -3383,6 +3381,7 @@ accusos.id
 accutrax.id
 accuware.id
 accuweather.id
+accuworld.id
 acdaikin.id
 acdaikinmurah.id
 ace.id
@@ -5518,7 +5517,6 @@ agensawer-du.id
 agensawer.id
 agensbobet.id
 agensee.id
-agenshop.id
 agensi.id
 agensidigital.id
 agensipatent.id
@@ -5986,6 +5984,7 @@ agustiniswar.id
 agustinus.id
 agustjandra.id
 agustri.id
+aguswahyudi.id
 aguswmika.id
 agutrip.id
 agvrobot.id
