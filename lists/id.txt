@@ -447,6 +447,7 @@
 18news.id
 18plus.id
 18techs.id
+18winterslot.id
 19.id
 190.id
 191.id
@@ -471,6 +472,7 @@
 199.id
 19995.id
 19dewahoki.id
+19winterslot.id
 1acc4d.id
 1amin.id
 1asia.id
@@ -489,7 +491,6 @@
 1data.id
 1dataciamis.id
 1datapipe.id
-1daykomodo.id
 1desa.id
 1donor.id
 1eaig7f.id
@@ -572,6 +573,9 @@
 1wintoken.id
 1winz.id
 1world.id
+1xbet-ind.id
+1xbet-indonesia.id
+1xbet-mobile.id
 1xbet-sport.id
 1xbetgames.id
 1xbets.id
@@ -625,6 +629,7 @@
 20mefree.id
 20mindhighschool.id
 20proulette.id
+20winterslot.id
 21.id
 210.id
 2101.id
@@ -2772,7 +2777,6 @@ abdullah.id
 abdullahadnan.id
 abdullahfarm.id
 abdullahrash.id
-abdullahrasyid.id
 abdullahsyukri.id
 abdulmadjid.id
 abdulmajid.id
@@ -3027,6 +3031,7 @@ absen.id
 absenacingjaya.id
 absenalifs.id
 absenbat.id
+absenbin.id
 absencerdas.id
 absendroid.id
 absendulu.id
@@ -3165,6 +3170,7 @@ acaconference2021.id
 academi.id
 academia.id
 academiaopenpublisher.id
+academiatrader.id
 academiaventures.id
 academiaworks.id
 academic.id
@@ -3366,6 +3372,7 @@ accurate.id
 accurateaccounting.id
 accurateautocools.id
 accuratecenter.id
+accuratecloud.id
 accuratego.id
 accuratejakarta.id
 accuratelite.id
@@ -4072,7 +4079,6 @@ addodesasusut.id
 addodesatangguntiti.id
 addodesategalbadengbarat.id
 addodesatiga.id
-addodesayehkuning.id
 addons.id
 addpay.id
 addplus.id
@@ -5696,6 +5702,7 @@ agramedia.id
 agrananta.id
 agranik.id
 agranirwasita.id
+agranusa.id
 agrapana.id
 agrapanaindonesia.id
 agraphana.id
@@ -5735,7 +5742,6 @@ agricodex.id
 agricom.id
 agricon.id
 agricultural.id
-agriculture-argomanunggal.id
 agriculture.id
 agrie.id
 agrif.id
@@ -5880,6 +5886,7 @@ agroverse.id
 agroveta.id
 agrovision.id
 agrow.id
+agrowculture.id
 agrowforests.id
 agrowisata.id
 agrowisataamanah.id
@@ -6023,7 +6030,6 @@ aharyacitta.id
 ahass.id
 ahasshtml.id
 ahatech.id
-ahava.id
 ahavahall.id
 ahbnews.id
 ahc2028.id
@@ -6078,7 +6084,6 @@ ahlikunci.id
 ahlikuncibatam.id
 ahlikunciimmobilizer.id
 ahlikuncijakarta.id
-ahlikuncitangerang.id
 ahlimaintenance.id
 ahlimata.id
 ahlina.id
