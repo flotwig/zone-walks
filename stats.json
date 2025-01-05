@@ -33,12 +33,12 @@
       "zone": "pics"
     },
     {
-      "domains": "48093",
-      "zone": "mom"
+      "domains": "48840",
+      "zone": "gdn"
     },
     {
-      "domains": "47926",
-      "zone": "gdn"
+      "domains": "48093",
+      "zone": "mom"
     },
     {
       "domains": "34049",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4905461"
+  "total": "4906375"
 }
