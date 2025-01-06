@@ -436,7 +436,6 @@ audioselect.audio
 audiosensations.audio
 audiospot.audio
 audiostore.audio
-audiotango.audio
 audiotel-temporel.audio
 audiovalley.audio
 audioz.audio
@@ -1103,7 +1102,6 @@ decibels.audio
 deciphr.audio
 declassified.audio
 deebee.audio
-deep.audio
 deepbass.audio
 deepdive.audio
 deepfake.audio
@@ -1360,6 +1358,7 @@ elac.audio
 elbin.audio
 electra.audio
 electric.audio
+electriceelrecords.audio
 electrocompaniet.audio
 electroncollective.audio
 electronicdancemusic.audio
@@ -1438,7 +1437,6 @@ erlandsen.audio
 ernestocortazar.audio
 ernst.audio
 erotic.audio
-esc.audio
 esport.audio
 esports.audio
 esrever.audio
@@ -1513,6 +1511,7 @@ fairplay.audio
 falcom.audio
 falconacoustics.audio
 faller.audio
+falseicons.audio
 famous.audio
 fanfare.audio
 fastweb.audio
@@ -3908,6 +3907,7 @@ slickdaw.audio
 slickpc.audio
 sliq.audio
 slobber.audio
+slop.audio
 slow.audio
 slue.audio
 sm2audio.audio
