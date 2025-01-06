@@ -188,6 +188,7 @@
 10062.id
 100marathonclub.id
 100milyar.id
+100panda.id
 100perak-okitoto.id
 100percent.id
 100persen.id
@@ -580,7 +581,6 @@
 1xbetgames.id
 1xbets.id
 1xbit.id
-1xslots.id
 2.id
 20-11-99.id
 20.id
@@ -1762,7 +1762,6 @@
 72425.id
 725.id
 726.id
-72639.id
 727.id
 728.id
 729.id
@@ -2243,7 +2242,6 @@
 91app.id
 91dewa.id
 91news.id
-91porn.id
 92.id
 920.id
 921.id
@@ -2303,7 +2301,6 @@
 96166.id
 96167.id
 962.id
-96273.id
 963.id
 96357.id
 96382.id
@@ -3136,7 +3133,6 @@ abuytan.id
 abuza.id
 abuzaid.id
 abwasser.id
-abwedding.id
 abwichsen.id
 abwservice.id
 abwservices.id
@@ -3542,6 +3538,8 @@ achmatjuri.id
 achmiral.id
 achpay.id
 achsanulqosasi.id
+achteck.id
+achtecktool.id
 achterna.id
 achyarnurandi.id
 aci-agro.id
@@ -3644,7 +3642,6 @@ acquerelli.id
 acquired.id
 acquires.id
 acquiring.id
-acquisitionacademy.id
 acquisitionlab.id
 acr.id
 acrconstruction.id
@@ -5011,6 +5008,7 @@ aetherone.id
 aetnapioneer.id
 aetnasummit.id
 aetobatus.id
+aetrans.id
 aetrex.id
 aetronik.id
 aeucbn.id
@@ -5444,7 +5442,6 @@ agenelektro.id
 agenetwork.id
 ageneuro2024.id
 agenfastpay.id
-agenfin.id
 agenfirmax.id
 agenfluba.id
 agenfood.id
@@ -5462,6 +5459,7 @@ agenhk.id
 agenia.id
 agenidnpoker.id
 agenindonesia.id
+agenjitu.id
 agenjoker123.id
 agenjualmobilbekasori.id
 agenjuara.id
@@ -5542,6 +5540,7 @@ agentai.id
 agentaid.id
 agentapioka.id
 agentaruahanjudibolaonline.id
+agentaruhanbandarjudibola.id
 agentcation.id
 agentforce.id
 agentgr.id
@@ -5757,6 +5756,7 @@ agriline24.id
 agrilink.id
 agrilite.id
 agrilogics.id
+agrilytics.id
 agrimandiribersama.id
 agrimandirilestari.id
 agrimarket.id
@@ -5787,6 +5787,7 @@ agrisolv.id
 agrisys.id
 agrita.id
 agritama.id
+agritanimas.id
 agritech.id
 agritechindo.id
 agritechindonesia.id
@@ -5829,7 +5830,6 @@ agroindustrie.id
 agroindustrisurabaya.id
 agroinput.id
 agrojaya.id
-agroking.id
 agroklimat-ugm.id
 agroland.id
 agrolestarimerbabu.id
@@ -6116,7 +6116,6 @@ ahmadardani.id
 ahmadbagwi.id
 ahmaddahlan.id
 ahmaddzaki.id
-ahmadev.id
 ahmadfaisalr.id
 ahmadfauzi.id
 ahmadgozali.id
