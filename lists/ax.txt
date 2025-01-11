@@ -14,7 +14,6 @@
 11.ax
 111.ax
 112.ax
-12.ax
 123.ax
 123domain.ax
 13.ax
@@ -3058,6 +3057,7 @@ post.ax
 posten.ax
 postit.ax
 postochtullhuset.ax
+powerup.ax
 ppmclean.ax
 pq.ax
 pr-media.ax
@@ -4171,6 +4171,7 @@ www.ax
 wx.ax
 wz.ax
 x0reaxe.ax
+x1.ax
 xa.ax
 xan.ax
 xax.ax
