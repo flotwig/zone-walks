@@ -530,6 +530,7 @@ adidas.ci
 adigroup.ci
 adiqa.ci
 adis.ci
+adjame.ci
 adjamevillage.ci
 adjuwa.ci
 admil.ci
@@ -728,7 +729,6 @@ agriplus.ci
 agriportal.ci
 agristore.ci
 agrivision.ci
-agro.ci
 agro225.ci
 agroci.ci
 agrodev.ci
@@ -1580,7 +1580,6 @@ bassamfm.ci
 basta.ci
 bastetevent.ci
 bata.ci
-bati.ci
 batidecor.ci
 batiforme.ci
 batilot-ci.ci
@@ -2191,7 +2190,6 @@ caetano.ci
 caetanoexpress.ci
 caetanoivorycoast.ci
 caetanoparts.ci
-caex.ci
 caf-consulting.ci
 cafci.ci
 cafecacao.ci
@@ -2437,11 +2435,6 @@ cedec.ci
 ceditech.ci
 cedivoire.ci
 ceetrus.ci
-cefatbusinesscenter.ci
-cefatconsulting.ci
-cefatholding.ci
-cefatimmobilier.ci
-cefatlogistic.ci
 cefi.ci
 cefiat.ci
 cefor-ci.ci
@@ -2886,6 +2879,7 @@ cnps-ci.ci
 cnps.ci
 cnpss.ci
 cnra.ci
+cnrao-conciergerie-medicale.ci
 cnrct.ci
 cnrpn.ci
 cns.ci
@@ -2963,7 +2957,6 @@ collective.ci
 college.ci
 collegeamorovi.ci
 collegeanador.ci
-collegecefatinter.ci
 collegedjaty.ci
 collegelespalmes.ci
 collegeprivegninwele.ci
