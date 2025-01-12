@@ -834,6 +834,7 @@ altuslegal.kg
 altyn-azyk.kg
 altyn.kg
 altynbalyk.kg
+altynbarak.kg
 altynbox.kg
 altynbulak.kg
 altyndoor.kg
@@ -1116,7 +1117,6 @@ armtek.kg
 army.kg
 arna.kg
 arok.kg
-aroma.kg
 aromaeast.kg
 aromatica.kg
 arprint.kg
@@ -1332,7 +1332,6 @@ atadviser.kg
 atai.kg
 atalog.kg
 atalyk.kg
-atalykstore.kg
 ataman.kg
 atambaev.kg
 atameken.kg
@@ -2400,7 +2399,6 @@ brandmonitor.kg
 brandplus.kg
 brandsforless.kg
 brandtoys.kg
-braslet-control.kg
 braslet.kg
 bravilon.kg
 bravo.kg
@@ -2528,6 +2526,7 @@ busportertaxi.kg
 buudan.kg
 buurchak.kg
 buy.kg
+buybox.kg
 buybuy.kg
 buyforme.kg
 buymax.kg
@@ -3086,7 +3085,6 @@ cpb.kg
 cpl.kg
 cps-holod.kg
 cps.kg
-cpu.kg
 craft.kg
 craftbeer.kg
 crasher.kg
@@ -3674,6 +3672,7 @@ drill.kg
 drinkit.kg
 drippa.kg
 drive.kg
+driver.kg
 drk.kg
 drko.kg
 drmartens.kg
@@ -3804,6 +3803,7 @@ eco-store.kg
 eco-travel.kg
 eco.kg
 ecoagro.kg
+ecoaiyl.kg
 ecobak.kg
 ecobank.kg
 ecobee.kg
@@ -3816,7 +3816,6 @@ ecodemi.kg
 ecodom.kg
 ecoengineering.kg
 ecoff.kg
-ecofilter.kg
 ecofloor.kg
 ecofood.kg
 ecohouse.kg
@@ -4033,6 +4032,7 @@ ellogistic.kg
 elloto.kg
 ellotoclub.kg
 elm.kg
+elmarket.kg
 elmaster.kg
 elmektep.kg
 elmirlink.kg
@@ -4175,6 +4175,7 @@ erensau.kg
 erensauhospital.kg
 eri.kg
 ericsson.kg
+erkin-too.kg
 erkindikfinance.kg
 erkindiklab.kg
 erkintoo.kg
@@ -4452,6 +4453,7 @@ fangyuan.kg
 fansale.kg
 fanta.kg
 faq.kg
+fara.kg
 farfor.kg
 farm.kg
 farmak.kg
@@ -4927,6 +4929,7 @@ gcf.kg
 gcg.kg
 gcj.kg
 gclinic.kg
+gcontainer.kg
 gcraft.kg
 gcsf.kg
 gde.kg
@@ -5011,7 +5014,6 @@ giga.kg
 gigabit.kg
 gigabyte.kg
 gik.kg
-ginecolaser.kg
 gio.kg
 gipermarket.kg
 giperpress.kg
@@ -5025,6 +5027,7 @@ gispro.kg
 giss.kg
 git.kg
 giz-employment.kg
+gk.kg
 gkpen.kg
 gkt.kg
 gladius.kg
@@ -5215,6 +5218,7 @@ greco.kg
 gree.kg
 greece.kg
 green-alliance.kg
+green-art.kg
 green-energy.kg
 green-life.kg
 green-park.kg
@@ -5780,6 +5784,7 @@ imchanger.kg
 ime.kg
 imedia.kg
 imei.kg
+imenu.kg
 imex.kg
 imexstore.kg
 imey.kg
@@ -5814,7 +5819,6 @@ imu.kg
 in-cargo.kg
 in-sale.kg
 in.kg
-inabatonline.kg
 inai.kg
 inaya.kg
 inbox.kg
@@ -6977,7 +6981,6 @@ kurenkeev.kg
 kurman-trading.kg
 kurort.kg
 kurpuldek.kg
-kurs.kg
 kursdollara.kg
 kursy.kg
 kurtgeiger.kg
@@ -7239,7 +7242,6 @@ lfh.kg
 lg.kg
 lga.kg
 lge.kg
-lgtn.kg
 lh.kg
 li.kg
 liahona.kg
@@ -7286,7 +7288,6 @@ liga-bet.kg
 liga-robotov.kg
 liga.kg
 ligabet.kg
-ligastore.kg
 light.kg
 lightstore.kg
 lih.kg
@@ -7474,7 +7475,6 @@ lundbeck.kg
 lunex.kg
 lupibit.kg
 lutz.kg
-lux.kg
 luxchemtrade.kg
 luxclimat.kg
 luxe.kg
@@ -7528,7 +7528,6 @@ madykan.kg
 maersk.kg
 mafler.kg
 mag.kg
-magaz.kg
 magazin.kg
 magazine.kg
 magclinic.kg
@@ -7628,6 +7627,7 @@ marso.kg
 marun.kg
 marvel.kg
 marvis.kg
+mary-kay.kg
 maryam.kg
 maryanashop.kg
 marykay.kg
@@ -8113,7 +8113,6 @@ mirzvuka.kg
 mis.kg
 mislamic.kg
 missparty.kg
-mistore.kg
 mitsubishi-motors.kg
 mitsubishi.kg
 mitutoyo.kg
@@ -8416,6 +8415,7 @@ myheritage.kg
 myhome.kg
 myhost.kg
 myhouse.kg
+myizam.kg
 mykarakol.kg
 myle.kg
 mymail.kg
@@ -8795,8 +8795,6 @@ nuclearmed.kg
 nukurasert.kg
 nulevik.kg
 null2.kg
-numa.kg
-numakids.kg
 numberone.kg
 numiscoin.kg
 nur-optics.kg
@@ -9240,6 +9238,7 @@ p2p.kg
 pa.kg
 pacificauto.kg
 pack.kg
+padysha.kg
 padyshatourism.kg
 page.kg
 pai.kg
@@ -9432,6 +9431,7 @@ petroglyphs.kg
 petronas.kg
 petroproekt.kg
 petrotop.kg
+petrovich.kg
 petrovka.kg
 petshop.kg
 petunin.kg
@@ -9463,7 +9463,6 @@ philipmorris.kg
 philips.kg
 phlebolog.kg
 phlogenzym.kg
-phoenix.kg
 phone.kg
 photo.kg
 photonics.kg
@@ -10967,7 +10966,6 @@ smagroup.kg
 smak.kg
 smallhotel.kg
 smarket.kg
-smart-g.kg
 smart-hr.kg
 smart-taxi.kg
 smart-trade.kg
@@ -11778,7 +11776,6 @@ temir.kg
 temirlan-oil.kg
 temirproduct.kg
 temirstroi.kg
-temp.kg
 temu.kg
 tena.kg
 tenaya.kg
@@ -12552,6 +12549,7 @@ ushak.kg
 ushakov.kg
 ushakova.kg
 usluga.kg
+uslugi.kg
 usoft.kg
 uspoloassn.kg
 ust.kg
@@ -12633,7 +12631,6 @@ vega-co.kg
 vega-m.kg
 vega.kg
 vegapharm.kg
-vegaplus.kg
 vegas.kg
 veggo.kg
 vektor-energy.kg
@@ -13257,6 +13254,7 @@ zewa.kg
 zf.kg
 zfa.kg
 zh.kg
+zhakshyzaman.kg
 zhakypovtaalaibek.kg
 zharatman-kassa.kg
 zhelezno.kg
