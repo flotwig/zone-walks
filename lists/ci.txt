@@ -174,7 +174,6 @@
 225invest.ci
 225logements.ci
 225produits.ci
-225services.ci
 225sport.ci
 226.ci
 22bet.ci
@@ -2671,6 +2670,7 @@ cimaf.ci
 cimafgroupe.ci
 cimbelier.ci
 cimci.ci
+cimeca.ci
 ciment.ci
 cimentafric.ci
 cimentafrica.ci
