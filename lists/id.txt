@@ -506,6 +506,7 @@
 1hora.id
 1inch.id
 1info.id
+1jokerscm.id
 1jtweb.id
 1jtwebsite.id
 1juta.id
@@ -1049,6 +1050,8 @@
 388.id
 388asia.id
 388bet.id
+388hero.id
+388jp.id
 388sport.id
 389.id
 389poker.id
@@ -2266,6 +2269,7 @@
 938.id
 93872.id
 939.id
+93kbet.id
 94.id
 940.id
 941.id
@@ -4307,6 +4311,7 @@ adiratunai.id
 adirect.id
 adirejo-desa.id
 adirejo-pekalongan.id
+adirp.id
 adisampoerna.id
 adisarana.id
 adisatria.id
@@ -5074,6 +5079,7 @@ afeelu.id
 afeeya.id
 afeksi.id
 afeksiniskala.id
+afera.id
 aferry.id
 aff.id
 affa.id
@@ -5354,6 +5360,7 @@ agemindonesia.id
 agen-asuransi.id
 agen-joker123.id
 agen-pulsa.id
+agen-slot-online.id
 agen-slot-terpercaya.id
 agen-totoslot4d.id
 agen-uwakslot.id
@@ -5542,6 +5549,7 @@ agentaid.id
 agentaruahanjudibolaonline.id
 agentaruhanbandarjudibola.id
 agentcation.id
+agentfi.id
 agentforce.id
 agentgr.id
 agentic.id
