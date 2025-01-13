@@ -2370,7 +2370,6 @@ bossholod.kg
 bosti.kg
 bot.kg
 botanica.kg
-boto.kg
 bottegaveneta.kg
 boulangerie.kg
 bounty-hunter.kg
@@ -2691,7 +2690,6 @@ catsystem.kg
 cavis.kg
 cbd.kg
 cbdc.kg
-cbi.kg
 cbk.kg
 cblk.kg
 cbmed.kg
@@ -3322,7 +3320,6 @@ decathlon.kg
 decoder.kg
 decom.kg
 decor-profi.kg
-decorall.kg
 deere.kg
 defender.kg
 defi.kg
@@ -4341,7 +4338,6 @@ evisa.kg
 evita.kg
 evolet.kg
 evolution.kg
-evos.kg
 evosoft.kg
 evox.kg
 evrazia.kg
@@ -6064,7 +6060,6 @@ islamico.kg
 islamjolu.kg
 islamonline.kg
 isman.kg
-ismankulov.kg
 isoc.kg
 isoft.kg
 isooq.kg
@@ -6328,7 +6323,6 @@ jubileeinsurance.kg
 juk.kg
 jukmaster.kg
 jumeirah.kg
-jump.kg
 jumush-sgp.kg
 jumush.kg
 jung.kg
@@ -6433,7 +6427,6 @@ kanysh-kya.kg
 kanzler.kg
 kanzopt.kg
 kanzpark.kg
-kao.kg
 kap.kg
 kapcheck.kg
 kapkit.kg
@@ -8317,7 +8310,6 @@ mtl-logistics.kg
 mtl.kg
 mtravel.kg
 mtrent.kg
-mts-bs.kg
 mts-italtherm.kg
 mts.kg
 mtt.kg
@@ -8618,7 +8610,6 @@ new.kg
 newave.kg
 newbalance.kg
 newcas.kg
-newdays.kg
 newhope.kg
 newhorizons.kg
 newjob.kg
@@ -9124,7 +9115,6 @@ orion.kg
 orionmedia.kg
 orionpharma.kg
 oriontrans.kg
-orlovka.kg
 ormatt.kg
 ormed.kg
 ormk.kg
@@ -9159,7 +9149,6 @@ oshmip.kg
 oshmpk.kg
 oshmpu.kg
 oshonline.kg
-oshpark.kg
 oshshamy.kg
 oshstateuniversity.kg
 oshsu-med.kg
@@ -9339,7 +9328,6 @@ payline.kg
 paymaster.kg
 paymob.kg
 paynearby.kg
-payout.kg
 paypal.kg
 payqr.kg
 payshop.kg
@@ -10034,7 +10022,6 @@ ravenol.kg
 ravenstvo.kg
 rawigaming.kg
 rayanhotel.kg
-rayken.kg
 razbor.kg
 razbor01.kg
 razlet.kg
@@ -10080,6 +10067,7 @@ recardme.kg
 recensio.kg
 reclama.kg
 record.kg
+recordonline.kg
 recovery-center.kg
 rectrade.kg
 recuperator.kg
@@ -10131,7 +10119,6 @@ reklama-gold.kg
 reklama.kg
 reklama1.kg
 rekord.kg
-rekpark.kg
 relax.kg
 relaxy.kg
 relevance.kg
@@ -12060,7 +12047,6 @@ toptogolok.kg
 toptrade.kg
 toptravel.kg
 toptrend.kg
-topup.kg
 tor.kg
 torg-consult.kg
 torg.kg
@@ -12901,6 +12887,7 @@ wb.kg
 wbmillion.kg
 wbmoney.kg
 wbqr.kg
+wcskis.kg
 we.kg
 wealthwireitfk.kg
 weatherford.kg
@@ -13200,8 +13187,6 @@ zaman.kg
 zamanbap.kg
 zamaninvest.kg
 zamat.kg
-zambaiti.kg
-zambaitiparati.kg
 zamok.kg
 zamzam.kg
 zanimaem.kg
