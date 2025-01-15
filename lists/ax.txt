@@ -1979,6 +1979,7 @@ jansson.ax
 jar.ax
 jarvinen.ax
 jass.ax
+jay.ax
 jb.ax
 jbmaland.ax
 jcimariehamn.ax
@@ -2406,6 +2407,7 @@ lyyskitravels.ax
 lz.ax
 m3.ax
 ma.ax
+maax.ax
 macdoktorn.ax
 macen.ax
 macrost.ax
@@ -2702,6 +2704,7 @@ nautilus.ax
 navisphere.ax
 nb.ax
 nbab.ax
+nbh.ax
 nc.ax
 nd.ax
 ne.ax
@@ -2933,7 +2936,6 @@ paflatta.ax
 paflotto.ax
 pafskrap.ax
 page.ax
-pagronkvist.ax
 paketbil.ax
 palikka.ax
 palingtr.ax
@@ -3260,6 +3262,7 @@ rr.ax
 rs.ax
 rst.ax
 rt.ax
+rtt.ax
 ru.ax
 rubber.ax
 ruby.ax
@@ -3563,6 +3566,7 @@ sq.ax
 sr.ax
 srv.ax
 ss.ax
+ssh.ax
 ssl.ax
 st.ax
 st1.ax
@@ -3924,6 +3928,7 @@ unn.ax
 uo.ax
 up.ax
 upb.ax
+upnorth.ax
 upphandlingsinspektionen.ax
 upstate.ax
 ur.ax
@@ -4336,6 +4341,7 @@ zl.ax
 zm.ax
 zn.ax
 znm.ax
+zo.ax
 zodiaq.ax
 zomato.ax
 zoo-arken.ax
