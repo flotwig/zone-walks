@@ -153,7 +153,7 @@
       "zone": "xn--54b7fta0cc"
     },
     {
-      "domains": "293",
+      "domains": "292",
       "zone": "cars"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4911197"
+  "total": "4911196"
 }
