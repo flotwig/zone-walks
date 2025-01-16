@@ -653,6 +653,7 @@
 21cineplex.id
 21doors.id
 21e8.id
+21gacor.id
 21news.id
 21plus.id
 21shoes.id
@@ -730,6 +731,7 @@
 24ill.id
 24jam.id
 24jamindonesia.id
+24jamnews.id
 24karat.id
 24more.id
 24news.id
@@ -740,6 +742,7 @@
 25.id
 250.id
 251.id
+25173.id
 252.id
 253.id
 25317.id
@@ -828,6 +831,7 @@
 2idaman.id
 2idry.id
 2insan.id
+2jokerscm.id
 2klik.id
 2m2kids.id
 2masterkiu.id
@@ -1124,6 +1128,7 @@
 3i-networks.id
 3idea.id
 3ideastore.id
+3jokerscm.id
 3karyalogistik.id
 3karyaproduksi.id
 3kawan.id
@@ -1197,7 +1202,6 @@
 420.id
 42053.id
 421.id
-42137.id
 422.id
 423.id
 424.id
@@ -1293,6 +1297,7 @@
 491.id
 49175.id
 492.id
+492735.id
 493.id
 494.id
 495.id
@@ -1650,7 +1655,6 @@
 67.id
 670.id
 671.id
-67135.id
 671516.id
 672.id
 673.id
@@ -1835,6 +1839,7 @@
 7777hot.id
 777888.id
 777casino.id
+777hokislot.id
 777kaya.id
 777las.id
 777loc.id
@@ -3022,6 +3027,7 @@ absenpro.id
 absensi-dumaikota.id
 absensi-go.id
 absensi-kek.id
+absensi-kemenagbolmut.id
 absensi.id
 absensiandroid.id
 absensidesaasahan.id
@@ -4220,7 +4226,6 @@ adigsi.id
 adiguna.id
 adigunamediaprima.id
 adigunawan.id
-adihjp.id
 adijaya-desa.id
 adijaya-negarabatin.id
 adijaya.id
@@ -4379,6 +4384,7 @@ adlexa.id
 adlgaward.id
 adlhoidf.id
 adlight.id
+adline.id
 adlink.id
 adlive.id
 adllo.id
@@ -4699,6 +4705,7 @@ advcas.id
 adventfajar.id
 adventist.id
 adventor.id
+adventour.id
 adventura.id
 adventuraja.id
 adventure-galaxy.id
@@ -4793,6 +4800,7 @@ adwords.id
 adxcargo.id
 adxelerate.id
 adyasatya-jasapradana.id
+adyatmaciptanusantara.id
 adyatours.id
 adyayoga.id
 adycahyoputro.id
@@ -5345,7 +5353,9 @@ agemindonesia.id
 agen-joker123.id
 agen-pulsa.id
 agen-slot-online.id
+agen-slot-terbaru.id
 agen-slot-terpercaya.id
+agen-slot.id
 agen-totoslot4d.id
 agen-uwakslot.id
 agen.id
@@ -6040,6 +6050,7 @@ aheb.id
 ahehairtreatment.id
 ahensikita.id
 aheryadi.id
+aheryawan.id
 ahes.id
 ahesariharjo.id
 ahgaff.id
