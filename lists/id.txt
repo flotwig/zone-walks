@@ -192,6 +192,7 @@
 100persen.id
 100persenpanganlokal.id
 100plus.id
+100slot.id
 100tahun.id
 100tahunitb.id
 100th.id
@@ -438,7 +439,6 @@
 188betshop.id
 188spesial.id
 189.id
-189656.id
 18degree.id
 18hoki.id
 18hokiac.id
@@ -559,16 +559,20 @@
 1win-bet.id
 1win-casino.id
 1win-id.id
+1win-indo.id
 1win-indonesia.id
 1win-kasino.id
 1win-official.id
 1win-online.id
+1win-pro.id
 1win-token.id
 1win.id
 1win1.id
 1winapp.id
 1winbet.id
+1winbetting.id
 1wincasino.id
+1winid.id
 1winindonesia.id
 1winonline.id
 1wins.id
@@ -649,7 +653,6 @@
 217.id
 218.id
 219.id
-219446.id
 21cineplex.id
 21doors.id
 21e8.id
@@ -683,7 +686,6 @@
 231.id
 232.id
 233.id
-233554.id
 234.id
 234cars.id
 234sc.id
@@ -713,7 +715,6 @@
 246.id
 247.id
 247153.id
-247182.id
 247cell.id
 247go.id
 247news.id
@@ -775,6 +776,7 @@
 271.id
 272.id
 273.id
+27359.id
 274.id
 275.id
 276.id
@@ -862,7 +864,6 @@
 31.id
 310.id
 311.id
-311255.id
 312.id
 313.id
 31337.id
@@ -872,7 +873,6 @@
 315749.id
 315snacks.id
 316.id
-316224.id
 31658.id
 317.id
 31769.id
@@ -973,7 +973,6 @@
 362.id
 363.id
 364.id
-364867.id
 365-pro.id
 365.id
 36500.id
@@ -1025,6 +1024,7 @@
 370.id
 371.id
 372.id
+37295.id
 373.id
 374.id
 375.id
@@ -1067,7 +1067,6 @@
 396.id
 396slot.id
 397.id
-397238.id
 398.id
 39876.id
 39894.id
@@ -1209,7 +1208,6 @@
 426.id
 427.id
 428.id
-428184.id
 429.id
 42floors.id
 42net.id
@@ -1408,7 +1406,6 @@
 531.id
 532.id
 533.id
-533179.id
 534.id
 535.id
 536.id
@@ -1452,7 +1449,6 @@
 56.id
 560.id
 561.id
-561652.id
 562.id
 563.id
 564.id
@@ -1642,7 +1638,6 @@
 663.id
 664.id
 665.id
-665359.id
 666.id
 6666.id
 667.id
@@ -2014,7 +2009,6 @@
 834.id
 835.id
 836.id
-836269.id
 837.id
 8376-gs.id
 838.id
@@ -2212,10 +2206,8 @@
 911medicalclinic.id
 911responce.id
 912.id
-912245.id
 913.id
 914.id
-914381.id
 915.id
 91530.id
 916.id
@@ -2319,7 +2311,6 @@
 981.id
 982.id
 983.id
-983172.id
 984.id
 985.id
 986.id
@@ -2532,7 +2523,6 @@ aaulibrary.id
 aave.id
 aawarabanjara.id
 aaway.id
-aaybc.id
 aazot.id
 ab-home.id
 aba-mlc.id
@@ -2843,7 +2833,6 @@ abifau.id
 abifitness.id
 abigail.id
 abigailb.id
-abikarya.id
 abikos.id
 abilicare.id
 abilitydigital.id
@@ -2934,6 +2923,7 @@ abnrlaw.id
 abo777.id
 aboard.id
 abodeproperty.id
+aboebakaralhabsyi.id
 aboitizfoods.id
 abolishtheoffice.id
 aboncapkoki.id
@@ -3090,6 +3080,7 @@ abuabu.id
 abualbanicenter.id
 abuazmashare.id
 abubakarashshiddiq.id
+abubakarproject.id
 abudu.id
 abufurqan.id
 abuhurairah.id
@@ -3138,7 +3129,6 @@ abystyle-studio.id
 abystyle.id
 abyudaya.id
 abyudayamultistrada.id
-abznv.id
 ac-cpa.id
 ac-ku.id
 ac-mu.id
@@ -3391,6 +3381,7 @@ aceclusive.id
 acecomputer.id
 acecons.id
 acecreativenetwork.id
+acedigital.id
 acee.id
 aceedventure.id
 acefast.id
@@ -4226,6 +4217,7 @@ adigsi.id
 adiguna.id
 adigunamediaprima.id
 adigunawan.id
+adihjp.id
 adijaya-desa.id
 adijaya-negarabatin.id
 adijaya.id
@@ -5036,7 +5028,6 @@ afb.id
 afbdata.id
 afbenesia.id
 afc-indonesia.id
-afc-lifeindonesia.id
 afc-lifescience.id
 afcdigital.id
 afcfarmasijepang.id
@@ -5282,7 +5273,6 @@ againstgravity.id
 againtime.id
 agakareba.id
 agaklaen.id
-agalliance.id
 agama.id
 agamabahai.id
 agamkemenag.id
@@ -5629,7 +5619,6 @@ agilent.id
 agilestudio.id
 agileteam.id
 agilis.id
-agilitas.id
 agility.id
 aginfra.id
 agingdrug.id
@@ -5820,6 +5809,7 @@ agroexpo.id
 agrofarm.id
 agrofarmnusaraya.id
 agrofish.id
+agroforestri.id
 agroforestry.id
 agroforesttree.id
 agrogemilang.id
@@ -5986,6 +5976,7 @@ aguss.id
 agussalim.id
 agussetiawan.id
 agussutarna.id
+agusta.id
 agustian.id
 agustiarsabran.id
 agustin.id
@@ -6221,7 +6212,6 @@ aiaja.id
 aiakademi.id
 aiandco.id
 aianews.id
-aiart.id
 aiartist.id
 aiasolution.id
 aiassistant.id
@@ -6275,7 +6265,6 @@ ns1.abduct.id
 ns1.abdul.id
 ns1.abdurrohim.id
 ns1.abn-nasdem.id
-ns1.aboebakaralhabsyi.id
 ns1.abyfine.id
 ns1.accelary.id
 ns1.actpoint.id
@@ -6294,7 +6283,6 @@ ns1.agenkita.id
 ns1.agenwebsite.id
 ns1.agritani.id
 ns1.agrodn.id
-ns1.agroforestri.id
 ns1.agromina.id
 ns1.agungsuryoputra.id
 ns1.aichallenge.id
@@ -6312,7 +6300,6 @@ ns2.abangpraja.id
 ns2.abdul.id
 ns2.abdurrohim.id
 ns2.abn-nasdem.id
-ns2.aboebakaralhabsyi.id
 ns2.abyfine.id
 ns2.accelary.id
 ns2.actpoint.id
@@ -6330,7 +6317,6 @@ ns2.agenkita.id
 ns2.agenwebsite.id
 ns2.agritani.id
 ns2.agrodn.id
-ns2.agroforestri.id
 ns2.agromina.id
 ns2.agungsuryoputra.id
 ns2.aichallenge.id
