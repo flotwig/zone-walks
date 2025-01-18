@@ -481,7 +481,6 @@ ati.ax
 atk.ax
 atom.ax
 atr.ax
-att.ax
 atv.ax
 au.ax
 aub.ax
@@ -1650,7 +1649,7 @@ gw.ax
 gx.ax
 gyg.ax
 gymnasium.ax
-gz.ax
+gymnastik.ax
 h0.ax
 h2o.ax
 h4.ax
@@ -3373,6 +3372,7 @@ serge.ax
 server.ax
 service.ax
 servicecenter.ax
+servicetjanster.ax
 sex.ax
 sexsnack.ax
 sf.ax
@@ -3831,6 +3831,7 @@ torparsbygg.ax
 torrochtat.ax
 toshiba.ax
 touristmap.ax
+tovestradgard.ax
 townhouse.ax
 toyota.ax
 tp.ax
