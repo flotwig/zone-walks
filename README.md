@@ -45,7 +45,7 @@ TLD | Domain Count
 [`br`][br] [(raw)][br-raw] | <div align="right">1353</div>
 [`diet`][diet] [(raw)][diet-raw] | <div align="right">1149</div>
 [`flowers`][flowers] [(raw)][flowers-raw] | <div align="right">964</div>
-[`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">646</div>
+[`guitars`][guitars] [(raw)][guitars-raw] | <div align="right">647</div>
 [`xn--pgbs0dh`][xn--pgbs0dh] [(raw)][xn--pgbs0dh-raw] | <div align="right">584</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">540</div>
 [`auto`][auto] [(raw)][auto-raw] | <div align="right">505</div>
