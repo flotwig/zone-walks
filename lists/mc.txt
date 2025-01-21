@@ -9,7 +9,6 @@
 2mad.mc
 3-14batiment.mc
 32h.slnet.mc
-3alfa.mc
 3cmarine.mc
 3fvision.mc
 3s2i.mc
@@ -88,6 +87,7 @@ agencedumidi.mc
 agencelandau.mc
 agencethomas.mc
 agenet.mc
+agentprovocateur.mc
 agksecurite.mc
 agodemirdjianpublishing.mc
 agollivier.mc
@@ -2121,6 +2121,7 @@ mfo.mc
 mfs.mc
 mftrading.mc
 mggcapital.mc
+mgib.mc
 mgm.mc
 mgms.mc
 mgs.mc
@@ -2387,7 +2388,6 @@ montblanc.mc
 montcharles.mc
 montcharlesdemonaco.mc
 monte-carlo-bay.mc
-monte-carlo-latitude.mc
 monte-carlo-multimedia.mc
 monte-carlo-online.mc
 monte-carlo-sporting-club.mc
@@ -2424,7 +2424,6 @@ montecarloroyalmotors.mc
 montecarloselfstorage.mc
 montecarloskiclub.mc
 montecarloticket.mc
-montecarlove.mc
 montecarlovermouth.mc
 montecarlowines.mc
 montecarloyachtshow.mc
@@ -2756,7 +2755,6 @@ paris8.mc
 parking.mc
 parkings.mc
 paroisse-orthodoxe-russe.mc
-partbypartmonaco.mc
 partners-service.mc
 pascoli.mc
 pastaversace.mc
