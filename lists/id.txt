@@ -551,7 +551,6 @@
 1tempat.id
 1testore.id
 1toccm.id
-1toko.id
 1university.id
 1up.id
 1vision.id
@@ -807,7 +806,6 @@
 292.id
 29229.id
 293.id
-29371.id
 294.id
 295.id
 296-ke.id
@@ -1308,7 +1306,6 @@
 4bnet.id
 4care.id
 4chem.id
-4d-gummy.id
 4ddig.id
 4doctor.id
 4dragon.id
@@ -1322,6 +1319,7 @@
 4gmandalikalombok.id
 4gtrack.id
 4home.id
+4jokerscm.id
 4klab.id
 4kwin.id
 4life.id
@@ -1515,6 +1513,7 @@
 5gresort.id
 5gstore.id
 5implify.id
+5jokerscm.id
 5minvideo.id
 5movierulz.id
 5news.id
@@ -2919,6 +2918,7 @@ abnatour.id
 abnaulchairaat.id
 abnconsultant.id
 abner.id
+abnews.id
 abni.id
 abnnews.id
 abnomaly.id
@@ -3575,7 +3575,6 @@ acmespa.id
 acmestartups.id
 acmetek.id
 acmeview.id
-acmgroup.id
 acmguard.id
 acmi.id
 acmi1899.id
@@ -4294,6 +4293,7 @@ adirect.id
 adirejo-desa.id
 adirejo-pekalongan.id
 adirp.id
+adis-notification.id
 adisampoerna.id
 adisarana.id
 adisatria.id
@@ -4484,7 +4484,6 @@ adonai.id
 adonanmama.id
 adonggroup.id
 adonia.id
-adoniabeauty.id
 adonnyabeauty.id
 adontacomm.id
 adop.id
@@ -4749,6 +4748,7 @@ advikit.id
 advil.id
 advilab.id
 advilims.id
+advin.id
 advindo.id
 advindokikaku.id
 advip.id
@@ -5022,6 +5022,7 @@ afamily.id
 afandi.id
 afanin.id
 afapoker.id
+afaqinsanmulia.id
 afara.id
 afarent.id
 afarez.id
@@ -5032,7 +5033,6 @@ afayaindonesia.id
 afb.id
 afbdata.id
 afbenesia.id
-afc-indonesia.id
 afc-lifescience.id
 afcdigital.id
 afcfarmasijepang.id
@@ -5625,6 +5625,7 @@ agilenesia.id
 agilent.id
 agilestudio.id
 agileteam.id
+agiletra.id
 agilis.id
 agility.id
 aginfra.id
