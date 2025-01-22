@@ -438,7 +438,6 @@ audiosage.audio
 audioselect.audio
 audiosensations.audio
 audiospot.audio
-audiostore.audio
 audiotel-temporel.audio
 audiovalley.audio
 audioz.audio
@@ -1860,6 +1859,7 @@ hayes.audio
 haywardhopper.audio
 haywirez.audio
 hbpc.audio
+hdie.audio
 hdrezka.audio
 hdsx.audio
 hea.audio
@@ -2481,6 +2481,7 @@ losangelesangels.audio
 losangelesdodgers.audio
 loser.audio
 lossless.audio
+lossy.audio
 lostinventions.audio
 lotto-online.audio
 lotto.audio
