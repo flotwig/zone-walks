@@ -2068,6 +2068,7 @@ mcscmanagement.mc
 mcservices.mc
 mcsm.mc
 mcss.mc
+mcstaff.mc
 mctech.mc
 mctrade.mc
 mcvr.mc
@@ -3460,6 +3461,7 @@ tiralarc.mc
 titan-e.mc
 titanus.mc
 tkscientific.mc
+tlc-group.mc
 tm.mc
 tmc.mc
 tmg.mc
