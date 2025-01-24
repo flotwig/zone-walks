@@ -843,6 +843,7 @@
 2tang.id
 2tangslot.id
 2tcorner.id
+2twins.id
 2up.id
 2winterslot.id
 2x45win.id
@@ -2173,6 +2174,7 @@
 8winterslot.id
 8wondersgroup.id
 8wonderspg.id
+8wood.id
 8x1wghk.id
 8x8.id
 8xbet.id
@@ -3688,6 +3690,7 @@ actadiurma.id
 actadiurna.id
 actadiurnasulawesi.id
 actaf.id
+actama.id
 actanesia.id
 actanews.id
 actavio.id
@@ -4020,6 +4023,7 @@ addicks.id
 addicted.id
 addictedgames.id
 addiction-project.id
+addiction.id
 addictionstore.id
 addictive.id
 addictrip.id
@@ -4245,7 +4249,6 @@ adikurniawan.id
 adila.id
 adilawfirm.id
 adilink.id
-adiliopro.id
 adiljaya.id
 adillalaundry.id
 adilnews.id
@@ -4481,6 +4484,7 @@ adnkonstruksi.id
 adnlogistics.id
 adnnn.id
 adnyana.id
+adobae.id
 adobaladesa.id
 adobe-indonesia.id
 adobe.id
@@ -4615,7 +4619,6 @@ adsmanager.id
 adsmarket.id
 adsmedia.id
 adsmediamix.id
-adsmm.id
 adsnusantara.id
 adsoft.id
 adsolusi.id
@@ -4824,6 +4827,7 @@ adzqiana.id
 ae-gis.id
 ae888.id
 aeaindonesia.id
+aec-indo.id
 aecert.id
 aecial.id
 aecpass.id
@@ -5688,7 +5692,6 @@ agoramall.id
 agoratechnosolution.id
 agorism.id
 agotani.id
-agp-law.id
 agpag.id
 agparthakes.id
 agpet.id
@@ -6217,6 +6220,7 @@ ai-volution.id
 ai-ways.id
 ai16z.id
 ai2learn.id
+ai3.id
 ai4indonesia.id
 ai4karate.id
 ai9news.id
@@ -6306,7 +6310,6 @@ ns1.agritani.id
 ns1.agrodn.id
 ns1.agromina.id
 ns1.agungsuryoputra.id
-ns1.ai3.id
 ns1.aichallenge.id
 ns1.freehosting.com.abangupih.id
 ns2.1001startupdigital.id
@@ -6356,5 +6359,4 @@ sv1.4fior.id.4fior.id
 sv2.4fior.id
 sv22.4fior.id
 www.adapromosi.id
-www.ai3.id
 yoyok.15innovate.id
