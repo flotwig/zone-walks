@@ -799,6 +799,7 @@ aisolutions.ci
 aist.ci
 aitoauto.ci
 aits.ci
+aivdp.ci
 aiwatch.ci
 ajno.ci
 ajo.ci
@@ -1320,7 +1321,6 @@ atorka.ci
 atos.ci
 atowla.ci
 atp.ci
-atpagroupeloko.ci
 atpcm.ci
 atpvgroupeloko.ci
 atr.ci
@@ -1360,7 +1360,6 @@ aus-g4s.ci
 aus.ci
 ausecurity.ci
 auth.ci
-authmd.ci
 autistan.ci
 auto.ci
 auto24.ci
@@ -1987,6 +1986,7 @@ botcoin.ci
 bottegaveneta.ci
 bouake.ci
 bouandougou.ci
+bouclier-bleu.ci
 boudepe.ci
 boulanger.ci
 bourse-diplomatie.ci
@@ -2360,6 +2360,7 @@ casumo.co.ci
 cataloguedesfetes.ci
 cataloguedesfetesdesparents.ci
 catenac.ci
+catep.ci
 catho.ci
 cati-eg.ci
 catrans.ci
@@ -2509,7 +2510,6 @@ cga-gracedivine.ci
 cga-pro.ci
 cga.ci
 cgc.ci
-cge-bile.ci
 cge.ci
 cgeci.ci
 cgeciv.ci
@@ -2641,6 +2641,7 @@ cicotrans.ci
 cicps.ci
 cidafrique.ci
 cidex.ci
+cidfor.ci
 cidigit.ci
 cidt.ci
 cie.ci
