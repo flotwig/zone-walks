@@ -678,6 +678,7 @@ agef.ci
 agefop.ci
 agekaf.ci
 agena.ci
+agence-axa-privilege.ci
 agence-iris.ci
 agence.ci
 agenceavygroup.ci
@@ -2501,7 +2502,6 @@ cfcdci.ci
 cfci.ci
 cfge.ci
 cfi.ci
-cfp.ci
 cfpcr-mcc.ci
 cfpha.ci
 cg2f.ci
@@ -2924,7 +2924,6 @@ codepromo.ci
 codeqr.ci
 codesabarres.ci
 codex.ci
-codi.ci
 codimate.ci
 codimex.ci
 codinorm.ci
@@ -3082,7 +3081,6 @@ icloud.com.ci
 immobilier.com.ci
 inetum.co.ci
 insidemarket.com.ci
-isaimini.com.ci
 isuzu-trucks.co.ci
 isuzu-trucks.com.ci
 isuzu.co.ci
