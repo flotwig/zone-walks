@@ -296,7 +296,6 @@ aupetitmarche.mc
 aureglia-caruso.mc
 auriga.mc
 auroreroca.mc
-autocenter.mc
 autoecolegeorges.mc
 automobileclubdemonaco.mc
 automobileclubmonaco.mc
@@ -1334,6 +1333,7 @@ gema.mc
 gemb.mc
 gemgroup.mc
 gemluc.mc
+generationmonaco.mc
 genusadvisor.mc
 geo.mc
 geomonaco.mc
@@ -2937,6 +2937,7 @@ pyxis.mc
 pyxisservices.mc
 qapla.mc
 qieta-conseils.mc
+qpm.mc
 quaidesartistes.mc
 quantum-pacific.mc
 quantum.mc
