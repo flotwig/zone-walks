@@ -122,7 +122,6 @@
 91752.ax
 94168.ax
 95237.ax
-96.ax
 97146.ax
 97604.ax
 99.ax
@@ -701,6 +700,7 @@ bm.ax
 bmf.ax
 bn.ax
 bo.ax
+boattrader.ax
 bobil.ax
 bobiten.ax
 bobra.ax
@@ -823,7 +823,6 @@ cainby.ax
 cajsa.ax
 call-m.ax
 calle.ax
-cam.ax
 camillasfotvard.ax
 campaign.ax
 camping.ax
@@ -868,7 +867,6 @@ cf.ax
 cgengineering.ax
 cgs.ax
 ch.ax
-ch1ll.ax
 chamber.ax
 chan.ax
 charge.ax
@@ -1729,6 +1727,7 @@ helander.ax
 helenaflojt.ax
 hellman.ax
 hellmansbygg.ax
+hello.ax
 hellorayo.ax
 helmer.ax
 helmroos.ax
@@ -2302,7 +2301,6 @@ liberto.ax
 lidl.ax
 life.ax
 lifeh.ax
-lighthousehealing.ax
 lillakropperiet.ax
 lillgaard.ax
 lim.ax
@@ -3520,6 +3518,7 @@ sokoshotel.ax
 sokoshotelli.ax
 sokoshotels.ax
 sol.ax
+solana.ax
 solarwinds.ax
 solax.ax
 solberget.ax
@@ -3573,7 +3572,6 @@ sprint.ax
 sq.ax
 sr.ax
 srv.ax
-ss.ax
 ssh.ax
 ssl.ax
 st.ax
@@ -3597,6 +3595,7 @@ starlink.ax
 start.ax
 startaeget.ax
 stat.ax
+status.ax
 stavamosters.ax
 stavos.ax
 stdo.ax
@@ -3795,7 +3794,6 @@ thorph.ax
 thr.ax
 threadneedle.ax
 thscore.ax
-ticket.ax
 ticketbis.ax
 tickets.ax
 tickster.ax
@@ -4286,6 +4284,7 @@ xn--ttblegrd-8zag7p.ax
 xn--utemilj-g1a.ax
 xn--varumrke-4za.ax
 xn--vder-loa.ax
+xn--viltspr-jxa.ax
 xn--vk-xia.ax
 xn--vrmepump-0za.ax
 xn--vxthus-bua.ax
@@ -4310,6 +4309,7 @@ xyz.ax
 xz.ax
 ya.ax
 yachtservice.ax
+yachtworld.ax
 yahoo.ax
 yamashit.ax
 yanthr.ax
@@ -4332,6 +4332,7 @@ yy.ax
 za.ax
 zagat.ax
 zandra.ax
+zap.ax
 zc.ax
 ze.ax
 zebrabil.ax
