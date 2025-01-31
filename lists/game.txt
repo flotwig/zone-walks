@@ -1063,6 +1063,7 @@ bitfun.game
 bitkub.game
 bitmap.game
 bitmod.game
+bitpavo.game
 bitplay.game
 bitsplit.game
 bitup.game
@@ -1353,6 +1354,7 @@ change.game
 changethe.game
 changingthe.game
 chaos.game
+chaotic.game
 chapirone.game
 charge.game
 chaskaludo.game
@@ -2007,6 +2009,7 @@ europapark.game
 europauniversalis.game
 eurosport.game
 eutelsat.game
+ev.game
 event.game
 ever.game
 everdale.game
@@ -2023,7 +2026,6 @@ evom.game
 evoplay.game
 evopoker.game
 ewc.game
-ex88win.game
 excalibur.game
 exg.game
 exilium.game
@@ -2869,7 +2871,6 @@ jogar.game
 jogo.game
 jogo77.game
 jogobetclub.game
-jogojogo.game
 jogoresponsavel.game
 jogos365.game
 jogovip.game
@@ -3126,7 +3127,6 @@ lemon.game
 lemuria.game
 lens.game
 leo.game
-leo77.game
 leo88.game
 leonidas.game
 leovegas.game
@@ -3275,7 +3275,6 @@ lucky22.game
 lucky24.game
 lucky365.game
 lucky518.game
-lucky55.game
 lucky777.game
 lucky888.game
 luckybet.game
@@ -3361,10 +3360,13 @@ mailbox.game
 mailegend.game
 main.game
 majiang.game
+major.game
 majorslot.game
 make.game
 malinovka.game
+mammoth.game
 mammothhockey.game
+mammoths.game
 mana.game
 manamaker.game
 maneko.game
@@ -3591,7 +3593,6 @@ mirandus.game
 mirrorsedge.game
 misscosmo.game
 mission.game
-missionevo.game
 missionimpossible.game
 missionzero.game
 mist.game
@@ -4032,6 +4033,7 @@ outbound.game
 outfire.game
 outlaw.game
 outlawhockey.game
+outlaws.game
 outlawshockey.game
 outriders.game
 outworld.game
@@ -4173,6 +4175,7 @@ pgbr.game
 pgjogo.game
 pgok.game
 pgone.game
+pgslot.game
 pgslot168.game
 pgslot24.game
 pgslot99.game
@@ -4720,6 +4723,7 @@ sagame66.game
 sagaming.game
 sagrada.game
 sainsburys.game
+sakata.game
 sakura.game
 sakurapg.game
 sales.game
@@ -4846,6 +4850,7 @@ shop.game
 shoper.game
 shopify.game
 shopping.game
+show.game
 showdown.game
 shrine.game
 shrirammandir.game
@@ -5025,6 +5030,7 @@ spexy.game
 spiceygaming.game
 spidertanks.game
 spilleautomater.game
+spin.game
 spin007.game
 spin365.game
 spinamax.game
@@ -5094,6 +5100,7 @@ starplus.game
 starri.game
 starriser.game
 stars.game
+starseeker.game
 starship.game
 starslingers.game
 starsoft.game
@@ -5680,7 +5687,9 @@ utahoutlawshockey.game
 utahvenom.game
 uthockeyclub.game
 utoutlaw.game
+utoutlawhockey.game
 utoutlaws.game
+utoutlawshockey.game
 uu2.game
 uu77.game
 uubet.game
