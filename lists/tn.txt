@@ -729,6 +729,7 @@ abcdev.tn
 abcdigigo.tn
 abcdistribution.tn
 abcdo.tn
+abcformation.tn
 abchaabane.tn
 abci.tn
 abco.tn
@@ -2342,6 +2343,7 @@ alouer.tn
 aloui-immo.tn
 aloui-tcep.tn
 aloui.tn
+alouinihome.tn
 alouitronics.tn
 aloula.tn
 aloulacuisine.tn
@@ -3853,6 +3855,7 @@ at.tn
 at2f.tn
 ata.tn
 atac.tn
+atacom.tn
 atacs.tn
 ataf.tn
 atai.tn
@@ -5153,7 +5156,6 @@ bbcinformatique.tn
 bbconsulting.tn
 bbctunisie.tn
 bbd.tn
-bbh.tn
 bbhome.tn
 bbm.tn
 bbolagency.tn
@@ -5407,7 +5409,6 @@ bella.tn
 bellachica.tn
 bellagio.tn
 bellar.tn
-bellart.tn
 bellastore.tn
 bellavista.tn
 bellavistatravel.tn
@@ -5539,7 +5540,6 @@ benneji.tn
 bennejitravel.tn
 bennejma.tn
 benneni.tn
-bennhila-logosol.tn
 bennour-deco.tn
 bennour.tn
 bennourshop.tn
@@ -6580,6 +6580,7 @@ boixconnect.tn
 boky.tn
 bol-store.tn
 bol.tn
+bolbol.tn
 bold.tn
 boldbrands.tn
 bolerio.tn
@@ -6862,6 +6863,7 @@ bouticom.tn
 boutik-net.tn
 boutik.tn
 boutika.tn
+boutikaplus.tn
 boutikatunis.tn
 boutiki.tn
 boutikna.tn
@@ -7631,6 +7633,7 @@ camelia.tn
 cameliascent.tn
 camelstudio.tn
 cameo.tn
+cameoplatform.tn
 camera.tn
 cameradesurveillance.tn
 cameras-de-surveillance.tn
@@ -8435,6 +8438,7 @@ cgce.tn
 cgdr.tn
 cge.tn
 cgebt.tn
+cgi-sousse.tn
 cgi.tn
 cgisousse.tn
 cgm.tn
@@ -8560,6 +8564,7 @@ changan.tn
 change.tn
 changemakerstudio.tn
 changement.tn
+changements-climatiques.tn
 changementsclimatiques.tn
 chanson.tn
 chansons.tn
@@ -10217,6 +10222,7 @@ consulter.tn
 consulting.tn
 consultingplanet.tn
 consultingsoltani.tn
+consultix.tn
 consulto.tn
 consulty.tn
 contably.tn
@@ -10682,7 +10688,6 @@ crffesmanouba.tn
 cri.tn
 crib.tn
 cridi.tn
-crif.tn
 cripto.tn
 crispo.tn
 cristal.tn
@@ -11111,6 +11116,7 @@ dal.tn
 dala3.tn
 dalail.tn
 dalalnistore.tn
+dalecarnegie.tn
 daleel.tn
 daleelteq.tn
 dalelrou7ek.tn
@@ -11281,6 +11287,7 @@ darido.tn
 dariedu.tn
 dariena.tn
 darifood.tn
+darikhir.tn
 dariloc.tn
 darimag.tn
 darimarket.tn
@@ -11639,6 +11646,7 @@ deepmake.tn
 deepnrise.tn
 deepprice.tn
 deeprof.tn
+deepseek.tn
 deepsight.tn
 deeptech24.tn
 deeptorise.tn
@@ -12063,6 +12071,7 @@ dhshopping.tn
 dhstoree.tn
 dhtunisie.tn
 di-art.tn
+dia.tn
 diaar.tn
 diabete.tn
 diabetic.tn
@@ -13088,6 +13097,7 @@ dune-bougies.tn
 dune.tn
 dunebougie.tn
 dunebougies.tn
+dunehome.tn
 dunemedenergy.tn
 dunes.tn
 dungeon.tn
@@ -14672,6 +14682,7 @@ emecc.tn
 emed.tn
 emeeting.tn
 emerald-events.tn
+emeraldestate.tn
 emeraldevs.tn
 emeraldtradingcompany.tn
 emeraudetravel.tn
@@ -18924,7 +18935,6 @@ gravity.tn
 graviwoodart.tn
 gravo.tn
 gravoflex.tn
-grayen.tn
 graymatter.tn
 grbmixers.tn
 greathome.tn
@@ -19297,6 +19307,7 @@ h2com.tn
 h2m-space.tn
 h2o-vivantautrement.tn
 h2o.tn
+h2s-nettoyage.tn
 h2zone.tn
 h3b.tn
 ha-consulting.tn
@@ -21328,7 +21339,6 @@ immobilieremsaken.tn
 immobilieres.tn
 immobilieresghaier.tn
 immobilieresmiri.tn
-immobilierpromovilla.tn
 immobiliers.tn
 immobiliertunisie.tn
 immobilisations.tn
@@ -22738,6 +22748,7 @@ jcirasjebel.tn
 jcisahline.tn
 jcisfax.tn
 jcisidimansour.tn
+jciwc2025.tn
 jciwc25.tn
 jckef.tn
 jcoc.tn
@@ -23621,6 +23632,7 @@ kenzzi.tn
 kep.tn
 keplertravel.tn
 kepsys.tn
+keramos.tn
 keravel-labs.tn
 kerdellou.tn
 kerkeni.tn
@@ -23992,6 +24004,7 @@ kochia.tn
 kockia.tn
 kodaklens.tn
 kodakmoments.tn
+kodiprofessional.tn
 kodomo.tn
 kody.tn
 kofa.tn
@@ -24349,7 +24362,6 @@ labella.tn
 labellamaria.tn
 labelle.tn
 labellenature.tn
-labelpack.tn
 labelprinting.tn
 labelpro.tn
 labes.tn
@@ -28116,7 +28128,6 @@ medpower.tn
 medprestige.tn
 medprint.tn
 medpro.tn
-medpub.tn
 medquick.tn
 medrh.tn
 medserint.tn
@@ -29490,6 +29501,7 @@ moringa.tn
 mornamento.tn
 morning.tn
 morningstar.tn
+morphee.tn
 morrisgarage.tn
 morrisgarrage.tn
 morse.tn
@@ -29653,6 +29665,7 @@ mpshop.tn
 mpsy.tn
 mptc.tn
 mpush.tn
+mpv.tn
 mq.tn
 mqse.tn
 mqt.tn
@@ -30042,7 +30055,6 @@ myboox.tn
 mybots.tn
 mybox.tn
 mybrand.tn
-mybs.tn
 mybusiness.tn
 mybuy.tn
 mycake.tn
@@ -30232,6 +30244,7 @@ myrevo.tn
 myrlan.tn
 myrmo-metal.tn
 myronclinic.tn
+myroom.tn
 mysafesmartphone.tn
 mysat.tn
 myschool.tn
@@ -30880,6 +30893,7 @@ nexans.tn
 nexatech.tn
 nexavibe.tn
 nexdigital.tn
+nexflow.tn
 nexgencepa.tn
 nexify.tn
 nexoo.tn
@@ -31046,6 +31060,7 @@ nissan.tn
 nissedmanufacturing.tn
 nitro.tn
 nivo.tn
+nixpo.tn
 nizar.tn
 nizarchaari.tn
 nizarus.tn
@@ -31229,6 +31244,7 @@ nourhenerebai.tn
 nouri-audition.tn
 nourimmo.tn
 nouriss.tn
+nourjustinia.tn
 nourkids.tn
 nourksiksi.tn
 nourled.tn
@@ -31287,6 +31303,7 @@ novamel.tn
 novamentis.tn
 novamineral.tn
 novaniche.tn
+novaonline.tn
 novaphone.tn
 novaplas.tn
 novaplex.tn
@@ -31306,6 +31323,7 @@ novateam.tn
 novatec.tn
 novatech.tn
 novatek.tn
+novaterra.tn
 novatis.tn
 novatrice.tn
 novatris.tn
@@ -31863,6 +31881,7 @@ omnyati.tn
 omoda.tn
 omp.tn
 ompv.tn
+omra-tunisie.tn
 omra-with-issam.tn
 omra.tn
 omrakaouther.tn
@@ -32346,6 +32365,7 @@ oreedoo.tn
 orella.tn
 oresto.tn
 org.tn
+orgamind.tn
 organic.tn
 organica.tn
 organiccity.tn
@@ -32508,6 +32528,7 @@ otisenergy.tn
 otiumclubs.tn
 otiumhotels.tn
 otiumresorts.tn
+otjm.tn
 otleb.tn
 otlob.tn
 oto-news.tn
@@ -32556,6 +32577,7 @@ ouibank.tn
 ouin.tn
 ouioui.tn
 ouipress.tn
+oukla.tn
 ouledali.tn
 oulidha.tn
 oumaimabensoltane.tn
@@ -33400,6 +33422,7 @@ performances-fiscales-audit.tn
 perfotec.tn
 perfume.tn
 pergola.tn
+pergolatech.tn
 perif.tn
 periperi.tn
 peritia.tn
@@ -33738,6 +33761,7 @@ pickwick.tn
 pico.tn
 picock.tn
 picolor.tn
+picshare.tn
 picspro.tn
 picstore.tn
 picta.tn
