@@ -49,7 +49,7 @@ TLD | Domain Count
 [`xn--pgbs0dh`][xn--pgbs0dh] [(raw)][xn--pgbs0dh-raw] | <div align="right">584</div>
 [`lr`][lr] [(raw)][lr-raw] | <div align="right">541</div>
 [`auto`][auto] [(raw)][auto-raw] | <div align="right">505</div>
-[`xn--80ao21a`][xn--80ao21a] [(raw)][xn--80ao21a-raw] | <div align="right">463</div>
+[`xn--80ao21a`][xn--80ao21a] [(raw)][xn--80ao21a-raw] | <div align="right">464</div>
 [`car`][car] [(raw)][car-raw] | <div align="right">324</div>
 [`xn--54b7fta0cc`][xn--54b7fta0cc] [(raw)][xn--54b7fta0cc-raw] | <div align="right">296</div>
 [`cars`][cars] [(raw)][cars-raw] | <div align="right">291</div>
