@@ -1386,6 +1386,8 @@ chibichaser.game
 chibichasers.game
 chicken-road.game
 chicken.game
+chickenroad.game
+chiken-road.game
 chinajoy.game
 chox.game
 chromaglow.game
@@ -1514,7 +1516,6 @@ cortina.game
 cosmicroyale.game
 cosmobet.game
 cotn.game
-counterpoint.game
 countrystar.game
 coupledup.game
 couples.game
@@ -1782,8 +1783,6 @@ dofus3.game
 dogcrash.game
 doge.game
 dogecoin.game
-dogeland.game
-dogemap.game
 doges.game
 dogewood.game
 doghouse.game
@@ -3761,7 +3760,6 @@ naver.game
 nb.game
 nba2k.game
 nbabattlegrounds.game
-nbcasino.game
 ncsoft.game
 nebulaslot.game
 nebulaslots.game
@@ -6088,7 +6086,6 @@ wrayward.game
 wrestlemania.game
 writing.game
 wtf.game
-wtg.game
 wtm.game
 wu.game
 wukong.game
