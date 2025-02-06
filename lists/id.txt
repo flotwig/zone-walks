@@ -20,7 +20,6 @@
 007660.id
 007biz.id
 007game.id
-007news.id
 008.id
 009.id
 009bet.id
@@ -222,7 +221,6 @@
 108989.id
 109.id
 109688.id
-109corp.id
 10ball.id
 10minitz.id
 10mintz.id
@@ -511,8 +509,6 @@
 1hmong.id
 1home1digitaltalent.id
 1hora.id
-1inch.id
-1info.id
 1jokerscm.id
 1jtweb.id
 1jtwebsite.id
@@ -1022,6 +1018,7 @@
 366.id
 367.id
 368.id
+368mega.id
 369.id
 369food.id
 37.id
@@ -1126,7 +1123,6 @@
 3fastpanel.id
 3fatguys.id
 3fconsulting.id
-3gindonesia.id
 3houserealty.id
 3i-networks.id
 3idea.id
@@ -1675,6 +1671,7 @@
 678.id
 679.id
 6795-dw.id
+67pallmall.id
 68.id
 680.id
 681.id
