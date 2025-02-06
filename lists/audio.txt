@@ -470,7 +470,6 @@ automata.audio
 autoplay.audio
 autotune.audio
 aux.audio
-avamia.audio
 avante.audio
 avatar.audio
 avenirtel.audio
@@ -1266,7 +1265,6 @@ dotonline.audio
 doubledouble.audio
 downpour.audio
 dp.audio
-draadlozeluidsprekers.audio
 draadlozespeakers.audio
 draft.audio
 draw.audio
@@ -1826,6 +1824,7 @@ gz.audio
 h-labs.audio
 h2o.audio
 hachette.audio
+hacienda.audio
 hafabra.audio
 hafler.audio
 halftone.audio
@@ -2238,7 +2237,6 @@ kaiju.audio
 kaitori.audio
 kala.audio
 kaled.audio
-kaleidoscope.audio
 kaleo.audio
 kalista.audio
 kamikaze.audio
@@ -2287,6 +2285,7 @@ kirtanfi.audio
 kiselov.audio
 kishasoundscapes.audio
 kismet.audio
+kit.audio
 kitchen.audio
 kitchenmusic.audio
 kiwi.audio
@@ -3341,6 +3340,7 @@ poly.audio
 pond.audio
 pop.audio
 popcast.audio
+poppysounds.audio
 porkpolitics.audio
 porn.audio
 porno365.audio
@@ -3784,6 +3784,7 @@ selector.audio
 self.audio
 selim.audio
 semd.audio
+semitone.audio
 send.audio
 sennheiser.audio
 sensa.audio
@@ -3963,6 +3964,7 @@ sonicvault.audio
 sonidos.audio
 sonimax.audio
 sonix.audio
+sono.audio
 sonomag.audio
 sonorant.audio
 sonorec.audio
@@ -4613,7 +4615,6 @@ vivo.audio
 vizio.audio
 vizual.audio
 vml.audio
-vnxoso.audio
 vnyl.audio
 vobbe.audio
 vocap.audio
