@@ -202,6 +202,7 @@ ah.ax
 ahl.ax
 ahlsell.ax
 ahlstrom.ax
+ahrs.ax
 ahs.ax
 ahuf.ax
 ai.ax
@@ -1028,6 +1029,7 @@ deal.ax
 debtcollection.ax
 decuro.ax
 deepoil.ax
+deepseek.ax
 degamlashem.ax
 degerbygasthamn.ax
 degersand.ax
@@ -1527,6 +1529,7 @@ geedo.ax
 gefoto.ax
 gehoab.ax
 gemigettnamn.ax
+gemini.ax
 gen.ax
 gendigital.ax
 geo.ax
@@ -2148,6 +2151,7 @@ kliniken.ax
 klintvagenapartments.ax
 klippupp.ax
 klirr.ax
+klmanga.ax
 klobbars.ax
 klobben.ax
 kloink.ax
@@ -2509,7 +2513,6 @@ mayer.ax
 mayoral.ax
 mb.ax
 mbo.ax
-mbox.ax
 mc.ax
 mca.ax
 md.ax
