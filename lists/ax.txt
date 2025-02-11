@@ -385,7 +385,6 @@ andelsbanken.ax
 andersbygg.ax
 andersekstrom.ax
 andersh.ax
-anderson.ax
 andersonsombyggnad.ax
 andersson.ax
 anderssons.ax
@@ -1170,6 +1169,7 @@ ekonomi.ax
 ekonomikompaniet.ax
 ekonomiresurs.ax
 ekoredovisning.ax
+ekostad.ax
 eksjohus.ax
 ekstromsstugor.ax
 ekum.ax
@@ -1398,6 +1398,7 @@ flexens.ax
 flisofisk.ax
 flodin.ax
 flourish.ax
+flow.ax
 flowdog.ax
 fluctus.ax
 fluid.ax
@@ -1842,6 +1843,7 @@ hw.ax
 hwtextil.ax
 hx.ax
 hy.ax
+hyper.ax
 hypr.ax
 hyr.ax
 hyra.ax
@@ -2043,6 +2045,7 @@ jsdack.ax
 jse.ax
 jt.ax
 ju.ax
+judo.ax
 judys.ax
 juha.ax
 julia.ax
@@ -2448,6 +2451,7 @@ manscaped.ax
 map.ax
 maps.ax
 mar.ax
+marbibacken.ax
 marbyfjarden.ax
 marc.ax
 marcus.ax
@@ -2750,6 +2754,7 @@ nickelodeon.ax
 night.ax
 nightravintolat.ax
 nikkola.ax
+nimix.ax
 nipa.ax
 nipalive.ax
 niska.ax
@@ -3532,6 +3537,7 @@ sokoshotelli.ax
 sokoshotels.ax
 sol.ax
 solana.ax
+solar.ax
 solarwinds.ax
 solax.ax
 solberget.ax
@@ -4041,6 +4047,7 @@ vikingaasen.ax
 vikingamarknaden.ax
 vikingline.ax
 vikinglinebuss.ax
+viktor.ax
 viktoreriksson.ax
 vildros.ax
 viligt.ax
