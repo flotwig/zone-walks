@@ -301,6 +301,7 @@ alandsrabatten.ax
 alandsraddningsmyndighet.ax
 alandsradio.ax
 alandsradiotv.ax
+alandsresor.ax
 alandssenap.ax
 alandsstadservice.ax
 alandstaxi.ax
@@ -494,6 +495,7 @@ aud.ax
 audi.ax
 audience.ax
 audienceinsights.ax
+audio.ax
 audiorent.ax
 audiovideo.ax
 auktionera.ax
@@ -539,6 +541,7 @@ axport.ax
 axred.ax
 axrent.ax
 axsafe.ax
+axseed.ax
 axstone.ax
 axsystems.ax
 axtjanster.ax
@@ -1856,6 +1859,7 @@ hz.ax
 ia.ax
 ib.ax
 ibinder.ax
+ibsanordic.ax
 ic.ax
 ice.ax
 icm.ax
@@ -2074,6 +2078,7 @@ kai.ax
 kaigai.ax
 kalastuskartta.ax
 kalev.ax
+kall.ax
 kallas.ax
 kallbo.ax
 kallstrom.ax
@@ -3081,6 +3086,7 @@ post.ax
 posten.ax
 postit.ax
 postochtullhuset.ax
+power.ax
 powerup.ax
 ppmclean.ax
 pq.ax
@@ -3835,6 +3841,7 @@ timm.ax
 tinderplaces.ax
 tiny.ax
 tinyhousealand.ax
+tip.ax
 tittis.ax
 tix.ax
 tjanster.ax
