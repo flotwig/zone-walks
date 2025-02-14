@@ -33,7 +33,6 @@
 15.kg
 1688.kg
 1869.kg
-19.kg
 1961.kg
 1963.kg
 1a.kg
@@ -566,7 +565,6 @@ ak-maral.kg
 ak-shumkar.kg
 ak-shumkartrading.kg
 ak-suu.kg
-ak-tash.kg
 ak-tilek.kg
 ak-zhol.kg
 ak.kg
@@ -737,6 +735,7 @@ ali-transfer.kg
 alianscapital.kg
 alibaba.kg
 alidar.kg
+aliens.kg
 alievfactory.kg
 aliexpress.kg
 alif.kg
@@ -1142,7 +1141,6 @@ arsins.kg
 arso.kg
 arstan-cars.kg
 arstan-tech.kg
-arstan-tower.kg
 art-ceramica.kg
 art-deco.kg
 artauto.kg
@@ -1186,6 +1184,7 @@ arzanpharm.kg
 arzanshop.kg
 arzon.kg
 arzu.kg
+arzygroup.kg
 as.kg
 asa.kg
 ascender.kg
@@ -1247,6 +1246,7 @@ asianvibe.kg
 asiaonline.kg
 asiapalace.kg
 asiapayment.kg
+asiaperso.kg
 asiapharm.kg
 asiapromedia.kg
 asiasat.kg
@@ -1318,7 +1318,6 @@ astergroup.kg
 asteri.kg
 astericapital.kg
 astomin.kg
-astra-st.kg
 astra.kg
 astrahim.kg
 astrakom.kg
@@ -1344,6 +1343,7 @@ ata.kg
 ataba.kg
 atadviser.kg
 atai.kg
+atakhancargo.kg
 atalog.kg
 atalyk.kg
 atalykstore.kg
@@ -1595,7 +1595,6 @@ avtomaster.kg
 avtonalog.kg
 avtopapa.kg
 avtoplus.kg
-avtopodbor.kg
 avtoprokat.kg
 avtoradio.kg
 avtorazbor.kg
@@ -1680,7 +1679,6 @@ b7.kg
 ba-invest.kg
 ba.kg
 baa.kg
-baaloo.kg
 baat-sat.kg
 babanov.kg
 babeg.kg
@@ -1851,6 +1849,7 @@ bay.kg
 baybee.kg
 baybet.kg
 bayce.kg
+baydanek.kg
 bayer.kg
 baykar.kg
 baymak.kg
@@ -1895,7 +1894,6 @@ bckg.kg
 bcnotarius.kg
 bconsult.kg
 bct.kg
-bctrade.kg
 bd.kg
 bdaexpress.kg
 bdo.kg
@@ -2343,6 +2341,7 @@ bonnashop.kg
 bonprix.kg
 bons.kg
 bonus.kg
+bonusart.kg
 booka.kg
 bookhouse.kg
 booking.kg
@@ -2516,6 +2515,7 @@ burenie.kg
 burger.kg
 burgerhouse.kg
 burgerking.kg
+burgerstation.kg
 burim.kg
 burj-al-arab.kg
 burjalarab.kg
@@ -2904,6 +2904,7 @@ clean.kg
 cleancity.kg
 cleaner.kg
 cleanetica.kg
+cleaning-house.kg
 cleaning.kg
 clever.kg
 clevertouch.kg
@@ -3219,7 +3220,6 @@ dailyfabric.kg
 daimler-ag.kg
 daimler.kg
 daimlertruck.kg
-daina-tur.kg
 daira.kg
 dairyunion.kg
 daiyrhouse.kg
@@ -3304,6 +3304,7 @@ db.kg
 dbay.kg
 dbe.kg
 dbet.kg
+dbs.kg
 dc.kg
 dcasa.kg
 dcat.kg
@@ -3487,6 +3488,7 @@ dingo.kg
 dinlin.kg
 dino.kg
 dinopremium.kg
+dinsurance.kg
 dipacademy.kg
 diplomat.kg
 dipmarket.kg
@@ -3720,6 +3722,7 @@ dunk.kg
 dunyagoz.kg
 duo.kg
 dupont.kg
+dutchnature.kg
 duvatash.kg
 dv-style.kg
 dv.kg
@@ -3872,7 +3875,6 @@ eda.kg
 eda7.kg
 edas.kg
 edc.kg
-edelweiss.kg
 edelweisskg-travel.kg
 edelweisstextiles.kg
 edemstroi.kg
@@ -4282,7 +4284,6 @@ etta.kg
 eu.kg
 euin.kg
 euphoria.kg
-eur-pallet.kg
 eura.kg
 eurasia-group.kg
 eurasia.kg
@@ -4292,7 +4293,6 @@ eurasian-technologies.kg
 eurasianmachinery.kg
 eures.kg
 euro-frost.kg
-euro-pallet.kg
 euro.kg
 euroasia.kg
 euroasiaagro.kg
@@ -4556,6 +4556,7 @@ file.kg
 files.kg
 filgrastim.kg
 filial.kg
+filmmakers.kg
 filmpro.kg
 filter.kg
 filtr.kg
@@ -5006,6 +5007,7 @@ gepard-trans.kg
 gergert.kg
 gerik-plus.kg
 gerkules.kg
+germany.kg
 geroi.kg
 gestalt.kg
 get.kg
@@ -5639,7 +5641,6 @@ iaeee.kg
 iaido.kg
 ialca.kg
 iam.kg
-iamnomad.kg
 iamveon.kg
 iana.kg
 ianbek.kg
@@ -6171,6 +6172,7 @@ ivoclarvivadent.kg
 iw.kg
 iwa.kg
 iwabishkek.kg
+iweb.kg
 iwex.kg
 iwilfin.kg
 iwillwork.kg
@@ -7069,6 +7071,7 @@ kyrgyztrust.kg
 kyrgyztuusu.kg
 kyrgyzumut.kg
 kyrgyzuna.kg
+kyrgyzupack.kg
 kyrlibnet.kg
 kyrseff.kg
 kyrtag.kg
@@ -7538,6 +7541,7 @@ magicproduction.kg
 magna.kg
 magnatek.kg
 magnatools.kg
+magnit.kg
 magnitola.kg
 magusfarma.kg
 mail.kg
@@ -7800,7 +7804,6 @@ medicana.kg
 medicanahealthgroup.kg
 medicanahealthpoint.kg
 medicanainternational.kg
-mediclinic.kg
 mediconsultants.kg
 medik.kg
 medikana-plus.kg
@@ -8248,6 +8251,7 @@ motionweb.kg
 moto-atv.kg
 moto.kg
 motoadventures.kg
+motoblok.kg
 motoekip.kg
 motohouse.kg
 motor.kg
@@ -8304,7 +8308,6 @@ msp.kg
 mspos.kg
 mssduet.kg
 mssoft.kg
-msstore.kg
 mstore.kg
 mt.kg
 mtaran.kg
@@ -8515,6 +8518,7 @@ naturally.kg
 nature-republic.kg
 nature.kg
 naturel.kg
+naturepro.kg
 naturerepublic.kg
 naturesbounty.kg
 naturshifa.kg
@@ -8842,6 +8846,7 @@ o.kg
 o2.kg
 oaobmz.kg
 oaouchkun.kg
+oasisagro.kg
 oasisorg.kg
 oazis.kg
 ob.kg
@@ -9019,7 +9024,6 @@ onlinepatent.kg
 onlineschool.kg
 onlineshop.kg
 onlinestore.kg
-onlipay.kg
 onmarketing.kg
 onoi.kg
 onoipay.kg
@@ -9088,6 +9092,7 @@ optomkanc.kg
 optompro.kg
 optomstroy.kg
 optopus.kg
+optovik.kg
 opus.kg
 or.kg
 orac.kg
@@ -9146,6 +9151,7 @@ ortoped.kg
 os.kg
 osago.kg
 osago24.kg
+osagoinfo.kg
 osb.kg
 osce-academy.kg
 osgo.kg
@@ -9420,7 +9426,6 @@ perfect-stroy.kg
 perfecttransport.kg
 peri.kg
 perila.kg
-perimetr.kg
 perlator.kg
 personagrata.kg
 perspective.kg
@@ -9637,6 +9642,7 @@ pogruzchik.kg
 pohod.kg
 point.kg
 poisk.kg
+poizon.kg
 poizondrop.kg
 pokacourses.kg
 pokemon.kg
@@ -9785,6 +9791,7 @@ printconsultingkg.kg
 printdirect.kg
 printer.kg
 printexpress.kg
+printfactory.kg
 printmedia.kg
 printnatkani.kg
 priorin.kg
@@ -9870,6 +9877,7 @@ prometis.kg
 promled.kg
 promo-salih.kg
 promoexpress.kg
+promokodus.kg
 promoland.kg
 prompol.kg
 promprivod.kg
@@ -10186,6 +10194,7 @@ rentcars.kg
 rentco.kg
 renwen.kg
 reolink.kg
+repair.kg
 repetitor.kg
 repexpert.kg
 report.kg
@@ -10347,6 +10356,7 @@ royal-thermo.kg
 royal.kg
 royalbeach.kg
 royalbet.kg
+royalbreed.kg
 royalclima.kg
 royalfinance.kg
 royalgroup.kg
@@ -10640,6 +10650,7 @@ seb.kg
 sebetmarket.kg
 secom.kg
 secondhand.kg
+secret.kg
 securedata.kg
 securiforce.kg
 securitrust.kg
@@ -10815,6 +10826,7 @@ showtoday.kg
 shrift.kg
 shtopka.kg
 shtora.kg
+shtrih.kg
 shuft.kg
 shumaher.kg
 shumkar.kg
@@ -10842,7 +10854,6 @@ silkplaster.kg
 silkroad.kg
 silkroadeurasia.kg
 silkroadlodge.kg
-silkroadservices.kg
 silkway-cargo.kg
 silkway.kg
 silkwaylog.kg
@@ -10952,7 +10963,6 @@ sleep.kg
 sleepmaster.kg
 slegkim-parom.kg
 sleng.kg
-slmb-travel.kg
 slogistic.kg
 slon.kg
 slonenok.kg
@@ -11332,6 +11342,7 @@ stompharm.kg
 stonex.kg
 stopkadr.kg
 storck.kg
+store.kg
 stores.kg
 storm.kg
 story.kg
@@ -12006,7 +12017,6 @@ tolesfor.kg
 tolkun.kg
 tolom.kg
 tolsen.kg
-tolt.kg
 tolubaybank.kg
 tomas.kg
 tomat.kg
@@ -12663,6 +12673,7 @@ veritas.kg
 verizon.kg
 verizonenterprise.kg
 vero.kg
+versa.kg
 vershina.kg
 versia.kg
 vertex.kg
@@ -12939,6 +12950,7 @@ welder.kg
 welding.kg
 welkin.kg
 wellastore.kg
+wellbuh.kg
 wellkiss-food.kg
 wellmat.kg
 wellness.kg
@@ -13253,7 +13265,6 @@ zeta.kg
 zewa.kg
 zf.kg
 zfa.kg
-zh.kg
 zhakshyzaman.kg
 zhakypovtaalaibek.kg
 zharatman-kassa.kg
@@ -13286,6 +13297,7 @@ zmail.kg
 znachok.kg
 znakomstva.kg
 znatok.kg
+zob.kg
 zocdoc.kg
 zodiacrobots.kg
 zodiaq.kg
