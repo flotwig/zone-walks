@@ -2994,6 +2994,7 @@ compass.kg
 compland.kg
 complect.kg
 complexbar.kg
+compliance-control.kg
 compliance.kg
 component.kg
 comportal.kg
@@ -4549,7 +4550,6 @@ filmmakers.kg
 filmpro.kg
 filter.kg
 filtr.kg
-fin.kg
 finaid.kg
 finance.kg
 financeflow.kg
@@ -5519,7 +5519,6 @@ hommlife.kg
 honda.kg
 honey.kg
 honor.kg
-honoraryconsulate.kg
 hoovers.kg
 hopasia.kg
 horeca.kg
@@ -5925,7 +5924,6 @@ insurancebakai.kg
 insurancepolicy.kg
 intant.kg
 intech.kg
-integra.kg
 integradev.kg
 integrator.kg
 intel-logistic.kg
@@ -6496,7 +6494,6 @@ kassy.kg
 kastamonu.kg
 kastom.kg
 kat.kg
-katalog.kg
 katarakta.kg
 kato.kg
 katok.kg
@@ -6712,7 +6709,6 @@ kjcc.kg
 kjd.kg
 kjk.kg
 kk.kg
-kkagaz.kg
 kkb.kg
 kkb24.kg
 kkc.kg
@@ -7215,7 +7211,6 @@ lescom.kg
 lesdrev.kg
 lesopoval.kg
 letai.kg
-leti.kg
 letoile.kg
 letolate.kg
 letsgo.kg
@@ -7445,6 +7440,7 @@ lpgroup.kg
 lrt.kg
 ls.kg
 lsim.kg
+lss.kg
 lt.kg
 ltd.kg
 lte.kg
@@ -8474,7 +8470,6 @@ nano.kg
 nanos.kg
 nanxing.kg
 nap-travel.kg
-naprokat.kg
 nardy.kg
 narod.kg
 narujka.kg
@@ -8558,7 +8553,6 @@ necessarythings.kg
 necropol.kg
 ned.kg
 nedra.kg
-nedvijimost.kg
 nefashion.kg
 neirasales.kg
 neirolife.kg
@@ -8944,7 +8938,6 @@ okradio.kg
 okros.kg
 oksicosmetic.kg
 oktan.kg
-oktrans.kg
 oku.kg
 okubasma.kg
 okuma.kg
@@ -9630,6 +9623,7 @@ pogruzchik.kg
 pohod.kg
 point.kg
 poisk.kg
+poiskzip.kg
 poizon.kg
 poizondrop.kg
 pokacourses.kg
@@ -10020,6 +10014,7 @@ railcommerce.kg
 railway.kg
 rainbow.kg
 rainbowsystem.kg
+rakasta.kg
 rakhmat.kg
 rama.kg
 ramadaresort.kg
@@ -11639,6 +11634,7 @@ taza.kg
 tazabek.kg
 tazabulak.kg
 tazakoom.kg
+tazalaym.kg
 tazaloo.kg
 tazalux.kg
 tazalyk.kg
@@ -11688,7 +11684,6 @@ techno.kg
 technobrand.kg
 technocave.kg
 technodom.kg
-technofoods.kg
 technogym-kg.kg
 technogym.kg
 technokampa.kg
@@ -12029,6 +12024,7 @@ took.kg
 tools.kg
 toot.kg
 tootash.kg
+top-tovar.kg
 top.kg
 top10.kg
 topactive.kg
@@ -12335,7 +12331,6 @@ twinkl.kg
 twins.kg
 twogo.kg
 twp.kg
-txt.kg
 tyanshansooda.kg
 tyanshansoodacompany.kg
 tylolhot.kg
@@ -12405,6 +12400,7 @@ ulevel.kg
 ulitka.kg
 ultra.kg
 ultrasport.kg
+ultratour.kg
 uluk-ata.kg
 ulukman.kg
 uluky.kg
@@ -12486,7 +12482,6 @@ unis.kg
 uniservice.kg
 unison.kg
 unisport.kg
-unistore.kg
 unistrade.kg
 unistream.kg
 unitap.kg
@@ -12898,6 +12893,7 @@ wb.kg
 wbmillion.kg
 wbmoney.kg
 wbqr.kg
+wcf.kg
 wcskis.kg
 wd.kg
 we.kg
@@ -13168,6 +13164,7 @@ yural-medical.kg
 yuras-pechati.kg
 yuren.kg
 yuria-pharm.kg
+yurist.kg
 yurkaganat.kg
 yurt.kg
 yurta.kg
