@@ -72,7 +72,6 @@
 043.id
 044.id
 045.id
-04503.id
 046.id
 047.id
 048.id
@@ -532,6 +531,7 @@
 1nusantara.id
 1parkgandaria.id
 1parkresidences.id
+1pena.id
 1percentautobody.id
 1percentbodyshop.id
 1percentgarage.id
@@ -798,7 +798,6 @@
 290.id
 291.id
 292.id
-29229.id
 293.id
 29371.id
 294.id
@@ -831,6 +830,7 @@
 2masterkiu.id
 2monline.id
 2rantai88.id
+2store.id
 2tang.id
 2tangslot.id
 2tcorner.id
@@ -1021,7 +1021,6 @@
 376.id
 377.id
 378.id
-37886.id
 379.id
 38.id
 380.id
@@ -1385,7 +1384,6 @@
 52vivo.id
 53.id
 530.id
-53025.id
 531.id
 532.id
 533.id
@@ -1645,7 +1643,6 @@
 68.id
 680.id
 681.id
-68197.id
 682.id
 683.id
 684.id
@@ -2311,7 +2308,6 @@
 997.id
 998.id
 999.id
-99976.id
 9999.id
 99999.id
 99advertising.id
