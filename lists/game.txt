@@ -482,6 +482,7 @@
 9bet.game
 9c.game
 9card.game
+9casino.game
 9d.game
 9e.game
 9f.game
@@ -517,7 +518,6 @@ a6.game
 a7.game
 a77.game
 a8.game
-a9.game
 aa.game
 aa999.game
 aaa.game
@@ -956,7 +956,6 @@ betjolly.game
 betkin.game
 betking.game
 betkr777.game
-betkrw.game
 betman.game
 betmarino.game
 betmaster.game
@@ -1011,7 +1010,6 @@ bettix.game
 bettor.game
 betufa.game
 betvn365.game
-betvnd.game
 betw.game
 betway.game
 betweb.game
@@ -1037,7 +1035,6 @@ bigbrother.game
 bigcrypto.game
 bigdaddy.game
 bigfoot.game
-biglotto.game
 bigmumbai.game
 bigplay.game
 bigtime.game
@@ -1174,6 +1171,7 @@ boulanger.game
 bounce.game
 boundless.game
 bounty.game
+bountygame.game
 bovada.game
 bovadacasino.game
 bovadafootball.game
@@ -1206,13 +1204,11 @@ brazino777.game
 brc.game
 breakthewall.game
 brgame.game
-brganhar.game
 brgo.game
 bridge.game
 brij.game
 bringthewar.game
 brisa.game
-brjogos.game
 brll.game
 bro.game
 brobig.game
@@ -1556,7 +1552,6 @@ cricketbet-99.game
 cricketbuzz.game
 crickex.game
 cricplus.game
-cricstar.game
 criminalempire.game
 crimsoncrisis.game
 critters.game
@@ -2120,6 +2115,7 @@ fastandfuriouscrossroads.game
 fastbreak.game
 fastmoney.game
 fathomverse.game
+favorite.game
 fb.game
 fb18.game
 fb333.game
@@ -2342,6 +2338,7 @@ geared.game
 geenius.game
 gekko.game
 gem.game
+gemfighter.game
 gemma.game
 gems.game
 gems365.game
@@ -2957,12 +2954,10 @@ k124.game
 k3.game
 k3game.game
 k59.game
-k6.game
 k66.game
 k689.game
 k7.game
 k8.game
-k9.game
 k9game.game
 k9play.game
 kabam.game
@@ -2984,7 +2979,6 @@ katies.game
 kazino.game
 kb.game
 kb88.game
-kcwin.game
 ke.game
 keep.game
 keeta.game
@@ -3002,7 +2996,6 @@ kfc.game
 kfcbet.game
 kg.game
 kg88.game
-kheloyaar.game
 kheloyar.game
 kickabout.game
 kickdom.game
@@ -3064,15 +3057,12 @@ kor.game
 kor11.game
 korwin.game
 kr.game
-kr333.game
 kraftaverse.game
 krafton.game
 krasnayapolyana.game
 krbet777.game
 krbetwin.game
 krosmaga.game
-krvip.game
-krwin.game
 krypton.game
 ks88.game
 ksa.game
@@ -3384,7 +3374,6 @@ mago.game
 mahadev-book.game
 mahadev.game
 mahadevbetting.game
-mahadevbook.game
 mahjong.game
 mailbox.game
 mailegend.game
@@ -3611,7 +3600,6 @@ mineisland.game
 mines.game
 minesweeper.game
 mini.game
-mini222.game
 mini555.game
 miniacs.game
 mining.game
@@ -4269,7 +4257,6 @@ pkbet.game
 pkluck.game
 plaion.game
 plaithe.game
-planet.game
 planet777.game
 planetabarangaroo.game
 planetamind.game
@@ -4446,7 +4433,6 @@ program.game
 project.game
 projectblacksaturn.game
 projectinfinity.game
-projectnorthstar.game
 promocode.game
 prompt.game
 prompts.game
@@ -4912,7 +4898,6 @@ skiller.game
 skimm.game
 skipp.game
 skoobee.game
-skwin.game
 sky.game
 sky247.game
 sky88.game
@@ -5506,7 +5491,6 @@ top1.game
 top10.game
 top7.game
 top88.game
-topbet.game
 topcasino.game
 topcgame.game
 topeleven.game
@@ -6005,10 +5989,12 @@ williamhillcasino.game
 win.game
 win101.game
 win11.game
+win199.game
 win2.game
 win2023.game
 win222.game
 win24.game
+win299.game
 win365.game
 win44.game
 win444.game
@@ -6034,18 +6020,15 @@ winkart.game
 winkyverse.game
 winline.game
 winlion.game
-winmy.game
 winner.game
 winng.game
 winpg.game
 winph.game
-winrm.game
 wins.game
 winspinity.game
 winto.game
 wintokens.game
 wintp.game
-winvn.game
 winwin.game
 winx100.game
 winxbet.game
