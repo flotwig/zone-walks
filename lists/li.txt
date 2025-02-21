@@ -391,7 +391,6 @@
 2bh.li
 2bi.li
 2cats-online.li
-2ch.li
 2chat.li
 2crn.li
 2do.li
@@ -1462,6 +1461,7 @@ acrylicon.li
 acs.li
 acservices.li
 acsg.li
+acspst.li
 act-led.li
 act.li
 acta.li
@@ -1846,7 +1846,6 @@ affa.li
 affe.li
 affeltranger.li
 affi.li
-affil.li
 affili.li
 affiliate.li
 affiliatego.li
@@ -1878,7 +1877,6 @@ afrotrain.li
 afry.li
 afs.li
 after.li
-afterlife.li
 afternic.li
 afterours.li
 afterparty.li
@@ -2709,6 +2707,8 @@ alpenfestung.li
 alpenfisch.li
 alpenfischen.li
 alpenfischer.li
+alpenglanz-liechtenstein.li
+alpenglanz.li
 alpenhaus.li
 alpenhennes.li
 alpenhotel.li
@@ -7237,7 +7237,6 @@ bikeunit.li
 bikeweb.li
 bikeworld-thomus.li
 bikeworld24.li
-bikini.li
 biko.li
 bil.li
 bila.li
@@ -7572,7 +7571,6 @@ bitshares.li
 bitsnip.li
 bitsolutions.li
 bitsy.li
-bitt.li
 bitter.li
 bitterfein.li
 bittner.li
@@ -9062,6 +9060,7 @@ btr.li
 btse.li
 btt.li
 bttlns.li
+bttly.li
 bttr.li
 bttt.li
 btuwz.li
@@ -10466,7 +10465,6 @@ cdc.li
 cdds.li
 cde.li
 cdf.li
-cdg.li
 cdl.li
 cdmediateam.li
 cdn.li
@@ -11212,7 +11210,6 @@ chuchichaescht.li
 chuchichaeschtli.li
 chuchichaest.li
 chuchichescht.li
-chuck.li
 chue.li
 chuech.li
 chufang.li
@@ -11864,6 +11861,7 @@ codes.li
 codeship.li
 codespaces.li
 codian.li
+coding.li
 codingswift.li
 codo.li
 cody.li
@@ -12456,7 +12454,6 @@ copyleft.li
 copyright.li
 copyrightbuy.li
 copyrightby.li
-copytrading.li
 copywriting.li
 coq.li
 coquer.li
@@ -13376,9 +13373,7 @@ cybwell.li
 cyc.li
 cycle.li
 cycleproject.li
-cycling-friendly.li
 cycling.li
-cyclingfriendly.li
 cyclone-cup.li
 cyclone.li
 cyclonecup.li
@@ -14792,6 +14787,7 @@ dietrich.li
 dietz.li
 dieu.li
 dieumweltbank.li
+dieunschuldsvermutung.li
 dieverwalterin.li
 diewerkstaette.li
 diexperten.li
@@ -19576,6 +19572,7 @@ fenster.li
 fensterbank-express.li
 fensterbank.li
 fensterfolien.li
+fensterfuchs.li
 fensterladen.li
 fenstermanufaktur.li
 fensterputzen.li
@@ -19968,6 +19965,7 @@ final.li
 finale.li
 finalefurioso.li
 finali.li
+finalit.li
 finalp.li
 finance-club.li
 finance-forum.li
@@ -22514,6 +22512,7 @@ gdns.li
 gdpr.li
 gds.li
 gdt.li
+gdziebo.li
 gea.li
 geag.li
 gear.li
@@ -23108,6 +23107,7 @@ ghrs.li
 ghst.li
 ghy.li
 ghz.li
+gi8.li
 gi88.li
 gia.li
 giacomel.li
@@ -24364,6 +24364,7 @@ grp.li
 grr.li
 grrr.li
 grs.li
+grsrv.li
 gru.li
 grub.li
 grube.li
@@ -24949,7 +24950,6 @@ hairport.li
 hairprint.li
 hairstudio.li
 hairtalk.li
-haitao.li
 haitzer.li
 haix.li
 haiyang.li
@@ -31219,6 +31219,7 @@ kania.li
 kanimo.li
 kann.li
 kannmotion.li
+kano.li
 kanoo.li
 kant.li
 kantonsfaehn.li
@@ -32563,7 +32564,6 @@ kongresszentrum.li
 kongs.li
 konicaminolta.li
 konigs.li
-konishi.li
 konkordia.li
 konkreet.li
 konkurs.li
@@ -39642,7 +39642,6 @@ mlb.li
 mlbx.li
 mlc.li
 mlcpj.li
-mld.li
 mle.li
 mlem.li
 mlg.li
@@ -41170,6 +41169,7 @@ n25.li
 n26.li
 n2a.li
 n2b.li
+n2k.li
 n3b.li
 n3t.li
 n3x.li
@@ -41204,7 +41204,6 @@ nachhaltige-entwicklung.li
 nachhaltigertourismus.li
 nachhaltiginvestieren.li
 nachhaltigkeitsstiftung.li
-nachhilfe-kids.li
 nachhilfe.li
 nachhilfeplus.li
 nachricht.li
@@ -43210,7 +43209,6 @@ ocn.li
 oco.li
 ocom.li
 ocoono.li
-ocr.li
 ocrevus.li
 oct-tuning.li
 octa.li
@@ -43906,6 +43904,7 @@ open-pilot.li
 open-to-act.li
 open.li
 open2act.li
+openai.li
 openalias.li
 openbanking.li
 openbc.li
@@ -44352,6 +44351,7 @@ oulunenergia.li
 ouo.li
 ouoia.li
 our.li
+ourfam.li
 out-of-the-box.li
 out.li
 outback.li
@@ -48782,6 +48782,7 @@ rapids.li
 rapidssl.li
 rapisarda.li
 rapp.li
+rappa.li
 rapt.li
 raptor.li
 rapunzel.li
@@ -49111,6 +49112,7 @@ recommend.li
 recommerce.li
 recon.li
 record.li
+recording.li
 records.li
 recordshop.li
 recoursee.li
@@ -52455,6 +52457,7 @@ schweizerethanol.li
 schweizerkapital.li
 schweizermarken.li
 schweizermusikzeitung.li
+schweizerpickleballverband.li
 schweizerprodukte.li
 schweizertee.li
 schwellung.li
@@ -55009,7 +55012,6 @@ sonnenkraft.li
 sonnenmarkt.li
 sonnenmoor.li
 sonnenplatz.li
-sonnenschein.li
 sonnenschicksal.li
 sonnenschutz-verkauf.li
 sonnenschutzfoilen-experten.li
@@ -56328,6 +56330,7 @@ sticker.li
 stickers.li
 stickmaschine.li
 stickprogramm.li
+stickstoff.li
 stickstoffmonoxid.li
 sticky.li
 stiefel.li
@@ -56588,7 +56591,6 @@ stream.li
 streamcomplet-vf.li
 streameast.li
 streaming.li
-streamingcommunity.li
 streamnation.li
 streamporn.li
 strebe.li
@@ -57228,7 +57230,6 @@ swarovskioptik.li
 swat-allround.li
 swat.li
 swatch.li
-swauto.li
 sway.li
 swaynutrition.li
 swb.li
@@ -61473,7 +61474,6 @@ unisport.li
 unisportstore.li
 unisto.li
 unit.li
-unitas.li
 unitatis.li
 unite.li
 united-domains.li
@@ -61834,7 +61834,6 @@ v13.li
 v2krn.li
 v2tun.li
 v3d.li
-v3g.li
 v9bet.li
 vaadata.li
 vaadin.li
@@ -62239,6 +62238,7 @@ ventum-movens.li
 ventum.li
 ventuno.li
 ventura.li
+venture-capital.li
 venture.li
 venturecapital.li
 ventures.li
@@ -62727,7 +62727,6 @@ vinci.li
 vinconsult.li
 vinculum.li
 vind.li
-vindeberne.li
 vindexa.li
 vindpanel.li
 vine.li
@@ -63905,6 +63904,7 @@ waterworld.li
 watery.li
 watewit.li
 watr.li
+watsch.li
 watson.li
 watt.li
 wattss.li
@@ -66178,6 +66178,7 @@ xn--ch-wia.li
 xn--chatze-hs-x9a.li
 xn--ches-moa.li
 xn--chienbse-5za.li
+xn--chlber-dua.li
 xn--chlpper-p2a.li
 xn--chnpf-lua.li
 xn--chochichscht-ncb.li
@@ -68147,6 +68148,7 @@ zanussi.li
 zanzariere.li
 zanzi.li
 zanzisol.li
+zao.li
 zaoando.li
 zaolando.li
 zap.li
