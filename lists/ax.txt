@@ -2246,7 +2246,6 @@ kw.ax
 kx.ax
 kyndryl.ax
 kyrkor.ax
-l1.ax
 l33th.ax
 l7.ax
 la.ax
@@ -3553,7 +3552,6 @@ solberget.ax
 solceller.ax
 solel.ax
 solenergi.ax
-solhagen.ax
 solidcap.ax
 solklart.ax
 solkraft.ax
@@ -3973,7 +3971,6 @@ upnorth.ax
 upphandlingsinspektionen.ax
 upstate.ax
 ur.ax
-urb.ax
 urbanfarm.ax
 url.ax
 us.ax
@@ -4148,6 +4145,7 @@ web.ax
 web3.ax
 webb.ax
 webbhotellet.ax
+webbiz.ax
 webbsolut.ax
 webbutiken.ax
 weber.ax
