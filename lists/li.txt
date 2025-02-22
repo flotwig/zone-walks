@@ -3400,6 +3400,7 @@ anjostinvestment.li
 anju.li
 anka-gastro.li
 anka.li
+ankarberg.li
 ankauf-autos.li
 ankauf.li
 anke.li
@@ -3758,6 +3759,7 @@ appsoluce.li
 appstore.li
 appt.li
 apptag.li
+apptax.li
 apptelemetry.li
 apptest.li
 apptocloud.li
@@ -3784,6 +3786,7 @@ aps.li
 apsgroup.li
 apt.li
 apta.li
+aptax.li
 apteka.li
 aptonia.li
 aptos.li
@@ -7469,7 +7472,6 @@ birch.li
 bircher.li
 birchler.li
 bird-off.li
-bird.li
 birdie.li
 birdoff.li
 birdy.li
@@ -9535,6 +9537,7 @@ bxr.li
 bxs.li
 bxswiss.li
 by-nextdoor.li
+byanne.li
 byb.li
 bye.li
 byebye.li
@@ -9677,6 +9680,7 @@ caheotv.li
 cahuu.li
 cai.li
 caiac.li
+caib.li
 caio.li
 cairos.li
 caissa.li
@@ -15008,6 +15012,7 @@ diners.li
 dinersclub.li
 ding.li
 dingapprentice.li
+dingeausholz.li
 dinges.li
 dinghao.li
 dingsbums.li
@@ -19951,7 +19956,6 @@ fima-tech.li
 fima.li
 fimaco-consulting.li
 fimaco.li
-fimadent.li
 fiman.li
 fimatest.li
 fin-trade.li
@@ -22542,6 +22546,7 @@ gebr-lampert.li
 gebrauchsgraphik.li
 gebrauchtwagen.li
 gebuehrenmarken.li
+geburtsglueck.li
 geburtstafel.li
 geburtstag.li
 geburtstage.li
@@ -27136,7 +27141,6 @@ hoyos.li
 hoyoverse.li
 hozag.li
 hp-basic.li
-hpa.li
 hpal.li
 hpc-shop.li
 hpc.li
@@ -29201,7 +29205,6 @@ invia.li
 invictus.li
 invisalign.li
 invisia.li
-invisib.li
 invisible.li
 invisibobble.li
 invit.li
@@ -30098,6 +30101,7 @@ jentschura.li
 jeong.li
 jepaieenespeces.li
 jeppsson.li
+jer.li
 jeremias.li
 jeremy.li
 jericho.li
@@ -33308,6 +33312,9 @@ kursino.li
 kursleiter.li
 kursleiterregister.li
 kurt-kaelin.li
+kurt-tepperwein-academy.li
+kurt-tepperwein-akademie.li
+kurt-tepperwein.li
 kurt.li
 kurth.li
 kurtkaelin.li
@@ -33547,7 +33554,6 @@ lae.li
 laecker.li
 laede.li
 laemmermann.li
-laendle-dj.li
 laendle-ferienjob.li
 laendle-fs.li
 laendle.li
@@ -35707,7 +35713,6 @@ ljr.li
 ljv.li
 ljw.li
 ljz.li
-lk21.li
 lka.li
 lkbv.li
 lkf.li
@@ -43160,7 +43165,6 @@ obloc.li
 obo-bettermann.li
 obo.li
 obofi.li
-obot.li
 obrist.li
 obscure.li
 obsd.li
@@ -45114,6 +45118,7 @@ paynow.li
 payone.li
 payover.li
 paypal.li
+paypalworld.li
 payperwear.li
 payplan.li
 payprop.li
@@ -46831,7 +46836,6 @@ popeye.li
 popken.li
 popova.li
 popp.li
-poppay.li
 poppen.li
 poppers-shop.li
 poppers.li
@@ -47084,6 +47088,7 @@ ppt.li
 pptfo.li
 pptpro.li
 ppv.li
+ppworld.li
 pqb.li
 pqm.li
 pr-fuer-kmu.li
@@ -49665,7 +49670,6 @@ restaurantvivid.li
 restaurator.li
 resteshop.li
 restle.li
-resto.li
 restobrocafe.li
 restorate.li
 restorfx.li
@@ -53649,7 +53653,6 @@ sibyl.li
 sibylleeberle.li
 sic.li
 sicadvisory.li
-sical.li
 sicheng.li
 sicher-mailen.li
 sicher-test.li
@@ -55012,6 +55015,7 @@ sonnenkraft.li
 sonnenmarkt.li
 sonnenmoor.li
 sonnenplatz.li
+sonnenschein.li
 sonnenschicksal.li
 sonnenschutz-verkauf.li
 sonnenschutzfoilen-experten.li
@@ -56801,6 +56805,7 @@ stvarians.li
 stw.li
 stwe.li
 stwolfgang.li
+stx.li
 sty.li
 styger.li
 style.li
@@ -56946,7 +56951,6 @@ summus.li
 sumo.li
 sumochi.li
 sumpfkalk.li
-sumup.li
 sun-bank.li
 sun-bond.li
 sun-contracting-invest.li
@@ -57273,6 +57277,7 @@ swicarainbow.li
 swicashop.li
 swif.li
 swiff.li
+swift.li
 swiftcare.li
 swiftly.li
 swiftmail.li
@@ -58597,6 +58602,7 @@ telia.li
 teliasonera.li
 telidis.li
 telihosting.li
+telios.li
 telisupport.li
 telito.li
 telka.li
@@ -60487,6 +60493,7 @@ trivalite.li
 trive.li
 trivent.li
 triversum.li
+trivial.li
 trivium-group.li
 trivolution-praxis.li
 triwdata.li
@@ -60595,6 +60602,7 @@ truepartner.li
 truesource.li
 truesteel.li
 truetsch.li
+trueturn.li
 truevalue.li
 truevo.li
 trufa.li
@@ -60833,8 +60841,6 @@ tunisie.li
 tunne.li
 tunnel.li
 tunnelbroker.li
-tunnistautuminen-suomi-fi.li
-tunnistautuminen-suomi.li
 tunturi.li
 tuo.li
 tuonome.li
@@ -61432,6 +61438,7 @@ unimex.li
 unimouse.li
 uninorm.li
 uninu.li
+union.li
 unionbau.li
 uniondale.li
 uniondaletaxi.li
@@ -62024,6 +62031,7 @@ vantosh.li
 vanvaan.li
 vanvitel.li
 vao-sicav.li
+vape.li
 vapeq.li
 vapestreams.li
 vapiano.li
@@ -66742,6 +66750,7 @@ xn--pfffli-cua.li
 xn--pfhrassler-fcb.li
 xn--pflnz-ira.li
 xn--pflzer-htte-m8a23a.li
+xn--pflzerhtte-r5a70a.li
 xn--pft-tna.li
 xn--phte-6qa.li
 xn--pi-pka.li
