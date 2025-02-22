@@ -326,6 +326,7 @@ adisprof.kg
 adissan.kg
 adixi.kg
 adkin.kg
+adkulan.kg
 adm.kg
 admax.kg
 admin.kg
@@ -665,6 +666,7 @@ alatoocinema.kg
 alatoohydro.kg
 alatoologistic.kg
 alatoomoto.kg
+alatower.kg
 alatown.kg
 alawar.kg
 alay.kg
@@ -771,6 +773,7 @@ alliance-press.kg
 alliance-print.kg
 alliance-sert.kg
 alliance.kg
+allianceplus.kg
 allianz.kg
 allieduniversal.kg
 alligator.kg
@@ -965,7 +968,6 @@ antimonopolia.kg
 antivor.kg
 anto.kg
 antre.kg
-ants.kg
 anturaj.kg
 anura.kg
 anymunu.kg
@@ -1077,7 +1079,6 @@ archeo.kg
 archigroup.kg
 archilab.kg
 architech.kg
-archive.kg
 arcokomerco.kg
 arcus.kg
 ardager-karakol.kg
@@ -1221,7 +1222,6 @@ asiafin.kg
 asiafinance.kg
 asiageo.kg
 asiagroup.kg
-asiahotel.kg
 asiainfo.kg
 asiainvest.kg
 asialack.kg
@@ -3479,6 +3479,7 @@ digit.kg
 digital.kg
 digitalaspect.kg
 digitalassets.kg
+digitalcapital.kg
 digitalcash.kg
 digitaleconomy.kg
 digitalization.kg
@@ -3490,6 +3491,7 @@ dilbartextile.kg
 diligencegroup.kg
 dilli-neo.kg
 dinamo.kg
+dinbilim.kg
 dingo.kg
 dinlin.kg
 dino.kg
@@ -4335,6 +4337,7 @@ evacuator.kg
 evacuatorsokol.kg
 evacuatorsokol140.kg
 evakuator-garant.kg
+evakuator-pro.kg
 evakuator-team.kg
 evakuator.kg
 evakuator24.kg
@@ -5623,7 +5626,6 @@ husqvarna-motorcycles.kg
 husson.kg
 hwca-damfa.kg
 hyatt.kg
-hybridservice.kg
 hydra.kg
 hydroenergetica.kg
 hydrosystems.kg
@@ -5668,6 +5670,7 @@ icapapps.kg
 icaravan.kg
 icargo.kg
 icaros.kg
+icb.kg
 icc.kg
 icca.kg
 icde.kg
@@ -5964,11 +5967,13 @@ interflora.kg
 interglass.kg
 interhotel.kg
 interima.kg
+interio.kg
 interior.kg
 interiorexpo.kg
 interiorstroy.kg
 interlink.kg
 interlinks.kg
+interlogistics.kg
 intermedia.kg
 intermedical.kg
 internationalroutes.kg
@@ -6709,6 +6714,7 @@ kirland.kg
 kirpi.kg
 kirpich.kg
 kiss.kg
+kit-forum.kg
 kit.kg
 kitaiskaya-lavka.kg
 kitchen.kg
@@ -7716,7 +7722,6 @@ maxmart.kg
 maxmetall.kg
 maxnet.kg
 maxsoft.kg
-maxus.kg
 maxzone.kg
 may24.kg
 mayakbishkek.kg
@@ -8168,6 +8173,7 @@ mmugalim.kg
 mnenie.kg
 mnogo.kg
 mnogosushi.kg
+mnu.kg
 mnv.kg
 mo.kg
 moalem.kg
@@ -8501,6 +8507,7 @@ nano.kg
 nanos.kg
 nanxing.kg
 nap-travel.kg
+naprokat.kg
 nardy.kg
 narod.kg
 narujka.kg
@@ -9155,7 +9162,6 @@ oriontrans.kg
 orlovka.kg
 ormatt.kg
 ormed.kg
-ormk.kg
 ornithologia.kg
 orocaffe.kg
 oropay.kg
@@ -9491,6 +9497,7 @@ piala.kg
 piano.kg
 piazzadoro.kg
 pickwick.kg
+pie.kg
 pierre.kg
 pik.kg
 pikir-klub.kg
@@ -9595,7 +9602,6 @@ plastguard.kg
 plastic-surgery.kg
 plastic.kg
 plastilux.kg
-platforma.kg
 platformone.kg
 plath.kg
 platinka.kg
@@ -10477,6 +10483,7 @@ saima4g.kg
 saimachy.kg
 saimanet.kg
 saimatelecom.kg
+saimedia.kg
 saint-gobain.kg
 saintgobain.kg
 sairan.kg
@@ -11262,7 +11269,6 @@ ssc.kg
 ssg.kg
 ssi.kg
 ssooda.kg
-sss.kg
 sstroy.kg
 st-art.kg
 st.kg
@@ -11861,7 +11867,6 @@ testservice.kg
 testter.kg
 tetik.kg
 tetrapak.kg
-tew.kg
 texaco.kg
 texgroup.kg
 texmart.kg
@@ -12347,7 +12352,6 @@ turnikman.kg
 turpanstroy.kg
 tursunbaev.kg
 tursunbekov.kg
-turtle.kg
 turusbekov.kg
 tushtuk.kg
 tut.kg
@@ -12366,6 +12370,7 @@ twinkl.kg
 twins.kg
 twogo.kg
 twp.kg
+txt.kg
 tyanshansooda.kg
 tyanshansoodacompany.kg
 tylolhot.kg
@@ -12441,7 +12446,6 @@ ulukman.kg
 uluky.kg
 ulut.kg
 uluttuksport.kg
-uluu-too.kg
 ulysses.kg
 uma.kg
 umag-kyrgyzstan.kg
@@ -12471,7 +12475,6 @@ unaa.kg
 unaagroup.kg
 unaahub.kg
 unaatest.kg
-uncia.kg
 underberg.kg
 undies.kg
 undiz.kg
@@ -12567,7 +12570,6 @@ urology.kg
 urpak.kg
 urta.kg
 uruk.kg
-us.kg
 usa.kg
 usd.kg
 usdt.kg
@@ -12614,6 +12616,7 @@ vaimport.kg
 vak.kg
 valemotors.kg
 valencia.kg
+valfex.kg
 valor-air.kg
 valtec.kg
 valueswich.kg
@@ -13078,13 +13081,14 @@ wsc.kg
 wt.kg
 wtp.kg
 wts.kg
-wuling.kg
 wurth.kg
 ww.kg
 wwenetwork.kg
 wwgroup.kg
 wws-wasserkraft.kg
 www.kg
+wyndham.kg
+wyndhamresidensebishkek.kg
 x-can.kg
 x-ray.kg
 x-tech.kg
