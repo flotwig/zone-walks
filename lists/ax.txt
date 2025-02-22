@@ -93,7 +93,6 @@
 65262.ax
 65263.ax
 6547.ax
-666.ax
 67523.ax
 678.ax
 67816.ax
@@ -1397,6 +1396,7 @@ fixso.ax
 fjader.ax
 fk.ax
 fl.ax
+fleming.ax
 flexens.ax
 flisofisk.ax
 flodin.ax
@@ -1490,6 +1490,7 @@ fulh.ax
 fundler.ax
 funkoto.ax
 funktionsrattaland.ax
+furuborg.ax
 furulundsgarden.ax
 futureh.ax
 futureyou.ax
@@ -3552,6 +3553,7 @@ solberget.ax
 solceller.ax
 solel.ax
 solenergi.ax
+solhagen.ax
 solidcap.ax
 solklart.ax
 solkraft.ax
@@ -3860,7 +3862,6 @@ token.ax
 tolk.ax
 tom.ax
 tomsun.ax
-ton.ax
 tonight.ax
 top.ax
 torero.ax
