@@ -133,7 +133,7 @@
       "zone": "xn--pgbs0dh"
     },
     {
-      "domains": "545",
+      "domains": "546",
       "zone": "lr"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4913643"
+  "total": "4913644"
 }
