@@ -184,6 +184,7 @@
 1001slot.id
 1001slots.id
 1001togel.id
+1001toto.id
 10061.id
 10062.id
 100marathonclub.id
@@ -260,7 +261,6 @@
 11xbet.id
 12.id
 120.id
-121-lm.id
 121.id
 1212-fstvl111.id
 1214m.id
@@ -1899,6 +1899,7 @@
 7picphotobooth.id
 7piramid.id
 7pmnews.id
+7puffbar.id
 7r8mg74.id
 7rader.id
 7rewards.id
@@ -2384,7 +2385,6 @@ a3group.id
 a3jni.id
 a3lawfirm.id
 a3net.id
-a3rdesaininterior.id
 a3transport.id
 a4clutch.id
 a99bet.id
