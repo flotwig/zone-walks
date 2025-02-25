@@ -76,7 +76,6 @@ bollo.auto
 boston.auto
 bot.auto
 brose.auto
-buhler.auto
 byd.auto
 car.auto
 carfi.auto
@@ -201,6 +200,7 @@ gpb.auto
 gpt.auto
 greenlight.auto
 gsm.auto
+guide.auto
 gumtree.auto
 gxpress.auto
 gyde.auto
@@ -301,7 +301,6 @@ neom.auto
 netdirector.auto
 netprophet.auto
 netto.auto
-newjersey.auto
 newroads.auto
 nexteer.auto
 nextev.auto
