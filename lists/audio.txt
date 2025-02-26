@@ -828,7 +828,6 @@ cc3k.audio
 cd-adventskalender.audio
 celerity.audio
 cell.audio
-cellardoor.audio
 cello.audio
 centerstage.audio
 centralflorida.audio
@@ -1687,6 +1686,7 @@ fun.audio
 funktion-one.audio
 funkwhale.audio
 fur.audio
+fusion.audio
 fussball.audio
 future.audio
 futurebass.audio
@@ -3885,6 +3885,7 @@ sizzle.audio
 skazki.audio
 skeleton.audio
 sketch.audio
+skin.audio
 sklep.audio
 skokka.audio
 skylight.audio
