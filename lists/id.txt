@@ -51,7 +51,6 @@
 027.id
 028.id
 029.id
-02prabowo-gibran.id
 02tactical.id
 03.id
 030.id
@@ -548,6 +547,7 @@
 1tempat.id
 1testore.id
 1toccm.id
+1toko.id
 1toto.id
 1university.id
 1up.id
@@ -1040,8 +1040,6 @@
 392.id
 393.id
 39383938.id
-393855.id
-393899.id
 394.id
 395.id
 396.id
@@ -2105,6 +2103,7 @@
 8bet.id
 8bits.id
 8bitsqu.id
+8clean.id
 8cognitive.id
 8dimensikepemimpinan.id
 8ehradioitb.id
