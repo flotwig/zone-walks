@@ -471,7 +471,6 @@
 19dewahoki.id
 19winterslot.id
 1acc4d.id
-1amin.id
 1asia.id
 1auth.id
 1bandar.id
@@ -554,7 +553,9 @@
 1vision.id
 1watch.id
 1win-bet.id
+1win-btc.id
 1win-casino.id
+1win-crypto-casino.id
 1win-id.id
 1win-indo.id
 1win-indonesia.id
@@ -563,6 +564,7 @@
 1win-online.id
 1win-pro.id
 1win-token.id
+1win-vip.id
 1win.id
 1win1.id
 1winapp.id
@@ -691,7 +693,6 @@
 237.id
 238.id
 239.id
-239574.id
 23986.id
 23paskal.id
 23publishing.id
@@ -908,7 +909,6 @@
 343.id
 344.id
 345.id
-345172.id
 346.id
 347.id
 348.id
@@ -1351,6 +1351,7 @@
 51661.id
 518.id
 519.id
+51live.id
 51qbiz.id
 51slot.id
 51talk.id
@@ -1693,7 +1694,6 @@
 718.id
 71807.id
 719.id
-719354.id
 71958.id
 72.id
 720.id
@@ -1779,6 +1779,7 @@
 774.id
 775.id
 77546.id
+77569.id
 776.id
 777-ome.id
 777-omo.id
