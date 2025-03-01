@@ -458,6 +458,7 @@ academieduservice.ci
 academiss.ci
 acas.ci
 acasfoot.ci
+acb.ci
 accd.ci
 accesevent.ci
 accessmonde.ci
@@ -695,7 +696,6 @@ agd.ci
 agedi.ci
 agef.ci
 agefop.ci
-agekaf.ci
 agena.ci
 agence-axa-privilege.ci
 agence-iris.ci
@@ -1923,6 +1923,7 @@ bni.ci
 bnifinances.ci
 bnigestion.ci
 bnionline.ci
+bnpvs.ci
 bo.ci
 boa.ci
 bobyshop.ci
@@ -2596,6 +2597,7 @@ china.ci
 chl.ci
 chn.ci
 chocathe.ci
+choco.ci
 chocolat.ci
 chocolate-academy.ci
 chocolateacademy.ci
