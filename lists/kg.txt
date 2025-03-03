@@ -73,7 +73,6 @@
 220city.kg
 220v.kg
 220volt.kg
-24.kg
 2444.kg
 247.kg
 24kitchen.kg
@@ -785,7 +784,6 @@ allpass.kg
 allplay.kg
 allsoft.kg
 allterra.kg
-allur.kg
 allyl.kg
 alma.kg
 almacom.kg
@@ -1101,7 +1099,6 @@ argumentmedia.kg
 arh.kg
 arhimed.kg
 arico.kg
-arigato.kg
 arikalab.kg
 arinos.kg
 arion.kg
@@ -1153,7 +1150,6 @@ articon.kg
 artindustry.kg
 artis-logistics.kg
 artistry.kg
-artlux.kg
 artmax.kg
 artmodern.kg
 artmuseum.kg
@@ -2484,7 +2480,6 @@ bubnovsky.kg
 bud.kg
 buddhism.kg
 buderus.kg
-budget.kg
 budweiser.kg
 buettner.kg
 buffet.kg
@@ -3353,7 +3348,6 @@ delovoisobesednik.kg
 delta.kg
 deltaclinic.kg
 deltamedical.kg
-deltatech.kg
 delur.kg
 dem.kg
 demagro.kg
@@ -4460,7 +4454,6 @@ facecode.kg
 fachwerk.kg
 fackelmann.kg
 factcheck.kg
-factory.kg
 fafa.kg
 fagg.kg
 fairyprof.kg
@@ -5280,7 +5273,6 @@ greenway-global.kg
 greenwayglobal.kg
 greenwaystart.kg
 greenwest.kg
-greenyard.kg
 grenki.kg
 grentis.kg
 grey.kg
@@ -5640,6 +5632,8 @@ hyundai-autodom.kg
 hyundai-ce.kg
 hyundai-kyrgyzstan.kg
 hyundai.kg
+hyundaielevator.kg
+hyundailift.kg
 hz.kg
 i-kul.kg
 i-tex.kg
@@ -5946,7 +5940,6 @@ insurance.kg
 insurancebakai.kg
 insurancepolicy.kg
 intant.kg
-intech.kg
 integra.kg
 integradev.kg
 intel-logistic.kg
@@ -6923,7 +6916,6 @@ ksb.kg
 ksbc.kg
 kse-trade.kg
 kse.kg
-ksh.kg
 ksk.kg
 ksla.kg
 ksma.kg
@@ -6970,7 +6962,6 @@ kuluk.kg
 kuluke.kg
 kumdang-2.kg
 kumir.kg
-kumshagyl.kg
 kumtor.kg
 kumtorgames.kg
 kumtorzoloto.kg
@@ -7116,6 +7107,7 @@ lalatravel.kg
 lalelu.kg
 laletty.kg
 lalofo.kg
+lama.kg
 lamaisonduvoyageur.kg
 lambdazond.kg
 laminam.kg
@@ -8248,7 +8240,6 @@ mormons.kg
 moroz.kg
 moskitniesetki.kg
 moskvich.kg
-mosmebel.kg
 most.kg
 mostbet-casino.kg
 mostbet-pro.kg
@@ -8996,7 +8987,6 @@ olymp.kg
 olympbet.kg
 olympfinanceplus.kg
 olympiads.kg
-olympic.kg
 olympus.kg
 om.kg
 oman.kg
@@ -9405,7 +9395,6 @@ pediatr.kg
 pegas-logistics.kg
 pegas.kg
 pegaslogistics.kg
-pegast.kg
 pegasusairlines.kg
 pegasustrans.kg
 peklo.kg
@@ -9441,7 +9430,6 @@ permanent.kg
 personagrata.kg
 perspective.kg
 perspectivepharm.kg
-pervomaiskiy.kg
 pervostroy.kg
 pesco.kg
 peta.kg
@@ -9789,7 +9777,6 @@ primecap.kg
 primeelectric.kg
 primefinance.kg
 primegarant.kg
-primeholding.kg
 primeinvest.kg
 primembt.kg
 primeservice.kg
@@ -10345,7 +10332,6 @@ romashka.kg
 ronipizza.kg
 roof.kg
 roofwindow.kg
-room.kg
 root.kg
 roqed.kg
 rosagres.kg
@@ -10414,7 +10400,6 @@ rubikon.kg
 rubt.kg
 rufina.kg
 ruh.kg
-ruhaniat.kg
 ruhesh.kg
 rui.kg
 ruijie.kg
@@ -10555,7 +10540,6 @@ sanjyra.kg
 sanjyramuseum.kg
 sanosan.kg
 santehbish.kg
-santehelectric.kg
 santehmarket.kg
 santehmaster.kg
 santehnica-shop.kg
@@ -10984,7 +10968,6 @@ slot.kg
 slot777.kg
 slovo.kg
 slp.kg
-sluh.kg
 slushboom.kg
 sm.kg
 smagroup.kg
@@ -11348,7 +11331,6 @@ sto.kg
 sto312.kg
 stockmeier-food.kg
 stoika.kg
-stoleshnica.kg
 stolicagroup.kg
 stolike.kg
 stoloto.kg
@@ -11607,7 +11589,6 @@ tandoo.kg
 tangaroa-co.kg
 tanit.kg
 tansu.kg
-tantal-oc.kg
 tao.kg
 taobao.kg
 taododo.kg
@@ -11872,10 +11853,8 @@ textile.kg
 teyes.kg
 tez-kabar.kg
 tez-suu.kg
-tez.kg
 tezakcha.kg
 tezauto.kg
-tezcargo.kg
 tezchange.kg
 tezcom.kg
 tezdik.kg
@@ -12450,7 +12429,6 @@ umbrella.kg
 umc.kg
 umg.kg
 ummadesign.kg
-ummamag.kg
 ummapizza.kg
 umnyashka.kg
 umra.kg
