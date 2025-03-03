@@ -202,7 +202,6 @@
 1010dry.id
 1011.id
 1011event.id
-101cara.id
 101co.id
 101internet.id
 101kfe.id
@@ -1255,7 +1254,6 @@
 48.id
 480.id
 481.id
-48125.id
 482.id
 483.id
 484.id
@@ -1268,7 +1266,6 @@
 49.id
 490.id
 491.id
-49175.id
 492.id
 493.id
 494.id
@@ -1555,7 +1552,6 @@
 63363.id
 634.id
 635.id
-63571.id
 636.id
 637.id
 638.id
@@ -1672,7 +1668,6 @@
 705.id
 706.id
 707.id
-707co.id
 707insider.id
 707store.id
 708.id
@@ -1857,7 +1852,6 @@
 7artisans.id
 7artmedia.id
 7asosiasi.id
-7ball.id
 7cakra.id
 7cloud.id
 7colours.id
@@ -1959,7 +1953,6 @@
 83.id
 830.id
 831.id
-83169.id
 832.id
 833.id
 834.id
@@ -2194,7 +2187,6 @@
 93.id
 930.id
 931.id
-93157.id
 932.id
 933.id
 934.id
