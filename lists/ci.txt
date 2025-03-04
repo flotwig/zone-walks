@@ -1072,6 +1072,7 @@ anyama.ci
 ao.ci
 ap.ci
 apaafrica.ci
+apaci.ci
 apatam.ci
 apave.ci
 apc.ci
@@ -1930,6 +1931,7 @@ boccard.ci
 boconcept.ci
 bocoum.ci
 boe.ci
+bofum.ci
 bogazi.ci
 bognan.ci
 bogolan.ci
@@ -2822,6 +2824,7 @@ cloudexchange.com.ci
 cloudnative.ci
 cloudpbx.ci
 cloudsmith.ci
+cloudstudio.ci
 cloudtelecom.ci
 cls.ci
 club-snci.ci
@@ -2918,7 +2921,6 @@ codci.ci
 codcouleur.ci
 code.ci
 codedelaroute.ci
-codedu.ci
 codef.ci
 codefacile.ci
 codelab.ci
