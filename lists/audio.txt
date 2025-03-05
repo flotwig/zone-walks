@@ -165,6 +165,7 @@ akasha.audio
 akouo.audio
 akoustic.audio
 akoustyx.audio
+al.audio
 alanbruce.audio
 alarabiya.audio
 albatros.audio
@@ -618,7 +619,6 @@ bitaccurate.audio
 bitcoin.audio
 bitdepth.audio
 bitstream.audio
-bittner.audio
 bizcast.audio
 bizcastz.audio
 bj88.audio
@@ -1533,6 +1533,7 @@ ferrie.audio
 ferrum.audio
 ffw.audio
 ffwd.audio
+fiamusic.audio
 fiat.audio
 fidbak.audio
 fidelity.audio
@@ -3888,7 +3889,6 @@ sixten.audio
 sizzle.audio
 skazki.audio
 skeleton.audio
-sketch.audio
 skin.audio
 sklep.audio
 skokka.audio
@@ -4620,6 +4620,7 @@ vnyl.audio
 vobbe.audio
 vocap.audio
 voccom.audio
+voco.audio
 vodicka.audio
 voicas.audio
 voice-over.audio
