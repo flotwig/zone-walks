@@ -1853,6 +1853,7 @@ hwtextil.ax
 hx.ax
 hy.ax
 hyper.ax
+hypr.ax
 hyr.ax
 hyra.ax
 hyran.ax
@@ -4221,6 +4222,7 @@ wrl.ax
 ws.ax
 wsn.ax
 wt.ax
+wtfh.ax
 wu.ax
 wulffbeltton.ax
 wurma.ax
