@@ -1033,6 +1033,7 @@
 388sport.id
 389.id
 389poker.id
+389sports.id
 39.id
 390.id
 391.id
@@ -1828,6 +1829,7 @@
 789clubb.id
 789clubs.id
 789win.id
+78bet.id
 78farm.id
 78toto.id
 78win.id
