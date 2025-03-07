@@ -19,7 +19,6 @@ ampere.cars
 android.cars
 apple.cars
 arizona.cars
-armored.cars
 auction.cars
 auction4.cars
 autonation.cars
@@ -275,6 +274,7 @@ visa.cars
 volkswagen.cars
 volvo.cars
 walmart.cars
+wash.cars
 waymo.cars
 waze.cars
 webuy.cars
