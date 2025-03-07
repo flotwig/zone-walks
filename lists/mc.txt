@@ -496,7 +496,6 @@ breitling.mc
 brezzo.mc
 bricocenter.mc
 bricopro.mc
-bridgemarine.mc
 brisdaneconsulting.mc
 british-motors.mc
 britishconsulate.mc
@@ -540,6 +539,7 @@ cadastresolaire.mc
 caeso.mc
 cafe-de-paris.mc
 cafemai.mc
+cafesemplice.mc
 caffemilano.mc
 caisse-monegasque-retraite-complementaire.mc
 caisse-monegasque-retraites-complementaires.mc
@@ -1024,7 +1024,12 @@ eclosing.mc
 ecm.mc
 ecobati.mc
 ecoenergyworld.mc
+ecole-condamine.mc
+ecole-fontvieille.mc
+ecole-parc.mc
+ecole-revoires.mc
 ecole-stcharles.mc
+ecole-stella.mc
 ecole-stmaur.mc
 ecometal.mc
 econamo.mc
@@ -1175,7 +1180,6 @@ falconcapital.mc
 falconproperties.mc
 falconstema.mc
 fam.mc
-famadem.mc
 familycapitalmanagement.mc
 fanb.mc
 fandfmonaco.mc
@@ -1557,7 +1561,6 @@ id-scope.mc
 ideamonaco.mc
 ideaworks.mc
 idharmony.mc
-idice.mc
 idm.mc
 ies.mc
 iet.mc
@@ -1593,6 +1596,7 @@ indemer.mc
 indesign.mc
 inditex.mc
 indochine.mc
+indus.mc
 industries-de-monaco.mc
 infinite-monte-carlo.mc
 infinitycap.mc
@@ -1614,6 +1618,7 @@ infosecurityservices.mc
 infotel.mc
 infotrafic.mc
 ingebat.mc
+ingema-mc.mc
 ingenierie-energie.mc
 ingenium.mc
 ingetec.mc
@@ -1918,6 +1923,7 @@ luxpro.mc
 luxtrust.mc
 luxurymarketingconnectmonaco.mc
 lycee-albert1er.mc
+lycee-rainier3.mc
 lycee-technique.mc
 lyne-consulting.mc
 m-2.mc
@@ -2082,7 +2088,6 @@ mcr.mc
 mcrtv.mc
 mcsante.mc
 mcscmanagement.mc
-mcservices.mc
 mcsm.mc
 mcss.mc
 mcstaff.mc
@@ -2941,7 +2946,6 @@ propertyconceptmonaco.mc
 prospectplus.mc
 protea.mc
 protech.mc
-psb.mc
 psm.mc
 psrh.mc
 publicreations.mc
