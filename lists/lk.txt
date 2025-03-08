@@ -65,7 +65,6 @@
 24solar.lk
 24x7.lk
 24x7care.lk
-2dweb.lk
 2plusinfo.lk
 2r.lk
 2rglobal.lk
@@ -94,6 +93,7 @@
 360places.lk
 360property.lk
 360realestate.lk
+360tech.lk
 360videobooth.lk
 360videotours.lk
 360view.lk
@@ -112,6 +112,8 @@
 3ctech.lk
 3cx.lk
 3d.lk
+3dcrystal.lk
+3dcrystals.lk
 3deem.lk
 3deyecare.lk
 3dforge.lk
@@ -120,6 +122,7 @@
 3dhbuildingsolutions.lk
 3dhealthcare.lk
 3dhengineering.lk
+3dhgroup.lk
 3dhins.lk
 3dhome.lk
 3dhomeproducts.lk
@@ -143,8 +146,6 @@
 3mactive.lk
 3mcompany.lk
 3me.lk
-3mpost-it.lk
-3mscotch-brite.lk
 3pxnv622vjin.24.lk
 3qlk.lk
 3rdi.lk
@@ -298,7 +299,6 @@ aact.lk
 aadai.lk
 aadaraya.lk
 aadhira.lk
-aadhya.lk
 aadithya.lk
 aafashion.lk
 aafi.lk
@@ -434,6 +434,7 @@ abdullahtravels.lk
 abdulrahims.lk
 abe.lk
 abec.lk
+abeethworks.lk
 abena.lk
 abenaonline.lk
 abercrombiekent.lk
@@ -801,6 +802,7 @@ adaasia.lk
 adabera.lk
 adabiz.lk
 adabooking.lk
+adac.lk
 adada.lk
 adadavasa.lk
 adadawasa.lk
@@ -1454,6 +1456,7 @@ airporttransfer.lk
 airporttransfers.lk
 airportvilla.lk
 airquality.lk
+airrevo.lk
 airrifle.lk
 airsoft.lk
 airsolutions.lk
@@ -2277,7 +2280,6 @@ amra.lk
 amrak.lk
 amrakcare.lk
 amraklanguages.lk
-amrassociates.lk
 amre.lk
 amritha.lk
 amro.lk
@@ -2296,7 +2298,6 @@ amstradings.lk
 amtechnologies.lk
 amtek.lk
 amtrad.lk
-amtrust.lk
 amtsolutions.lk
 amu.lk
 amumal.lk
@@ -2310,7 +2311,6 @@ amw.lk
 amway.lk
 amwcertified.lk
 amwcomputers.lk
-amwinsurance.lk
 amyra.lk
 amyshaven.lk
 ana.lk
@@ -2447,7 +2447,6 @@ anjalee.lk
 anjanaasagency.lk
 anjanaelectricals.lk
 anjanasenevirathna.lk
-anjanasenevirathne.lk
 anjayuvilla.lk
 anjcreative.lk
 anjumanesaifisltrust.lk
@@ -2686,6 +2685,7 @@ apexenergysolutions.lk
 apexengineering.lk
 apexes.lk
 apexfire.lk
+apexgen.lk
 apexguard.lk
 apexhome.lk
 apexinstitute.lk
@@ -2867,6 +2867,7 @@ apuru.lk
 aqara.lk
 aql.lk
 aqly.lk
+aqua-life.lk
 aqua-marine.lk
 aquablu.lk
 aquablue.lk
@@ -3293,7 +3294,6 @@ aryan.lk
 aryanahotel.lk
 aryanholdings.lk
 aryanjewellers.lk
-aryanmusic.lk
 aryans.lk
 aryanspallets.lk
 aryder.lk
@@ -3432,6 +3432,7 @@ asiancargo.lk
 asianchem.lk
 asiandigital.lk
 asianelectrical.lk
+asianelevators.lk
 asianescapes.lk
 asianet.lk
 asianews.lk
@@ -3662,6 +3663,7 @@ atgroup.lk
 athagili.lk
 athal.lk
 athalac.lk
+athalaga.lk
 athalanga.lk
 athatama.lk
 athe.lk
@@ -3677,7 +3679,6 @@ athilco.lk
 athinatha.lk
 athirasa.lk
 athkam.lk
-athkandurahotel.lk
 athleta.lk
 athleteunleashed.lk
 athome.lk
@@ -3946,7 +3947,6 @@ autochat.lk
 autoclick.lk
 autoconcept.lk
 autoconnect.lk
-autodealers.lk
 autodeals.lk
 autodepot.lk
 autodirect.lk
@@ -4645,7 +4645,6 @@ banseiholdingslk.lk
 banseisec.lk
 bansons.lk
 banuka.lk
-banyanretreat.lk
 baptistchurch.lk
 bara.lk
 baraka-solutions.lk
@@ -5092,7 +5091,6 @@ berryberries.lk
 berryland.lk
 berrymuch.lk
 berrytechnology.lk
-bertrambeachresort.lk
 bes.lk
 besanz.lk
 besco.lk
@@ -5163,6 +5161,8 @@ bestie.lk
 bestimpression.lk
 bestintown.lk
 bestitsoft.lk
+bestjob.lk
+bestjobs.lk
 bestjourney.lk
 bestkarera.lk
 bestlanka.lk
@@ -6189,7 +6189,6 @@ bookmarket.lk
 bookmart.lk
 bookmartz.lk
 bookmaster.lk
-bookme.lk
 bookmore.lk
 bookmy.lk
 bookmybus.lk
@@ -6381,6 +6380,7 @@ brancottestate.lk
 brandable.lk
 brandandbeyond.lk
 brandband.lk
+brandbooster.lk
 brandbox.lk
 brandbrain.lk
 brandbuzz.lk
@@ -6416,7 +6416,6 @@ brandsglobal.lk
 brandsolutions.lk
 brandspire.lk
 brandstore.lk
-brandstores.lk
 brandstory.lk
 brandwagon.lk
 brandwave.lk
@@ -6695,7 +6694,6 @@ btwob.lk
 bty.lk
 bu.lk
 bubble.lk
-bubblecard.lk
 bubblemania.lk
 bubbleme.lk
 bubblemebubbletea.lk
@@ -7113,7 +7111,6 @@ byow.lk
 bysara.lk
 bytaxi.lk
 byte.lk
-bytebite.lk
 bytechlab.lk
 bytecode.lk
 bytemax.lk
@@ -7157,7 +7154,6 @@ cacada.lk
 cache.lk
 caco.lk
 cactalust.lk
-cactus.lk
 cadacademy.lk
 cadd.lk
 caddac.lk
@@ -7188,6 +7184,7 @@ cafechill.lk
 cafechillella.lk
 cafecino.lk
 cafecolombo.lk
+cafeconnect.lk
 cafedeen.lk
 cafej.lk
 cafekandyroad.lk
@@ -7368,6 +7365,7 @@ cancc.lk
 cancercare.lk
 candantechnology.lk
 candd.lk
+canddengineering.lk
 candea.lk
 candeacredit.lk
 candeadigital.lk
@@ -7547,6 +7545,7 @@ caraudio.lk
 caravanfresh.lk
 caravanpark.lk
 caravenue.lk
+carbarn.lk
 carbattery.lk
 carbees.lk
 carbidz.lk
@@ -7651,7 +7650,6 @@ cargoboat.lk
 cargodrive.lk
 cargoexport.lk
 cargoexpress.lk
-cargohouse.lk
 cargohut.lk
 cargoimport.lk
 cargomart.lk
@@ -8296,7 +8294,6 @@ ceykoko.lk
 ceyku.lk
 ceyla.lk
 ceylace.lk
-ceylan.lk
 ceyland.lk
 ceylandtea.lk
 ceylanikagroup.lk
@@ -8307,7 +8304,6 @@ ceyleaf.lk
 ceylebritynews.lk
 ceylent.lk
 ceylex.lk
-ceylexagri.lk
 ceylife.lk
 ceylin.lk
 ceylincocancercentre.lk
@@ -8392,6 +8388,7 @@ ceyloncarz.lk
 ceyloncashew.lk
 ceyloncashews.lk
 ceyloncatch.lk
+ceyloncatravels.lk
 ceylonceilanica.lk
 ceylonceylon.lk
 ceylonchai.lk
@@ -8843,6 +8840,7 @@ cfpsl.lk
 cfrecovery.lk
 cfs.lk
 cfss.lk
+cftl.lk
 cgamcap.lk
 cgasl.lk
 cgbabyclub.lk
@@ -8932,7 +8930,6 @@ chamith.lk
 chamithshirantha.lk
 chamlimedialab.lk
 chammi.lk
-chammikaelectronic.lk
 chamod.lk
 chamodhdelpearachchi.lk
 champ.lk
@@ -10146,7 +10143,6 @@ coconut.lk
 coconutbar.lk
 coconutescapes.lk
 coconutgarden.lk
-coconutlands.lk
 coconutly.lk
 coconutmiracle.lk
 coconutpalm.lk
@@ -10712,7 +10708,6 @@ consumercare.lk
 consumercoop.lk
 consumers.lk
 contact.lk
-contactcard.lk
 contactlenses.lk
 contacts.lk
 container.lk
@@ -10930,6 +10925,7 @@ cosrx.lk
 cost2cost.lk
 costafresh.lk
 costco.lk
+costlogic.lk
 costmaster.lk
 costudio.lk
 costuless.lk
