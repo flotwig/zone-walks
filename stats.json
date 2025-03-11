@@ -45,10 +45,6 @@
       "zone": "tn"
     },
     {
-      "domains": "30237",
-      "zone": "id"
-    },
-    {
       "domains": "13388",
       "zone": "kg"
     },
@@ -59,6 +55,10 @@
     {
       "domains": "9784",
       "zone": "cy"
+    },
+    {
+      "domains": "6355",
+      "zone": "id"
     },
     {
       "domains": "6355",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4950154"
+  "total": "4926272"
 }
