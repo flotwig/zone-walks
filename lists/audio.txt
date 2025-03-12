@@ -1010,7 +1010,6 @@ crouzier.audio
 crown.audio
 crss.audio
 crumble.audio
-crunch.audio
 crush.audio
 crutchfield.audio
 crypto.audio
@@ -1585,6 +1584,7 @@ flashback.audio
 flashscore.audio
 flat.audio
 flathead.audio
+flatline.audio
 flatrate.audio
 flatrates.audio
 flexi.audio
@@ -3254,7 +3254,6 @@ penguin.audio
 penguinrandomhouse.audio
 penton.audio
 perdue.audio
-peregrineeffects.audio
 perfectcircuit.audio
 perfected.audio
 perfection.audio
@@ -3959,6 +3958,7 @@ songbook.audio
 songcraft.audio
 songmaster.audio
 sonible.audio
+sonical.audio
 sonicarmory.audio
 sonicboom.audio
 sonicboomsoundart.audio
