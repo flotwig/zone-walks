@@ -1364,6 +1364,7 @@ fiber.ax
 fibula.ax
 fifax.ax
 fikad.ax
+file.ax
 files.ax
 film.ax
 filmix.ax
@@ -1631,7 +1632,6 @@ grannas.ax
 granntanden.ax
 gransforsbruk.ax
 granshinder.ax
-gras.ax
 great.ax
 green.ax
 greenanddirty.ax
@@ -2359,6 +2359,7 @@ livetv.ax
 living.ax
 livslust.ax
 lk.ax
+ll.ax
 llm.ax
 llt.ax
 lmj.ax
@@ -3774,7 +3775,6 @@ taksi.ax
 takteknik.ax
 talc.ax
 talenom.ax
-tallink.ax
 tallship.ax
 tallshipsmariehamn.ax
 tallum.ax
@@ -4137,6 +4137,7 @@ vsfbk.ax
 vt.ax
 vu.ax
 vuokrakoti.ax
+vv.ax
 vvs-boden.ax
 vvs-webbutik.ax
 vvs.ax
@@ -4158,6 +4159,7 @@ way.ax
 waze.ax
 wb.ax
 wc.ax
+wct.ax
 wd.ax
 we.ax
 weather.ax
