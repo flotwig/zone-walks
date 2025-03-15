@@ -563,6 +563,7 @@
 1win-id.id
 1win-indo.id
 1win-indonesia.id
+1win-indonesian.id
 1win-kasino.id
 1win-official.id
 1win-online.id
@@ -577,8 +578,11 @@
 1wincasino.id
 1winid.id
 1winindonesia.id
+1winindonesian.id
+1winofficial.id
 1winonline.id
 1wins.id
+1winslot.id
 1winterslot.id
 1wintoken.id
 1winz.id
@@ -591,6 +595,7 @@
 1xbetgames.id
 1xbets.id
 1xbit.id
+1xklik.id
 2.id
 20-11-99.id
 20.id
@@ -1635,7 +1640,6 @@
 688.id
 689.id
 68gamebai.id
-68kub.id
 69.id
 690.id
 691.id
@@ -2465,6 +2469,7 @@ aashish.id
 aashishpatel.id
 aasic.id
 aaslot.id
+aasma.id
 aasnack.id
 aasted.id
 aasthaautopartindo.id
@@ -4433,6 +4438,7 @@ admisinvestment.id
 admisiuki.id
 admitted.id
 admitting.id
+admmutiaramutumandiri.id
 admojo.id
 admrajawaliusahabersama.id
 admterbang.id
@@ -5035,6 +5041,7 @@ afb.id
 afbdata.id
 afc-indonesia.id
 afc-lifescience.id
+afcdigital.id
 afcfarmasijepang.id
 afcindonesia.id
 afcindonesiaofficial.id
@@ -5445,7 +5452,6 @@ agenfastpay.id
 agenfirmax.id
 agenfluba.id
 agenfood.id
-agenforklift.id
 agenfrozenfood.id
 ageng.id
 agengaming.id
@@ -5867,6 +5873,7 @@ agroo.id
 agropalmateknologi.id
 agropasti.id
 agroped.id
+agropedia.id
 agropertiwi.id
 agropreneur.id
 agroprima.id
@@ -6168,7 +6175,6 @@ ahmafood.id
 ahmar.id
 ahmedalmaghribi.id
 ahmet.id
-ahmto.id
 ahnaf.id
 ahoffmann.id
 ahokdjarot.id
