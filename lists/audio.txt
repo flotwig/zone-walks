@@ -1907,6 +1907,7 @@ hi-res.audio
 hicks.audio
 hifi-bar.audio
 hifi.audio
+hifidelity.audio
 hifilab.audio
 hifipro.audio
 hifishop.audio
@@ -2028,7 +2029,6 @@ immersion.audio
 immersive-3d.audio
 immersive.audio
 immersiveninja.audio
-impeccable.audio
 imperials.audio
 important.audio
 impossible.audio
@@ -2564,6 +2564,7 @@ mak.audio
 makescents.audio
 makewaves.audio
 malm.audio
+maloney.audio
 mammoth.audio
 mamoritai.audio
 manah.audio
@@ -4185,7 +4186,6 @@ sv368.audio
 svam.audio
 sveda.audio
 swamp.audio
-sway.audio
 sweelee.audio
 sweet.audio
 sweetjustice.audio
@@ -4424,7 +4424,6 @@ trippin.audio
 tristar.audio
 troispetitspoints.audio
 tronios.audio
-troublemaker.audio
 trs.audio
 trskz.audio
 truesignal.audio
