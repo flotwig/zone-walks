@@ -58,11 +58,11 @@
     },
     {
       "domains": "6376",
-      "zone": "game"
+      "zone": "id"
     },
     {
-      "domains": "6375",
-      "zone": "id"
+      "domains": "6376",
+      "zone": "game"
     },
     {
       "domains": "4850",
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4927674"
+  "total": "4927675"
 }
