@@ -1114,7 +1114,6 @@ justhost.hosting
 justrad.hosting
 jvps.hosting
 jweb.hosting
-k8s.hosting
 kaido.hosting
 kaliber.hosting
 karuizawa.hosting
@@ -1604,7 +1603,6 @@ ping.hosting
 pio.hosting
 pivot.hosting
 piweb.hosting
-pixel.hosting
 pki.hosting
 planet-ocean.hosting
 planetary.hosting
@@ -1822,7 +1820,6 @@ secure.hosting
 secureapi.hosting
 secureapp.hosting
 securecloud.hosting
-secured.hosting
 securemail.hosting
 secureweb.hosting
 security-check.hosting
