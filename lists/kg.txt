@@ -782,6 +782,7 @@ allmix.kg
 allmotors.kg
 allo-tsum.kg
 allo.kg
+allparts.kg
 allpass.kg
 allplay.kg
 allsoft.kg
@@ -1246,7 +1247,6 @@ asiantransit.kg
 asianvibe.kg
 asiaonline.kg
 asiapalace.kg
-asiapayment.kg
 asiaperso.kg
 asiapharm.kg
 asiapromedia.kg
@@ -1338,7 +1338,6 @@ asv.kg
 aswad.kg
 asyakablo.kg
 asylzada.kg
-asystem.kg
 at-trans.kg
 at.kg
 ata.kg
@@ -1399,6 +1398,7 @@ atomydoc.kg
 atp.kg
 ats-group.kg
 ats.kg
+atscargo.kg
 atsgroup.kg
 atstravel.kg
 att.kg
@@ -1464,6 +1464,7 @@ autodom-probeg.kg
 autodom-used.kg
 autodom.kg
 autodostuk.kg
+autoengineering.kg
 autoera.kg
 autoexpert.kg
 autoforum.kg
@@ -1754,6 +1755,7 @@ balance-service.kg
 balance.kg
 balans.kg
 balapan.kg
+balary.kg
 balgroup.kg
 balint.kg
 balkan.kg
@@ -1817,7 +1819,6 @@ barsinvest.kg
 barso.kg
 barstransit.kg
 barstranzit.kg
-barter.kg
 baru.kg
 bas.kg
 basalt.kg
@@ -2077,7 +2078,6 @@ bhu.kg
 bi.kg
 bia.kg
 bianhim.kg
-biast.kg
 bibi.kg
 bibip.kg
 bible.kg
@@ -2784,7 +2784,6 @@ championlubes.kg
 changan-auto.kg
 changan.kg
 changanauto.kg
-change.kg
 changli.kg
 chapan.kg
 chapel.kg
@@ -2867,6 +2866,7 @@ christina.kg
 chryslerfiat.kg
 chsd.kg
 cht.kg
+chtenium.kg
 chu.kg
 chudo-chado.kg
 chudo.kg
@@ -3430,6 +3430,8 @@ deure.kg
 deurus.kg
 deutsch-intensiv.kg
 deutsche-telekom.kg
+deutscheshaus.kg
+deutscheshouse.kg
 deutschetelekom.kg
 deutz.kg
 dev.kg
@@ -4793,6 +4795,7 @@ foxtest.kg
 fp-machinery.kg
 fp.kg
 fpc.kg
+fpi.kg
 fpsk.kg
 fr.kg
 fracino.kg
@@ -5264,7 +5267,6 @@ green-life.kg
 green-park.kg
 green.kg
 greenbishkek.kg
-greench.kg
 greenchicken.kg
 greenenergy.kg
 greenex.kg
@@ -6152,7 +6154,6 @@ ith.kg
 iticket.kg
 itilek.kg
 itive.kg
-itk-system.kg
 itk.kg
 itleasing.kg
 itline.kg
@@ -7709,7 +7710,6 @@ mavis.kg
 mavto.kg
 max.kg
 maxaz-electric.kg
-maxdev.kg
 maxgame.kg
 maxgo.kg
 maxima.kg
@@ -8947,6 +8947,7 @@ officespa.kg
 offpoly.kg
 offroadmoto.kg
 offspring.kg
+ofoxy.kg
 ogmap.kg
 ogo.kg
 ogogo.kg
@@ -9464,6 +9465,7 @@ perevod.kg
 perevodcard.kg
 perfect-stroy.kg
 perfecttransport.kg
+perfo.kg
 peri.kg
 perila.kg
 perlator.kg
@@ -9499,6 +9501,7 @@ pharm1c.kg
 pharma.kg
 pharmacademy.kg
 pharmacy.kg
+pharmcomplex.kg
 pharmcontrol.kg
 pharmimpex.kg
 pharmnews.kg
@@ -10454,7 +10457,6 @@ ruli.kg
 runa.kg
 runex.kg
 runpay.kg
-ruru.kg
 rus.kg
 rusbelt.kg
 rusconsosh.kg
@@ -11430,6 +11432,7 @@ stus.kg
 stuz.kg
 stvs.kg
 style.kg
+styleboutique.kg
 su.kg
 su4.kg
 subarenda.kg
@@ -11640,7 +11643,6 @@ tapvita.kg
 tara.kg
 tarakan.kg
 tarbia.kg
-tarbiya.kg
 tarbiyachy.kg
 target.kg
 targetcapital.kg
@@ -12070,7 +12072,6 @@ tomurkonsalt.kg
 tonirovka-office.kg
 tonirovka.kg
 tonk.kg
-tonus.kg
 too-ashuu.kg
 too.kg
 tooashkan.kg
@@ -12325,6 +12326,7 @@ tulparlogistics.kg
 tulpartorg.kg
 tulpartrade.kg
 tuman.kg
+tumar-house.kg
 tumar-travel.kg
 tumar.kg
 tumarcard.kg
@@ -12438,7 +12440,6 @@ udoma.kg
 uep.kg
 ufc.kg
 ufcgym.kg
-ufkgmi.kg
 ug.kg
 ugee.kg
 uguustrade.kg
@@ -12792,6 +12793,7 @@ visit.kg
 visitexpert.kg
 visitkyrgyzstan.kg
 vita-dent-lux.kg
+vita.kg
 vitaball.kg
 vitaclinic.kg
 vitaemarket.kg
@@ -13073,6 +13075,7 @@ woodland.kg
 woody-art.kg
 wordpress.kg
 work.kg
+workcit.kg
 workhub.kg
 workland.kg
 worktoday.kg
