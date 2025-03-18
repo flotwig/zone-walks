@@ -761,7 +761,6 @@ consul.mc
 consulat-finlande.mc
 consulat-grece.mc
 consulat-liban.mc
-consulat-malaisie.mc
 consulat-nepal.mc
 consulat-perou.mc
 consulat-roumanie.mc
@@ -2642,7 +2641,6 @@ ocm.mc
 octopus-media.mc
 octopus.mc
 octopusgallery.mc
-oda.mc
 odeon.mc
 odeoncafe.mc
 odysse.mc
@@ -2749,7 +2747,6 @@ palacecafe.mc
 palais-princier.mc
 palais.mc
 palauconsulate.mc
-palmerjohnson.mc
 palmero.mc
 palumbogroup.mc
 pam.mc
@@ -3135,7 +3132,6 @@ sat-electronique.mc
 satri.mc
 saveus.mc
 savills.mc
-sb2m.mc
 sbm.mc
 sca.mc
 scea.mc
@@ -3143,12 +3139,10 @@ schindler-monaco.mc
 schindlermonaco.mc
 sci.mc
 sci3.mc
-sciagebetonmonacomaritime.mc
 scottasarl.mc
 scpcondor.mc
 scptraverse.mc
 scse.mc
-scsmaretti.mc
 scswilliams.mc
 sda-doc.mc
 sdbm.mc
@@ -3192,7 +3186,6 @@ sfp-mh.mc
 sgd.mc
 sgimmobilier.mc
 sgmc-capital.mc
-sgprivatebanking.mc
 sharekey.mc
 sharkprod.mc
 shelleywalker.mc
@@ -3431,7 +3424,6 @@ tecnel.mc
 tecnoventil-innovation.mc
 tekworld.mc
 tele-monaco.mc
-teledistribution.mc
 telemonaco.mc
 telephone-europeen.mc
 telis.mc
@@ -3558,7 +3550,6 @@ uncovers.mc
 underberg.mc
 uniclean.mc
 unilux.mc
-unionmonegasque.mc
 uniqueconcept.mc
 uniquerealestate.mc
 unitex.mc
@@ -3653,7 +3644,6 @@ windandsalt.mc
 winepalacemontecarlo.mc
 wingsm.mc
 wink-monaco.mc
-wish.mc
 wms.mc
 wolf.mc
 wolfandraven.mc
