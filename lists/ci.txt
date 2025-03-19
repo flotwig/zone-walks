@@ -39,6 +39,7 @@
 13consulting.ci
 14.ci
 15.ci
+152.ci
 158472.ci
 168.ci
 16835.ci
@@ -313,6 +314,10 @@
 6277.ci
 628379.ci
 65.ci
+650.ci
+651.ci
+652.ci
+653.ci
 65453.ci
 65728.ci
 66.ci
@@ -750,6 +755,7 @@ agenceix.ci
 agencemploijeune.ci
 agencemploijeunes.ci
 agencerevelation.ci
+agencesuncom.ci
 agencew.ci
 agent.ci
 agenumerique.ci
@@ -1074,7 +1080,6 @@ anapecywi.ci
 anare.ci
 anaris-formation.ci
 anasur.ci
-anavtech.ci
 ancarci.ci
 anci.ci
 ancom.ci
@@ -1869,7 +1874,6 @@ bils.ci
 bim-news.ci
 bim.ci
 bimafrique.ci
-bimag.ci
 binastore.ci
 bing.ci
 bing.co.ci
@@ -2436,7 +2440,6 @@ cca-consulting.ci
 cca.ci
 ccacy.ci
 ccapc.ci
-ccaz.ci
 ccb.ci
 ccbagnon.ci
 ccc.ci
@@ -2483,7 +2486,6 @@ cdtindustrie.ci
 cdz.ci
 ce.ci
 ceb.ci
-cebe.ci
 cec-alo.ci
 ceci.ci
 cedd.ci
@@ -3314,7 +3316,6 @@ rentalcar.co.ci
 rentalcar.com.ci
 rentalcars.co.ci
 rentalcars.com.ci
-revoo-motor.com.ci
 rmb.co.ci
 rmb.com.ci
 rmbbank.co.ci
