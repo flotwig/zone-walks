@@ -69,7 +69,7 @@
       "zone": "audio"
     },
     {
-      "domains": "4536",
+      "domains": "4534",
       "zone": "ruhr"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4929254"
+  "total": "4929252"
 }
