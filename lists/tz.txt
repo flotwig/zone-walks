@@ -293,6 +293,7 @@ boxoffice.tz
 bradfi.tz
 brandhub.tz
 branding.tz
+briq.tz
 britishcouncil.tz
 britishschool.tz
 brother.tz
@@ -760,7 +761,6 @@ hvt.tz
 hyper.tz
 ibank.tz
 ibshospitals.tz
-icareconnect.tz
 icetime.tz
 ict.tz
 ictgovernance.tz
@@ -898,6 +898,7 @@ kingdom-chicken-farm.tz
 kinglion.tz
 kipato.tz
 kipepeo.tz
+kiracyclingacademy.tz
 kitabu.tz
 kitchen.tz
 kits.tz
@@ -970,6 +971,7 @@ lionbet.tz
 lipa.tz
 lipi.tz
 liqui-moly.tz
+liquid.tz
 liquimoly.tz
 list.tz
 livecasino.tz
@@ -1342,7 +1344,6 @@ print.tz
 prisonisland.tz
 privatech.tz
 proaromatica.tz
-promax.tz
 promo.tz
 promp.tz
 property.tz
@@ -1358,6 +1359,7 @@ python.tz
 qatarairways.tz
 qigroup.tz
 qrvibali.tz
+qtanzania.tz
 qualitypoint.tz
 quar.tz
 queensgems.tz
@@ -1841,6 +1843,7 @@ warmenhoven.tz
 wartsila.tz
 wasafi.tz
 wasafimedia.tz
+wasafisoap.tz
 watches.tz
 water.tz
 watuinfo.tz
