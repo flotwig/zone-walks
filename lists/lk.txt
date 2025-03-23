@@ -2729,6 +2729,7 @@ apexx.lk
 apey.lk
 apf.lk
 aphca.lk
+api.commercialproperty.lk
 api.lk
 apiapi.lk
 apiasia.lk
@@ -3871,7 +3872,6 @@ aurica.lk
 aurora.lk
 auroraapparel.lk
 aurorachlothing.lk
-auroracollection.lk
 auroracs.lk
 aurorafm.lk
 aurorastudio.lk
@@ -5531,7 +5531,6 @@ biohr.lk
 biohrm.lk
 bioind.lk
 bioingredients.lk
-biokasun.lk
 biokuppiya.lk
 biolahiru.lk
 biolankamedical.lk
@@ -5632,7 +5631,6 @@ bitprojects.lk
 bitrate.lk
 bits.lk
 bitsandbytes.lk
-bitservice.lk
 bitso.lk
 bitulink.lk
 bitumen.lk
@@ -8071,6 +8069,7 @@ cdl.lk
 cdm.lk
 cdmf.lk
 cdms.lk
+cdn.commercialproperty.lk
 cdn.lk
 cdnengineers.lk
 cdnengtrading.lk
@@ -10486,7 +10485,6 @@ colormax.lk
 colorpix.lk
 colorprint.lk
 colorrain.lk
-colors.lk
 colorspeck.lk
 colorup.lk
 colorvision.lk
@@ -10582,7 +10580,6 @@ commercialfactors.lk
 commercialfertilizer.lk
 commercialkitchen.lk
 commercialproperties.lk
-commercialproperty.lk
 commercialrealty.lk
 commercials.lk
 commercialware.lk
@@ -11093,6 +11090,7 @@ cpstl.lk
 cptechsolution.lk
 cptgla.lk
 dashboardrealwordchallenge.acca.lk
+dev.commercialproperty.lk
 dns1.celltelnet.lk
 etc.acca.lk
 finhack.acca.lk
