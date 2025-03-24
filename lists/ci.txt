@@ -2342,6 +2342,7 @@ cargo.ci
 cargoclima.ci
 carhis.ci
 cariere.ci
+carinsurance.ci
 caritas.ci
 carluc.ci
 carnavaldabidjan.ci
@@ -2551,7 +2552,6 @@ cfao-occasions.ci
 cfaomobility.ci
 cfcd.ci
 cfcdci.ci
-cfci.ci
 cfge.ci
 cfi.ci
 cfp.ci
