@@ -2166,6 +2166,7 @@ allianceevents.tn
 alliancefr-bizerte.tn
 alliancefr-djerba.tn
 alliancefr.tn
+allianceimpact.tn
 allianceindustry.tn
 allianceiot.tn
 alliancelabel.tn
@@ -3099,6 +3100,7 @@ apiotech.tn
 apip.tn
 apk.tn
 aplm.tn
+aplps.tn
 aplusenergy.tn
 aplusshopping.tn
 apnes.tn
@@ -6033,7 +6035,6 @@ biginformatique.tn
 bigjaw.tn
 bigjoy.tn
 biglarigroup.tn
-bigmall.tn
 bigmamastore.tn
 bigmarket.tn
 bigmart-tunisie.tn
@@ -6224,6 +6225,7 @@ bioter.tn
 bioterra-stock.tn
 bioterralab.tn
 bioterroir.tn
+biothala.tn
 biotica.tn
 biotiful.tn
 biotifull.tn
@@ -7168,7 +7170,6 @@ brioni.tn
 briquetteriebelmabrouk.tn
 briscard.tn
 bristol.tn
-bristolplazza.tn
 bristore.tn
 brita.tn
 brite.tn
@@ -8325,6 +8326,7 @@ celiooutlet.tn
 cellcom.tn
 cellphone.tn
 cellulecommunication-pm.tn
+cellupack.tn
 celtia.tn
 cem-instrument.tn
 cem.tn
@@ -8695,6 +8697,7 @@ chauffage.tn
 chauffagiste.tn
 chauffeur.tn
 chaussette.tn
+chaussettes.tn
 chaussure-joliesse.tn
 chaussure.tn
 chaussures.tn
@@ -9684,7 +9687,6 @@ cochefs.tn
 cockpit.tn
 coco.tn
 cocobebe.tn
-cocodeco.tn
 cocoli.tn
 coconut.tn
 cocopadel.tn
@@ -10295,7 +10297,6 @@ consulty.tn
 contably.tn
 contact-immo.tn
 contact.tn
-contacti.tn
 contactimmo.tn
 contactkaramessagency.tn
 contacto.tn
@@ -10982,6 +10983,7 @@ culinarytalents.tn
 culligan.tn
 cullinancountrysidetunisia.tn
 cult-association.tn
+culture-news.tn
 culture.tn
 culturegafsa.tn
 culturegeek.tn
@@ -13470,6 +13472,7 @@ e4e.tn
 e5irsoum.tn
 e7.tn
 e7mi.tn
+ea-school.tn
 ea.tn
 eaba.tn
 ead.tn
@@ -13699,6 +13702,7 @@ ecnplus.tn
 eco-bat.tn
 eco-concept.tn
 eco-mag.tn
+eco-recycling.tn
 eco-steam.tn
 eco-trade.tn
 eco-velo.tn
@@ -18092,7 +18096,6 @@ gecs.tn
 ged.tn
 gedis.tn
 gedmazars.tn
-gedplus.tn
 gee.tn
 geec.tn
 geedo.tn
@@ -19868,6 +19871,7 @@ havalmotors.tn
 havana.tn
 havas-media.tn
 havas.tn
+havasprint.tn
 havasworldwide.tn
 havasww.tn
 havaswwdigital.tn
@@ -20188,6 +20192,7 @@ hexashop.tn
 hexashore.tn
 hexatrade.tn
 hexia.tn
+hey.tn
 heya.tn
 heyalkol.tn
 heydude.tn
@@ -22818,6 +22823,7 @@ jacob-cohen.tn
 jacobcohen.tn
 jacodis.tn
 jad.tn
+jadal.tn
 jadever.tn
 jadhome.tn
 jadkids.tn
@@ -24170,6 +24176,8 @@ kkahwa.tn
 kl.tn
 klarrion.tn
 klasdesign.tn
+klassti.tn
+klasti.tn
 klay.tn
 kleemablech.tn
 kleen.tn
@@ -26624,6 +26632,7 @@ lwj.tn
 lx.tn
 lxp.tn
 ly.tn
+lya.tn
 lyance.tn
 lyc.tn
 lycamobile.tn
@@ -29171,7 +29180,6 @@ mintgallery.tn
 minute.tn
 minutemaid.tn
 miods.tn
-miopara.tn
 mipa.tn
 mipara.tn
 miplivrel.tn
@@ -29511,6 +29519,7 @@ moenesdesign.tn
 moetez.tn
 moez.tn
 moezmhi.tn
+moezmhiri.tn
 moeznouni.tn
 mofa.tn
 mofti.tn
@@ -30677,6 +30686,7 @@ na7oul.tn
 na9el.tn
 naa.tn
 naanaaimmobilier.tn
+naaro.tn
 naas.tn
 nabaiji.tn
 nabbar.tn
@@ -31700,6 +31710,7 @@ ns1.6riba.tn
 ns1.amandine.tn
 ns1.ambox.tn
 ns1.ayed-technology.tn
+ns1.bigmall.tn
 ns1.certif.tn
 ns1.cultures-web.tn
 ns1.cutiepie.tn
@@ -31720,6 +31731,7 @@ ns2.6riba.tn
 ns2.amandine.tn
 ns2.ambox.tn
 ns2.ayed-technology.tn
+ns2.bigmall.tn
 ns2.certif.tn
 ns2.cutiepie.tn
 ns2.deali.tn
