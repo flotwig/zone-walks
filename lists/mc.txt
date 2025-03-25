@@ -1,7 +1,6 @@
 1001pattes.mc
 10to11.mc
 123law.mc
-247cgm.mc
 27propertymonaco.mc
 2ainterim.mc
 2if.mc
@@ -2263,7 +2262,6 @@ monacocloud.mc
 monacocoin.mc
 monacocoins.mc
 monacocollectifhumanitaire.mc
-monacocrowdfunding.mc
 monacocyber.mc
 monacocybersecurite.mc
 monacodemat.mc
@@ -2338,6 +2336,7 @@ monacostamp.mc
 monacostamps.mc
 monacostatistics.mc
 monacostatistiques.mc
+monacosupercars.mc
 monacoteampowersports.mc
 monacotech.mc
 monacotelecom.mc
