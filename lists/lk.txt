@@ -206,7 +206,6 @@
 5pathenglishmethod.lk
 5slanka.lk
 5starhotels.lk
-5thavenue.lk
 5wytdfyr2qj7.cits.lk
 5ynd.lk
 64bits.lk
@@ -762,6 +761,7 @@ actimpact.lk
 acting.lk
 action.lk
 actionindoor.lk
+actionmedia.lk
 actionpark.lk
 actionpestcontrol.lk
 actionstation.lk
@@ -1422,6 +1422,7 @@ airconnect.lk
 aircourierlogistics.lk
 airdrops.lk
 airepay.lk
+airexchange.lk
 airexportlanka.lk
 airexpress.lk
 airfare.lk
@@ -1467,6 +1468,8 @@ airrevo.lk
 airrifle.lk
 airsoft.lk
 airsolutions.lk
+airstore.lk
+airstudio.lk
 airstudios.lk
 airsupply.lk
 airteasun.lk
@@ -3256,6 +3259,7 @@ artlankatravels.lk
 artline.lk
 artmagazine.lk
 artmaster.lk
+artmovies.lk
 artncraft.lk
 artofaccounting.lk
 artofleather.lk
@@ -4090,6 +4094,7 @@ autoway.lk
 autoweb.lk
 autowize.lk
 autowork.lk
+autoworks.lk
 autozilla.lk
 autozone.lk
 autozonelanka.lk
@@ -4311,6 +4316,7 @@ ayara.lk
 ayashma.lk
 ayati.lk
 aybrookandmason.lk
+aybrookmason.lk
 aycs.lk
 ayda.lk
 aydesign.lk
@@ -5463,7 +5469,6 @@ billbook.lk
 billings.lk
 billionminds.lk
 billmate.lk
-billme.lk
 billpro.lk
 bills.lk
 billshop.lk
@@ -5785,6 +5790,7 @@ blackpool.lk
 blackrock.lk
 blacksheep.lk
 blackshine.lk
+blackskysquad.lk
 blacksmith.lk
 blackstar.lk
 blackteaexports.lk
@@ -7068,6 +7074,7 @@ buypower.lk
 buyproperties.lk
 buyproperty.lk
 buysafe.lk
+buysell.lk
 buyserandib.lk
 buyshop.lk
 buyshrilanka.lk
@@ -9556,6 +9563,7 @@ citihitz.lk
 citizen.lk
 citizenmedia.lk
 citizenportal.lk
+citizenpower.lk
 citizens.lk
 citizensalliance.lk
 citizensbank.lk
@@ -9799,6 +9807,7 @@ clearplus.lk
 clearpointresidencies.lk
 clearskin.lk
 cleartrip.lk
+clearview.lk
 clearviewresidencies.lk
 clearvision.lk
 clearwater.lk
@@ -9944,6 +9953,7 @@ cloudcpd.lk
 cloudev.lk
 cloudexchange.lk
 cloudflare.lk
+cloudgaming.lk
 cloudgate.lk
 cloudgen.lk
 cloudhats.lk
