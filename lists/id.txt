@@ -827,7 +827,6 @@
 2esistem.id
 2fastnet.id
 2gang4d.id
-2godigital.id
 2idaman.id
 2idry.id
 2insan.id
@@ -2090,6 +2089,7 @@
 897.id
 898.id
 8988.id
+898avip.id
 899.id
 899gaming.id
 899sports.id
@@ -3759,7 +3759,6 @@ adabayar.id
 adabcloud.id
 adaberita.id
 adaberitanet.id
-adaboard.id
 adabsantri.id
 adabukti4d.id
 adacara.id
@@ -5673,6 +5672,7 @@ agjinvitation.id
 aglarnusantara.id
 aglawfirm.id
 aglis.id
+aglisdigital.id
 aglix.id
 agliz.id
 aglo.id
@@ -5988,7 +5988,6 @@ agungsurveyortopografi.id
 agungtimur-desa.id
 agungtimur.id
 agungtoyotabatam.id
-agungtoyotajambi.id
 agungtoyotapekanbaru.id
 agungtravel.id
 agungwangisentosa.id
@@ -6278,6 +6277,7 @@ aibcr.id
 aibeecara.id
 aibit.id
 aibiz.id
+aiblog.id
 aiblogs.id
 aiboo.id
 aibootcamp.id
