@@ -2524,6 +2524,7 @@ lynx.audio
 lyra.audio
 lyravox.audio
 lyrebird.audio
+m2c.audio
 m2m.audio
 m4rl.audio
 m4u.audio
@@ -4017,6 +4018,7 @@ soundsxplosive.audio
 soundtoys.audio
 soundwallet.audio
 soundwave.audio
+soundwavs.audio
 soundwide.audio
 soundwise.audio
 soundwizard.audio
@@ -4034,7 +4036,6 @@ sozial.audio
 space.audio
 spacecowboy.audio
 spaceplanet.audio
-spaces.audio
 spacexp.audio
 spanishvoiceovers.audio
 spatial-3d.audio
