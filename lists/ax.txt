@@ -444,6 +444,7 @@ ap.ax
 apalmersailing.ax
 apellund.ax
 api.ax
+apis.ax
 aplagarden.ax
 apotea.ax
 apotek.ax
@@ -554,7 +555,6 @@ axe.ax
 axel.ax
 axferries.ax
 axfinans.ax
-axhiss.ax
 axis.ax
 axk.ax
 axla-logistics.ax
@@ -864,7 +864,6 @@ cainby.ax
 cajsa.ax
 call-m.ax
 calle.ax
-camillasfotvard.ax
 campaign.ax
 camping.ax
 cams.ax
@@ -1484,6 +1483,7 @@ foglohembygd.ax
 fogloskola.ax
 folkdansarna.ax
 folkhalsan.ax
+folkis.ax
 folkpool.ax
 folkrederiet.ax
 fonbet.ax
@@ -2926,6 +2926,7 @@ ns1.mydomain.ax
 ns2.mydomain.ax
 ns2.quedro.ax
 ns3.mydomain.ax
+nsenergi.ax
 nshbk.ax
 nt.ax
 ntp.ax
@@ -3102,6 +3103,7 @@ pc.ax
 pc9.ax
 pd.ax
 pdc.ax
+pdf.ax
 pe.ax
 peace.ax
 peach.ax
@@ -3705,7 +3707,6 @@ sos-service.ax
 sot.ax
 sotare.ax
 sottunga.ax
-sovy.ax
 sowls.ax
 sp.ax
 space.ax
@@ -4280,7 +4281,6 @@ vvswebbutik.ax
 vw.ax
 vwxyz.ax
 vx.ax
-vz.ax
 wa.ax
 wage.ax
 wagner.ax
