@@ -119,6 +119,7 @@
 73.ax
 73625.ax
 74.ax
+74281.ax
 75021.ax
 76412.ax
 77.ax
@@ -484,7 +485,6 @@ arrowecs.ax
 arrowelectronics.ax
 art.ax
 artef.ax
-artenika.ax
 artf.ax
 artif.ax
 arx.ax
@@ -664,6 +664,7 @@ bilimport.ax
 biljett.ax
 bilodelar.ax
 bilplat.ax
+bilpris.ax
 bilskadecenter.ax
 bilskador.ax
 biltvatt.ax
@@ -986,6 +987,7 @@ community.ax
 compagniet.ax
 compagnietmariehamn.ax
 compass.ax
+compress.ax
 concret.ax
 confido.ax
 connect.ax
@@ -2462,6 +2464,7 @@ lokal.ax
 lokaltapiola.ax
 lokalvader.ax
 lol.ax
+loli.ax
 lom.ax
 london.ax
 lonebolaget.ax
@@ -4149,7 +4152,6 @@ valo.ax
 valresultat.ax
 valvaka.ax
 vanleeuwen.ax
-vanvik.ax
 vappukukkakerays.ax
 vardo.ax
 vardobatvarv.ax
