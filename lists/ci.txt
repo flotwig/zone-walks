@@ -12,6 +12,7 @@
 0o.ci
 0s.ci
 0x.ci
+0x0.ci
 0z.ci
 1-win-bet.ci
 1-win.ci
@@ -1896,7 +1897,6 @@ biogaz.ci
 biolab.ci
 biolabsarl.ci
 biologique-recherche.ci
-biomaraichere.ci
 biomarket.ci
 biomass-energy.ci
 biome.ci
