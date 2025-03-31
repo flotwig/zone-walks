@@ -827,6 +827,7 @@
 2esistem.id
 2fastnet.id
 2gang4d.id
+2godigital.id
 2idaman.id
 2idry.id
 2insan.id
@@ -3653,6 +3654,7 @@ actgroup.id
 action.id
 actionable.id
 actioncrea.id
+actionfigure.id
 actionhumanity.id
 actionpay.id
 actionplanswjr2024.id
@@ -3748,6 +3750,7 @@ ad-plus.id
 ad-source.id
 ada-asia.id
 ada-health.id
+adaadana.id
 adaadventure.id
 adaai.id
 adaaku.id
@@ -5041,7 +5044,6 @@ afc-indonesia.id
 afc-lifescience.id
 afcdigital.id
 afcfarmasijepang.id
-afcglobal.id
 afcindonesia.id
 afcindonesiaofficial.id
 afcjapan.id
@@ -5767,6 +5769,7 @@ agrifort.id
 agrigate.id
 agrigrow.id
 agrikan.id
+agrikultur.id
 agrikultura.id
 agrilab.id
 agrilabs.id
@@ -5982,7 +5985,6 @@ agungsurveyortopografi.id
 agungtimur-desa.id
 agungtimur.id
 agungtoyotabatam.id
-agungtoyotajambi.id
 agungtoyotapekanbaru.id
 agungtravel.id
 agungwangisentosa.id
@@ -6194,7 +6196,6 @@ ahoot.id
 ahp.id
 ahqcenter.id
 ahrboge.id
-ahrgoups.id
 ahrgroups.id
 ahriesonta.id
 ahris.id
