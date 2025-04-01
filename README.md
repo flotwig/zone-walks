@@ -53,7 +53,7 @@ TLD | Domain Count
 [`car`][car] [(raw)][car-raw] | <div align="right">323</div>
 [`cars`][cars] [(raw)][cars-raw] | <div align="right">287</div>
 [`xn--54b7fta0cc`][xn--54b7fta0cc] [(raw)][xn--54b7fta0cc-raw] | <div align="right">280</div>
-[`ve`][ve] [(raw)][ve-raw] | <div align="right">212</div>
+[`ve`][ve] [(raw)][ve-raw] | <div align="right">213</div>
 [`amazon`][amazon] [(raw)][amazon-raw] | <div align="right">129</div>
 [`xn--l1acc`][xn--l1acc] [(raw)][xn--l1acc-raw] | <div align="right">100</div>
 [`gn`][gn] [(raw)][gn-raw] | <div align="right">39</div>
