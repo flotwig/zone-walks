@@ -530,6 +530,7 @@
 1news.id
 1nstagram.id
 1nusantara.id
+1oak.id
 1parkgandaria.id
 1parkresidences.id
 1pena.id
@@ -699,7 +700,6 @@
 233.id
 234.id
 234cars.id
-234sc.id
 234slot.id
 235.id
 236.id
@@ -742,7 +742,6 @@
 24jamnews.id
 24karat.id
 24news.id
-24pay.id
 24robowash.id
 24travel.id
 25.id
@@ -3113,7 +3112,6 @@ academicassetmanagement-pusdikarhanud.id
 academicassetmaterial-pusdikarmed.id
 academicjournal.id
 academicpress.id
-academics.id
 academicskills.id
 academicus.id
 academicwritinginstitute.id
@@ -3788,6 +3786,7 @@ adagiumnews.id
 adago.id
 adagroup.id
 adaharapan.id
+adaide.id
 adaimpact.id
 adain.id
 adainaja.id
@@ -4923,7 +4922,6 @@ aerojasajaya.id
 aerokidz.id
 aeroland.id
 aerolens.id
-aeroline.id
 aerologistics.id
 aeromediaproduction.id
 aerone.id
@@ -5181,7 +5179,6 @@ afncorp.id
 afood.id
 aforact.id
 afordesign.id
-afostore.id
 afour.id
 afpartners.id
 afpebi.id
@@ -5435,8 +5432,6 @@ agendaging.id
 agendakota.id
 agendamasjid.id
 agendaprkpck.id
-agendarat.id
-agendarattogel.id
 agendarattogelgame.id
 agendarattogelgaming.id
 agendarattogelresmi.id
