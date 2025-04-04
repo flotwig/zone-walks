@@ -400,7 +400,6 @@
 7pg.game
 7road.game
 7s.game
-7t.game
 7traits.game
 7vip.game
 7w.game
@@ -805,6 +804,7 @@ avengers.game
 avengersgame.game
 avengersgamereassemble.game
 avengersthegame.game
+aviamasters.game
 aviator.game
 aviatorapp.game
 aviatorcrash.game
@@ -1268,7 +1268,6 @@ bunicorn.game
 bunkerwars.game
 bunty.game
 burger.game
-business.game
 businessbluezone.game
 button.game
 buy.game
@@ -1779,6 +1778,7 @@ dice.game
 diem.game
 diesel.game
 digcrypto.game
+digi.game
 digigods.game
 digipen.game
 digital.game
@@ -2536,6 +2536,7 @@ gtpinball.game
 gts.game
 guandan.game
 guessthe.game
+gugul.game
 guide.game
 guidelabs.game
 gun.game
@@ -3444,7 +3445,6 @@ mammoth.game
 mammothhockey.game
 mammoths.game
 mana.game
-manamaker.game
 maneko.game
 manga.game
 mango.game
@@ -3492,7 +3492,6 @@ matrix.game
 mattel.game
 mavrix.game
 max.game
-maxbc.game
 maxi.game
 maxion.game
 maxpayne.game
@@ -3842,7 +3841,6 @@ neuroplus.game
 neuroscience.game
 neuroslicers.game
 neva.game
-neverhaveiever.game
 neverland.game
 neverwinter.game
 new.game
@@ -4131,7 +4129,6 @@ pal.game
 paladin.game
 pame.game
 panda.game
-pandai.game
 panenslot.game
 pangeo.game
 panzer.game
@@ -4757,7 +4754,6 @@ rss777.game
 rss99.game
 rtp-terakurat.game
 rubberbandits.game
-ruckus.game
 ruda.game
 rug.game
 rugbrothers.game
@@ -5384,7 +5380,6 @@ tdtc.game
 teamfighttactics.game
 teamviewer.game
 teenpatti.game
-teenpattigold.game
 teenpattimaster.game
 teenpattionline.game
 tele.game
@@ -6101,6 +6096,7 @@ winkart.game
 winkyverse.game
 winline.game
 winlion.game
+winmyr.game
 winner.game
 winng.game
 winpg.game
