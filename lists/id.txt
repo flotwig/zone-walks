@@ -272,7 +272,6 @@
 1231515.id
 12345.id
 123456.id
-123456789.id
 123av.id
 123cargo.id
 123crm.id
@@ -300,6 +299,8 @@
 12betlogin.id
 12digicamp.id
 12goal.id
+12playidn.id
+12playtoto.id
 12trust.id
 12trusts.id
 12winterslot.id
@@ -836,6 +837,7 @@
 2masterkiu.id
 2monline.id
 2rantai88.id
+2sisi.id
 2store.id
 2tang.id
 2tangslot.id
@@ -1496,7 +1498,6 @@
 5movierulz.id
 5news.id
 5pence.id
-5play.id
 5qit.id
 5rantai88.id
 5roti2ikan.id
@@ -1935,7 +1936,6 @@
 812.id
 813.id
 814.id
-81451.id
 815.id
 81579.id
 816.id
@@ -3104,7 +3104,6 @@ academi.id
 academia.id
 academiaopenpublisher.id
 academiatrader.id
-academiaworks.id
 academic-life.id
 academic.id
 academica.id
@@ -3385,6 +3384,7 @@ acehpeduli.id
 acehpos.id
 acehpost.id
 acehpress.id
+acehproperty.id
 acehsale.id
 acehtiket.id
 acehtimes.id
@@ -3882,6 +3882,7 @@ adapta.id
 adaptable.id
 adaptableconsulting.id
 adaptasi-tangguh.id
+adaptasi.id
 adaptasibencana.id
 adaptasiklhk.id
 adapted.id
@@ -4134,7 +4135,6 @@ adhitechsales.id
 adhitia.id
 adhitsandpartners.id
 adhitya.id
-adhiwangsabali.id
 adhiwijaya.id
 adhmi.id
 adhoc.id
@@ -5491,7 +5491,6 @@ agenminyakkutuskutus.id
 agenmpo.id
 agenmu.id
 agennalo.id
-agenosb.id
 agenpaito.id
 agenpandai.id
 agenpasaran.id
