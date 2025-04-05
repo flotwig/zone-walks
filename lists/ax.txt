@@ -2543,7 +2543,6 @@ magnetic.ax
 maijas.ax
 mail.ax
 mailbox.ax
-mainburgerkebab.ax
 majblomsinsamling.ax
 maklarhuset.ax
 malarfix.ax
@@ -3896,6 +3895,7 @@ switchup.ax
 sx.ax
 sy.ax
 syn.ax
+sync.ax
 synt.ax
 synth.ax
 sysm.ax
@@ -4582,7 +4582,6 @@ zm.ax
 zn.ax
 znm.ax
 zo.ax
-zodiaq.ax
 zoduv.ax
 zomato.ax
 zoo-arken.ax
