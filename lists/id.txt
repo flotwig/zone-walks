@@ -172,6 +172,7 @@
 1000satu.id
 1000startupdigital.id
 1000web.id
+1001-game-free.id
 1001.id
 1001bola.id
 1001jasa.id
@@ -1370,7 +1371,6 @@
 52.id
 520.id
 520topup.id
-520tu.id
 521.id
 522.id
 523.id
@@ -1419,7 +1419,6 @@
 558.id
 559.id
 55exch.id
-55five.id
 55kbet.id
 55kgame.id
 55tbet.id
@@ -4017,6 +4016,7 @@ addodesagadungsari.id
 addodesakarangagung.id
 addodesakarangmulya.id
 addodesakayubihi.id
+addodesakuripan.id
 addodesalandih.id
 addodesalubukraman.id
 addodesamegati.id
@@ -4128,7 +4128,6 @@ adhiputro.id
 adhiqhse.id
 adhirajasa.id
 adhirajasatranssejahtera.id
-adhiramedika.id
 adhirekankreasi.id
 adhitama.id
 adhitamamitranusantara.id
@@ -4644,6 +4643,7 @@ aduankonten.id
 aduannomor.id
 aduansalahsusu.id
 aduansusu.id
+aduasn.id
 aduayampw.id
 adubos.id
 adudu4d-02.id
@@ -4659,6 +4659,7 @@ aduhoki77.id
 aduhoki77dewa.id
 aduhoki77maxwin.id
 aduhoki77super.id
+aduide.id
 adujitu.id
 adult.id
 adultcam.id
@@ -5278,7 +5279,6 @@ afteryoudessertcafe.id
 afthanpayment.id
 afu.id
 afuche.id
-afurnitureindonesia.id
 afv.id
 afwajatour.id
 afwan.id
@@ -5481,6 +5481,7 @@ agenjuaracoid.id
 agenjudibola.id
 agenjudipoker.id
 agenjudipoker88.id
+agenkami.id
 agenkaospolos.id
 agenkilat.id
 agenkitas.id
@@ -5562,6 +5563,7 @@ agentfactory.id
 agentfi.id
 agentforce.id
 agentgr.id
+agentic-ai.id
 agentic.id
 agenticai.id
 agentics.id
