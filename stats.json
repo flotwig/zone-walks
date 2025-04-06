@@ -165,7 +165,7 @@
       "zone": "amazon"
     },
     {
-      "domains": "100",
+      "domains": "99",
       "zone": "xn--l1acc"
     },
     {
@@ -197,5 +197,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4929354"
+  "total": "4929353"
 }
