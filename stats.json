@@ -157,7 +157,7 @@
       "zone": "xn--54b7fta0cc"
     },
     {
-      "domains": "214",
+      "domains": "213",
       "zone": "ve"
     },
     {
@@ -209,5 +209,5 @@
       "zone": "omega"
     }
   ],
-  "total": "4929032"
+  "total": "4929031"
 }
