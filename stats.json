@@ -193,6 +193,10 @@
       "zone": "bd"
     },
     {
+      "domains": "9",
+      "zone": "swatch"
+    },
+    {
       "domains": "7",
       "zone": "ieee"
     },
@@ -209,5 +213,5 @@
       "zone": "omega"
     }
   ],
-  "total": "4929031"
+  "total": "4929040"
 }

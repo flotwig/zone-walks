@@ -62,11 +62,12 @@ TLD | Domain Count
 [`arpa`][arpa] [(raw)][arpa-raw] | <div align="right">24</div>
 [`wed`][wed] [(raw)][wed-raw] | <div align="right">21</div>
 [`bd`][bd] [(raw)][bd-raw] | <div align="right">14</div>
+[`swatch`][swatch] [(raw)][swatch-raw] | <div align="right">9</div>
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
 [`omega`][omega] [(raw)][omega-raw] | <div align="right">5</div>
-**Total** | <div align="right">4929031</div>
+**Total** | <div align="right">4929040</div>
 
 ## See Also
 
@@ -170,6 +171,8 @@ TLD | Domain Count
 [wed-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/wed.txt
 [bd]: ./lists/bd.txt
 [bd-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/bd.txt
+[swatch]: ./lists/swatch.txt
+[swatch-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/swatch.txt
 [ieee]: ./lists/ieee.txt
 [ieee-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ieee.txt
 [er]: ./lists/er.txt
