@@ -41,6 +41,10 @@
       "zone": "tn"
     },
     {
+      "domains": "19162",
+      "zone": "christmas"
+    },
+    {
       "domains": "13432",
       "zone": "kg"
     },
@@ -87,10 +91,6 @@
     {
       "domains": "3477",
       "zone": "ci"
-    },
-    {
-      "domains": "3324",
-      "zone": "christmas"
     },
     {
       "domains": "2388",
@@ -213,5 +213,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3523594"
+  "total": "3539432"
 }
