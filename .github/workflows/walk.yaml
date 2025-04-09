@@ -16,6 +16,7 @@ jobs:
       matrix:
         zone:
         - amazon
+        - aquarelle
         - arpa
         - audio
         - auto
@@ -26,6 +27,7 @@ jobs:
         - car
         - cars
         - ci
+        - cw
         - desi
         - diet
         - dz
@@ -47,11 +49,14 @@ jobs:
         - lol
         - lr
         - mc
+        - md
         - mom
         - nu
+        - omega
         - pics
         - pr
         - ruhr
+        - shell
         - tn
         - tz
         - ve

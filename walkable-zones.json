@@ -4,6 +4,9 @@
       "zone": "amazon"
     },
     {
+      "zone": "aquarelle"
+    },
+    {
       "zone": "arpa"
     },
     {
@@ -32,6 +35,9 @@
     },
     {
       "zone": "ci"
+    },
+    {
+      "zone": "cw"
     },
     {
       "zone": "desi"
@@ -97,10 +103,16 @@
       "zone": "mc"
     },
     {
+      "zone": "md"
+    },
+    {
       "zone": "mom"
     },
     {
       "zone": "nu"
+    },
+    {
+      "zone": "omega"
     },
     {
       "zone": "pics"
@@ -110,6 +122,9 @@
     },
     {
       "zone": "ruhr"
+    },
+    {
+      "zone": "shell"
     },
     {
       "zone": "tn"
