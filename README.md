@@ -64,7 +64,8 @@ TLD | Domain Count
 [`ieee`][ieee] [(raw)][ieee-raw] | <div align="right">7</div>
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
-**Total** | <div align="right">4928974</div>
+[`omega`][omega] [(raw)][omega-raw] | <div align="right">5</div>
+**Total** | <div align="right">4928979</div>
 
 ## See Also
 
@@ -172,3 +173,5 @@ TLD | Domain Count
 [er-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/er.txt
 [lb]: ./lists/lb.txt
 [lb-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lb.txt
+[omega]: ./lists/omega.txt
+[omega-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/omega.txt

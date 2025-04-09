@@ -199,7 +199,11 @@
     {
       "domains": "6",
       "zone": "lb"
+    },
+    {
+      "domains": "5",
+      "zone": "omega"
     }
   ],
-  "total": "4928974"
+  "total": "4928979"
 }
