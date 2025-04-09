@@ -34,6 +34,12 @@
       "zone": "cars"
     },
     {
+      "zone": "ch"
+    },
+    {
+      "zone": "christmas"
+    },
+    {
       "zone": "ci"
     },
     {
@@ -94,6 +100,9 @@
       "zone": "lk"
     },
     {
+      "zone": "lol"
+    },
+    {
       "zone": "lr"
     },
     {
@@ -121,7 +130,13 @@
       "zone": "ruhr"
     },
     {
+      "zone": "se"
+    },
+    {
       "zone": "shell"
+    },
+    {
+      "zone": "swatch"
     },
     {
       "zone": "tn"
@@ -142,10 +157,16 @@
       "zone": "xn--80ao21a"
     },
     {
+      "zone": "xn--fzc2c9e2c"
+    },
+    {
       "zone": "xn--l1acc"
     },
     {
       "zone": "xn--pgbs0dh"
+    },
+    {
+      "zone": "xn--xkc2al3hye2a"
     }
   ]
 }
