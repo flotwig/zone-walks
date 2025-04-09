@@ -73,7 +73,7 @@
       "zone": "ax"
     },
     {
-      "domains": "4483",
+      "domains": "4482",
       "zone": "ruhr"
     },
     {
@@ -205,5 +205,5 @@
       "zone": "omega"
     }
   ],
-  "total": "4928974"
+  "total": "4928973"
 }
