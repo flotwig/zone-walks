@@ -85,7 +85,7 @@
       "zone": "mc"
     },
     {
-      "domains": "3481",
+      "domains": "3477",
       "zone": "ci"
     },
     {
@@ -205,5 +205,5 @@
       "zone": "omega"
     }
   ],
-  "total": "4928979"
+  "total": "4928975"
 }
