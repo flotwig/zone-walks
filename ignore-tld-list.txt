@@ -10,3 +10,4 @@ ir
 # Takes too long on GH Actions, we'll update these remotely
 ch
 se
+lol
