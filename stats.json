@@ -5,10 +5,6 @@
       "zone": "ch"
     },
     {
-      "domains": "1414923",
-      "zone": "se"
-    },
-    {
       "domains": "214544",
       "zone": "lol"
     },
@@ -55,6 +51,10 @@
     {
       "domains": "9784",
       "zone": "cy"
+    },
+    {
+      "domains": "9475",
+      "zone": "se"
     },
     {
       "domains": "6415",
@@ -213,5 +213,5 @@
       "zone": "omega"
     }
   ],
-  "total": "4929040"
+  "total": "3523592"
 }

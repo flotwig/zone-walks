@@ -15,7 +15,6 @@ Zone walking is a method of enumerating domain names that takes advantage of a q
 TLD | Domain Count
 --- | ---
 [`ch`][ch] [(raw)][ch-raw] | <div align="right">2528344</div>
-[`se`][se] [(raw)][se-raw] | <div align="right">1414923</div>
 [`lol`][lol] [(raw)][lol-raw] | <div align="right">214544</div>
 [`kz`][kz] [(raw)][kz-raw] | <div align="right">177372</div>
 [`nu`][nu] [(raw)][nu-raw] | <div align="right">121654</div>
@@ -28,6 +27,7 @@ TLD | Domain Count
 [`kg`][kg] [(raw)][kg-raw] | <div align="right">13432</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">11272</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
+[`se`][se] [(raw)][se-raw] | <div align="right">9475</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">6415</div>
 [`id`][id] [(raw)][id-raw] | <div align="right">6403</div>
 [`audio`][audio] [(raw)][audio-raw] | <div align="right">4847</div>
@@ -67,7 +67,7 @@ TLD | Domain Count
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
 [`omega`][omega] [(raw)][omega-raw] | <div align="right">5</div>
-**Total** | <div align="right">4929040</div>
+**Total** | <div align="right">3523592</div>
 
 ## See Also
 
@@ -77,8 +77,6 @@ TLD | Domain Count
 
 [ch]: ./lists/ch.txt
 [ch-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ch.txt
-[se]: ./lists/se.txt
-[se-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/se.txt
 [lol]: ./lists/lol.txt
 [lol-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lol.txt
 [kz]: ./lists/kz.txt
@@ -103,6 +101,8 @@ TLD | Domain Count
 [lk-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/lk.txt
 [cy]: ./lists/cy.txt
 [cy-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/cy.txt
+[se]: ./lists/se.txt
+[se-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/se.txt
 [game]: ./lists/game.txt
 [game-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/game.txt
 [id]: ./lists/id.txt
