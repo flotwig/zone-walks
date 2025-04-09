@@ -169,6 +169,10 @@
       "zone": "xn--l1acc"
     },
     {
+      "domains": "49",
+      "zone": "aquarelle"
+    },
+    {
       "domains": "39",
       "zone": "gn"
     },
@@ -197,5 +201,5 @@
       "zone": "lb"
     }
   ],
-  "total": "4928925"
+  "total": "4928974"
 }
