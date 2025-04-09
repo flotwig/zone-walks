@@ -890,6 +890,7 @@ civic.audio
 cl.audio
 claims.audio
 clankrattle.audio
+clap.audio
 clarity.audio
 classi.audio
 classifieds.audio
@@ -2817,6 +2818,7 @@ mooij.audio
 moon-audio.audio
 moonage.audio
 moonbow.audio
+moongate.audio
 moonshot.audio
 moose.audio
 mootens.audio
