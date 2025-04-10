@@ -29,7 +29,7 @@
       "zone": "li"
     },
     {
-      "domains": "59726",
+      "domains": "59610",
       "zone": "pics"
     },
     {
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3572562"
+  "total": "3572446"
 }
