@@ -198,7 +198,6 @@ ab-auto.kg
 ab-transfer.kg
 ab.kg
 aba.kg
-abacus.kg
 abad.kg
 abal.kg
 abalon.kg
@@ -231,6 +230,7 @@ abroi.kg
 abrom.kg
 abroy.kg
 abs.kg
+absaqua.kg
 absconstruction.kg
 absolut.kg
 absolute.kg
@@ -716,7 +716,6 @@ alfaleader.kg
 alfaleasing.kg
 alfalombard.kg
 alfamotors.kg
-alfapack.kg
 alfapetroleum.kg
 alfaresource.kg
 alfaresourcegroup.kg
@@ -914,6 +913,7 @@ amendi.kg
 american-academy.kg
 american-express.kg
 americanairlines.kg
+americancorners.kg
 americancouncils.kg
 americanhome.kg
 amfi.kg
@@ -1669,6 +1669,7 @@ azima.kg
 azimut.kg
 azimutcapital.kg
 azimuth24.kg
+azimuthotels.kg
 azius.kg
 azmed.kg
 azo.kg
@@ -1825,7 +1826,6 @@ barkhat-fabrika.kg
 barometr.kg
 barracuda.kg
 bars.kg
-barsa.kg
 barsacademy.kg
 barsinvest.kg
 barso.kg
@@ -1971,6 +1971,7 @@ bekker24.kg
 bekmangroup.kg
 beko.kg
 beksar.kg
+bektenplast.kg
 bel.kg
 belayareka.kg
 belbog.kg
@@ -2430,6 +2431,7 @@ bq-handwerk.kg
 braga.kg
 braiders.kg
 braille.kg
+brandambassador.kg
 brandfree.kg
 brandmonitor.kg
 brandplus.kg
@@ -2767,6 +2769,7 @@ centradvokatov.kg
 central-asia.kg
 centralasia.kg
 centralasianfilms.kg
+centrallab.kg
 centrik.kg
 centrix.kg
 centrmetalla.kg
@@ -2807,6 +2810,7 @@ chapan.kg
 chapel.kg
 charba.kg
 charter.kg
+chas.kg
 chasy.kg
 chat.kg
 chat2desk.kg
@@ -2899,7 +2903,6 @@ chyrak.kg
 ci-idal.kg
 ci.kg
 cian.kg
-cibosano.kg
 cid.kg
 cinema.kg
 cinemaonline.kg
@@ -3459,7 +3462,6 @@ development.kg
 device.kg
 devino.kg
 devinvest.kg
-devkassa.kg
 devolution.kg
 devops.kg
 devs.kg
@@ -4055,6 +4057,7 @@ elib.kg
 eligita.kg
 elilimjournal.kg
 elime.kg
+elishacoy.kg
 elit-mozzarella.kg
 elita.kg
 elite-bruschatka.kg
@@ -4421,6 +4424,7 @@ ex.kg
 ex2crypto.kg
 ex9a.kg
 example.kg
+examplle.kg
 excavator.kg
 exchange.kg
 exclusive.kg
@@ -4751,7 +4755,7 @@ followme.kg
 foms.kg
 fonbet.kg
 fonbish.kg
-fondpriroda.kg
+fond.kg
 fondy.kg
 fonmix.kg
 fonotech.kg
@@ -5224,6 +5228,7 @@ gov.kg
 govori.kg
 goznak.kg
 gp.kg
+gpdan.kg
 gpi.kg
 gpn-promo.kg
 gpnbonus.kg
@@ -5799,7 +5804,6 @@ ilbirsfest.kg
 ilbirsimpex.kg
 ilbirstrade.kg
 ilbirsvet.kg
-ilbirsvillage.kg
 ilcom.kg
 ildev.kg
 ilgeri.kg
@@ -6347,7 +6351,6 @@ jewelleryunion.kg
 jewelry.kg
 jg.kg
 jia.kg
-jibekcity.kg
 jibekjolukafe.kg
 jie.kg
 jiedrive.kg
@@ -6422,6 +6425,7 @@ k3.kg
 kabai.kg
 kabar.kg
 kabarlar.kg
+kabarstan.kg
 kabrita.kg
 kadam-media.kg
 kadam.kg
@@ -6642,7 +6646,6 @@ kerben.kg
 kerbenstone.kg
 kerbentravel.kg
 kerbish.kg
-kereez.kg
 kerege.kg
 keregepref.kg
 kerek.kg
@@ -6773,6 +6776,7 @@ kitepman.kg
 kitepstan.kg
 kitkat.kg
 kittrade.kg
+kiu.kg
 kiuc.kg
 kivano.kg
 kivi.kg
@@ -8634,7 +8638,6 @@ nbc.kg
 nbk.kg
 nbkr.kg
 nbp.kg
-nc.kg
 nccim.kg
 ncdproject.kg
 ncg.kg
@@ -8828,7 +8831,6 @@ nortech.kg
 northstar.kg
 norton.kg
 not.kg
-notariat.kg
 notarius.kg
 notary.kg
 notary312.kg
@@ -8947,6 +8949,7 @@ objorno.kg
 oblaka.kg
 oblako.kg
 obmen.kg
+obmenka.kg
 obo.kg
 oboi.kg
 obondoru.kg
@@ -9253,6 +9256,7 @@ osgo.kg
 osh-city.kg
 osh-nuru.kg
 osh.kg
+oshbb.kg
 oshbi.kg
 oshcci.kg
 oshcinema.kg
@@ -9399,7 +9403,6 @@ pardifen.kg
 parfume.kg
 parfumer.kg
 parfums.kg
-pargorkogo.kg
 pari.kg
 parimatch.kg
 park.kg
@@ -10110,6 +10113,7 @@ quasar.kg
 quattro.kg
 quattromedia.kg
 quentinkids.kg
+ques.kg
 quick.kg
 quickpay.kg
 quizplease.kg
@@ -10972,6 +10976,7 @@ silkway.kg
 silkwaylog.kg
 silkwaymed.kg
 silkwaytravel.kg
+silkwayvisa.kg
 silu.kg
 silunews.kg
 silvertech.kg
@@ -11396,6 +11401,7 @@ starzbet.kg
 stat.kg
 statecs.kg
 statoil.kg
+status.kg
 stavtrack.kg
 stay.kg
 steakdream.kg
@@ -11411,7 +11417,6 @@ steklo.kg
 steklostroi.kg
 stellagroup.kg
 stellateam.kg
-stellefashion.kg
 stellox.kg
 stemma.kg
 stenders-cosmetics.kg
@@ -11427,7 +11432,6 @@ stinscom.kg
 stk-888.kg
 stmacarons.kg
 sto.kg
-sto312.kg
 stockmeier-food.kg
 stoika.kg
 stoleshnica.kg
@@ -11555,7 +11559,6 @@ supertaxi.kg
 supertv.kg
 supplier.kg
 supply.kg
-supplychina.kg
 support.kg
 suptravel.kg
 surabaldiev.kg
@@ -12151,6 +12154,7 @@ topas.kg
 topbet.kg
 topbrands.kg
 topclean.kg
+topnews.kg
 topol-ecoseptic.kg
 topoz.kg
 topshop.kg
@@ -12671,7 +12675,6 @@ usu.kg
 ut.kg
 uteam.kg
 uteplim.kg
-utgchem.kg
 utrack.kg
 utrk.kg
 utsystems.kg
@@ -12822,7 +12825,6 @@ viju.kg
 viki.kg
 viko.kg
 vikupavto.kg
-vilar.kg
 vilarstroy.kg
 viled.kg
 villa.kg
@@ -13332,6 +13334,7 @@ zapis.kg
 zardi.kg
 zarplata.kg
 zashitaidei.kg
+zavco.kg
 zavgar.kg
 zavod-implantacii.kg
 zavod-pt.kg
