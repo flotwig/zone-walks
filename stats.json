@@ -65,7 +65,7 @@
       "zone": "se"
     },
     {
-      "domains": "6416",
+      "domains": "6412",
       "zone": "game"
     },
     {
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3572411"
+  "total": "3572407"
 }
