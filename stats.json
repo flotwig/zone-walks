@@ -149,7 +149,7 @@
       "zone": "xn--80ao21a"
     },
     {
-      "domains": "319",
+      "domains": "317",
       "zone": "car"
     },
     {
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3572410"
+  "total": "3572408"
 }
