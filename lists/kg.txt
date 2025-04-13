@@ -81,7 +81,6 @@
 2f.kg
 2gis.kg
 2proraba.kg
-2techno.kg
 2x2.kg
 3-delectro.kg
 3-gymnasium.kg
@@ -1427,7 +1426,6 @@ audit-co.kg
 audit-consulting.kg
 audit.kg
 auditcenter.kg
-auditor.kg
 auditpartners.kg
 auditproof.kg
 auditstandard.kg
@@ -2219,6 +2217,7 @@ bishkek-guvd.kg
 bishkek-hotel.kg
 bishkek-market.kg
 bishkek-med.kg
+bishkek-motors.kg
 bishkek-opt.kg
 bishkek-solar.kg
 bishkek-travel.kg
@@ -2248,7 +2247,6 @@ bit.kg
 bitauto.kg
 bitaxi.kg
 bitbaia.kg
-bitbank.kg
 bitbanker.kg
 bitcash.kg
 bitcoin.kg
@@ -2432,6 +2430,7 @@ bq-handwerk.kg
 braga.kg
 braiders.kg
 braille.kg
+brand.kg
 brandambassador.kg
 brandfree.kg
 brandmonitor.kg
@@ -2810,10 +2809,8 @@ changanauto.kg
 changli.kg
 chapan.kg
 chapel.kg
-charba.kg
 charter.kg
 chas.kg
-chasy.kg
 chat.kg
 chat2desk.kg
 chatgpt.kg
@@ -2984,7 +2981,6 @@ cne.kg
 cnn.kg
 cnx.kg
 co.kg
-coalition.kg
 coca-cola.kg
 coca-colalight.kg
 cocacola.kg
@@ -3002,7 +2998,6 @@ coffeeboom.kg
 coffeefest.kg
 coffeeman.kg
 coffeeshop.kg
-coffeeshopcompany.kg
 cognac.kg
 coin.kg
 coincash.kg
@@ -3245,7 +3240,6 @@ d.kg
 d2.kg
 da.kg
 daad.kg
-daamduu.kg
 daami.kg
 daclinic.kg
 dada.kg
@@ -3392,7 +3386,6 @@ deltamedical.kg
 deltatech.kg
 delur.kg
 dem.kg
-demagro.kg
 demar.kg
 demarhotel.kg
 demetra-m.kg
@@ -3972,7 +3965,6 @@ eit.kg
 eiva.kg
 ejoo.kg
 ekassa.kg
-ekitash.kg
 ekk.kg
 ekol.kg
 ekomilk.kg
@@ -4121,7 +4113,6 @@ email.kg
 emark-stroy.kg
 emark.kg
 embargo.kg
-embassyofindia.kg
 emdr.kg
 emektep.kg
 emerec.kg
@@ -4330,7 +4321,6 @@ euroasiaagro.kg
 euroasiamarket.kg
 euroauto.kg
 eurobaget.kg
-eurobruschatka.kg
 euroclean.kg
 euroclinic.kg
 eurocosmetic.kg
@@ -4357,7 +4347,6 @@ eutectic.kg
 ev.kg
 eva.kg
 evaathome.kg
-evacuator.kg
 evacuatorsokol.kg
 evacuatorsokol140.kg
 evakuator-bishkek.kg
@@ -4499,7 +4488,6 @@ fakir.kg
 fakt.kg
 falcon-railas.kg
 falcon.kg
-falken.kg
 falkor.kg
 famedical.kg
 family.kg
@@ -4930,7 +4918,6 @@ galog.kg
 gam.kg
 game.kg
 gamegate.kg
-gameheaven.kg
 gamer.kg
 gamerz.kg
 games.kg
@@ -7132,6 +7119,7 @@ kyrgyzstan.kg
 kyrgyzstanguide.kg
 kyrgyzstantravel.kg
 kyrgyzstantrips.kg
+kyrgyzstanvisa.kg
 kyrgyzsteel.kg
 kyrgyztasmasy.kg
 kyrgyztest.kg
@@ -8440,7 +8428,6 @@ munara.kg
 munchen.kg
 munichre.kg
 municipalitet.kg
-munira.kg
 murap.kg
 muras-sertificat.kg
 muras.kg
@@ -8893,7 +8880,6 @@ ntek.kg
 ntk.kg
 ntp.kg
 nts.kg
-nuby.kg
 nucha.kg
 nukura.kg
 nukurasert.kg
@@ -8928,7 +8914,6 @@ nvm.kg
 nxtech.kg
 ny-partners.kg
 ny.kg
-nycatering.kg
 nygroup.kg
 nyxcosmetics.kg
 o-bank.kg
@@ -9663,7 +9648,6 @@ pizza.kg
 pizzaosh.kg
 pizzasinizza.kg
 pizzasushiwok.kg
-pj.kg
 pk.kg
 pki.kg
 pkkumu.kg
@@ -9897,7 +9881,6 @@ primegarant.kg
 primegroup.kg
 primeinvest.kg
 primembt.kg
-primeservice.kg
 primetech.kg
 primevideo.kg
 primex.kg
@@ -9920,7 +9903,6 @@ privet.kg
 privetplus.kg
 privetravel.kg
 privivka.kg
-priz.kg
 prk.kg
 prm.kg
 pro-agro.kg
@@ -10040,6 +10022,7 @@ protherm.kg
 protocol.kg
 proverka.kg
 provitamins.kg
+proweb.kg
 proxxima.kg
 proxy.kg
 prozakup-az.kg
@@ -10757,6 +10740,7 @@ sdgroup.kg
 sdk.kg
 sdmanas.kg
 sdo.kg
+sdpk.kg
 sds.kg
 se.kg
 sea.kg
@@ -10868,7 +10852,6 @@ shabuhouse.kg
 shacman-center.kg
 shacman.kg
 shagyltash.kg
-shahpalace.kg
 shahtea.kg
 shailoo.kg
 shaiman.kg
@@ -11145,6 +11128,7 @@ smi.kg
 smiiib.kg
 smile.kg
 smk.kg
+smlcluster.kg
 smltplus.kg
 smm.kg
 smmlab.kg
@@ -11297,6 +11281,7 @@ spectransburo.kg
 spectre.kg
 spectrum.kg
 speedlinellc.kg
+spektrmedia.kg
 speleo.kg
 sperctrum.kg
 spetsnazdeti.kg
@@ -11603,7 +11588,6 @@ swarovski-optik.kg
 swarovski.kg
 swarovskioptik.kg
 swat.kg
-swedhouse.kg
 sweetdreams.kg
 swift.kg
 swimkids.kg
@@ -11885,6 +11869,7 @@ temir.kg
 temirlan-oil.kg
 temirproduct.kg
 temirstroi.kg
+temu.kg
 tena.kg
 tenaya.kg
 tender.kg
@@ -12058,7 +12043,6 @@ times.kg
 timesbar.kg
 timskupka.kg
 timurpharm.kg
-tinkoff.kg
 tinta.kg
 tinvest.kg
 tipf.kg
@@ -13029,7 +13013,6 @@ webcam.kg
 webdesign.kg
 webformat.kg
 webhost.kg
-webhosting.kg
 webkassa.kg
 webmail.kg
 webmarket.kg
