@@ -97,7 +97,7 @@
       "zone": "ci"
     },
     {
-      "domains": "2391",
+      "domains": "2390",
       "zone": "hosting"
     },
     {
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3571763"
+  "total": "3571762"
 }
