@@ -468,6 +468,7 @@ boco.mc
 boconcept.mc
 bodyflow.mc
 bodytailor.mc
+boisbouvier.mc
 boisson.mc
 bollati-immobilier.mc
 bookvideo.mc
@@ -676,7 +677,6 @@ ciaobellamontecarlo.mc
 cic.mc
 cicam.mc
 cice-monaco.mc
-cielazur.mc
 cifer.mc
 cig.mc
 cim.mc
@@ -2819,7 +2819,6 @@ pfomonaco.mc
 pg-plastic.mc
 pgil.mc
 pharmaciedemontecarlo.mc
-pharmacieferry.mc
 pharmaciefontvieille.mc
 pharmaciewehrel.mc
 pharmed.mc
@@ -2898,6 +2897,7 @@ prestigedays.mc
 prettymemonaco.mc
 prettyyoumonaco.mc
 primalys.mc
+primarys-group.mc
 prime-estate.mc
 prime-family.mc
 prime-law.mc
