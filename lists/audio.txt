@@ -1857,7 +1857,6 @@ hbpc.audio
 hdie.audio
 hdrezka.audio
 hdsx.audio
-hea.audio
 head-phone.audio
 head.audio
 headquarters.audio
@@ -2837,7 +2836,6 @@ moy.audio
 mp3.audio
 mp3clan.audio
 mpc.audio
-mpsoundlab.audio
 mqa.audio
 mrgsynth.audio
 mrlewis.audio
@@ -3267,6 +3265,7 @@ pfeiffer.audio
 phalene.audio
 phantom.audio
 pharmaceutical.audio
+phase.audio
 phasma.audio
 phenom.audio
 pheric.audio
@@ -3575,6 +3574,7 @@ remix.audio
 removereverb.audio
 renaissance.audio
 renaizzance.audio
+render.audio
 rendered.audio
 rentals.audio
 repair.audio
@@ -4283,6 +4283,7 @@ thecommunistpig.audio
 thefairplay.audio
 thegig.audio
 thegreenroom.audio
+theidea.audio
 theirishplace.audio
 thejohncard.audio
 thelonelyastronaut.audio
