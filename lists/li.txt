@@ -640,6 +640,7 @@
 4me.li
 4movierulz.li
 4mypal.li
+4ndy.li
 4o4.li
 4pfoten.li
 4plan.li
@@ -1807,7 +1808,6 @@ aeon.li
 aep.li
 aepp.li
 aequitax.li
-aer.li
 aerarium.li
 aere.li
 aerialarts.li
@@ -2077,6 +2077,7 @@ aidan.li
 aidas-personal.li
 aidaspersonal.li
 aiden.li
+aidoc.li
 aidwatch.li
 aiel.li
 aif.li
@@ -2779,6 +2780,7 @@ alphacon.li
 alphacore.li
 alphaheadhunter.li
 alphasoft3000.li
+alphastrat.li
 alphataxi.li
 alphatraining.li
 alpholz.li
@@ -3424,6 +3426,7 @@ anjasommerkutzer.li
 anjost.li
 anjostinvestment.li
 anju.li
+ank.li
 anka-gastro.li
 anka.li
 ankarberg.li
@@ -5054,6 +5057,7 @@ avendra.li
 aventure.li
 aventureverticale.li
 avenuebooks.li
+avepa.li
 avepto.li
 aveva.li
 avfocus.li
@@ -5266,6 +5270,7 @@ aznews.li
 azo.li
 azonline.li
 azrie.li
+aztex.li
 azu.li
 azul.li
 azulys.li
@@ -5319,7 +5324,6 @@ b4y.li
 b52.li
 b52club.li
 b57.li
-b58.li
 b60.li
 b74.li
 baa.li
@@ -5836,6 +5840,8 @@ barisol.li
 barista-cafe.li
 barista.li
 baristina.li
+barley-latte.li
+barleylatte.li
 barlog.li
 barmelweid.li
 barmenia-liechtenstein.li
@@ -6199,6 +6205,7 @@ bcpru.li
 bcs-computer.li
 bcts.li
 bcvaduz.li
+bcw.li
 bda.li
 bdag.li
 bdb.li
@@ -6352,6 +6359,7 @@ beckenschiefstand.li
 becker-baurecht.li
 becker.li
 beckerei.li
+beckertec.li
 beckgrafikdesign.li
 beckhoff.li
 beckhome.li
@@ -6715,7 +6723,6 @@ beringer.li
 berisha.li
 berk.li
 berke.li
-berkeley.li
 berkeyshop.li
 berkle.li
 berkleyinsurance.li
@@ -6933,6 +6940,7 @@ betreibungsauszug.li
 betreuplan.li
 betreuplangmbh.li
 betreut.li
+betreuung.li
 betreuungs-spezialist.li
 betreuungs-und-pflegegeld.li
 betreuungsagenda.li
@@ -7226,7 +7234,6 @@ biggreenegg.li
 bighosting.li
 bigi.li
 bigjack.li
-bigklik.li
 bigler.li
 bigliel.li
 bigplayer.li
@@ -8833,7 +8840,6 @@ briefmarken.li
 briel.li
 brif.li
 brig.li
-brigadeiros.li
 brigantia.li
 briggs.li
 bright.li
@@ -13189,6 +13195,7 @@ cuckoo.li
 cuco.li
 cud.li
 cuda.li
+cudd.li
 cuddle.li
 cue.li
 cuep.li
@@ -13241,11 +13248,9 @@ cur8.li
 cura-akut.li
 cura-pflege.li
 cura.li
-curaakut.li
 curabis.li
 curamar.li
 curanova.li
-curapflege.li
 curaprox.li
 curator.li
 curatum.li
@@ -13446,6 +13451,7 @@ czs.li
 czv.li
 czvfragen.li
 czvtheorie.li
+czx.li
 czy.li
 d-b.li
 d-brock.li
@@ -13904,7 +13910,6 @@ dbc.li
 dbd.li
 dbf.li
 dbg.li
-dbjdfb.li
 dbp.li
 dbramante1928.li
 dbschenker.li
@@ -14628,7 +14633,6 @@ dgs.li
 dgstudio.li
 dgt.li
 dgta.li
-dgufh.li
 dgv.li
 dgvv.li
 dha.li
@@ -15026,6 +15030,7 @@ dina.li
 dinapo.li
 dinara.li
 dinarida.li
+dincer.li
 dincler.li
 dine.li
 dinehome.li
@@ -16796,6 +16801,7 @@ eef.li
 eeg.li
 eelectron.li
 eelke.li
+eem.li
 eemag.li
 eeme.li
 eenfinity.li
@@ -20133,7 +20139,6 @@ finma.li
 finmail.li
 finmatch.li
 finmea.li
-finmed.li
 finn.li
 finnair.li
 finne.li
@@ -21694,6 +21699,7 @@ fruitsfrais.li
 frummi.li
 frunis.li
 frunisco.li
+frunoa.li
 fruttiextra.li
 fry.li
 frye.li
@@ -21968,6 +21974,7 @@ futurist.li
 futuriti.li
 futuro.li
 futurum.li
+futurus.li
 fuu.li
 fuwa.li
 fux-auf-dux.li
@@ -22592,6 +22599,7 @@ geigenbau.li
 geiger-law.li
 geiger.li
 geil.li
+geila-scheiss.li
 geilasiach.li
 geile-weiber.li
 geilinger.li
@@ -23392,11 +23400,23 @@ global-blue.li
 global-businesscenter.li
 global-domain-management.li
 global-immobilien.li
+global-liechtenstein-balzers.li
+global-liechtenstein.li
 global-print.li
 global-renewable-resources.li
 global-services.li
 global-sports.li
 global-staff.li
+global-swiss-balzers.li
+global-swiss-basel.li
+global-swiss-chur.li
+global-swiss-luzern.li
+global-swiss-olten.li
+global-swiss-pfaeffikon.li
+global-swiss-sargans.li
+global-swiss-zh.li
+global-swiss-zuerich.li
+global-swiss.li
 global-versicherungen.li
 global-versicherungsbroker.li
 global.li
@@ -23921,7 +23941,6 @@ gpi.li
 gpk.li
 gplhk.li
 gpo.li
-gpon.li
 gpp.li
 gpr.li
 gps.li
@@ -24097,6 +24116,7 @@ greenairport.li
 greenbank.li
 greenbond.li
 greenborn.li
+greenbuilding.li
 greenbuildings.li
 greenbutik.li
 greenbuzz.li
@@ -29724,7 +29744,6 @@ j-st.li
 j-tech.li
 j-u.li
 j0b1.li
-j11.li
 j2w.li
 j4ck.li
 j4y.li
@@ -29937,6 +29956,7 @@ jav.li
 jav69.li
 java.li
 javascript.li
+javfinder.li
 javhay.li
 jawa.li
 jawliner.li
@@ -30034,6 +30054,7 @@ jelinek.li
 jelk-zermatt.li
 jell.li
 jelle.li
+jelly.li
 jellyfish.li
 jelte.li
 jem.li
@@ -31538,6 +31559,7 @@ kellenberger.li
 keller-sports.li
 keller-ue.li
 keller.li
+kellerbs.li
 kellerfahnen.li
 kellermann.li
 kellers.li
@@ -37491,7 +37513,6 @@ market.li
 marketbook.li
 marketing-alpha.li
 marketing-fuer-kmu.li
-marketing-im-outsourcing.li
 marketing-liechtenstein.li
 marketing-mix.li
 marketing.li
@@ -39954,6 +39975,8 @@ monochrome.li
 monofer.li
 monogram.li
 monoid.li
+monolinezaun.li
+monolinezaune.li
 monologue.li
 monopo.li
 monopoly.li
@@ -41684,7 +41707,6 @@ neobank.li
 neobux.li
 neocid.li
 neocloud.li
-neofee.li
 neom.li
 neomat.li
 neomi.li
@@ -42931,6 +42953,7 @@ nur-dasbeste.li
 nur-online.li
 nur.li
 nura.li
+nuraliechtenstein.li
 nurdasbeste.li
 nuro.li
 nuronline.li
@@ -43374,6 +43397,7 @@ ofoah.li
 ofsean.li
 oft.li
 oga.li
+ogc.li
 ogcomm.li
 ogddachli.li
 ogdportal.li
@@ -44396,7 +44420,6 @@ ovivio.li
 ovivo.li
 ovlu.li
 ovn.li
-ovni.li
 ovo.li
 ovptr0ec.li
 ovr.li
@@ -44737,6 +44760,7 @@ pap-ag.li
 pap-link.li
 pap.li
 papa.li
+papanavigator.li
 paparazzi.li
 papayadryfruits.li
 pape.li
@@ -49474,7 +49498,6 @@ renegade.li
 renehuber.li
 renewable.li
 renewbike.li
-renga.li
 rengg.li
 renggli.li
 reni.li
@@ -54234,7 +54257,6 @@ skyscanner.li
 skystore.li
 skytab.li
 skytech.li
-skytrain.li
 skytraxx.li
 skyview.li
 skyway.li
@@ -57531,7 +57553,6 @@ swissmountainclinic.li
 swissnet.li
 swissnetz.li
 swissolympicacademy.li
-swissomni.li
 swissonline.li
 swissonlinegames.li
 swissortho.li
@@ -57601,6 +57622,7 @@ swissskifactory.li
 swissskisfactory.li
 swisssmile.li
 swisssms.li
+swisssmse.li
 swisssportintegrity.li
 swissstraw.li
 swissstream.li
@@ -60660,6 +60682,7 @@ tschuetscher.li
 tschugmell-archiv-mauren.li
 tschuk.li
 tschumi.li
+tschuor.li
 tschuss.li
 tschutta.li
 tschuttiheft.li
@@ -61934,6 +61957,7 @@ vallumfoundation.li
 valma.li
 valmera.li
 valmont.li
+valoo.li
 valor.li
 valoren.li
 valorlife.li
@@ -62116,6 +62140,7 @@ vega-direct.li
 vega.li
 vegaluna.li
 vegamovies.li
+vegamoviese.li
 vegamoviess.li
 vegan-protein.li
 vegan.li
@@ -63925,6 +63950,7 @@ wch.li
 wcli.li
 wcloc.li
 wcm.li
+wco.li
 wcon.li
 wcu-edu.li
 wcvxy.li
@@ -63955,6 +63981,7 @@ wealth.li
 wealthcare.li
 wealthcounsel.li
 wealthmanagement.li
+wealthoffice.li
 wealthpartners.li
 wealthprotection.li
 wear-it.li
@@ -65074,7 +65101,6 @@ witzigmann.li
 wivema.li
 wivio.li
 wiw.li
-wiwendo.li
 wiwia.li
 wixer.li
 wiys.li
@@ -66361,7 +66387,6 @@ xn--grossabnt-w9a.li
 xn--groupedkuple-heb.li
 xn--grss-1ra.li
 xn--grssgott-75a.li
-xn--grt-qla.li
 xn--grtner-bua.li
 xn--grttimnn-1zae.li
 xn--gsnder-4ya.li
