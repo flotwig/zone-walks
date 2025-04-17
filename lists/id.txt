@@ -584,6 +584,7 @@
 1win1.id
 1winapp.id
 1winbet.id
+1winbets.id
 1winbetting.id
 1wincasino.id
 1winid.id
@@ -1043,8 +1044,6 @@
 388.id
 388asia.id
 388bet.id
-388hero.id
-388jp.id
 389.id
 389poker.id
 389sports.id
@@ -1811,7 +1810,6 @@
 778.id
 779.id
 77bet.id
-77betspin.id
 77gacor.id
 77live.id
 77lucks.id
@@ -2347,7 +2345,6 @@
 9store.id
 9to9online.id
 9tours.id
-9transports.id
 9winterslot.id
 a-count.id
 a-creative.id
@@ -4331,6 +4328,7 @@ adityatour.id
 adityatrainingcenter.id
 adityawacana.id
 adityawarman.id
+adityawarmanadil.id
 adityawarmanfw.id
 adityayoga.id
 adiurus.id
@@ -4804,7 +4802,6 @@ advokatdesa.id
 advokatku.id
 advokatmedan.id
 advokatolahraga.id
-advokatpro.id
 advokatrahadi.id
 advomed.id
 advosmart.id
@@ -4886,6 +4883,7 @@ aellacosmetic.id
 aelyx.id
 aemee.id
 aemitra.id
+aemitrapulsa.id
 aeneas.id
 aener.id
 aenso.id
@@ -5135,7 +5133,6 @@ affiliatepedia.id
 affiliatepreneurs.id
 affiliatepro.id
 affiliater.id
-affiliates.id
 affiliator.id
 affilio.id
 affilioshop.id
@@ -5452,6 +5449,7 @@ agencasino.id
 agencctv.id
 agencerdas.id
 agencerita.id
+agenchip.id
 agencoway.id
 agencrane.id
 agencrypto.id
@@ -5568,6 +5566,7 @@ agenresmiqncjellygamat.id
 agenrokok.id
 agenrtp.id
 agenrumah.id
+agenrupiah.id
 agensawer-du.id
 agensawer.id
 agensbobet.id
