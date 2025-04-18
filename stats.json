@@ -77,6 +77,10 @@
       "zone": "audio"
     },
     {
+      "domains": "4625",
+      "zone": "ci"
+    },
+    {
       "domains": "4599",
       "zone": "ax"
     },
@@ -91,10 +95,6 @@
     {
       "domains": "3708",
       "zone": "mc"
-    },
-    {
-      "domains": "3483",
-      "zone": "ci"
     },
     {
       "domains": "2390",
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3571194"
+  "total": "3572336"
 }

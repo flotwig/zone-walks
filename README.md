@@ -33,11 +33,11 @@ TLD | Domain Count
 [`game`][game] [(raw)][game-raw] | <div align="right">6433</div>
 [`id`][id] [(raw)][id-raw] | <div align="right">6427</div>
 [`audio`][audio] [(raw)][audio-raw] | <div align="right">4847</div>
+[`ci`][ci] [(raw)][ci-raw] | <div align="right">4625</div>
 [`ax`][ax] [(raw)][ax-raw] | <div align="right">4599</div>
 [`ruhr`][ruhr] [(raw)][ruhr-raw] | <div align="right">4469</div>
 [`dz`][dz] [(raw)][dz-raw] | <div align="right">4063</div>
 [`mc`][mc] [(raw)][mc-raw] | <div align="right">3708</div>
-[`ci`][ci] [(raw)][ci-raw] | <div align="right">3483</div>
 [`hosting`][hosting] [(raw)][hosting-raw] | <div align="right">2390</div>
 [`pr`][pr] [(raw)][pr-raw] | <div align="right">2273</div>
 [`tz`][tz] [(raw)][tz-raw] | <div align="right">1964</div>
@@ -68,7 +68,7 @@ TLD | Domain Count
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
 [`omega`][omega] [(raw)][omega-raw] | <div align="right">5</div>
-**Total** | <div align="right">3571194</div>
+**Total** | <div align="right">3572336</div>
 
 ## See Also
 
@@ -114,6 +114,8 @@ TLD | Domain Count
 [id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
 [audio]: ./lists/audio.txt
 [audio-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/audio.txt
+[ci]: ./lists/ci.txt
+[ci-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ci.txt
 [ax]: ./lists/ax.txt
 [ax-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ax.txt
 [ruhr]: ./lists/ruhr.txt
@@ -122,8 +124,6 @@ TLD | Domain Count
 [dz-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/dz.txt
 [mc]: ./lists/mc.txt
 [mc-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/mc.txt
-[ci]: ./lists/ci.txt
-[ci-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/ci.txt
 [hosting]: ./lists/hosting.txt
 [hosting-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/hosting.txt
 [pr]: ./lists/pr.txt
