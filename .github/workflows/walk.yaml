@@ -29,6 +29,7 @@ jobs:
         - ch
         - christmas
         - ci
+        - cw
         - desi
         - diet
         - dz
@@ -59,6 +60,7 @@ jobs:
         - ruhr
         - se
         - shell
+        - sl
         - swatch
         - tn
         - tz
