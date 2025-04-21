@@ -88,6 +88,7 @@
 3-delectro.kg
 3-gymnasium.kg
 3.kg
+301.kg
 312-security.kg
 312.kg
 312tv.kg
@@ -2226,7 +2227,6 @@ bishkek-med.kg
 bishkek-motors.kg
 bishkek-opt.kg
 bishkek-solar.kg
-bishkek-travel.kg
 bishkek.kg
 bishkek24.kg
 bishkekaero.kg
@@ -2526,7 +2526,6 @@ bugbounty.kg
 bugu.kg
 buguhotel.kg
 buh.kg
-buhara.kg
 buhexpert.kg
 buhfin.kg
 buhgalter.kg
@@ -3447,6 +3446,7 @@ det-sad.kg
 deta.kg
 detailer.kg
 detal.kg
+detalka.kg
 detash.kg
 detector.kg
 detectors.kg
@@ -3626,6 +3626,7 @@ doktor.kg
 doktorium.kg
 dolbor-stroy.kg
 dolce.kg
+dolcevita.kg
 dolina.kg
 dolinatx.kg
 dolinka.kg
@@ -3980,7 +3981,6 @@ eiva.kg
 ejoo.kg
 ekassa.kg
 ekk.kg
-ekol.kg
 ekomilk.kg
 ekopol.kg
 ekoprom.kg
@@ -4099,6 +4099,7 @@ elmektep.kg
 elmirlink.kg
 elmobile.kg
 elmoney.kg
+elordo.kg
 eloto.kg
 elpay.kg
 elpharm.kg
@@ -4265,7 +4266,6 @@ esepte.kg
 eserv.kg
 eset.kg
 esetofficial.kg
-esf.kg
 esgroups.kg
 eshop.kg
 esim.kg
@@ -5015,7 +5015,6 @@ geeks.kg
 geekstudio.kg
 geely.kg
 geelyauto.kg
-gefest-building.kg
 gegun.kg
 geksagon.kg
 gel.kg
@@ -5408,7 +5407,6 @@ halykbank.kg
 halykgroup.kg
 hama.kg
 hamster.kg
-handmade.kg
 hands.kg
 hansa.kg
 hanseatic-freight.kg
@@ -5632,7 +5630,6 @@ hsi.kg
 hst-new.kg
 htaudit.kg
 htbk.kg
-hti-group.kg
 htp.kg
 htv.kg
 hu.kg
@@ -5727,6 +5724,7 @@ icloud.kg
 icnlalliance.kg
 ico.kg
 icon.kg
+iconsult.kg
 icore.kg
 icredit.kg
 ics.kg
@@ -7012,6 +7010,7 @@ ktrade.kg
 ktrk.kg
 ktt.kg
 ktz.kg
+ku.kg
 kub.kg
 kubandyr.kg
 kubok.kg
@@ -8752,6 +8751,7 @@ nextbasket.kg
 nextcrm.kg
 nextech.kg
 nextprint.kg
+nexus.kg
 nf.kg
 nflg.kg
 nft.kg
@@ -8858,7 +8858,6 @@ novahome.kg
 noval.kg
 novaline.kg
 novamach.kg
-novamebel.kg
 novapro.kg
 novartis.kg
 novasklad.kg
@@ -11042,7 +11041,6 @@ skills.kg
 skin-fit.kg
 skinclinic.kg
 skiyurt.kg
-sklads.kg
 sklady.kg
 skm-sp.kg
 skm.kg
@@ -12296,7 +12294,6 @@ travelcar.kg
 traveldata.kg
 travelemirates.kg
 travelers.kg
-travelex.kg
 travelguru.kg
 travelin.kg
 travelinsurance.kg
@@ -12821,6 +12818,7 @@ veterinary-pro.kg
 vetfarm.kg
 vetinstitut.kg
 vevi.kg
+vexpay.kg
 vf.kg
 vfreight.kg
 vg.kg
