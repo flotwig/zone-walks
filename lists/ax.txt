@@ -1942,7 +1942,6 @@ ib.ax
 ibinder.ax
 ibsanordic.ax
 ic.ax
-ice.ax
 icm.ax
 id.ax
 ide.ax
@@ -2331,7 +2330,6 @@ kvarnbopensionat.ax
 kvarter5.ax
 kvick.ax
 kvinnfolk.ax
-kw.ax
 kx.ax
 kybfs.ax
 kyndryl.ax
@@ -3756,7 +3754,6 @@ stadforbundet.ax
 stadskrog.ax
 stadsystem.ax
 staffans.ax
-stage.ax
 stahlstaxi.ax
 stallagret.ax
 stallbifrost.ax
@@ -4137,6 +4134,7 @@ urbanfarm.ax
 url.ax
 us.ax
 usa.ax
+usdt.ax
 user.ax
 ut.ax
 utbildning.ax
