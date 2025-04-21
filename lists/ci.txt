@@ -796,7 +796,6 @@ agri-dev.ci
 agri-immo-plus.ci
 agri.ci
 agriandland.ci
-agribll.ci
 agrici.ci
 agriculture.ci
 agriculturecommerciale.ci
@@ -2910,7 +2909,6 @@ cloudstudio.ci
 cloudtelecom.ci
 clp.ci
 cls.ci
-club-snci.ci
 club.ci
 club225.ci
 clubdsi.ci
@@ -3427,7 +3425,6 @@ dan.ci
 danaentreprise.ci
 dancomm.ci
 danielisraelkouassi.ci
-danistore.ci
 dao.ci
 daoda.ci
 daoukroficad.ci
