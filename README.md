@@ -30,8 +30,8 @@ TLD | Domain Count
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">11291</div>
 [`cy`][cy] [(raw)][cy-raw] | <div align="right">9784</div>
 [`se`][se] [(raw)][se-raw] | <div align="right">9465</div>
+[`id`][id] [(raw)][id-raw] | <div align="right">6438</div>
 [`game`][game] [(raw)][game-raw] | <div align="right">6435</div>
-[`id`][id] [(raw)][id-raw] | <div align="right">6433</div>
 [`audio`][audio] [(raw)][audio-raw] | <div align="right">4844</div>
 [`ci`][ci] [(raw)][ci-raw] | <div align="right">4624</div>
 [`ax`][ax] [(raw)][ax-raw] | <div align="right">4594</div>
@@ -68,7 +68,7 @@ TLD | Domain Count
 [`er`][er] [(raw)][er-raw] | <div align="right">7</div>
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
 [`omega`][omega] [(raw)][omega-raw] | <div align="right">5</div>
-**Total** | <div align="right">3569265</div>
+**Total** | <div align="right">3569270</div>
 
 ## See Also
 
@@ -108,10 +108,10 @@ TLD | Domain Count
 [cy-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/cy.txt
 [se]: ./lists/se.txt
 [se-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/se.txt
-[game]: ./lists/game.txt
-[game-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/game.txt
 [id]: ./lists/id.txt
 [id-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/id.txt
+[game]: ./lists/game.txt
+[game-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/game.txt
 [audio]: ./lists/audio.txt
 [audio-raw]: https://raw.githubusercontent.com/flotwig/zone-walks/main/lists/audio.txt
 [ci]: ./lists/ci.txt
