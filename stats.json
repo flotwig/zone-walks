@@ -145,7 +145,7 @@
       "zone": "auto"
     },
     {
-      "domains": "445",
+      "domains": "453",
       "zone": "xn--80ao21a"
     },
     {
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3569049"
+  "total": "3569057"
 }
