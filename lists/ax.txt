@@ -350,6 +350,7 @@ albij.ax
 alclean.ax
 alcom.ax
 alcomcloud.ax
+alctest.ax
 alex.ax
 alf.ax
 alfa.ax
@@ -648,7 +649,6 @@ bid.ax
 bifa.ax
 bifaboat.ax
 bifarent.ax
-big.ax
 bike.ax
 bil.ax
 bila.ax
@@ -828,6 +828,7 @@ bush.ax
 business.ax
 businesscentral.ax
 businessnet.ax
+buss.ax
 bussiklubi.ax
 butcherandbanker.ax
 butcherbanker.ax
@@ -2748,6 +2749,7 @@ morpheus.ax
 morphosynt.ax
 mortgage.ax
 mossasglass.ax
+motchill.ax
 motion.ax
 motleydenim.ax
 motorcompany.ax
@@ -3183,7 +3185,6 @@ pohjolasairaala.ax
 pokal.ax
 poker.ax
 pol.ax
-polaris.ax
 polhus.ax
 police.ax
 policylabbetgranit.ax
@@ -4397,7 +4398,6 @@ xax.ax
 xaxa.ax
 xb.ax
 xc.ax
-xchg.ax
 xd.ax
 xe.ax
 xejoj.ax
@@ -4582,7 +4582,6 @@ znm.ax
 zo.ax
 zoduv.ax
 zomato.ax
-zoo-arken.ax
 zooligan.ax
 zp.ax
 zq.ax
