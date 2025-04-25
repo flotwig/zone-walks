@@ -24,6 +24,7 @@ go.shell
 home.shell
 hpc.shell
 hub.shell
+innersource.shell
 intilaaqah.shell
 kangaroo.shell
 kinderraad.shell
