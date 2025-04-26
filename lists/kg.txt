@@ -988,7 +988,6 @@ antiklop.kg
 antimonopolia.kg
 antivor.kg
 anto.kg
-antre.kg
 ants.kg
 anturaj.kg
 anura.kg
@@ -1060,6 +1059,7 @@ aquameel.kg
 aquaphor.kg
 aquaplast.kg
 aquaservice.kg
+aquastroy.kg
 aquatech.kg
 aquaturk.kg
 ar.kg
@@ -2388,6 +2388,7 @@ bonnitto.kg
 bonprix.kg
 bons.kg
 bonusart.kg
+book.kg
 booka.kg
 bookhouse.kg
 booking.kg
@@ -2964,6 +2965,7 @@ clean-up.kg
 clean.kg
 cleanbros.kg
 cleancity.kg
+cleaner.kg
 cleanetica.kg
 cleaning-house.kg
 cleaning.kg
@@ -3680,6 +3682,7 @@ doorexpo.kg
 doorfresh.kg
 doorhan-club.kg
 doorhan-naec.kg
+doorhan-sklad.kg
 doorhan-technology.kg
 doorhan.kg
 doormedia.kg
@@ -3772,6 +3775,7 @@ dubai-bishkek.kg
 dubai-zapchast.kg
 dubai.kg
 dubor.kg
+ducapump.kg
 ducati.kg
 dukan.kg
 dukon.kg
@@ -5044,7 +5048,6 @@ general-akmatov.kg
 generalre.kg
 generaltrading.kg
 generator-sets.kg
-generator.kg
 generators.kg
 genimport.kg
 genius-school.kg
@@ -5059,7 +5062,6 @@ geokurs.kg
 geol.kg
 geolabtsh.kg
 geolog.kg
-geology.kg
 geominvod.kg
 geopark.kg
 geopost.kg
@@ -5157,6 +5159,7 @@ globaltradeleaders.kg
 globaltradesolutions.kg
 globaltrading.kg
 globerta.kg
+globotrans.kg
 globus-online.kg
 globus-tour.kg
 globus.kg
@@ -5729,10 +5732,8 @@ icea.kg
 iceberg.kg
 icecream.kg
 icee.kg
-icehockey.kg
 iceland.kg
 icemaster.kg
-ich.kg
 ichat.kg
 ici.kg
 ick.kg
@@ -6424,6 +6425,7 @@ juullabs.kg
 juulpods.kg
 juulvapor.kg
 jyldyz.kg
+jyrgalan.kg
 k-a.kg
 k-hotel.kg
 k-k.kg
@@ -6528,6 +6530,7 @@ kara-bak.kg
 kara-balta.kg
 kara-bermet.kg
 kara-guz.kg
+kara-shoro-aimak.kg
 karabermet.kg
 karabulak.kg
 karaca.kg
@@ -6544,7 +6547,6 @@ karandashkin.kg
 karaoke.kg
 karapresso.kg
 karasuu.kg
-karavan.kg
 karavanidet.kg
 karazhygachailokmoty.kg
 karcher.kg
@@ -6593,7 +6595,6 @@ kawj.kg
 kayak.kg
 kaymak.kg
 kaynar.kg
-kayo.kg
 kazan.kg
 kazankebab.kg
 kazankebap.kg
@@ -7171,7 +7172,6 @@ l-m.kg
 l-pro.kg
 lab.kg
 labhuman.kg
-labpro.kg
 labremont.kg
 labrys.kg
 labservice.kg
@@ -7190,6 +7190,7 @@ lady.kg
 ladysshowroom.kg
 lagom.kg
 laika.kg
+lakedatabase.kg
 lakoniya.kg
 lakshmi.kg
 lalafa.kg
@@ -7675,6 +7676,7 @@ manas-shaar.kg
 manas.kg
 manasacademy.kg
 manasmail.kg
+manasrma.kg
 manastv.kg
 manazon.kg
 manchester.kg
@@ -7989,6 +7991,7 @@ megatorrents.kg
 megatour-tianshan.kg
 megatravel.kg
 megatv.kg
+megavents.kg
 megogo.kg
 meguin.kg
 meh-group.kg
@@ -8866,6 +8869,7 @@ nore.kg
 normobact.kg
 norris.kg
 nortech.kg
+northsails.kg
 northstar.kg
 norton.kg
 not.kg
@@ -9738,7 +9742,6 @@ platformone.kg
 plath.kg
 platinum.kg
 platon.kg
-plauris.kg
 play.kg
 plaza.kg
 plazahotel.kg
@@ -9889,7 +9892,6 @@ pr.kg
 prana.kg
 pranamat.kg
 pranamateco.kg
-prava.kg
 pravo.kg
 pravocom.kg
 pravoslavie.kg
@@ -10282,6 +10284,7 @@ redexpress.kg
 redfox.kg
 redizain.kg
 redline.kg
+redpay.kg
 redpetroleum.kg
 redsox.kg
 redtube.kg
@@ -10308,7 +10311,6 @@ regus.kg
 rehab.kg
 rehau.kg
 reima.kg
-reizun.kg
 reklama-gold.kg
 reklama.kg
 reklo.kg
@@ -10471,6 +10473,7 @@ rod.kg
 rodex.kg
 rodexpower.kg
 roesler.kg
+rohatnbu.kg
 rohde-schwarz.kg
 rol.kg
 rola.kg
@@ -10490,6 +10493,7 @@ root.kg
 roqed.kg
 rosagres.kg
 rosatom.kg
+rosh.kg
 rosko.kg
 roslombard.kg
 rosneft-oil.kg
@@ -10685,7 +10689,6 @@ sana.kg
 sanapp.kg
 sanarip.kg
 sanariptik-okutuu.kg
-sanat.kg
 sanatorii.kg
 sanatorium.kg
 sanatoriumkazakhstan.kg
@@ -10698,7 +10701,6 @@ sanjyra.kg
 sanjyramuseum.kg
 sanosan.kg
 santeh.kg
-santehbish.kg
 santehmarket.kg
 santehmaster.kg
 santehnica-shop.kg
@@ -11319,6 +11321,7 @@ spa.kg
 spacelogistics.kg
 spacem.kg
 spacemedia.kg
+spacepayments.kg
 spar.kg
 spares.kg
 spark.kg
@@ -12692,7 +12695,6 @@ uragatrade.kg
 uralactiv.kg
 uralairlines.kg
 uralgres.kg
-urban-tu.kg
 urban.kg
 urbancenter.kg
 urbaneyes.kg
@@ -13139,7 +13141,6 @@ whc.kg
 whieda.kg
 whirlpool.kg
 white.kg
-whiteman.kg
 whitex.kg
 whois.kg
 whoishiring.kg
