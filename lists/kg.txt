@@ -75,7 +75,6 @@
 21store.kg
 22.kg
 220.kg
-220city.kg
 220v.kg
 220volt.kg
 24.kg
@@ -239,7 +238,6 @@ abs.kg
 absaqua.kg
 absconstruction.kg
 absolut.kg
-absolute.kg
 abtpartners.kg
 abtraining.kg
 abubakirov.kg
@@ -558,7 +556,6 @@ aitoauto.kg
 aiva.kg
 aivagroup.kg
 aivamall.kg
-aiwory.kg
 aiylholding.kg
 aiymatrans.kg
 aizen.kg
@@ -731,6 +728,7 @@ alfaleasing.kg
 alfalombard.kg
 alfamotors.kg
 alfapetroleum.kg
+alfapunto.kg
 alfaresource.kg
 alfaresourcegroup.kg
 alfastandart.kg
@@ -3020,7 +3018,6 @@ codecraft.kg
 coder.kg
 coderbooks.kg
 codex.kg
-coexsyrup.kg
 coffee.kg
 coffeeboom.kg
 coffeefest.kg
@@ -4645,7 +4642,6 @@ findo.kg
 fineco.kg
 finestra.kg
 finetech.kg
-finex.kg
 finik.kg
 finipay.kg
 finjust.kg
@@ -5267,7 +5263,6 @@ gradum.kg
 graffity.kg
 gran-soft.kg
 grancem.kg
-grand-atmos.kg
 grand-realize.kg
 grand-stock.kg
 grand.kg
@@ -5816,7 +5811,6 @@ ikonuguu.kg
 iksu.kg
 iku.kg
 ilaw.kg
-ilb.kg
 ilbirs.kg
 ilbirsfest.kg
 ilbirsimpex.kg
@@ -6043,7 +6037,6 @@ interpay.kg
 interpost.kg
 intersolution-trade.kg
 intersolution.kg
-interspectehnika.kg
 intersport.kg
 interstone.kg
 intertec.kg
@@ -6699,7 +6692,6 @@ kg1688.kg
 kgb.kg
 kgbiollc.kg
 kgbox.kg
-kgc.kg
 kgcn.kg
 kgcs.kg
 kgd.kg
@@ -6868,6 +6860,7 @@ kochkor-ata-meria.kg
 kochkorata.kg
 kochkorbaev-aimak.kg
 kodak.kg
+kogart.kg
 kohler.kg
 kohlerpowersystems.kg
 kok-jar-aimak.kg
@@ -7601,7 +7594,6 @@ m-vector.kg
 m.kg
 m1.kg
 m2.kg
-m2m.kg
 m3.kg
 maalymat.kg
 maarif.kg
@@ -7655,7 +7647,6 @@ makler312.kg
 maks-tsn-osoo.kg
 maksat.kg
 maksimous.kg
-mal.kg
 malbazar.kg
 malcheck.kg
 maliktrd.kg
@@ -9569,6 +9560,7 @@ pereto.kg
 perevod-card.kg
 perevod.kg
 perevodcard.kg
+perevozka24.kg
 perfect-stroy.kg
 perfecttransport.kg
 perfo.kg
@@ -10280,6 +10272,7 @@ redcrescent.kg
 redcrm.kg
 reddit.kg
 redeko.kg
+redex.kg
 redexpress.kg
 redfox.kg
 redizain.kg
@@ -10386,7 +10379,6 @@ retreat.kg
 retrofm.kg
 revent.kg
 review.kg
-reviewer.kg
 reviro.kg
 revyline.kg
 reward.kg
@@ -10446,7 +10438,6 @@ rmgtrade.kg
 rmp.kg
 rmplus.kg
 rmservise.kg
-rmsoft.kg
 rmu.kg
 rnd.kg
 rnmc.kg
@@ -10602,7 +10593,6 @@ sacilas.kg
 sad.kg
 sadaka.kg
 sadanbekov.kg
-sadovnik.kg
 sady.kg
 sael.kg
 safe-trading.kg
@@ -10670,7 +10660,6 @@ sam1992.kg
 samarbekov.kg
 samarsky.kg
 sambo.kg
-samimed.kg
 samokat.kg
 samolet.kg
 samoletplus.kg
@@ -11341,7 +11330,6 @@ spectran.kg
 spectransburo.kg
 spectre.kg
 spectrum.kg
-speedlinellc.kg
 spektrmedia.kg
 speleo.kg
 sperctrum.kg
@@ -11529,7 +11517,6 @@ stroydvor.kg
 stroygo.kg
 stroyka.kg
 stroymarket.kg
-stroymaterialy.kg
 stroymig.kg
 stroypoint.kg
 stroyprice.kg
@@ -11603,7 +11590,6 @@ superjob.kg
 superkassa.kg
 supermarket.kg
 supermaster.kg
-supermedia.kg
 superpena.kg
 supershov.kg
 superslots.kg
@@ -12084,7 +12070,6 @@ tidem.kg
 tienshan.kg
 tienshanlegend.kg
 tienshansooda.kg
-tieshan.kg
 tiffany.kg
 tiger.kg
 tigerauto.kg
@@ -12105,7 +12090,6 @@ tim.kg
 tima-akimov.kg
 tima.kg
 timaakimov.kg
-timberica.kg
 time.kg
 timeclinic.kg
 times.kg
@@ -12206,7 +12190,6 @@ toot.kg
 tootash.kg
 top-tovar.kg
 top.kg
-top10.kg
 topall.kg
 topas.kg
 topbet.kg
@@ -12891,7 +12874,6 @@ villa.kg
 villas.kg
 vindasia.kg
 vinir.kg
-vinno.kg
 vino.kg
 vinoteka.kg
 vinyl.kg
@@ -13059,7 +13041,6 @@ wanzl.kg
 wardline.kg
 warnerbros.kg
 wasabi.kg
-washprofiservice.kg
 washservice.kg
 wasser.kg
 wastenet.kg
@@ -13334,6 +13315,7 @@ yourt.kg
 yourta.kg
 yourway.kg
 youthofosh.kg
+youtour.kg
 youtube.kg
 yoyo.kg
 yr.kg
