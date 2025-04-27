@@ -250,7 +250,6 @@ amazonshowmode.audio
 amazontap.audio
 ambient.audio
 ambiguous.audio
-ambisonic.audio
 amc.audio
 amity.audio
 amp.audio
@@ -380,7 +379,6 @@ assistenza.audio
 assoluta.audio
 assurance.audio
 asteroid.audio
-astral.audio
 astro.audio
 astros.audio
 async.audio
@@ -1825,6 +1823,7 @@ hallosam.audio
 hallow.audio
 hamboorg.audio
 hamm.audio
+hammer.audio
 handcrafted.audio
 handys.audio
 hangout.audio
@@ -3914,7 +3913,6 @@ sneg.audio
 snippy.audio
 snowbeasts.audio
 snowcrash.audio
-snr.audio
 sobe.audio
 social.audio
 societyofsound.audio
