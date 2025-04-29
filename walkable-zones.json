@@ -43,9 +43,6 @@
       "zone": "ci"
     },
     {
-      "zone": "cw"
-    },
-    {
       "zone": "desi"
     },
     {
@@ -134,9 +131,6 @@
     },
     {
       "zone": "shell"
-    },
-    {
-      "zone": "sl"
     },
     {
       "zone": "swatch"
