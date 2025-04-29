@@ -100,7 +100,6 @@
 6132.ax
 62439.ax
 6277.ax
-65.ax
 65262.ax
 65263.ax
 6547.ax
@@ -512,6 +511,7 @@ atc.ax
 ath.ax
 athena.ax
 ati.ax
+atk.ax
 atom.ax
 atr.ax
 atv.ax
@@ -913,6 +913,7 @@ cgs.ax
 ch.ax
 chamber.ax
 chan.ax
+charge.ax
 charlie.ax
 charlotte.ax
 charly.ax
@@ -1448,7 +1449,6 @@ fiskelyckan.ax
 fiskevard.ax
 fiskkojan.ax
 fiskodlarna.ax
-fixarn.ax
 fixax.ax
 fixso.ax
 fjader.ax
@@ -2392,6 +2392,7 @@ lemlandsskola.ax
 lenck.ax
 lenr.ax
 leo.ax
+leon.ax
 leonshus.ax
 leovegas.ax
 leverans.ax
@@ -2718,7 +2719,6 @@ mmm.ax
 mn.ax
 mnxgc.ax
 mo.ax
-mobi.ax
 mobil.ax
 mobile.ax
 mobilkran.ax
@@ -3065,6 +3065,7 @@ ox2.ax
 oxxa.ax
 oy.ax
 oz.ax
+pa.ax
 padel.ax
 padelcenter.ax
 paf.ax
@@ -3481,6 +3482,7 @@ saluhallen.ax
 sam.ax
 samba.ax
 samtrans.ax
+san.ax
 sanctolof.ax
 sand.ax
 sandberg.ax
@@ -3747,7 +3749,6 @@ st.ax
 st1.ax
 stablehost.ax
 stad.ax
-stadarn.ax
 stadforbundet.ax
 stadskrog.ax
 stadsystem.ax
