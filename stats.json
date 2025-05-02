@@ -121,7 +121,7 @@
       "zone": "br"
     },
     {
-      "domains": "1141",
+      "domains": "1140",
       "zone": "diet"
     },
     {
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3570709"
+  "total": "3570708"
 }
