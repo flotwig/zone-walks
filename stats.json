@@ -97,7 +97,7 @@
       "zone": "mc"
     },
     {
-      "domains": "2385",
+      "domains": "2384",
       "zone": "hosting"
     },
     {
@@ -217,5 +217,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3570985"
+  "total": "3570984"
 }
