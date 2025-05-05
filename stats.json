@@ -81,7 +81,7 @@
       "zone": "ax"
     },
     {
-      "domains": "4496",
+      "domains": "4492",
       "zone": "ci"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3571373"
+  "total": "3571369"
 }
