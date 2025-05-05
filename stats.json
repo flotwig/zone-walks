@@ -161,6 +161,10 @@
       "zone": "cars"
     },
     {
+      "domains": "279",
+      "zone": "xn--mgbayh7gpa"
+    },
+    {
       "domains": "222",
       "zone": "ve"
     },
@@ -217,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3571093"
+  "total": "3571372"
 }
