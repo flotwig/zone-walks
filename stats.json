@@ -154,11 +154,11 @@
     },
     {
       "domains": "286",
-      "zone": "xn--54b7fta0cc"
+      "zone": "cars"
     },
     {
-      "domains": "286",
-      "zone": "cars"
+      "domains": "285",
+      "zone": "xn--54b7fta0cc"
     },
     {
       "domains": "279",
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3571474"
+  "total": "3571473"
 }
