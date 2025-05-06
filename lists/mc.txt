@@ -254,6 +254,7 @@ arthermitage.mc
 artnet.mc
 artproduction.mc
 artsociety.mc
+artstructuring.mc
 artvenitien.mc
 artvision.mc
 artworks.mc
@@ -976,6 +977,8 @@ dwichtime.mc
 e-domotech.mc
 e-private.mc
 e21.mc
+eaconcept-monaco.mc
+eaconcept.mc
 easy.mc
 easyair.mc
 easybooking.mc
@@ -1078,6 +1081,7 @@ electroliftascenseurs.mc
 electronicmedia.mc
 eleda.mc
 elenaconsulting.mc
+elevate.mc
 eleve.mc
 elimo.mc
 elinthea.mc
@@ -2602,6 +2606,7 @@ niaechafaudages.mc
 niatri.mc
 nibox.mc
 nic.mc
+nichemedia.mc
 nicolasboisbouvier.mc
 nielconseils.mc
 nijole.mc
@@ -2816,6 +2821,7 @@ pegasus.mc
 peninsularealestate.mc
 pensini.mc
 penta-advisory.mc
+penta-legal.mc
 penta-mfo.mc
 penthouse.mc
 pepup.mc
@@ -3402,7 +3408,6 @@ surete-publique.mc
 surveyor.mc
 svb.mc
 swatchscuba.mc
-sweyl.mc
 swile.mc
 sym.mc
 synergie.mc
