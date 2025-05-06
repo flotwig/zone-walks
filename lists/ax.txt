@@ -1202,6 +1202,7 @@ eckeroshipping.ax
 eckeroskola.ax
 eco.ax
 ecofood.ax
+ecogreen.ax
 ecredovisning.ax
 ed.ax
 eden.ax
@@ -1410,7 +1411,6 @@ feifei.ax
 feja.ax
 fellman.ax
 feministparaplyet.ax
-fenix.ax
 fer.ax
 ferm.ax
 festmagasinet.ax
@@ -1703,9 +1703,6 @@ great.ax
 green.ax
 greenanddirty.ax
 greencom.ax
-greenfinance-capital.ax
-greenfinance.ax
-greenfinancecapital.ax
 greenrock.ax
 greenstep.ax
 grelsby.ax
@@ -2167,6 +2164,7 @@ ka.ax
 kai.ax
 kaigai.ax
 kalastuskartta.ax
+kalender.ax
 kalev.ax
 kall.ax
 kallas.ax
@@ -2355,6 +2353,7 @@ lagtinget.ax
 lahdenpera.ax
 lain.ax
 lainetar.ax
+lajka.ax
 lan.ax
 landsbygd.ax
 langkvist.ax
@@ -3762,6 +3761,7 @@ stadforbundet.ax
 stadskrog.ax
 stadsystem.ax
 staffans.ax
+stahl.ax
 stahlstaxi.ax
 stallagret.ax
 stallbifrost.ax
