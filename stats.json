@@ -169,7 +169,7 @@
       "zone": "ve"
     },
     {
-      "domains": "134",
+      "domains": "135",
       "zone": "amazon"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3571449"
+  "total": "3571450"
 }
