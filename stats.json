@@ -61,7 +61,7 @@
       "zone": "cy"
     },
     {
-      "domains": "9429",
+      "domains": "9428",
       "zone": "se"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3572058"
+  "total": "3572057"
 }
