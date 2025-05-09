@@ -1940,7 +1940,6 @@ luxurymarketingconnectmonaco.mc
 lycee-albert1er.mc
 lycee-rainier3.mc
 lycee-technique.mc
-lyne-consulting.mc
 m-2.mc
 m-club.mc
 m-s.mc
@@ -2244,6 +2243,7 @@ monaco-communication.mc
 monaco-conseiletformation.mc
 monaco-consultingandtraining.mc
 monaco-decappro.mc
+monaco-echecs.mc
 monaco-economic-board.mc
 monaco-foods.mc
 monaco-freeport.mc
@@ -2287,6 +2287,7 @@ monacocloud.mc
 monacocoin.mc
 monacocoins.mc
 monacocollectifhumanitaire.mc
+monacocuisinepro.mc
 monacocyber.mc
 monacocybersecurite.mc
 monacodemat.mc
@@ -2830,6 +2831,8 @@ perfin.mc
 peterracingteam.mc
 petitesperformers.mc
 petitesprimas.mc
+petredec.mc
+petredecglobal.mc
 petrini.mc
 pexys.mc
 pfconsulting.mc
@@ -2851,6 +2854,7 @@ phoenix.mc
 phoenixlimousinemonaco.mc
 phoenixmonaco.mc
 phonewall.mc
+photoboothmonaco.mc
 photoworld.mc
 phytoquant.mc
 piccinini.mc
