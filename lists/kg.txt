@@ -770,6 +770,7 @@ aligo.kg
 alim-consult.kg
 alimcapital.kg
 alimetr.kg
+alipos.kg
 alippe.kg
 aliumarplus.kg
 alivewater.kg
@@ -1226,7 +1227,6 @@ asfinance.kg
 asg.kg
 ashar.kg
 asharfoods.kg
-asharfunding.kg
 asharmenenplus.kg
 ashleyhomestore.kg
 ashlyanfu.kg
@@ -1446,7 +1446,6 @@ audatex.kg
 audi.kg
 audiauto.kg
 audio.kg
-audit-co.kg
 audit-consulting.kg
 audit.kg
 auditcenter.kg
@@ -1841,7 +1840,6 @@ barashek.kg
 barbados.kg
 barber.kg
 barbershop.kg
-barbulak.kg
 barcelona.kg
 barch.kg
 barclays.kg
@@ -1928,6 +1926,7 @@ bazarmarket.kg
 bazaron.kg
 bazzone.kg
 bb.kg
+bba.kg
 bbc.kg
 bbip.kg
 bbk.kg
@@ -2012,6 +2011,7 @@ belisimo.kg
 belisimopizza.kg
 belissimo.kg
 belissimopizza.kg
+bellagioresort.kg
 belle.kg
 bellisimo.kg
 bellisimopizza.kg
@@ -2261,6 +2261,7 @@ bishkekaero.kg
 bishkekart.kg
 bishkekcardio.kg
 bishkekcargo.kg
+bishkekchanka.kg
 bishkekcity.kg
 bishkekcomplex.kg
 bishkekenergo.kg
@@ -2738,6 +2739,7 @@ cartenoire.kg
 carter.kg
 cartoonnetwork.kg
 cas.kg
+casa-1000.kg
 casablancaapart.kg
 cascade.kg
 caselogic.kg
@@ -2807,7 +2809,6 @@ central-asia.kg
 centralasia.kg
 centralasianfilms.kg
 centrallab.kg
-centrik.kg
 centrix.kg
 centrmetalla.kg
 centrnafta.kg
@@ -3273,7 +3274,6 @@ cybersource.kg
 cybersport.kg
 cybertech.kg
 cyberweek.kg
-cyclingfederation.kg
 cyclone.kg
 cyclorama.kg
 cysmos.kg
@@ -3604,7 +3604,6 @@ dm.kg
 dmart.kg
 dmax.kg
 dmaxpro.kg
-dmcompany.kg
 dmed.kg
 dmg.kg
 dn.kg
@@ -3684,7 +3683,6 @@ donpion.kg
 doolot.kg
 doolotfinance.kg
 door-asia.kg
-door-han.kg
 door.kg
 doorexpo.kg
 doorfresh.kg
@@ -3960,7 +3958,6 @@ education.kg
 educationaladvisor.kg
 educationfirst.kg
 edugate.kg
-eduhub.kg
 eduordo.kg
 edupay.kg
 edupress.kg
@@ -4138,7 +4135,6 @@ els.kg
 elservice.kg
 elsom.kg
 elsooda.kg
-elstroy.kg
 elsyor.kg
 eltandoo.kg
 eltaoexpress.kg
@@ -4289,7 +4285,6 @@ esb.kg
 esca.kg
 eselit.kg
 esep.kg
-esepai.kg
 eserv.kg
 eset.kg
 esetofficial.kg
@@ -4724,7 +4719,6 @@ flebolog.kg
 flebologs.kg
 fleurop.kg
 flex-decor.kg
-flex-kino.kg
 flex.kg
 flexkg.kg
 flightgroup.kg
@@ -4758,6 +4752,7 @@ flux.kg
 fly.kg
 flybjx.kg
 flycargo.kg
+flyers.kg
 flyforbroker.kg
 flylog.kg
 flynas.kg
@@ -5431,6 +5426,7 @@ hansa.kg
 hanseatic-freight.kg
 hansgrohe.kg
 hao123.kg
+happiness.kg
 happy.kg
 happychild.kg
 happyjob.kg
@@ -5606,7 +5602,6 @@ hostinger.kg
 hotel-reservation-service.kg
 hotel-reservation.kg
 hotel.kg
-hotel28.kg
 hotelamir.kg
 hotelevropa.kg
 hotelnova.kg
@@ -5893,7 +5888,6 @@ in-sale.kg
 in.kg
 inai.kg
 inavat.kg
-inaya.kg
 inbox.kg
 inc.kg
 incipio.kg
@@ -6753,10 +6747,8 @@ kingboxer.kg
 kinghunter.kg
 kingscollege.kg
 kingstyle.kg
-kino-flex.kg
 kino.kg
 kinobox.kg
-kinoflex.kg
 kinopoisk.kg
 kinoteatr.kg
 kinotechnology.kg
@@ -7144,7 +7136,6 @@ kyrgyzstanguide.kg
 kyrgyzstantravel.kg
 kyrgyzstantrips.kg
 kyrgyzstanvisa.kg
-kyrgyzsteel.kg
 kyrgyztasmasy.kg
 kyrgyztest.kg
 kyrgyztoday.kg
@@ -7715,7 +7706,6 @@ markirovka.kg
 markmonitor.kg
 marks-and-spencer.kg
 marksandspencer.kg
-marksix.kg
 marlboro.kg
 marriott.kg
 mars.kg
@@ -7821,7 +7811,6 @@ mc-kitchen.kg
 mcdonalds.kg
 mceducation.kg
 mcharts.kg
-mchs.kg
 mcloud.kg
 mcp.kg
 mcx.kg
@@ -7978,7 +7967,6 @@ megapolis.kg
 megaschool.kg
 megashop.kg
 megasoft.kg
-megastone.kg
 megastore.kg
 megatelecom.kg
 megatips.kg
@@ -10069,7 +10057,6 @@ prostodom.kg
 prosus.kg
 prosv.kg
 prosystems.kg
-protech.kg
 protei.kg
 protherm.kg
 protocol.kg
@@ -10267,7 +10254,6 @@ recovery-center.kg
 rectrade.kg
 recuperator.kg
 red.kg
-redbox.kg
 redbull.kg
 redcrescent.kg
 redcrm.kg
@@ -13143,6 +13129,7 @@ whc.kg
 whieda.kg
 whirlpool.kg
 white.kg
+whiteman.kg
 whitex.kg
 whois.kg
 whoishiring.kg
@@ -13287,7 +13274,6 @@ yahoo.kg
 yahya.kg
 yakassa.kg
 yama.kg
-yamaster.kg
 yamato.kg
 yamci.kg
 yanase.kg
