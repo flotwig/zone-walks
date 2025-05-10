@@ -341,6 +341,7 @@ pilot.auto
 pinebelt.auto
 pitstop.auto
 pivet.auto
+plug.auto
 porsche.auto
 preston.auto
 prime.auto
@@ -406,7 +407,6 @@ shopsmart.auto
 simples.auto
 skoda.auto
 slate.auto
-slot.auto
 smart.auto
 smartlease.auto
 smive.auto
