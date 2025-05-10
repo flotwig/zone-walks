@@ -768,7 +768,6 @@ agepe.ci
 ageroute-ccph.ci
 ageroute.ci
 ageroutemarche.ci
-ageroutes.ci
 agh.ci
 agha.ci
 agi-sa.ci
@@ -1757,6 +1756,7 @@ bench.ci
 benchmark.ci
 benco.ci
 bendev.ci
+benews.ci
 benivoirecorporation.ci
 benouattara.ci
 bentoservices.ci
@@ -1976,6 +1976,7 @@ bmigroup.ci
 bmm.ci
 bmod.ci
 bmolife.ci
+bmsdigit.ci
 bmservices.ci
 bmw.ci
 bn.ci
