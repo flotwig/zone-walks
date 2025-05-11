@@ -1114,8 +1114,6 @@ annonces.ci
 annuaire-avicole.ci
 annuaire-fournisseur-cie.ci
 annuaireidu.ci
-annuairepro.ci
-annuaireproci.ci
 anonkplin.ci
 anoumabo.ci
 anp.ci
@@ -2260,6 +2258,7 @@ cace.ci
 caci.ci
 cacimmobilier.ci
 cacintake.ci
+cactus.ci
 cadeauxpersonnalises.ci
 cadence.ci
 caderac.ci
@@ -3746,6 +3745,7 @@ dktechnology.ci
 dl.ci
 dled.ci
 dlh.ci
+dlsioncompagnie.ci
 dltt.ci
 dm.ci
 dmacademy.ci
