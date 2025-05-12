@@ -51,7 +51,6 @@
 7db.audio
 7s.audio
 8bit.audio
-8d.audio
 8fm.audio
 8ktv.audio
 8xbet.audio
@@ -60,6 +59,7 @@
 a-cool-sound.audio
 a-s.audio
 a-void.audio
+a11y.audio
 a2a.audio
 a440.audio
 a9.audio
@@ -86,6 +86,7 @@ acadiant.audio
 accelerando.audio
 accelerate.audio
 accelerated.audio
+accessible.audio
 accio.audio
 accounting.audio
 accumulator.audio
@@ -2918,7 +2919,6 @@ myme.audio
 mymidi.audio
 mynft.audio
 mynt.audio
-mysofa.audio
 mystagic.audio
 mysystem.audio
 mytek.audio
@@ -4007,7 +4007,6 @@ soundoffeelings.audio
 soundonfilm.audio
 soundquest.audio
 soundrecordist.audio
-sounds.audio
 soundscape.audio
 soundscapes.audio
 soundscouts.audio
@@ -4596,6 +4595,7 @@ virii.audio
 virtu.audio
 virtual-server.audio
 virtues.audio
+vis.audio
 visceral.audio
 vision-plus.audio
 visionary.audio
