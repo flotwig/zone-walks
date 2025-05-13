@@ -1445,7 +1445,6 @@ grownalchemist.mc
 grstudio.mc
 gs-gs.mc
 gtia.mc
-gtma.mc
 gtsmonaco.mc
 guillemot.mc
 gulas.mc
@@ -1786,7 +1785,6 @@ laboratoires-europhta.mc
 labour.mc
 labysse.mc
 lacivette.mc
-laclasse.mc
 laduree.mc
 ladyrow.mc
 lafayette.mc
@@ -2854,6 +2852,8 @@ phoenix.mc
 phoenixlimousinemonaco.mc
 phoenixmonaco.mc
 phonewall.mc
+photobooth-monaco.mc
+photobooth.mc
 photoboothmonaco.mc
 photoworld.mc
 phytoquant.mc
