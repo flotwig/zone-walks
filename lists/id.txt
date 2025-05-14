@@ -598,6 +598,9 @@
 1winterslot.id
 1wintoken.id
 1world.id
+1x-betting.id
+1x-casino.id
+1x-in.id
 1xbet-betting.id
 1xbet-casino.id
 1xbet-in.id
@@ -611,6 +614,7 @@
 1xbets.id
 1xbit.id
 1xbook.id
+1xindonesia.id
 1xklik.id
 2.id
 20-11-99.id
@@ -1436,6 +1440,7 @@
 558.id
 559.id
 55exch.id
+55hotel.id
 55kbet.id
 55kgame.id
 55tbet.id
@@ -1664,7 +1669,6 @@
 696.id
 697.id
 698.id
-698572.id
 699.id
 69dev.id
 69hub.id
@@ -2053,6 +2057,7 @@
 885.id
 886.id
 887.id
+888-slot.id
 888.id
 888casino.id
 888hot.id
@@ -3471,7 +3476,6 @@ acetools.id
 acetopup.id
 acevid.id
 acevisor.id
-aceyouth.id
 acfintax.id
 acgconsult.id
 acglife.id
@@ -3497,6 +3501,7 @@ achematlistrik.id
 aches.id
 achesgone.id
 achetons.id
+acheverse.id
 achiera.id
 achievable.id
 achieved.id
@@ -4736,6 +4741,7 @@ adudu4d01.id
 adudu4d02.id
 adudu4dok.id
 adudu4dvip.id
+aduhlagi.id
 aduhoki77.id
 aduhoki77dewa.id
 aduhoki77maxwin.id
@@ -5359,6 +5365,7 @@ aftermarketplus.id
 aftermy.id
 afternite.id
 afternoon.id
+afternooncoffee.id
 afteroffice.id
 afteroil.id
 afterpay.id
@@ -5932,6 +5939,7 @@ agritechindonesia.id
 agritechnews.id
 agritechs.id
 agritrack.id
+agrits.id
 agritusi.id
 agritv.id
 agrium.id
@@ -6407,7 +6415,6 @@ aibit.id
 aibiz.id
 aiblog.id
 aiblogs.id
-aiboo.id
 aibootcamp.id
 aibot.id
 aibotinfo.id
