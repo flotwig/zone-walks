@@ -21,7 +21,7 @@
       "zone": "ee"
     },
     {
-      "domains": "77687",
+      "domains": "77783",
       "zone": "gdn"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3574396"
+  "total": "3574492"
 }
