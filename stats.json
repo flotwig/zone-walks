@@ -101,7 +101,7 @@
       "zone": "hosting"
     },
     {
-      "domains": "2279",
+      "domains": "2280",
       "zone": "pr"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3574538"
+  "total": "3574539"
 }
