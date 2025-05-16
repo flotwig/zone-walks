@@ -659,6 +659,7 @@
 20bet.id
 20detik.id
 20fit.id
+20group.id
 20med.id
 20mefree.id
 20mindhighschool.id
@@ -819,6 +820,7 @@
 287.id
 288.id
 289.id
+28bet.id
 28minerals.id
 29.id
 290.id
@@ -1138,7 +1140,6 @@
 3maxenergy.id
 3media.id
 3mkargo.id
-3monkees.id
 3mutiara.id
 3ntity.id
 3num.id
@@ -1435,6 +1436,7 @@
 553.id
 554.id
 555.id
+555slot.id
 556.id
 557.id
 558.id
@@ -1490,6 +1492,7 @@
 587.id
 588.id
 589.id
+58win.id
 59.id
 590.id
 591.id
@@ -1504,7 +1507,6 @@
 5abadjakarta.id
 5belegendbet.id
 5bintang.id
-5days.id
 5dewa.id
 5dpro.id
 5gbet.id
@@ -1806,11 +1808,13 @@
 77778.id
 7777hot.id
 777888.id
+777akunslot.id
 777casino.id
 777hokislot.id
 777kaya.id
 777las.id
 777loc.id
+777luckyslot.id
 777mgm.id
 777score.id
 777slot.id
@@ -1896,7 +1900,6 @@
 7luostore.id
 7media.id
 7merahputih.id
-7meter.id
 7mmbet.id
 7movierulz.id
 7mslot.id
@@ -2092,6 +2095,7 @@
 88sbobet.id
 88situspoker.id
 88slot.id
+88slots.id
 88space.id
 88spin.id
 88studio.id
@@ -2344,6 +2348,7 @@
 99toto.id
 99updates.id
 99virtualrace.id
+99win.id
 9anime.id
 9apps.id
 9code.id
@@ -3691,6 +3696,7 @@ actadiurna.id
 actadiurnasulawesi.id
 actaf.id
 actama.id
+actamedia.id
 actanesia.id
 actanews.id
 actasys.id
@@ -3735,6 +3741,7 @@ activelink.id
 activelives.id
 activemandarin.id
 activemovement.id
+activepadel.id
 activepay.id
 activepeople.id
 activepure.id
@@ -4214,6 +4221,7 @@ adhyaciptajasa.id
 adhyagroup.id
 adhyaksa.id
 adhyaksadault.id
+adhyaksanightrun.id
 adhyaksapedia.id
 adhyamirapasifik.id
 adhyatamateknologi.id
@@ -4499,7 +4507,6 @@ admins.id
 adminsekolah.id
 adminslot.id
 adminsosialmedia.id
-adminsparksforest.id
 adminsys.id
 admintoto.id
 admirable.id
@@ -4668,7 +4675,6 @@ ads15.id
 ads3.id
 adsagency.id
 adsblog.id
-adsboss.id
 adsbox.id
 adsbuilder.id
 adscale.id
@@ -4864,6 +4870,7 @@ advisorprogram.id
 advisors.id
 advisory.id
 advisorygroup.id
+advista.id
 advita.id
 advitest.id
 adviz.id
@@ -4880,7 +4887,6 @@ advokat.id
 advokatbali.id
 advokatbayu.id
 advokatku.id
-advokatmedan.id
 advokatolahraga.id
 advokatrahadi.id
 advomed.id
@@ -5381,6 +5387,7 @@ aftershine.id
 aftershokz.id
 aftersix.id
 afterstore.id
+aftersun.id
 afteruni.id
 afterwin.id
 afterwin88.id
@@ -5666,6 +5673,7 @@ agensipostel.id
 agenslot138.id
 agenslot168.id
 agenslot69.id
+agenslot78.id
 agenslot88.id
 agenslotgacor.id
 agenslotonline.id
@@ -6005,6 +6013,7 @@ agronesiamulti.id
 agronet.id
 agronews.id
 agroni.id
+agroniaga.id
 agronomique.id
 agronomistpaulus.id
 agronus.id
@@ -6452,6 +6461,7 @@ ns1.421akurmakmur.id
 ns1.4everstudio.id
 ns1.4fior.id
 ns1.4tune.id
+ns1.7meter.id
 ns1.8host.id
 ns1.aagroup.id
 ns1.abangpraja.id
@@ -6486,6 +6496,7 @@ ns2.3pilar.id
 ns2.421akurmakmur.id
 ns2.4everstudio.id
 ns2.4tune.id
+ns2.7meter.id
 ns2.8host.id
 ns2.aagroup.id
 ns2.abangpraja.id
