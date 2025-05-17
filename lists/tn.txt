@@ -2051,6 +2051,7 @@ alghaithdates.tn
 algo.tn
 algopy.tn
 algoris.tn
+algorithmics.tn
 algosmedical.tn
 algovita.tn
 alguesmarine.tn
@@ -3524,6 +3525,7 @@ art-bohemian.tn
 art-deco.tn
 art-des-oliviers.tn
 art-home.tn
+art-house.tn
 art-lab.tn
 art-numerique.tn
 art-she.tn
@@ -5498,6 +5500,7 @@ beldimarket.tn
 beldistore.tn
 beleaf.tn
 belellathom.tn
+belgotexsarl.tn
 belgros.tn
 belhorizon.tn
 belhsan-boxingcoach.tn
@@ -7598,6 +7601,7 @@ c2i.tn
 c2isante.tn
 c2itrading.tn
 c2k.tn
+c2sm.tn
 c2t.tn
 c3m.tn
 c4-cactus.tn
@@ -8148,6 +8152,7 @@ carthagetoday.tn
 carthagetours.tn
 carthagetunisie.tn
 carthagevalley.tn
+carthagevitalis.tn
 carthaginois.tn
 carthago-bet.tn
 carthago-nettoyage.tn
@@ -9076,6 +9081,7 @@ choof.tn
 chooflichkoon.tn
 chooftv.tn
 choose.tn
+choosy.tn
 chouaibi-developer.tn
 chouchert.tn
 chouchou.tn
@@ -9159,7 +9165,6 @@ cife.tn
 cifede.tn
 ciffip.tn
 cifop.tn
-cigafiltre.tn
 cigogne.tn
 cih.tn
 cije-bardo.tn
@@ -11372,7 +11377,6 @@ dallalnistore.tn
 dallelro7ek.tn
 dalloul.tn
 dalloula.tn
-dalool.tn
 daltonspastry.tn
 daly-distribution.tn
 daly-medical.tn
@@ -11947,7 +11951,6 @@ delcredereducroire.tn
 delecta.tn
 delegation-elksour.tn
 delegue-enfance.tn
-delfine.tn
 delice.tn
 deliceandalouse.tn
 deliceholding.tn
@@ -12771,7 +12774,6 @@ diverstore.tn
 divertitistore.tn
 divina.tn
 divinaboutique.tn
-divinestudios.tn
 divit.tn
 divitiae.tn
 divorce.tn
@@ -15620,7 +15622,6 @@ essaad.tn
 essaada.tn
 essaba.tn
 essabil.tn
-essafi-solar.tn
 essafi.tn
 essaha-all-inclusive.tn
 essaha-aziza.tn
@@ -17109,7 +17110,6 @@ fleet.tn
 fleetch.tn
 fleetify.tn
 fleetprint.tn
-fleha.tn
 flen.tn
 flesh.tn
 flesk-edition.tn
@@ -17414,6 +17414,7 @@ forgoodconnections.tn
 forgot.tn
 forja.tn
 forkanacademy.tn
+form.tn
 formac.tn
 formacycle.tn
 formaflix.tn
@@ -17811,6 +17812,7 @@ freshstore.tn
 freshtunisia.tn
 fret-aerien.tn
 fret.tn
+fretwaysolutions.tn
 freya.tn
 freyaaccessories.tn
 fricold.tn
@@ -18215,6 +18217,7 @@ garage.tn
 garageconventione.tn
 garageconventionne.tn
 garages.tn
+garagiste.tn
 garagy.tn
 garanti.tn
 garantie.tn
@@ -18883,6 +18886,7 @@ glovoapp.tn
 glow.tn
 glowacademy.tn
 glowandgo.tn
+glowme.tn
 glownbeauty.tn
 glowpharma.tn
 glowup.tn
@@ -22440,7 +22444,6 @@ intelligence-economique.tn
 intelligence.tn
 intelligenceartificielle.tn
 intelligenceeconomique.tn
-intelligencia.tn
 intelligentinventor.tn
 intelligentsia.tn
 intelligentssia.tn
@@ -23937,7 +23940,6 @@ kamdigis.tn
 kamel.tn
 kamelcherifvioloniste.tn
 kamernah.tn
-kamesandchaimawedding.tn
 kami.tn
 kamia.tn
 kamikacid.tn
@@ -24057,7 +24059,6 @@ kartagodattes.tn
 kartal.tn
 kartel.tn
 karting.tn
-kartshop.tn
 karya.tn
 kasba.tn
 kasbah.tn
@@ -27438,7 +27439,6 @@ mailleclubgroup.tn
 mailleerraiesplus.tn
 maillelaine.tn
 maillelaineplus.tn
-mailleplus.tn
 maillot.tn
 mailly.tn
 mailmygo.tn
@@ -27465,13 +27465,10 @@ maior.tn
 maison-adrar.tn
 maison-berger-paris.tn
 maison-berger.tn
-maison-communicante.tn
 maison-des-sens.tn
 maison-dhote.tn
-maison-domotique.tn
 maison-hera.tn
 maison-hote.tn
-maison-intelligente.tn
 maison-louka.tn
 maison-lulu.tn
 maison-mande.tn
@@ -27728,7 +27725,6 @@ mamie-nova.tn
 mamienova.tn
 mamiholding.tn
 mamiimmo.tn
-mamika.tn
 mamina.tn
 maminou.tn
 mamiz.tn
@@ -27946,7 +27942,6 @@ mariani.tn
 maribelle.tn
 maricos.tn
 mariecurie.tn
-mariecuriemanouba.tn
 mariem-amami.tn
 mariem-slim.tn
 mariem.tn
@@ -28522,7 +28517,6 @@ mdsoft.tn
 mdstore.tn
 mdstore93.tn
 mdw.tn
-mdwdist.tn
 mdwtozeur.tn
 me-packaging.tn
 me.tn
@@ -28548,7 +28542,6 @@ mecalux.tn
 mecam.tn
 mecamarket.tn
 mecanicien.tn
-mecanika.tn
 mecanique.tn
 mecano-posters.tn
 mecano.tn
@@ -28569,10 +28562,10 @@ mechichimeter.tn
 mechmoum.tn
 mecque.tn
 mectoob.tn
+med-batiment.tn
 med-coast.tn
 med-environnement.tn
 med-ex.tn
-med-express.tn
 med-fashion.tn
 med-pack.tn
 med-shop.tn
@@ -30258,6 +30251,7 @@ moretostore.tn
 morgan.tn
 morgandetoi.tn
 moringa.tn
+morjana.tn
 mornamento.tn
 morning.tn
 morningstar.tn
@@ -30432,7 +30426,6 @@ mpro-manager.tn
 mps-pub.tn
 mps.tn
 mpshop.tn
-mpsy.tn
 mptc.tn
 mpush.tn
 mpv.tn
@@ -30504,7 +30497,6 @@ msdistribution.tn
 mse.tn
 msecb.tn
 mseg.tn
-msei.tn
 mselectric.tn
 mserp.tn
 msevents.tn
@@ -30766,7 +30758,6 @@ my-craft-solutions.tn
 my-deal.tn
 my-deals.tn
 my-ds.tn
-my-event.tn
 my-food.tn
 my-gym.tn
 my-house.tn
@@ -34611,7 +34602,6 @@ phyto-farma.tn
 phyto-store.tn
 phyto.tn
 phytocure.tn
-phytologis.tn
 phytology.tn
 phytoplantis.tn
 phytoradiance.tn
