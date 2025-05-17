@@ -21,7 +21,7 @@ TLD | Domain Count
 [`ee`][ee] [(raw)][ee-raw] | <div align="right">91013</div>
 [`gdn`][gdn] [(raw)][gdn-raw] | <div align="right">77851</div>
 [`li`][li] [(raw)][li-raw] | <div align="right">69095</div>
-[`pics`][pics] [(raw)][pics-raw] | <div align="right">57937</div>
+[`pics`][pics] [(raw)][pics-raw] | <div align="right">57910</div>
 [`mom`][mom] [(raw)][mom-raw] | <div align="right">49100</div>
 [`tn`][tn] [(raw)][tn-raw] | <div align="right">35278</div>
 [`md`][md] [(raw)][md-raw] | <div align="right">33470</div>
@@ -69,7 +69,7 @@ TLD | Domain Count
 [`lb`][lb] [(raw)][lb-raw] | <div align="right">6</div>
 [`omega`][omega] [(raw)][omega-raw] | <div align="right">5</div>
 [`lk`][lk] [(raw)][lk-raw] | <div align="right">0</div>
-**Total** | <div align="right">3563501</div>
+**Total** | <div align="right">3563474</div>
 
 ## See Also
 
