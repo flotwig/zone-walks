@@ -590,6 +590,7 @@ bgm.audio
 bheard.audio
 biamp.audio
 bible.audio
+bigbear.audio
 bigdaw.audio
 bigfish.audio
 bignoise.audio
@@ -792,6 +793,7 @@ capsule.audio
 capture.audio
 car-sound.audio
 car.audio
+caracole.audio
 caravan.audio
 carbide.audio
 card.audio
@@ -1548,6 +1550,7 @@ finals.audio
 finaly.audio
 financial.audio
 findbooks.audio
+fineline.audio
 finesse.audio
 finetune.audio
 finiteelemente.audio
@@ -3361,6 +3364,7 @@ pot.audio
 potsandpan.audio
 pottermore.audio
 pottermoreshop.audio
+pouet.audio
 powerdynamics.audio
 powers.audio
 ppot.audio
@@ -3487,6 +3491,7 @@ radiantmind.audio
 radio-canada.audio
 radio.audio
 radiocoteau.audio
+radioimaging.audio
 radioin.audio
 radioking.audio
 radiomaria.audio
