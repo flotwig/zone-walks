@@ -53,10 +53,6 @@
       "zone": "kg"
     },
     {
-      "domains": "11380",
-      "zone": "lk"
-    },
-    {
       "domains": "9784",
       "zone": "cy"
     },
@@ -219,7 +215,11 @@
     {
       "domains": "5",
       "zone": "omega"
+    },
+    {
+      "domains": "0",
+      "zone": "lk"
     }
   ],
-  "total": "3574766"
+  "total": "3563386"
 }
