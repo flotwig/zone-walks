@@ -519,6 +519,7 @@
 1keep.id
 1kiat.id
 1klik.id
+1kontenlagi.id
 1legal.id
 1line.id
 1livefootball.id
@@ -1143,7 +1144,6 @@
 3mkargo.id
 3monkees.id
 3mutiara.id
-3ntity.id
 3num.id
 3pay.id
 3pl.id
@@ -3381,6 +3381,7 @@ ace.id
 ace333.id
 ace77.id
 ace99play.id
+aceacademy.id
 aceadvent.id
 aceapartment.id
 acebadminton.id
@@ -4765,6 +4766,7 @@ aduhoki77.id
 aduhoki77dewa.id
 aduhoki77maxwin.id
 aduhoki77super.id
+aduhoki77win.id
 aduide.id
 adujitu.id
 adult.id
