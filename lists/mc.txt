@@ -1372,6 +1372,7 @@ ggmontecarlo.mc
 ghep.mc
 giannicaimi.mc
 gifour.mc
+gifourfiduciaire.mc
 giismonaco.mc
 gildo.mc
 gioli.mc
@@ -1741,7 +1742,6 @@ justunlimited.mc
 jutheau-husson-yachting.mc
 jutheau-husson.mc
 jvpastor.mc
-kairos.mc
 kalina.mc
 kamil.mc
 kandk.mc
@@ -3205,6 +3205,7 @@ serenity.mc
 serfet.mc
 serh-consulting.mc
 serp.mc
+sertec-engineering.mc
 sertec.mc
 servaux.mc
 serviceplus.mc
@@ -3618,6 +3619,7 @@ venus-management.mc
 verdoneautomatisme.mc
 vermillion.mc
 vertex.mc
+vertical-sea.mc
 veryyousam.mc
 vesta.mc
 vex.mc
