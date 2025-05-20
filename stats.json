@@ -37,7 +37,7 @@
       "zone": "mom"
     },
     {
-      "domains": "35276",
+      "domains": "35310",
       "zone": "tn"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3574828"
+  "total": "3574862"
 }
