@@ -45,7 +45,7 @@
       "zone": "md"
     },
     {
-      "domains": "19449",
+      "domains": "19443",
       "zone": "christmas"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3575285"
+  "total": "3575279"
 }
