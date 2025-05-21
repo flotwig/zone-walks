@@ -455,6 +455,7 @@
 88b.game
 88clb.game
 88fb.game
+88i.game
 88m.game
 88poker.game
 88pp.game
@@ -1156,6 +1157,7 @@ blackjack.game
 blackmamba.game
 blackmythwukong.game
 blacksnow.game
+blackswan.game
 blacktail.game
 bladeandsoul.game
 bladeandsoulartofwar.game
@@ -1220,7 +1222,6 @@ bolt.game
 boltarena.game
 bombastic.game
 bonanza88.game
-bongkar69.game
 bonnaza.game
 bonus.game
 bookofdead.game
@@ -1566,7 +1567,6 @@ com2us.game
 combat.game
 combats.game
 come.game
-cometogether.game
 commander.game
 commonground.game
 commongroundville.game
@@ -2699,6 +2699,7 @@ hexman.game
 hexmode.game
 hey.game
 heyday.game
+heygood.game
 heyletsgo.game
 heyyahoo.game
 hgzy.game
@@ -3410,7 +3411,6 @@ lucky.game
 lucky11.game
 lucky22.game
 lucky24.game
-lucky518.game
 lucky777.game
 lucky888.game
 luckybet.game
@@ -3758,7 +3758,6 @@ monopolymatch3.game
 monsta.game
 monsterlegends.game
 monsterville.game
-monstros.game
 monte-carlo.game
 montecarlo.game
 montecarlocasino.game
@@ -3947,6 +3946,8 @@ nock.game
 nohesi.game
 nohu.game
 nok88.game
+nomad-casino.game
+nomadgames.game
 nonfungible.game
 norahlittle.game
 nordic.game
@@ -4176,6 +4177,7 @@ pageturn.game
 pain.game
 pak.game
 pak33.game
+pakvip.game
 pal.game
 paladin.game
 panda.game
@@ -4282,7 +4284,6 @@ pg999.game
 pgbet.game
 pgbr.game
 pgjogo.game
-pgok.game
 pgone.game
 pgslot.game
 pgslot168.game
@@ -4553,7 +4554,6 @@ pubgcorp.game
 pucca.game
 puck.game
 pudgyparty.game
-pullout.game
 pulsar.game
 pulse.game
 pump.game
@@ -4618,7 +4618,6 @@ rabbet.game
 rabbids.game
 rabbit.game
 raccoon.game
-racerclub.game
 racingmaster.game
 racingwin.game
 radar.game
@@ -5088,7 +5087,6 @@ snake.game
 snakes.game
 snappq.game
 sneaker.game
-snek.game
 sniperelite.game
 snooker.game
 snoop-tapper.game
@@ -5164,6 +5162,7 @@ spinmaster.game
 spino.game
 spins.game
 spinthewheel.game
+spintrix.game
 spinwinner.game
 splat.game
 splay.game
@@ -5378,6 +5377,7 @@ taj123.game
 taj7.game
 taj777.game
 taka222.game
+takago.game
 takbet.game
 take.game
 takedown.game
@@ -6086,7 +6086,6 @@ wibes.game
 wickedgames.game
 wickedsprites.game
 wicket.game
-wideopenthrottle.game
 wii.game
 wiiu.game
 wildcasino.game
@@ -6132,6 +6131,7 @@ windd.game
 wineon.game
 winevo.game
 winfair247.game
+winfix.game
 wingalaxy.game
 wingo.game
 wingo365.game
