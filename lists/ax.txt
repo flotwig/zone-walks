@@ -1570,7 +1570,6 @@ fv.ax
 fw.ax
 fx.ax
 fxcm.ax
-fxm.ax
 fxpro.ax
 fy.ax
 fynda.ax
@@ -2674,7 +2673,6 @@ mfb.ax
 mh.ax
 mhd.ax
 mi.ax
-mia.ax
 miaslivsenergi.ax
 miaw.ax
 mic.ax
@@ -2979,7 +2977,6 @@ oci.ax
 octa.ax
 octego.ax
 od.ax
-odin.ax
 odkarbyskola.ax
 odlarringen.ax
 odtno.ax
@@ -3558,7 +3555,6 @@ sefyr.ax
 segel.ax
 seglinge.ax
 sektor.ax
-semen.ax
 semesterloppet.ax
 sentinel.ax
 seo.ax
