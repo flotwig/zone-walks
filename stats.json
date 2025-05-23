@@ -141,7 +141,7 @@
       "zone": "lr"
     },
     {
-      "domains": "499",
+      "domains": "500",
       "zone": "auto"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3577181"
+  "total": "3577182"
 }
