@@ -1808,7 +1808,6 @@
 777hokislot.id
 777kaya.id
 777las.id
-777loc.id
 777luckyslot.id
 777mgm.id
 777score.id
@@ -3269,6 +3268,7 @@ accesstech.id
 accesstrade.id
 accesszone.id
 accexpress.id
+accgamer.id
 acchub.id
 accident.id
 accidental.id
@@ -4899,6 +4899,7 @@ advokatbali.id
 advokatbayu.id
 advokatku.id
 advokatolahraga.id
+advokatpro.id
 advokatrahadi.id
 advomed.id
 advosmart.id
@@ -5167,6 +5168,7 @@ afcindonesia.id
 afcindonesiaofficial.id
 afcjapan.id
 afcjepang.id
+afcjepangindonesia.id
 afclife.id
 afclifeindonesia.id
 afclifeofficial.id
@@ -5182,7 +5184,6 @@ afcsopindonesia.id
 afcsopsubarashi.id
 afcstore.id
 afcsubarashi.id
-afcsuperfood.id
 afda.id
 afdani.id
 afdi.id
