@@ -85,7 +85,7 @@
       "zone": "ci"
     },
     {
-      "domains": "4443",
+      "domains": "4441",
       "zone": "ruhr"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3577935"
+  "total": "3577933"
 }
