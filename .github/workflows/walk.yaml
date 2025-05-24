@@ -15,9 +15,7 @@ jobs:
       fail-fast: false
       matrix:
         zone:
-        - amazon
         - aquarelle
-        - arpa
         - audio
         - auto
         - ax
@@ -33,21 +31,16 @@ jobs:
         - desi
         - diet
         - dz
-        - ee
         - er
-        - flowers
         - game
         - gdn
         - gn
         - guitars
-        - hosting
         - id
         - ieee
         - kg
-        - kz
         - lb
         - li
-        - lk
         - lol
         - lr
         - mc
@@ -56,11 +49,9 @@ jobs:
         - nu
         - omega
         - pics
-        - pr
         - ruhr
         - se
         - shell
-        - swatch
         - tn
         - ve
         - wed
@@ -70,7 +61,6 @@ jobs:
         - xn--l1acc
         - xn--mgbayh7gpa
         - xn--pgbs0dh
-        - xn--xkc2al3hye2a
     steps:
     - uses: actions/checkout@v3
       with:
