@@ -1,7 +1,13 @@
 {
   "zones": [
     {
+      "zone": "amazon"
+    },
+    {
       "zone": "aquarelle"
+    },
+    {
+      "zone": "arpa"
     },
     {
       "zone": "audio"
@@ -49,7 +55,13 @@
       "zone": "dz"
     },
     {
+      "zone": "ee"
+    },
+    {
       "zone": "er"
+    },
+    {
+      "zone": "flowers"
     },
     {
       "zone": "game"
@@ -64,6 +76,9 @@
       "zone": "guitars"
     },
     {
+      "zone": "hosting"
+    },
+    {
       "zone": "id"
     },
     {
@@ -73,10 +88,16 @@
       "zone": "kg"
     },
     {
+      "zone": "kz"
+    },
+    {
       "zone": "lb"
     },
     {
       "zone": "li"
+    },
+    {
+      "zone": "lk"
     },
     {
       "zone": "lol"
@@ -103,6 +124,9 @@
       "zone": "pics"
     },
     {
+      "zone": "pr"
+    },
+    {
       "zone": "ruhr"
     },
     {
@@ -110,6 +134,9 @@
     },
     {
       "zone": "shell"
+    },
+    {
+      "zone": "swatch"
     },
     {
       "zone": "tn"
@@ -137,6 +164,9 @@
     },
     {
       "zone": "xn--pgbs0dh"
+    },
+    {
+      "zone": "xn--xkc2al3hye2a"
     }
   ]
 }
