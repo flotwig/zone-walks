@@ -547,7 +547,6 @@
 1percentautobody.id
 1percentbodyshop.id
 1percentgarage.id
-1pharma.id
 1pintu.id
 1poker.id
 1rantai88.id
@@ -2320,7 +2319,6 @@
 99bola.id
 99bolasports.id
 99chiller.id
-99designs.id
 99dragon.id
 99exch.id
 99golf.id
@@ -2454,7 +2452,6 @@ aalbio.id
 aalda.id
 aalogistics.id
 aaltosav.id
-aam73.id
 aamai.id
 aamedical.id
 aamhas.id
@@ -2743,6 +2740,7 @@ abdusysyafi.id
 abe.id
 abedfitcoach.id
 abeeq.id
+abeha.id
 abelandlula.id
 abelbirdnest.id
 abelflores.id
@@ -4516,6 +4514,7 @@ adminslot.id
 adminsosialmedia.id
 adminsys.id
 admintoto.id
+adminx.id
 admirable.id
 admiral.id
 admiralproperty.id
@@ -5468,7 +5467,6 @@ agasid.id
 agastya.id
 agasys.id
 agata.id
-agatateknikal.id
 agate.id
 agatelevelup.id
 agatex-chemicals.id
@@ -5713,6 +5711,7 @@ agenticai.id
 agentics.id
 agentiket.id
 agentive.id
+agentix.id
 agentkit.id
 agentlapak.id
 agentnco.id
@@ -6264,7 +6263,6 @@ ahliakupunturmedistiongkok.id
 ahliasuransi.id
 ahlibangunan.id
 ahlibet88.id
-ahlibet88pro.id
 ahlidata.id
 ahlifasad.id
 ahlifengshui.id
@@ -6405,6 +6403,7 @@ ai-qr.id
 ai-research.id
 ai-robo-kit.id
 ai-security.id
+ai-smart-tech.id
 ai-summit.id
 ai-tec.id
 ai-tech.id
