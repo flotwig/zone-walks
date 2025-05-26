@@ -2571,7 +2571,6 @@ mariehamn.ax
 mariehamndansarochler.ax
 mariehamnsbyggtjanst.ax
 mariehamnshamn.ax
-marievet.ax
 marimekko.ax
 marin.ax
 marinahamnsundet.ax
@@ -3788,6 +3787,7 @@ stat.ax
 status.ax
 stavamosters.ax
 stavos.ax
+staywithm.ax
 stdo.ax
 steamcommunity.ax
 steber.ax
@@ -3904,6 +3904,7 @@ swingskeppet.ax
 swiss.ax
 swissmoney.ax
 switchup.ax
+swm.ax
 sx.ax
 sy.ax
 syn.ax
