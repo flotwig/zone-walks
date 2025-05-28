@@ -65,7 +65,7 @@
       "zone": "se"
     },
     {
-      "domains": "6568",
+      "domains": "6566",
       "zone": "id"
     },
     {
@@ -221,5 +221,5 @@
       "zone": "omega"
     }
   ],
-  "total": "3577950"
+  "total": "3577948"
 }
